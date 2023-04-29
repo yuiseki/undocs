@@ -1,0 +1,45 @@
+<html>
+<head>
+</head>
+<body text="#000000">
+ <body bgColor="#8CC6FF" >
+<CENTER>
+<table border="0" cellpadding="0" width="549">
+<tr>
+ <td colspan="3" width="530">
+   <p align="center"><img border="0" src="/access.nsf\ODS.jpg?OpenImageResource" width="134" height="51"><img border="0" src="/access.nsf\BigLogo.jpg?OpenImageResource"><img border="0" src="/access.nsf\SDO.jpg?OpenImageResource" width="125" height="52"></td>
+</tr>
+<tr>
+ <td width="258">
+     <hr align="right" width="250" SIZE="2">
+ </td>
+ <td width="25"></td>
+ <td width="252">
+     <hr align="left" width="250" SIZE="2">
+ </td>
+</tr>
+<td width="258">
+   <p align="right"><big>Official Document System<br>
+   of the United Nations</big></td>
+ <td width="25"></td>
+ <td width="252"><big><big><small>Système de diffusion
+   électronique</small></big></big><br>
+     <big>des documents de l'ONU</big></td>
+</tr>
+<tr>
+ <td width="258">
+     <hr align="right" width="250" SIZE="2">
+ </td>
+ <td width="25"></td>
+ <td width="252">
+     <hr align="left" width="250" SIZE="2">
+ </td>
+</tr>
+</table>
+<BR>
+<CENTER>
+<H4><FONT COLOR="FF0000">There is no document matching your request<BR></H4></FONT>
+<H4><FONT COLOR="FF0000">Pas de reponse a votre demande<BR></H4></FONT>
+</CENTER>
+</body>
+</html>
