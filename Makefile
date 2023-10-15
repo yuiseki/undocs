@@ -1,10 +1,10 @@
 
 all: list fetch
 
-.PHONY
+.PHONY: list
 list:
 	npm run site:www.undocs.org:list
 
-.PHONY
+.PHONY: fetch
 fetch:
 	npm run site:www.undocs.org:fetch
