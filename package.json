@@ -11,7 +11,7 @@
     "@types/node": "22.8.4",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.0.3",
-    "eslint": "8.57.0",
+    "eslint": "8.57.1",
     "eslint-config-next": "15.0.2",
     "pdf-parse": "^1.1.1",
     "ts-node": "^10.9.1",
