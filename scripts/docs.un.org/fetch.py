@@ -41,6 +41,18 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
         return None
 
 
+def document_path(root, lang, symbol):
+    """{root}/{lang}/pdfs/{symbol}/resolution.pdf, matching the existing tree.
+
+    The symbol is the directory path: S/1994/1009 becomes S/1994/1009. Segments
+    are checked so that a malformed symbol cannot write outside the tree.
+    """
+    segments = [seg for seg in symbol.split("/") if seg not in ("", ".", "..")]
+    if not segments:
+        raise ValueError(f"symbol has no usable path: {symbol!r}")
+    return os.path.join(root, lang, "pdfs", *segments, "resolution.pdf")
+
+
 def headers_for(symbol, lang):
     return {
         "User-Agent": UA,
@@ -82,7 +94,10 @@ def fetch_pdf(path, symbol, lang, timeout):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--symbols", required=True, help="one document symbol per line")
-    ap.add_argument("--out", required=True)
+    ap.add_argument("--out", required=True,
+                    help="repository root; files land at {out}/{lang}/pdfs/{symbol}/resolution.pdf")
+    ap.add_argument("--manifest", default=None,
+                    help="default {out}/data/fetch-manifest.jsonl")
     ap.add_argument("--languages", default=",".join(LANGUAGES))
     ap.add_argument("--delay", type=float, default=2.5, help="seconds between requests")
     ap.add_argument("--timeout", type=float, default=120)
@@ -95,7 +110,8 @@ def main():
         sys.exit(f"not UN official languages, would silently return English: {unknown}")
 
     os.makedirs(args.out, exist_ok=True)
-    manifest_path = os.path.join(args.out, "manifest.jsonl")
+    manifest_path = args.manifest or os.path.join(args.out, "data", "fetch-manifest.jsonl")
+    os.makedirs(os.path.dirname(manifest_path), exist_ok=True)
 
     done = set()
     if os.path.exists(manifest_path):
@@ -143,8 +159,7 @@ def main():
                     time.sleep(args.delay * (2 ** attempt) + random.random())
 
             if body:
-                safe = symbol.replace("/", "_").replace(" ", "")
-                dest = os.path.join(args.out, lang, f"{safe}.pdf")
+                dest = document_path(args.out, lang, symbol)
                 os.makedirs(os.path.dirname(dest), exist_ok=True)
                 with open(dest, "wb") as f:
                     f.write(body)
