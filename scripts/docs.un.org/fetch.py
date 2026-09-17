@@ -15,7 +15,9 @@ import json
 import os
 import random
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 import urllib.error
 import urllib.request
 
@@ -111,7 +113,14 @@ def main():
     ap.add_argument("--manifest", default=None,
                     help="default {out}/data/fetch-manifest.jsonl")
     ap.add_argument("--languages", default=",".join(LANGUAGES))
-    ap.add_argument("--delay", type=float, default=2.5, help="seconds between requests")
+    ap.add_argument("--delay", type=float, default=2.5,
+                    help="seconds a worker waits after finishing a document")
+    ap.add_argument("--workers", type=int, default=4,
+                    help="documents fetched at once. Measured against this "
+                         "server: throughput is linear to 4, flat past 8, and "
+                         "nothing was refused at 12. A browser opens 6 "
+                         "connections to a host, so 4 to 6 is one reader's "
+                         "worth of load.")
     ap.add_argument("--timeout", type=float, default=120)
     ap.add_argument("--retries", type=int, default=3)
     ap.add_argument("--order", choices=("newest", "file"), default="newest",
@@ -142,65 +151,73 @@ def main():
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
         from order import newest_first
         symbols = newest_first(symbols)
-    print(f"symbols: {len(symbols)}  languages: {languages}  order: {args.order}",
-          flush=True)
+    print(f"symbols: {len(symbols)}  languages: {languages}  "
+          f"order: {args.order}  workers: {args.workers}", flush=True)
 
     manifest = open(manifest_path, "a", encoding="utf-8")
+    manifest_lock = threading.Lock()
     counts = {"saved": 0, "missing": 0, "error": 0, "skipped": 0}
+    counts_lock = threading.Lock()
 
-    for i, symbol in enumerate(symbols):
-        for lang in languages:
-            if (symbol, lang) in done:
-                counts["skipped"] += 1
-                continue
+    def record(entry):
+        with manifest_lock:
+            manifest.write(json.dumps(entry, ensure_ascii=False) + "\n")
+            manifest.flush()
 
-            body = path = None
-            for attempt in range(args.retries):
-                try:
-                    path = locate(symbol, lang, args.timeout)
-                    if path is None:
-                        break
-                    time.sleep(args.delay * 0.4)
-                    body = fetch_pdf(path, symbol, lang, args.timeout)
+    def bump(key):
+        with counts_lock:
+            counts[key] += 1
+
+    def work(job):
+        symbol, lang = job
+        if (symbol, lang) in done:
+            bump("skipped")
+            return
+
+        body = path = None
+        for attempt in range(args.retries):
+            try:
+                path = locate(symbol, lang, args.timeout)
+                if path is None:
                     break
-                except (urllib.error.HTTPError, urllib.error.URLError,
-                        TimeoutError, OSError, NotAPdf) as exc:
-                    # 502 is intermittent here; back off and try again rather
-                    # than recording a miss that is really a server hiccup.
-                    if attempt == args.retries - 1:
-                        counts["error"] += 1
-                        manifest.write(json.dumps({
-                            "symbol": symbol, "lang": lang, "status": "error",
-                            "detail": f"{type(exc).__name__}: {exc}"[:200],
-                        }, ensure_ascii=False) + "\n")
-                        manifest.flush()
-                        body = None
-                        break
-                    time.sleep(args.delay * (2 ** attempt) + random.random())
+                time.sleep(args.delay * 0.4)
+                body = fetch_pdf(path, symbol, lang, args.timeout)
+                break
+            except (urllib.error.HTTPError, urllib.error.URLError,
+                    TimeoutError, OSError, NotAPdf) as exc:
+                # 502s and app pages are both intermittent here. Back off and
+                # try again rather than recording a miss that is really a
+                # server hiccup.
+                if attempt == args.retries - 1:
+                    bump("error")
+                    record({"symbol": symbol, "lang": lang, "status": "error",
+                            "detail": f"{type(exc).__name__}: {exc}"[:200]})
+                    body = None
+                    break
+                time.sleep(args.delay * (2 ** attempt) + random.random())
 
-            if body:
-                dest = document_path(args.out, lang, symbol)
-                os.makedirs(os.path.dirname(dest), exist_ok=True)
-                with open(dest, "wb") as f:
-                    f.write(body)
-                counts["saved"] += 1
-                manifest.write(json.dumps({
-                    "symbol": symbol, "lang": lang, "status": "saved",
-                    "path": path, "bytes": len(body),
-                }, ensure_ascii=False) + "\n")
-                manifest.flush()
-            elif path is None:
-                counts["missing"] += 1
-                manifest.write(json.dumps({
-                    "symbol": symbol, "lang": lang, "status": "missing",
-                }, ensure_ascii=False) + "\n")
-                manifest.flush()
+        if body:
+            dest = document_path(args.out, lang, symbol)
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
+            with open(dest, "wb") as f:
+                f.write(body)
+            bump("saved")
+            record({"symbol": symbol, "lang": lang, "status": "saved",
+                    "path": path, "bytes": len(body)})
+        elif path is None:
+            bump("missing")
+            record({"symbol": symbol, "lang": lang, "status": "missing"})
 
-            time.sleep(args.delay + random.random())
+        time.sleep(args.delay + random.random())
 
-        if (i + 1) % 25 == 0:
-            print(f"{i+1}/{len(symbols)} symbols  {counts}", flush=True)
+    jobs = [(symbol, lang) for symbol in symbols for lang in languages]
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        for i, _ in enumerate(pool.map(work, jobs), 1):
+            if i % 200 == 0:
+                with counts_lock:
+                    print(f"{i}/{len(jobs)} jobs  {dict(counts)}", flush=True)
 
+    manifest.close()
     print(f"FETCH DONE {counts}", flush=True)
 
 
