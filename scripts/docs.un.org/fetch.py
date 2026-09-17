@@ -64,7 +64,12 @@ def headers_for(symbol, lang):
 
 
 def locate(symbol, lang, timeout):
-    """Ask the API for the internal path. Returns the lowercased path or None."""
+    """Ask the API for the internal path.
+
+    Returns the lowercased path, or None when the API says there is no such
+    document. A None here is the only thing this script treats as missing;
+    everything else that goes wrong is a failure to be retried.
+    """
     url = f"{API}?s={urllib.parse.quote(symbol, safe='/()')}&l={lang}&t=pdf"
     opener = urllib.request.build_opener(NoRedirect)
     req = urllib.request.Request(url, headers=headers_for(symbol, lang))
@@ -80,14 +85,21 @@ def locate(symbol, lang, timeout):
         return location.lower()
 
 
+class NotAPdf(Exception):
+    """The server answered 200 with something that is not a document.
+
+    Usually the Official Document System app page, about 1,303 bytes of HTML.
+    It is a transient failure, not a statement that the document is absent, so
+    it has to be retried rather than recorded as missing.
+    """
+
+
 def fetch_pdf(path, symbol, lang, timeout):
     req = urllib.request.Request(BASE + path, headers=headers_for(symbol, lang))
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         body = resp.read()
-    if not body.startswith(b"%PDF"):
-        return None
-    if len(body) <= APP_PAGE_MAX:
-        return None
+    if not body.startswith(b"%PDF") or len(body) <= APP_PAGE_MAX:
+        raise NotAPdf(f"{len(body)} bytes, not a PDF")
     return body
 
 
@@ -151,7 +163,8 @@ def main():
                     time.sleep(args.delay * 0.4)
                     body = fetch_pdf(path, symbol, lang, args.timeout)
                     break
-                except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError) as exc:
+                except (urllib.error.HTTPError, urllib.error.URLError,
+                        TimeoutError, OSError, NotAPdf) as exc:
                     # 502 is intermittent here; back off and try again rather
                     # than recording a miss that is really a server hiccup.
                     if attempt == args.retries - 1:
