@@ -102,6 +102,8 @@ def main():
     ap.add_argument("--delay", type=float, default=2.5, help="seconds between requests")
     ap.add_argument("--timeout", type=float, default=120)
     ap.add_argument("--retries", type=int, default=3)
+    ap.add_argument("--order", choices=("newest", "file"), default="newest",
+                    help="newest first, or the order the symbols file is in")
     args = ap.parse_args()
 
     languages = [l.strip() for l in args.languages.split(",") if l.strip()]
@@ -124,7 +126,12 @@ def main():
     print(f"already done: {len(done)}", flush=True)
 
     symbols = [s.strip() for s in open(args.symbols, encoding="utf-8") if s.strip()]
-    print(f"symbols: {len(symbols)}  languages: {languages}", flush=True)
+    if args.order == "newest":
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from order import newest_first
+        symbols = newest_first(symbols)
+    print(f"symbols: {len(symbols)}  languages: {languages}  order: {args.order}",
+          flush=True)
 
     manifest = open(manifest_path, "a", encoding="utf-8")
     counts = {"saved": 0, "missing": 0, "error": 0, "skipped": 0}
