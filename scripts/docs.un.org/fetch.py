@@ -38,6 +38,16 @@ BASE = "https://documents.un.org"
 APP_PAGE_MAX = 4096
 
 
+class Refused(Exception):
+    """The API answered, but not with a document path.
+
+    A 429, a 403, a 5xx, or a 302 to /error. None of these says the document
+    is absent; they say the request did not succeed. Conflating them with
+    absence writes a permanent miss into the manifest for a document that
+    exists, and the manifest is what a rerun trusts.
+    """
+
+
 class NoRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, *args, **kwargs):
         return None
@@ -77,13 +87,15 @@ def locate(symbol, lang, timeout):
     req = urllib.request.Request(url, headers=headers_for(symbol, lang))
     try:
         opener.open(req, timeout=timeout)
-        return None  # a 200 here means no redirect, so no document
+        # A 200 with no redirect is the API saying it has nothing for this
+        # symbol. This is the only response that means the document is absent.
+        return None
     except urllib.error.HTTPError as exc:
         if exc.code not in (301, 302, 303, 307, 308):
-            return None
+            raise Refused(f"HTTP {exc.code}") from exc
         location = exc.headers.get("Location") or ""
         if not location.startswith("/doc/"):
-            return None  # /error, or something else entirely
+            raise Refused(f"redirected to {location[:60]}")
         return location.lower()
 
 
