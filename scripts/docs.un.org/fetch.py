@@ -108,6 +108,13 @@ class NotAPdf(Exception):
     """
 
 
+# Everything here means "the request did not succeed", never "the document is
+# absent". Refused belongs in this tuple as much as NotAPdf does: it was left
+# out once, and the first 429 then escaped the worker and ended the whole run.
+TRANSIENT = (urllib.error.HTTPError, urllib.error.URLError, TimeoutError,
+             OSError, NotAPdf, Refused)
+
+
 def fetch_pdf(path, symbol, lang, timeout):
     req = urllib.request.Request(BASE + path, headers=headers_for(symbol, lang))
     with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -195,8 +202,7 @@ def main():
                 time.sleep(args.delay * 0.4)
                 body = fetch_pdf(path, symbol, lang, args.timeout)
                 break
-            except (urllib.error.HTTPError, urllib.error.URLError,
-                    TimeoutError, OSError, NotAPdf) as exc:
+            except TRANSIENT as exc:
                 # 502s and app pages are both intermittent here. Back off and
                 # try again rather than recording a miss that is really a
                 # server hiccup.
@@ -222,9 +228,22 @@ def main():
 
         time.sleep(args.delay + random.random())
 
+    def guarded(job):
+        """Record an unexpected failure instead of letting it end the run.
+
+        pool.map re-raises in the consuming loop, so without this one bad job
+        stops every other job and the manifest keeps no trace of why.
+        """
+        try:
+            return work(job)
+        except Exception as exc:  # noqa: BLE001 - the point is to catch everything
+            bump("error")
+            record({"symbol": job[0], "lang": job[1], "status": "error",
+                    "detail": f"unhandled {type(exc).__name__}: {exc}"[:200]})
+
     jobs = [(symbol, lang) for symbol in symbols for lang in languages]
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        for i, _ in enumerate(pool.map(work, jobs), 1):
+        for i, _ in enumerate(pool.map(guarded, jobs), 1):
             if i % 200 == 0:
                 with counts_lock:
                     print(f"{i}/{len(jobs)} jobs  {dict(counts)}", flush=True)
