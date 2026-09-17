@@ -1,0 +1,6 @@
+undocs
+Copyright 2023 yuiseki
+
+This project fetches and extracts United Nations documents. Those documents are
+United Nations parliamentary documentation and are in the public domain; they
+are not covered by this licence. See data/LICENSE.
