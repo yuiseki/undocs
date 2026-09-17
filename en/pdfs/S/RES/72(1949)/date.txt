@@ -1,0 +1,3 @@
+1949-12-17
+rule: any
+raw: 17 December 1949

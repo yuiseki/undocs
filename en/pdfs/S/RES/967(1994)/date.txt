@@ -1,0 +1,3 @@
+1994-12-14
+rule: distr
+raw: 14 December 1994

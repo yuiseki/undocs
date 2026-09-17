@@ -1,0 +1,3 @@
+1962-01-16
+rule: any
+raw: 16 January 1962

@@ -1,0 +1,3 @@
+2000-07-17
+rule: distr
+raw: 17 July 2000

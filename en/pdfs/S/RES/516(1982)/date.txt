@@ -1,0 +1,3 @@
+1982-08-03
+rule: any
+raw: 3 August 1982
