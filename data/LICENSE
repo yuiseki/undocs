@@ -1,0 +1,26 @@
+The documents in this directory are United Nations parliamentary documentation
+and are in the public domain.
+
+The United Nations places two categories of its own work outside copyright:
+parliamentary documentation, which is official records including resolutions,
+and public information material published under a UN document symbol and not
+offered for sale. Every document here carries a UN document symbol, such as
+S/RES/2728(2024) or A/RES/66/165, and none is a sale item. Other United Nations
+works, including its priced publications, are copyrighted and are not in this
+dataset.
+
+  https://shop.un.org/rights-permissions
+  https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_Nations
+
+The extracted text is a mechanical transcription of those documents and adds no
+authorship. To the extent that assembling this dataset creates any right at
+all, that right is waived. Use it for any purpose without permission or
+attribution.
+
+Attribution is nevertheless the courteous thing, and citing the United Nations
+as the source is what makes the material traceable to the reader. The document
+symbol in each record is enough to find the original at
+https://docs.un.org/{language}/{symbol}.
+
+The scripts that produced this directory are covered by the LICENSE at the root
+of this repository, which is a separate matter from the documents themselves.

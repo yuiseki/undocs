@@ -1,0 +1,98 @@
+# Where every part of this dataset came from, and what was done to it.
+# Written to be read by a person deciding whether to trust it, and by a machine
+# checking it is still current.
+
+dataset:
+  name: undocs
+  path: data/resolutions.jsonl
+  built: 2026-09-17
+  records: 4024
+  characters: 69281547
+  languages: [en]
+  languages_planned: [ar, en, es, fr, ru, zh]
+
+licence:
+  documents: public domain
+  basis: >
+    UN parliamentary documentation and material published under a UN document
+    symbol and not offered for sale are excluded from United Nations copyright.
+  references:
+    - https://shop.un.org/rights-permissions
+    - https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_Nations
+  extracted_text: >
+    A mechanical transcription adding no authorship. Any right arising from
+    assembly is waived. See data/LICENSE.
+
+sources:
+  - name: UN document symbols
+    path: data/www.undocs.org/all_docs_urls_uniq.txt
+    urls: 41942
+    symbols_after_normalisation: 39073
+    note: >
+      Collected from un.org pages by scripts/www.undocs.org/list.ts. Only 4,073
+      of these were fetched, because scripts/www.undocs.org/fetch.ts carries a
+      hardcoded filter for symbols containing 2020 to 2023.
+
+  - name: UN document PDFs
+    path: en/pdfs
+    files: 4073
+    bytes: 1300000000
+    retrieved_via: https://docs.un.org/{lang}/{symbol}
+    note: >
+      Fetched before 2026-09-15 by the older scraper. docs.un.org now serves
+      what undocs.org used to; see docs/findings/2026-09-17-fetching.md.
+
+processing:
+  - step: text extraction
+    script: scripts/extract/pdf_to_text.py
+    tool: pdftotext 24.08.0
+    options: default reading order, not -layout
+    output: resolution.txt beside each PDF
+    results:
+      written: 4024
+      no_text_likely_scan: 47
+      failed: 2
+    note: >
+      -layout pads every line to the original column positions and these
+      documents are single column, so the default order is correct.
+
+  - step: date extraction
+    script: scripts/extract/extract_date.py
+    output: date-distributed.txt, date-adopted.txt, date-other.txt
+    results:
+      distributed: 3014
+      adopted: 2595
+      other: 641
+      none: 23
+    validation: >
+      Every date is checked against the year in the document symbol and against
+      a 1945 to 2030 range. Disagreements: 0.
+    note: >
+      Kinds are kept apart because they differ. 2,249 documents have both a
+      distribution and an adoption date; 315 of them disagree.
+
+  - step: collection
+    script: scripts/extract/build_jsonl.py
+    output: data/resolutions.jsonl
+    cleaning:
+      - >
+        Form feeds, emitted by pdftotext at page breaks and present in 75% of
+        documents, replaced with blank lines.
+      - >
+        Lines reading NO COVER (n), the scanner noting a missing cover page,
+        removed.
+
+known_limitations:
+  - English only so far; the other five official languages are being collected.
+  - >
+    Skewed towards 2020 to 2023 by the older scraper's year filter. Every decade
+    from the 1940s is present but the 2020s are over-represented.
+  - >
+    The largest records are annual compilations rather than single documents:
+    A/74/49(VOL.I) at 5.2 M characters, S/INF/71 at 3.0 M. Left whole.
+  - >
+    One document, A/RES/981(X), has poor OCR. The other 4,023 are clean by a
+    character-class measure.
+  - >
+    l=ja on the source API returns the English PDF rather than failing, so any
+    future collection must restrict itself to the six official languages.
