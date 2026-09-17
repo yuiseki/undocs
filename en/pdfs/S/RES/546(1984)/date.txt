@@ -1,3 +1,0 @@
-1984-01-04
-rule: any
-raw: 4 January 1984

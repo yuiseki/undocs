@@ -1,3 +1,0 @@
-1990-04-17
-rule: any
-raw: 17 April 1990

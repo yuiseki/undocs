@@ -1,0 +1,3 @@
+1992-10-02
+rule: meeting
+raw: 2 October 1992

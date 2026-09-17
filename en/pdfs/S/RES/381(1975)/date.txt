@@ -1,3 +1,0 @@
-1975-12-04
-rule: any
-raw: 4 December 1975

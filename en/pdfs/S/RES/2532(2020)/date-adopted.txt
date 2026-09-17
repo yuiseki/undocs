@@ -1,0 +1,3 @@
+2020-07-01
+rule: adopted_by
+raw: 1 July 2020

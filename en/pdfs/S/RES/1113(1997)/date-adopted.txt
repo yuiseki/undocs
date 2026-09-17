@@ -1,0 +1,3 @@
+1997-06-12
+rule: meeting
+raw: 12 June 1997

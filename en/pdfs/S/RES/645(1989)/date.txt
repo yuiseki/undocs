@@ -1,3 +1,0 @@
-1989-11-29
-rule: any
-raw: 29 November 1989

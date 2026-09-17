@@ -1,0 +1,3 @@
+2000-09-05
+rule: meeting
+raw: 5 September 2000

@@ -1,0 +1,3 @@
+1994-05-04
+rule: meeting
+raw: 4 May 1994

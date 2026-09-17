@@ -1,0 +1,3 @@
+1998-12-22
+rule: meeting
+raw: 22 December 1998

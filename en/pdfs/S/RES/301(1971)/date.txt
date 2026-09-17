@@ -1,3 +1,0 @@
-1971-09-27
-rule: any
-raw: 27 September 1971

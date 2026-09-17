@@ -1,3 +1,0 @@
-1971-10-08
-rule: any
-raw: 8 October 1971

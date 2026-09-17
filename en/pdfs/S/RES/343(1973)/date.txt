@@ -1,3 +1,0 @@
-1973-12-15
-rule: any
-raw: 15 December 1973

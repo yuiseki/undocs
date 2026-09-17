@@ -1,3 +1,0 @@
-1976-08-16
-rule: any
-raw: 16 August 1976

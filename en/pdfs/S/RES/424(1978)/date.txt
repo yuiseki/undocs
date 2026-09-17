@@ -1,3 +1,0 @@
-1978-10-10
-rule: any
-raw: 10 October 1978

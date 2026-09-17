@@ -1,0 +1,3 @@
+1982-01-20
+rule: meeting
+raw: 20 January 1982

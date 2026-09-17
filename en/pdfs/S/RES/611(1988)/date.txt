@@ -1,3 +1,0 @@
-1988-04-16
-rule: any
-raw: 16 April 1988

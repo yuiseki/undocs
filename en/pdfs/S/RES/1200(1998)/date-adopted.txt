@@ -1,0 +1,3 @@
+1998-09-30
+rule: meeting
+raw: 30 September 1998

@@ -1,0 +1,3 @@
+1992-08-07
+rule: meeting
+raw: 7 August 1992

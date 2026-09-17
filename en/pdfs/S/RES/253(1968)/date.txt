@@ -1,3 +1,0 @@
-1967-11-24
-rule: any
-raw: 24 November 1967

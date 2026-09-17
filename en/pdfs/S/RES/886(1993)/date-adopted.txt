@@ -1,0 +1,3 @@
+1993-11-18
+rule: meeting
+raw: 18 November 1993

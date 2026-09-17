@@ -1,0 +1,3 @@
+1999-08-06
+rule: meeting
+raw: 6 August 1999

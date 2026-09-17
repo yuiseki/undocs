@@ -1,0 +1,3 @@
+2003-08-01
+rule: meeting
+raw: 1 August 2003

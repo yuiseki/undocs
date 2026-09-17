@@ -1,3 +1,0 @@
-1968-03-26
-rule: any
-raw: 26 March 1968

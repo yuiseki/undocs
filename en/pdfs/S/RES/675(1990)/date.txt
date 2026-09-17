@@ -1,3 +1,0 @@
-1990-08-29
-rule: any
-raw: 29 August 1990

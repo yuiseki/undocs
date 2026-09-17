@@ -1,3 +1,0 @@
-1986-10-07
-rule: any
-raw: 7 October 1986

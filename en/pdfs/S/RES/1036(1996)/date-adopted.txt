@@ -1,0 +1,3 @@
+1996-01-12
+rule: meeting
+raw: 12 January 1996
