@@ -124,6 +124,28 @@ def fetch_pdf(path, symbol, lang, timeout):
     return body
 
 
+# A document is done when it was fetched, or when the API said it does not
+# exist. A recorded failure is neither: it says the request did not succeed,
+# and the manifest is what a rerun trusts, so treating it as done would write
+# a permanent miss for a document that is really there.
+DONE = ("saved", "missing")
+
+
+def already_done(manifest_path):
+    done = set()
+    if not os.path.exists(manifest_path):
+        return done
+    with open(manifest_path, encoding="utf-8") as f:
+        for line in f:
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if rec.get("status") in DONE:
+                done.add((rec["symbol"], rec["lang"]))
+    return done
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--symbols", required=True, help="one document symbol per line")
@@ -155,14 +177,7 @@ def main():
     manifest_path = args.manifest or os.path.join(args.out, "data", "fetch-manifest.jsonl")
     os.makedirs(os.path.dirname(manifest_path), exist_ok=True)
 
-    done = set()
-    if os.path.exists(manifest_path):
-        for line in open(manifest_path, encoding="utf-8"):
-            try:
-                rec = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            done.add((rec["symbol"], rec["lang"]))
+    done = already_done(manifest_path)
     print(f"already done: {len(done)}", flush=True)
 
     symbols = [s.strip() for s in open(args.symbols, encoding="utf-8") if s.strip()]

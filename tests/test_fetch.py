@@ -87,3 +87,28 @@ def test_document_path_places_the_pdf_under_the_symbol():
 def test_document_path_refuses_to_escape_the_tree():
     got = fetch.document_path("/out", "en", "../../etc/passwd")
     assert got == "/out/en/pdfs/etc/passwd/resolution.pdf"
+
+
+def test_resume_retries_failures_but_not_absences(tmp_path):
+    """A recorded failure must not become a permanent miss.
+
+    Raising the worker count produced 2,362 HTTP 503s in half an hour. Every
+    one of them was written to the manifest, and the manifest is what a rerun
+    trusts, so treating an error as done would have silently dropped 2,362
+    documents that exist.
+    """
+    m = tmp_path / "manifest.jsonl"
+    m.write_text("\n".join([
+        '{"symbol": "S/RES/1", "lang": "en", "status": "saved"}',
+        '{"symbol": "S/RES/2", "lang": "en", "status": "missing"}',
+        '{"symbol": "S/RES/3", "lang": "en", "status": "error", "detail": "Refused: HTTP 503"}',
+        'not json at all',
+    ]) + "\n", encoding="utf-8")
+    done = fetch.already_done(str(m))
+    assert ("S/RES/1", "en") in done      # fetched, do not fetch again
+    assert ("S/RES/2", "en") in done      # the API says it does not exist
+    assert ("S/RES/3", "en") not in done  # refused, must be tried again
+
+
+def test_resume_of_a_missing_manifest_is_empty(tmp_path):
+    assert fetch.already_done(str(tmp_path / "nothing.jsonl")) == set()
