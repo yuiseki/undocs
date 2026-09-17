@@ -82,6 +82,17 @@ processing:
         Lines reading NO COVER (n), the scanner noting a missing cover page,
         removed.
 
+repository:
+  pdfs_in_git: >
+    4,073, all from roughly 2020 to 2023, committed by the earlier scraper and
+    left in place. Nothing fetched since 2026-09-17 is tracked. The English
+    collection projects to 11.6 GB at 287 KB per document and six languages to
+    about 70 GB, which git is the wrong place for. They are reproducible from
+    scripts/docs.un.org/fetch.py, the symbol list, and data/fetch-manifest.jsonl.
+  text_in_git: >
+    All of it, at 16.9 KB per document, 5.9% of the PDF. Kept because it is
+    what survives if the site moves again, which it has done once.
+
 known_limitations:
   - English only so far; the other five official languages are being collected.
   - >
