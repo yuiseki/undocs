@@ -1,0 +1,769 @@
+S/RES/1382 (2001)
+
+United Nations
+
+Security Council
+
+Distr.: General
+29 November 2001
+
+Resolution 1382 (2001)
+Adopted by the Security Council at its 4431st meeting, on
+29 November 2001
+The Security Council,
+Recalling its previous relevant resolutions, including its resolutions 986 (1995)
+of 14 April 1995, 1284 (1999) of 17 December 1999, 1352 (2001) of 1 June 2001
+and 1360 (2001) of 3 July 2001, as they relate to the improvement of the
+humanitarian programme for Iraq,
+Convinced of the need as a temporary measure to continue to provide for the
+civilian needs of the Iraqi people until the fulfilment by the Government of Iraq of
+the relevant resolutions, including notably resolutions 687 (1991) on 3 April 1991
+and 1284 (1999), allows the Council to take further action with regard to the
+prohibitions referred to in resolution 661 (1990) of 6 August 1990 in accordance
+with the provisions of these resolutions,
+Determined to improve the humanitarian situation in Iraq,
+Reaffirming the commitment of all Member States to the sovereignty and
+territorial integrity of Iraq,
+Acting under Chapter VII of the Charter of the United Nations,
+1.
+Decides that the provisions of resolution 986 (1995), except those
+contained in paragraphs 4, 11 and 12 and subject to paragraph 15 of resolution 1284
+(1999), and the provisions of paragraphs 2, 3 and 5 to 13 of 1360 (2001) shall
+remain in force for a new period of 180 days beginning at 0001 hours, Eastern
+Standard Time, on 1 December 2001;
+2.
+Notes the proposed Goods Review List (as contained in Annex 1 to this
+resolution) and the procedures for its application (as contained in Annex 2 to this
+resolution) and decides that it will adopt the List and the procedures, subject to any
+refinements to them agreed by the Council in light of further consultations, for
+implementation beginning on 30 May 2002;
+3.
+Reaffirms the obligation of all States, pursuant to resolution 661 (1990)
+and subsequent relevant resolutions, to prevent the sale or supply to Iraq of any
+commodities or products, including weapons or any other military equipment, and to
+prevent the making available to Iraq of any funds or any other financial or economic
+resources, except as authorized by existing resolutions;
+01-66853(E)
+
+*0166583*
+
+S/RES/1382 (2001)
+
+4.
+Stresses the obligation of Iraq to cooperate with the implementation of
+this resolution and other applicable resolutions, including by respecting the security
+and safety of all persons directly involved in their implementation;
+5.
+Appeals to all States to continue to cooperate in the timely submission of
+technically complete applications and the expeditious issuing of export licences, and
+to take all other appropriate measures within their competence in order to ensure
+that urgently needed humanitarian supplies reach the Iraqi population as rapidly as
+possible;
+6.
+Reaffirms its commitment to a comprehensive settlement on the basis of
+the relevant resolutions of the Security Council, including any clarification
+necessary for the implementation of resolution 1284 (1999);
+7.
+Decides that, for the purposes of this resolution, references in resolution
+1360 (2001) to the 150-day period established by that resolution shall be interpreted
+to refer to the 180-day period established pursuant to paragraph 1 above;
+8.
+
+2
+
+Decides to remain seized of the matter.
+
+S/RES/1382 (2001)
+
+Annex 1
+06/29/01
+
+Proposed Goods Review List (GRL)
+(Note: Arms and munitions are prohibited under UNSCR 687, para. 24 and thus are
+not included on the review list.)
+A.
+
+Items subject to the provisions of UNSCR 1051 (1996).
+
+B. The List contained in document S/2001/1120, annex (to the extent, if any, the
+items on these lists are not covered by UNSCR 687, para. 24). The list includes the
+following general categories and includes clarifying notes and statements of
+understanding: (1) advanced materials; (2) materials processing; (3) electronics; (4)
+computers; (5) telecommunications and information security; (6) sensors and lasers;
+(7) navigation and avionics; (8) marine; and (9) propulsion.
+C.
+
+The following individual items, as further described in the annex:
+
+Command, Control, Communication and Simulation
+1.
+
+Specific advanced telecommunications equipment.
+
+2.
+
+Information security equipment.
+
+Sensors, Electronic Warfare, and Night Vision
+3.
+
+Specialized electronic instrumentation and test equipment.
+
+4.
+
+Image intensifier night vision systems, tubes, and components.
+
+Aircraft and Related Items
+5.
+
+Specialized radar equipment.
+
+6.
+Non-civil certified aircraft; all aero gas turbine engines; unmanned aerial
+vehicles; and parts and components.
+7.
+
+Non-xray explosive detection equipment.
+
+Naval-related Items
+8.
+Air independent propulsion (AIP) engines and fuel cells specially designed for
+underwater vehicles, and specially designed components therefor.
+9.
+
+Marine acoustic equipment.
+
+Explosives
+10. Charges and devices specially designed for civil projects, and containing small
+quantities of energetic materials.
+Missile-Related Items
+11.
+
+Specialized vibration test equipment.
+
+3
+
+S/RES/1382 (2001)
+
+Conventional Weapons Manufacturing
+12.
+
+Specialized semiconductor manufacturing equipment.
+
+Heavy Military Transport
+13. Low-bed trailers/loaders with a carrying capacity greater than 30 metric tonnes
+and width equal to or greater than 3 meters.
+Biological Weapons Equipment
+14.
+
+4
+
+Certain Biological Equipment.
+
+S/RES/1382 (2001)
+
+06/29/01
+
+Annex to Proposed Goods Review List (GRL)
+Technical Parameters for Individual Items
+#1.
+
+Specific advanced telecommunication equipment
+a.
+Any type of telecommunications equipment, specially designed to operate
+outside the temperature range from 218 K (-55° C) to 397 K (124° C);
+b.
+Phased array antennae, containing active elements and distributed components,
+and designed to permit electronic control of beam shaping and pointing, except for
+landing systems with instruments meeting International Civil Aviation Organization
+(ICAO) standards (microwave landing systems (MLS));
+c.
+Radio relay communications equipment designed for use at frequencies of 7.9
+through 10.55 GHz or exceeding 40 GHz and assemblies and components therefor;
+d.
+Optical fiber cables of more than 5 meters in length, and preforms or drawn
+fibers of glass or other materials optimized for manufacture and use as optical
+telecommunications transmission medium. Optical terminals and optical amplifiers;
+e.
+Software specially designed for the development or production of the
+components or equipment in a-d above;
+f.
+Technology for the development, design or production of the components,
+software, or equipment in a-d above.
+
+#2.
+
+Information security equipment
+Information security equipment having any of the following characteristics:
+a.
+
+a symmetric encryption algorithm;
+
+b.
+
+an asymmetric encryption algorithm;
+
+c.
+
+a discrete-log encryption algorithm;
+
+d.
+
+analog encryption or scrambling;
+
+e.
+TCSEC Bl, B2, B3, or Al or equivalent Multilevel Secure (MLS) computer
+systems;
+f.
+
+Software specially designed for the development or production of a-a above;
+
+g.
+
+Technology for the development, design or production of a-a above.
+
+Note 1: This entry does not require review of items that meet all of the following:
+a.
+Generally available to the public, by being sold, without restriction, from stock
+at retail selling points by means of any of the following:
+a.l.
+
+Over the counter transactions;
+
+a.2. Mail order transactions;
+a.3. Electronic transactions;
+a.4. Telephone call transactions;
+
+5
+
+S/RES/1382 (2001)
+
+b.
+
+The cryptographic functionality cannot easily be changed by the user;
+
+c.
+Designed for installation by the user without further substantial support by the
+supplier; and
+d.
+When necessary, details of the items are accessible and will be provided, upon
+request, to the appropriate authority in the exporter’s country in order to ascertain
+compliance with conditions described in paragraphs a-c above.
+Note 2: This item does not require review of:
+a.
+Personalized smart cards where the cryptographic capability is restricted for
+use in equipment or systems excluded from control under entries b-f of this note. If
+a personalized smart card has multiple functions, the control status of each function
+is addressed individually;
+b.
+Receiving equipment for radio broadcast, pay television, or similar restricted
+audience broadcast of the consumer type, without digital encryption except that
+exclusively used for sending the billing or program-related information back to the
+broadcast providers;
+c.
+Equipment where the cryptographic capability is not user-accessible and which
+is specially designed and limited to allow any of the following:
+c.l.
+
+Execution of copy-protected software;
+
+c.2. Access to any of the following:
+c.2.a. Copy-protected contents stored on read-only media; or
+c.2.b.Information stored in encrypted form on media (e.g. in
+connection with intellectual property rights) where the media is
+offered for sale in identical sets to the public; or
+c.2.c. One-time copying of copyright-protected audio/video data.
+d.
+Cryptographic equipment specially designed and limited for banking use or
+money transactions;
+Technical Note: “Money transactions” includes the collection and settlement of fares
+or credit functions.
+e.
+Portable or mobile radiotelephones for civil use (e.g. for commercial civil
+cellular radiocommunications systems) that are not capable of end-to-end
+encryption;
+f.
+Cordless telephone equipment not capable of end-to-end encryption where the
+maximum effective range of unboosted cordless operation (i.e., a single, unrelayed
+hop between terminal and home basestation) is less than 400 meters according to the
+manufacturer’s specifications.
+#3.
+
+6
+
+Specialized electronic instrumentation and test equipment
+a.
+
+Signal analysers from 4 through 31 GHz;
+
+b.
+
+Microwave test receivers from 4 through 40 GHz;
+
+c.
+
+Network analysers from 4 through 40 GHz;
+
+d.
+
+Signal generators from 4 through 31 GHz;
+
+S/RES/1382 (2001)
+
+e.
+
+Travelling wave tubes, pulsed or continuous wave, as follows:
+e.1. Coupled cavity tubes, or derivatives thereof;
+e.2. Helix tubes, or derivatives thereof, with any of the following:
+e.2.a.l. An instantaneous bandwidth of half an octave or more; and
+e.2.a.2. The product of the rated average output power (expressed in kW)
+and the maximum operating frequency (expressed in GHz) of more than
+0.2;
+e.2.b.1. An instantaneous bandwidth of less than half an octave; and
+e.2.b.2. The product of the rated average output power (expressed in kW)
+and the maximum operating frequency (expressed in GHz) of more than
+0.4;
+
+f.
+Equipment specially designed for the manufacture of electron tubes, optical
+elements and specially designed components therefor;
+g.
+Hydrogen/hydrogen-isotope thyratrons of ceramic-metal construction and rate
+for a peak current of 500 A or more;
+h.
+Digital instrumentation
+characteristics:
+h.l.
+
+data
+
+recorders
+
+having
+
+any
+
+of
+
+the
+
+following
+
+A maximum digital interface transfer rate exceeding 175 Mbit/s; or
+
+h.2. Space qualified.
+i.
+Radiation and radioisotope detection and simulation equipment, analysers,
+software, and Nuclear Instrumentation Module (NIM) componentry and mainframes;
+j.
+Software specially designed for the development or production of the
+components or equipment in a-i above;
+k.
+Technology for the development, design or production of the components or
+equipment in a-i above.
+Note: Items a-e do not require review when contained in contracts for civil
+telecommunications projects, including ongoing maintenance, operation, and repair
+of the system, certified for civil use by the supplier government.
+#4.
+
+Image intensifier night vision systems, tubes, and components
+a.
+Night vision systems (i.e., cameras or direct view imaging equipment) using an
+image intensifier tube that utilizes a microchannel plate (MCP) and an S-20, S-25,
+GaAs, or GaInAs photocathode.
+b.
+Image intensifier tubes that utilize a microchannel plate (MCP) and an S-20,
+S-25, GaAs, or GsINAs photocathode with a sensitivity of 240 micro Amps per
+lumen and below:
+c.
+
+Microchannel plates of 15 micrometers and above.
+
+d.
+Software specially designed for the development or production of the
+components or equipment in a-c above;
+e.
+Technology for the development, design or production of the components or
+equipment in a-c above.
+
+7
+
+S/RES/1382 (2001)
+
+#5.
+
+Specialized radar equipment
+a.
+All airborne radar equipment and specially designed components therefor, not
+including radars specially designed for meteorological use or Mode 3, Mode C, and
+Mode S civilian air traffic control equipment specially designed to operate only in
+the 960-1215 MHz band;
+Note: This entry does not require initial review of airborne radar equipment installed
+as original equipment in civil-certified aircraft operating in Iraq.
+b.
+All ground-based primary radar systems that are capable of aircraft detection
+and tracking.
+c.
+Software specially designed for the development or production of the
+components or equipment in a and b above;
+d.
+Technology for the development, design or production of the components or
+equipment in a and b above.
+
+#6.
+
+Non-civil certified aircraft; all aero gas turbine engines; unmanned aerial
+vehicles; and parts and components
+a.
+Non-civil certified aircraft and specially designed parts and components
+therefor. This does not include parts and components solely designed to
+accommodate a carrying of passengers including seats, food services, environmental
+conditioning, lighting systems, and passenger safety devices.
+Note: Civil certified aircraft consist of aircraft that have been certified for general
+civil use by the civil aviation authorities of the original equipment manufacturer’s
+government.
+b.
+All gas turbine engines except those designed for stationary power generation
+applications, and specially designed parts and components therefor.
+c.
+Unmanned aerial vehicles and parts and components therefor with any of the
+following characteristics:
+c.l.
+
+Capable of autonomous operation;
+
+c.2. Capable of operating beyond line of sight;
+c.3. Incorporating a satellite navigation receiver (i.e. GPS);
+c.4. A gross take-off weight greater than 25 kg (55 pounds).
+d.
+
+Parts and components for civil-certified aircraft (not including engines).
+
+Note 1: This does not include parts and components for normal maintenance of nonIraqi owned or leased civil-certified aircraft that were originally qualified or
+certified by the original equipment manufacturer for that aircraft.
+Note 2: For Iraqi-owned or leased civil aircraft, review of parts and components for
+normal maintenance is not required if the maintenance is performed in a country
+other than Iraq.
+Note 3: For Iraqi-owned or leased aircraft, parts and components are subject to
+review except for equivalent one-for-one replacement of parts and components that
+have been certified or qualified by the original equipment manufacturer for use on
+that aircraft.
+
+8
+
+S/RES/1382 (2001)
+
+Note 4: Any specially designed parts or components that improve the performance
+of the aircraft remain subject to review. e. Technology, including software, for the
+design, development and production of equipment and parts/components for the
+items in sub-items a-d above.
+#9.
+
+Marine acoustic equipment
+a.
+Marine acoustic systems, equipment and specially designed components
+therefor, as follows:
+a.l. Active (transmitting or transmitting-and-receiving) systems, equipment and
+specially designed components therefor, as follows:
+a.l.a. Wide-swath bathymetric survey systems designed for sea bed topographic
+mapping designed to measure depths less than 600 m below the water surface
+a.2. Passive (receiving, whether or not related in normal application to separate
+active equipment) systems, equipment and specially designed components thereof as
+follows:
+a.2.a. Hydrophones with sensitivity better than minus 220 Db at any depth with
+no acceleration' compensation;
+a.2.b. Towed acoustic hydrophone arrays designed or able to be modified to
+operate at depths exceeding 15 meters but not exceeding 35 meters.
+a.2.b.1. Heading sensors with an accuracy better than +/- 0.5 degrees.
+a.2.c. Processing equipment specially designed for towed acoustic hydrophone
+arrays.
+a.2.d. Processing equipment, specially designed for bottom or bay cable
+systems.
+b.
+Correlation-velocity sonar log equipment designed to measure the horizontal
+speed of the equipment carrier relative to the seabed.
+Technical Note: Hydrophone sensitivity is defined as twenty times the logarithm to
+the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the
+hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field
+with an rms pressure of 1 p2a. For example, a hydrophone of -160 Db, reference 1 V
+per uPa) -180 Db.
+
+#10.
+
+Charges and devices specially designed for civil projects, and containing small
+quantities of the following energetic materials:
+1.
+
+Cyclotetramethylenetetranitramine (CAS 2691-41-0) (HMX); octahydro1,3,5,7-tetranitro-1,3,5,7-tetrazine;
+1,3,5,7-tetranitro-1,3,5,7-tetrazacyclooctane; (octogen, octogene);
+
+2.
+
+Hexanitrostilbene (HNS) (CAS 20062-22-0);
+
+3.
+
+Triaminotrinitrobenzene (TATB) (CAS 3058-38-6);
+
+4.
+
+Triaminoguanidinenitrate (TAGN) (CAS 4000-16-2);
+
+5.
+
+Dinitroglycoluril (DNGU, DINGU) (CPS 55510-04-81: tetranitroglycoluril
+(TNGU, SORGUYL) (CAS 55510-03-7);
+
+9
+
+S/RES/1382 (2001)
+
+6.
+
+Tetranitrobenzotriazolobenzotriazole (TACOT) (CAS 25243-36-1);
+
+7.
+
+Diaminohexanitrobiphenyl (DIPAM) (CAS 17215-44-0);
+
+8.
+
+Picrylaminodinitropyridine (PYX) (CAS 38082-89-2);
+
+9.
+
+3-vitro-1,2,4-triazol-5-one (NTO or ONTA) (CAS 932-64-9);
+
+l0.
+
+Cyclotrimethylenetrinitramine (RDX) (CAS 121-82-4); cyclonite; T4;
+hexahydro-1,3,5-trinitro-1, 3, 5-triazine; 1, 3, 5-trinitro-1, 3, 5-triazacyclohexane (hexogen, hexogene);
+
+11.
+
+2-(5-cyanotetrazolato) penta amine-cobalt (III) -perchlorate (or CP) (CAS
+70247-32-4);
+
+12.
+
+cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate (or BNCP);
+
+13.
+
+7-Amino-4,6-dinitrobenzofurazane-l-oxide
+amino dinitrobenzofuroxan;
+
+14.
+
+5,7-diamino-4,6-dinitrobenzofurazane-l-oxide (CAS 117907-74-1), (CL-14 or
+diamino dinitrobenzofuroxan);
+
+15.
+
+2,4,6-trinitro-2,4,6-triazacyclohexanone (K-6 or Keto-RDX) (CAS 115029-351);
+
+16.
+
+2,4,6,8-tetran.itro-2,4,6,8-tetraazabicyclo
+
+(ADNBF)
+
+(CAS
+
+97096-78-1);
+
+[3,3,0]-octanone-3 (CAS 130256-72-3)
+(tetranitrosemiglycouril, K-55 or keto-bicyclic HMX);
+17.
+
+1,1,3-trinitroazetidine (TNAZ) (CAS 97645-24-4);
+
+18.
+
+1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin (TNAD) (CAS 135877-16"=6);
+
+19.
+
+Hexanitrohexaazaisowurtzitane (CAS 135285-90-4) (CL-20 or HNIW); and
+chlathrates of CL-20;
+
+20.
+
+Trinitrophenylmethylnitramine (tetryl) (CAS 479-45-8);
+
+21.
+
+Any explosive with a detonation velocity exceeding 8,700 m/s or a detonation
+pressure exceeding 34 GPa (340 kbar);
+
+22.
+
+Other organic explosives yielding detonation pressures of 25 GPa(250 kbar) or
+more that will remain stable at temperatures of 523 K (250°C) or higher for
+periods of 5 minutes or longer;
+
+23.
+
+Any other United Nations (UN) Class 1.1 solid propellant with a theoretical
+specific impulse (under standard conditions) of more than 250 s for nonmetallized, or more than 270 s for aluminized compositions; and
+
+24.
+
+Any UN Class 1.3 solid propellant with a theoretical specific impulse of more
+than 230 s for non-halogenised, 250 s for non-metallized and 266 s for
+metallized compositions.
+Note:
+When not part of a charge or device specifically designed for civil
+projects in small quantities, the energetic materials above are considered
+military items and are subject to UNSCR 687, para. 24.
+
+10
+
+S/RES/1382 (2001)
+
+#11.
+
+Specialized vibration test equipment
+Vibration test equipment and specially designed parts and components capable of
+simulating flight conditions of less than 15,000 meters. a. Software specially
+designed for the development or production of the components or equipment above;
+b. Technology for the development, design or production of the components or
+equipment above.
+
+#12.
+
+Specialized semiconductor manufacturing equipment
+a.
+Items specially designed for the manufacture, assembly, packaging, test, and
+design of semiconductor devices, integrated circuits and assemblies with a minimum
+feature size of 1.0 micrometers, .including:
+a.l. Equipment and materials for plasma etch, chemical vapor deposition
+(CVD), lithography, mask lithography, masks, and photoresists.
+a.2. Equipment specially designed for ion implantation, ion-enhanced or photoenhanced diffusion, having any of the following characteristics:
+a.2.a. Beam energy (accelerating voltage) exceeding 200 keV; or
+a.2.b. Optimized to operate at a beam energy (accelerating voltage) of
+less than 10 keV.
+a.3. Surface finishing equipment for the processing of semiconductor wafers as
+follows:
+a.3.a. Specially designed equipment for backside processing of wafers
+thinner than 100 micrometer and the subsequent separation thereof; or
+a.3.b. Specially designed equipment for achieving a surface roughness of
+the active surface of a processed wafer with a two-sigma value of 2 micrometer or
+less, total indicator reading (TIR) ;
+a.4. Equipment, other than general-purpose computers, specially designed for
+computer aided design (CAD) of semiconductor devices or integrated circuits; a.5.
+Equipment for the assembly of integrated circuits, as follows:
+a.5.a. Stored program controlled die bonders having all of the following
+characteristics:
+a.5.a.l. Specially designed for hybrid integrated circuits;
+a.5.a.2. X-Y stage positioning travel exceeding 37.5 x 37.5 mm; and
+a.5.a.3. Placement accuracy in the X-Y plane of finer than + 10
+micrometer;
+a.5.b. Stored program controlled equipment for producing multiple bonds in a
+single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);
+a.5.c. Semi-automatic or automatic hot cap sealers, in which the cap is heated
+locally to a higher temperature than the body of the package, specially designed for
+ceramic microcircuit packages and that have a throughput equal to or more than one
+package per minute.
+b.
+Software specially designed for the development or production of the
+components or equipment in a. above;
+
+11
+
+S/RES/1382 (2001)
+
+c.
+Technology for the development, design or. production of the components or
+equipment in a. above#14.
+
+Certain Biological Equipment
+a.
+Equipment for the microencapsulation of live microorganisms and toxins in the
+range of 1-15 micron particle size, to include interfacial polycondensors and phase
+separators.
+
+12
+
+S/RES/1382 (2001)
+
+Annex 2
+Procedures
+1.
+Applications for each export of commodities and products should be
+forwarded to the Office of the Iraq Programme (OIP) by the exporting States
+through permanent or observer missions, or by United Nations agencies and
+programmes. Each application should include technical specifications and end-user
+information in order for a determination to be made on whether the contract contains
+any item referred to in paragraph 24 of resolution 687 (1991) or any item on the
+Goods Review List (GRL). A copy of the concluded contractual arrangements
+should be attached to the application.
+2.
+Each application and the concluded contractual arrangements will be
+reviewed by customs experts in the OIP and experts from UNMOVIC, consulting
+the IAEA as necessary, in order to determine whether the contract contains any item
+referred to in paragraph 24 of resolution 687 (1991) or included on the GRL. The
+OIP will identify an official to act as a contact point on each contract.
+3.
+In order to verify that the conditions set out in paragraph 2 above are
+met, the experts may request additional information from the exporting States or
+Iraq. The exporting States or Iraq should provide the additional information
+requested within a period of 60 days. If the experts do not require any additional
+information within four working days, the procedure under paragraphs 5, 6 and 7
+below applies.
+4.
+If the experts determine that the exporting State or Iraq has not provided
+the additional information within the period set out in paragraph 3 above, the
+application will not proceed further until the necessary information has been
+provided.
+5.
+If the UNMOVIC experts, consulting the IAEA as necessary, determine
+that the contract contains any item referred to in paragraph 24 of resolution 687
+(1991), the application shall be considered lapsed and returned to mission or agency
+which submitted it.
+6.
+If the UNMOVIC experts, consulting the IAEA as necessary, determine
+that the contract contains any item referred to in the GRL, they will forward to the
+Committee full details of the GRL listed items, including the technical
+specifications of the items and the associated contract. In addition, OIP and
+UNMOVIC, consulting the IAEA as necessary, shall provide to the Committee an
+assessment of the humanitarian, economic and security implications, of the approval
+or denial of the GRL listed items, including the viability of the whole contract in
+which the GRL listed item appears and the risk of diversion of the item for military
+purposes. OIP shall also provide information on the possible end-use monitoring of
+such items. OIP will immediately inform the missions or agencies concerned. The
+remaining items in the contract, which are determined as not included in the GRL,
+will be processed according to the procedure in paragraph 7 below.
+7.
+If the UNMOVIC experts, consulting the IAEA as necessary, determine
+that the contract does not contain any item referred to in paragraph 2 above, the
+Office of the Iraq Programme will inform immediately the Government of Iraq and
+the exporting State in written form. The exporter will be eligible for payment upon
+verification by Cotecna that the goods have arrived as contracted in Iraq.
+13
+
+S/RES/1382 (2001)
+
+8.
+If the mission or agency submitting a contract disagrees with the decision
+to refer the contract to the Committee, it may appeal against this decision within two
+business days to the Executive Director of OIP. In that event, the Executive Director
+of OIP, in consultation with the Executive Chairman of UNMOVIC, will appoint
+experts to reconsider the contract in accordance with the procedures set out above.
+Their decision, endorsed by the Executive Director and Executive Chairman, will be
+final and no further appeals will be permitted. The application shall not be
+forwarded to the Committee until the appeal period has expired without an appeal
+being filed.
+9.
+Experts from OIP and UNMOVIC who review contracts should be drawn
+from the broadest possible geographical base.
+10. The Secretariat will report to the Committee at the end of each 180-day
+phase on the contracts submitted and approved for export to Iraq during this period
+and provide to any member of the Committee at the member’s request copies of
+applications for information purposes only.
+11. Any Committee member may call for an urgent meeting of the
+Committee to consider revising or revoking these procedures. The Committee will
+keep these procedures under review and, in light of experience, will amend them as
+appropriate.
+
+14
