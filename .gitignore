@@ -2,3 +2,18 @@
 node_modules
 __pycache__/
 *.pyc
+
+# The PDFs are not kept in git from here on. 4,073 of them were committed by
+# the earlier scraper and stay where they are; removing them would mean
+# rewriting published history for about a gigabyte, which is not worth it
+# while the repository is comfortably inside GitHub's limits.
+#
+# Everything fetched since is left out. English alone projects to 11.6 GB, and
+# six official languages to roughly 70 GB, which git is the wrong place for.
+# The documents are reproducible: scripts/docs.un.org/fetch.py, the symbol
+# list, and data/fetch-manifest.jsonl are all here.
+#
+# The extracted text is a different matter and stays in git. It is 5.9% of the
+# size, 16.9 KB against 287 KB per document, and it is what survives if the UN
+# changes its site again, which has already happened once.
+*/pdfs/**/*.pdf
