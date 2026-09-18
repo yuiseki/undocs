@@ -127,3 +127,47 @@ def test_outcome_records_absence_only_when_the_api_said_so():
     assert fetch.outcome(None, absent=True) == "missing"
     # Nothing to record: the failure was already written when it happened.
     assert fetch.outcome(None, absent=False) is None
+
+
+def _watch():
+    import importlib.util
+    path = os.path.join(os.path.dirname(__file__), "..", "scripts", "docs.un.org", "watch.py")
+    spec = importlib.util.spec_from_file_location("watch", path)
+    m = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(m)
+    return m
+
+
+def test_watch_leaves_a_healthy_run_alone():
+    w = _watch()
+    before = {"saved": 100, "error": 1, "missing": 5}
+    after = {"saved": 400, "error": 2, "missing": 8}   # 0.3% refused
+    verdict, _, _ = w.assess(before, after, 0)
+    assert verdict == "ok"
+
+
+def test_watch_stops_a_run_that_is_being_refused():
+    w = _watch()
+    before = {"saved": 100, "error": 0, "missing": 0}
+    after = {"saved": 140, "error": 60, "missing": 0}  # 30% refused
+    verdict, _, breaches = w.assess(before, after, 0)
+    assert verdict == "warn" and breaches == 1
+    verdict, _, _ = w.assess(before, after, breaches)
+    assert verdict == "halt"
+
+
+def test_watch_catches_refusals_and_absences_moving_together():
+    w = _watch()
+    before = {"saved": 0, "error": 0, "missing": 0}
+    after = {"saved": 500, "error": 30, "missing": 30}
+    verdict, message, _ = w.assess(before, after, 0)
+    assert verdict == "halt" and "moving together" in message
+
+
+def test_watch_measures_the_interval_not_the_whole_run():
+    # A long healthy history must not dilute a bad ten minutes.
+    w = _watch()
+    before = {"saved": 50000, "error": 10, "missing": 100}
+    after = {"saved": 50010, "error": 110, "missing": 100}
+    verdict, _, _ = w.assess(before, after, 1)
+    assert verdict == "halt"
