@@ -124,6 +124,20 @@ def fetch_pdf(path, symbol, lang, timeout):
     return body
 
 
+def outcome(body, absent):
+    """What to write to the manifest, or None when there is nothing to write.
+
+    Absence is something locate() states by returning None. It must never be
+    inferred from the path being unset, because the path is also unset every
+    time locate() raised, and a refusal recorded as an absence is permanent.
+    """
+    if body:
+        return "saved"
+    if absent:
+        return "missing"
+    return None
+
+
 # A document is done when it was fetched, or when the API said it does not
 # exist. A recorded failure is neither: it says the request did not succeed,
 # and the manifest is what a rerun trusts, so treating it as done would write
@@ -209,10 +223,12 @@ def main():
             return
 
         body = path = None
+        absent = False
         for attempt in range(args.retries):
             try:
                 path = locate(symbol, lang, args.timeout)
                 if path is None:
+                    absent = True
                     break
                 time.sleep(args.delay * 0.4)
                 body = fetch_pdf(path, symbol, lang, args.timeout)
@@ -229,7 +245,8 @@ def main():
                     break
                 time.sleep(args.delay * (2 ** attempt) + random.random())
 
-        if body:
+        status = outcome(body, absent)
+        if status == "saved":
             dest = document_path(args.out, lang, symbol)
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             with open(dest, "wb") as f:
@@ -237,7 +254,7 @@ def main():
             bump("saved")
             record({"symbol": symbol, "lang": lang, "status": "saved",
                     "path": path, "bytes": len(body)})
-        elif path is None:
+        elif status == "missing":
             bump("missing")
             record({"symbol": symbol, "lang": lang, "status": "missing"})
 

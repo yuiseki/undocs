@@ -112,3 +112,18 @@ def test_resume_retries_failures_but_not_absences(tmp_path):
 
 def test_resume_of_a_missing_manifest_is_empty(tmp_path):
     assert fetch.already_done(str(tmp_path / "nothing.jsonl")) == set()
+
+
+def test_outcome_records_absence_only_when_the_api_said_so():
+    """Absence has to be stated, never inferred from a missing path.
+
+    The worker left `path` as None whenever locate() raised, so a refused
+    request fell through the absence branch and was recorded as missing as
+    well as as an error. Every one of 2,952 failures got both, and the missing
+    record made each of them permanently done.
+    """
+    assert fetch.outcome(b"%PDF-1.4", absent=False) == "saved"
+    assert fetch.outcome(b"%PDF-1.4", absent=True) == "saved"
+    assert fetch.outcome(None, absent=True) == "missing"
+    # Nothing to record: the failure was already written when it happened.
+    assert fetch.outcome(None, absent=False) is None
