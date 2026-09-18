@@ -171,3 +171,24 @@ def test_watch_measures_the_interval_not_the_whole_run():
     after = {"saved": 50010, "error": 110, "missing": 100}
     verdict, _, _ = w.assess(before, after, 1)
     assert verdict == "halt"
+
+
+def test_only_one_fetch_may_hold_the_lock(tmp_path):
+    """Two fetches against this API is how the refusal rate reached a third.
+
+    Three of them ran together for hours because the recorded pid belonged to
+    the shell wrapper, not to python, so every stop killed the wrapper and left
+    the fetch running. A lock makes the launcher's mistake harmless.
+    """
+    lock = tmp_path / "fetch.lock"
+    held = fetch.take_lock(str(lock))
+    assert held is not None
+    assert fetch.take_lock(str(lock)) is None      # a second one is refused
+    fetch.release_lock(held)
+    assert fetch.take_lock(str(lock)) is not None  # released, so free again
+
+
+def test_a_lock_left_by_a_dead_process_is_taken_over(tmp_path):
+    lock = tmp_path / "fetch.lock"
+    lock.write_text("999999999\n", encoding="utf-8")   # a pid that cannot exist
+    assert fetch.take_lock(str(lock)) is not None

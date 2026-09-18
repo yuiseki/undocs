@@ -11,6 +11,7 @@ restarted for as long as it takes.
 """
 
 import argparse
+import atexit
 import json
 import os
 import random
@@ -124,6 +125,41 @@ def fetch_pdf(path, symbol, lang, timeout):
     return body
 
 
+def take_lock(path):
+    """Claim the right to be the only fetch running, or return None.
+
+    Concurrency against this API is not a dial to be turned by accident. Three
+    fetches once ran together for hours because each stop killed the shell
+    wrapper whose pid had been recorded rather than python's, and the refusal
+    rate reached a third. The lock makes that mistake harmless: the second
+    process declines to start instead of quietly doubling the load.
+
+    A lock left by a process that is no longer alive is taken over, so a
+    machine that lost power does not need a manual cleanup.
+    """
+    try:
+        with open(path, encoding="utf-8") as f:
+            owner = int(f.read().strip() or 0)
+        os.kill(owner, 0)
+    except (FileNotFoundError, ValueError, ProcessLookupError):
+        pass
+    except PermissionError:
+        return None          # alive and owned by somebody else
+    else:
+        return None          # alive and ours to leave alone
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"{os.getpid()}\n")
+    return path
+
+
+def release_lock(path):
+    if path:
+        try:
+            os.unlink(path)
+        except FileNotFoundError:
+            pass
+
+
 def outcome(body, absent):
     """What to write to the manifest, or None when there is nothing to write.
 
@@ -188,6 +224,10 @@ def main():
         sys.exit(f"not UN official languages, would silently return English: {unknown}")
 
     os.makedirs(args.out, exist_ok=True)
+    lock = take_lock(os.path.join(args.out, "data", "fetch.lock"))
+    if lock is None:
+        sys.exit("another fetch is already running; refusing to double the load")
+    atexit.register(release_lock, lock)
     manifest_path = args.manifest or os.path.join(args.out, "data", "fetch-manifest.jsonl")
     os.makedirs(os.path.dirname(manifest_path), exist_ok=True)
 

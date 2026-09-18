@@ -17,3 +17,5 @@ __pycache__/
 # size, 16.9 KB against 287 KB per document, and it is what survives if the UN
 # changes its site again, which has already happened once.
 */pdfs/**/*.pdf
+
+data/fetch.lock
