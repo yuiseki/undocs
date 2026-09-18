@@ -70,15 +70,6 @@ def test_locate_refuses_rather_than_reporting_absence():
         raise AssertionError(f"HTTP {code} did not raise Refused")
 
 
-def test_locate_refuses_a_redirect_to_the_error_page():
-    opener = FakeOpener(http_error(302, "https://documents.un.org/error"))
-    try:
-        with_opener(opener, lambda: fetch.locate("S/RES/1", "en", 5))
-    except fetch.Refused:
-        return
-    raise AssertionError("a redirect to /error did not raise Refused")
-
-
 def test_document_path_places_the_pdf_under_the_symbol():
     got = fetch.document_path("/out", "en", "A/74/49(VOL.I)")
     assert got == "/out/en/pdfs/A/74/49(VOL.I)/resolution.pdf"
@@ -192,3 +183,40 @@ def test_a_lock_left_by_a_dead_process_is_taken_over(tmp_path):
     lock = tmp_path / "fetch.lock"
     lock.write_text("999999999\n", encoding="utf-8")   # a pid that cannot exist
     assert fetch.take_lock(str(lock)) is not None
+
+
+def test_the_error_page_means_the_document_does_not_exist():
+    """A 302 to /error is deterministic, so it is an absence, not a refusal.
+
+    Eight symbols that the fetch had filed as refusals were probed three times
+    each against a server that was answering a known-good symbol in under two
+    seconds. All twenty-four probes returned the error page. The symbols are
+    implausible on their face: S/PRST/2009/341 when that series runs to about
+    thirty a year, A/RES/64/299 when session 64 passed about 120.
+
+    Filing these as refusals cost three requests each and left the watcher
+    stopping healthy runs over a failure rate made of absences.
+    """
+    opener = FakeOpener(http_error(302, "https://documents.un.org/error"))
+    assert with_opener(opener, lambda: fetch.locate("S/PRST/2009/341", "en", 5)) is None
+
+
+def test_a_server_refusal_is_still_a_refusal():
+    for code in (403, 429, 500, 502, 503):
+        opener = FakeOpener(http_error(code))
+        try:
+            with_opener(opener, lambda: fetch.locate("S/RES/1", "en", 5))
+        except fetch.Refused:
+            continue
+        raise AssertionError(f"HTTP {code} should still raise Refused")
+
+
+def test_a_redirect_somewhere_unexpected_is_not_treated_as_absence():
+    # Only the error page is known to mean absence. Anything else is a surprise
+    # and must not be filed as an answer.
+    opener = FakeOpener(http_error(302, "https://example.com/somewhere-else"))
+    try:
+        with_opener(opener, lambda: fetch.locate("S/RES/1", "en", 5))
+    except fetch.Refused:
+        return
+    raise AssertionError("an unexpected redirect was treated as an answer")

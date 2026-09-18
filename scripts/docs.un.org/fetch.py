@@ -38,6 +38,9 @@ BASE = "https://documents.un.org"
 # document. It is about 1,303 bytes and is not an error by status code.
 APP_PAGE_MAX = 4096
 
+# Where the API sends a symbol it does not have.
+ERROR_PAGE = "documents.un.org/error"
+
 
 class Refused(Exception):
     """The API answered, but not with a document path.
@@ -95,9 +98,18 @@ def locate(symbol, lang, timeout):
         if exc.code not in (301, 302, 303, 307, 308):
             raise Refused(f"HTTP {exc.code}") from exc
         location = exc.headers.get("Location") or ""
-        if not location.startswith("/doc/"):
-            raise Refused(f"redirected to {location[:60]}")
-        return location.lower()
+        if location.startswith("/doc/"):
+            return location.lower()
+        if ERROR_PAGE in location:
+            # Deterministic, and it means the symbol is not in the system.
+            # Eight of these were probed three times each while the server was
+            # answering a known-good symbol in under two seconds, and all
+            # twenty-four came back the same. The symbols are implausible on
+            # their face, like S/PRST/2009/341 in a series of about thirty a
+            # year. Filing them as refusals cost three requests each and made
+            # the watcher stop healthy runs over a rate built from absences.
+            return None
+        raise Refused(f"redirected to {location[:60]}")
 
 
 class NotAPdf(Exception):
