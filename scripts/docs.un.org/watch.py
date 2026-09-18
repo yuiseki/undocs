@@ -76,7 +76,17 @@ def main():
     ap.add_argument("--pid", type=int, required=True)
     ap.add_argument("--manifest", required=True)
     ap.add_argument("--interval", type=float, default=600)
+    ap.add_argument("--pidfile", default=None,
+                    help="write this process's pid here, so the caller never "
+                         "has to guess it from ps output")
     a = ap.parse_args()
+
+    # Reading a pid back out of ps means matching on a command line, and the
+    # shell running that match has the same words in its own. That mistake has
+    # been made three times here; writing the pid down removes the guess.
+    if a.pidfile:
+        with open(a.pidfile, "w", encoding="utf-8") as f:
+            f.write(f"{os.getpid()}\n")
 
     previous = tally(a.manifest)
     breaches = 0
