@@ -220,3 +220,23 @@ def test_a_redirect_somewhere_unexpected_is_not_treated_as_absence():
     except fetch.Refused:
         return
     raise AssertionError("an unexpected redirect was treated as an answer")
+
+
+def test_a_client_error_is_not_retried_as_a_refusal():
+    """400 and 404 are deterministic; 403, 429 and 5xx are not.
+
+    170 symbols in the URL list kept their query string, so the fetch asked for
+    things like `S/RES/1173 (1998)&Area=UNDOC` and got 400 every time. Filing
+    that as a refusal costs three requests each and pushes the watcher's
+    refusal rate over its threshold on documents that were never documents.
+    """
+    for code in (400, 404):
+        opener = FakeOpener(http_error(code))
+        assert with_opener(opener, lambda: fetch.locate("S/RES/1 &Area=X", "en", 5)) is None
+    for code in (403, 429, 500, 503):
+        opener = FakeOpener(http_error(code))
+        try:
+            with_opener(opener, lambda: fetch.locate("S/RES/1", "en", 5))
+        except fetch.Refused:
+            continue
+        raise AssertionError(f"HTTP {code} should still be a refusal")

@@ -41,6 +41,10 @@ APP_PAGE_MAX = 4096
 # Where the API sends a symbol it does not have.
 ERROR_PAGE = "documents.un.org/error"
 
+# Deterministic: the request is malformed or names nothing, and asking
+# again changes nothing. A 403, 429 or 5xx is the server's state, not ours.
+CLIENT_ERROR = (400, 404)
+
 
 class Refused(Exception):
     """The API answered, but not with a document path.
@@ -95,6 +99,13 @@ def locate(symbol, lang, timeout):
         # symbol. This is the only response that means the document is absent.
         return None
     except urllib.error.HTTPError as exc:
+        if exc.code in CLIENT_ERROR:
+            # The request itself is wrong and will be wrong every time, so this
+            # is an absence rather than a refusal. 170 symbols in the URL list
+            # kept their query string and ask for things like
+            # "S/RES/1173 (1998)&Area=UNDOC"; retrying those three times each
+            # only pushed the watcher's refusal rate over its threshold.
+            return None
         if exc.code not in (301, 302, 303, 307, 308):
             raise Refused(f"HTTP {exc.code}") from exc
         location = exc.headers.get("Location") or ""
