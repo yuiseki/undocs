@@ -260,3 +260,22 @@ def test_a_real_document_path_is_still_returned():
     opener = FakeOpener(http_error(302, "/doc/UNDOC/GEN/N24/080/81/PDF/N2408081.PDF"))
     got = with_opener(opener, lambda: fetch.locate("S/RES/2728 (2024)", "en", 5))
     assert got == "/doc/undoc/gen/n24/080/81/pdf/n2408081.pdf"
+
+
+def test_a_short_pdf_is_still_a_pdf():
+    """The size floor discarded real documents.
+
+    APP_PAGE_MAX was set to 4096 to reject the 1,303-byte application page,
+    but it rejected every PDF under 4 KB with it. S/1995/438 is 2,682 bytes,
+    S/PRST/1995/29 is 2,804, S/25849 is 3,570, and all three are valid
+    %PDF-1.3 files. The application page is HTML and does not carry the magic,
+    so the magic alone is the test.
+    """
+    assert fetch.looks_like_a_pdf(b"%PDF-1.3\r%" + b"x" * 2000)
+    assert fetch.looks_like_a_pdf(b"%PDF-1.7\n" + b"x" * 100000)
+
+
+def test_the_application_page_is_not_a_pdf():
+    assert not fetch.looks_like_a_pdf(b"<!DOCTYPE html><html>" + b"x" * 1283)
+    assert not fetch.looks_like_a_pdf(b"")
+    assert not fetch.looks_like_a_pdf(b"\x00" * 41136)   # A/RES/61/232, all zeroes

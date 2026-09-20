@@ -34,9 +34,17 @@ UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
 API = "https://documents.un.org/api/symbol/access"
 BASE = "https://documents.un.org"
 
-# A 200 carrying the Official Document System single-page app instead of a
-# document. It is about 1,303 bytes and is not an error by status code.
-APP_PAGE_MAX = 4096
+def looks_like_a_pdf(body):
+    """Whether this is a document rather than the app page or a run of zeroes.
+
+    The magic number is the whole test. A size floor was tried here, 4096
+    bytes, to reject the 1,303-byte Official Document System page that the
+    server returns with a 200; it rejected every short document with it.
+    S/1995/438 is 2,682 bytes and S/PRST/1995/29 is 2,804, both valid PDFs.
+    The app page is HTML and never carries the magic, so the floor bought
+    nothing and cost documents.
+    """
+    return bool(body) and body.startswith(b"%PDF")
 
 # Where the API sends a symbol it does not have.
 ERROR_PAGE = "documents.un.org/error"
@@ -150,7 +158,7 @@ def fetch_pdf(path, symbol, lang, timeout):
     req = urllib.request.Request(BASE + path, headers=headers_for(symbol, lang))
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         body = resp.read()
-    if not body.startswith(b"%PDF") or len(body) <= APP_PAGE_MAX:
+    if not looks_like_a_pdf(body):
         raise NotAPdf(f"{len(body)} bytes, not a PDF")
     return body
 
