@@ -240,3 +240,23 @@ def test_a_client_error_is_not_retried_as_a_refusal():
         except fetch.Refused:
             continue
         raise AssertionError(f"HTTP {code} should still be a refusal")
+
+
+def test_a_doc_path_with_no_document_on_it_is_an_absence():
+    """The API answers /doc/ with nothing after it for documents it lacks.
+
+    33 symbols survived the whole English collection in this state. locate()
+    accepted the path because it began with /doc/, and fetch_pdf then received
+    the 1,303-byte application page, which was read as a transient failure and
+    retried for two days. A path that names no file is an answer, not a hiccup.
+    """
+    for location in ("/doc/", "/doc", "/doc/UNDOC/GEN/", "/doc/index.html"):
+        opener = FakeOpener(http_error(302, location))
+        got = with_opener(opener, lambda: fetch.locate("A/RES/48/204", "en", 5))
+        assert got is None, f"{location} should be an absence, got {got}"
+
+
+def test_a_real_document_path_is_still_returned():
+    opener = FakeOpener(http_error(302, "/doc/UNDOC/GEN/N24/080/81/PDF/N2408081.PDF"))
+    got = with_opener(opener, lambda: fetch.locate("S/RES/2728 (2024)", "en", 5))
+    assert got == "/doc/undoc/gen/n24/080/81/pdf/n2408081.pdf"

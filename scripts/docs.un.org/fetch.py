@@ -109,8 +109,15 @@ def locate(symbol, lang, timeout):
         if exc.code not in (301, 302, 303, 307, 308):
             raise Refused(f"HTTP {exc.code}") from exc
         location = exc.headers.get("Location") or ""
-        if location.startswith("/doc/"):
-            return location.lower()
+        if location.startswith("/doc"):
+            # A path under /doc/ that names no file is the API saying it has
+            # the symbol but not the document. It answers a bare /doc/ for
+            # these, and 33 symbols survived the whole English collection in
+            # that state: locate() accepted the prefix, fetch_pdf received the
+            # application page, and that was retried for two days.
+            if location.lower().endswith(".pdf"):
+                return location.lower()
+            return None
         if ERROR_PAGE in location:
             # Deterministic, and it means the symbol is not in the system.
             # Eight of these were probed three times each while the server was
