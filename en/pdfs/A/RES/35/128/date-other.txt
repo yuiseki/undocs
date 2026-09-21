@@ -1,3 +1,0 @@
-1972-12-18
-rule: any
-raw: 18 December 1972

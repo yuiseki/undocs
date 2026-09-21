@@ -25,3 +25,5 @@ data/fetch.lock
 # English alone it would double the repository for nothing. It is the published
 # form and lives on the Hub.
 data/resolutions.jsonl
+
+data/documents.parquet

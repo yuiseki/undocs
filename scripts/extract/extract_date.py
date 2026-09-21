@@ -90,9 +90,62 @@ def fallback(text, year):
     return None, None, None
 
 
+# The General Assembly session opens in September, so session N spans 1945 + N
+# into the following year. Same constant as scripts/docs.un.org/order.py.
+GA_EPOCH = 1945
+GA_SESSION = re.compile(r"^A/(?:RES/)?(\d{1,2})/")
+GA_ROMAN = re.compile(r"\(([IVXL]+)\)")
+ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+
+
+def roman(text):
+    total = 0
+    for i, ch in enumerate(text):
+        v = ROMAN.get(ch)
+        if v is None:
+            return None
+        nxt = ROMAN.get(text[i + 1]) if i + 1 < len(text) else None
+        total += -v if nxt and nxt > v else v
+    return total
+
+
 def symbol_year(symbol):
+    """The year the symbol itself implies, or None.
+
+    A literal year first, then the General Assembly session number, which is
+    what most symbols actually carry. Resolving only literal years covered 28%
+    of the collection, and A/RES/50/11 kept an adoption date of 1946 because
+    nothing knew that session 50 is 1995.
+    """
     m = SYMBOL_YEAR.search(symbol)
-    return int(m.group(1) or m.group(2)) if m else None
+    if m:
+        return int(m.group(1) or m.group(2))
+    m = GA_SESSION.match(symbol)
+    if m:
+        return GA_EPOCH + int(m.group(1))
+    m = GA_ROMAN.search(symbol)
+    if m:
+        n = roman(m.group(1))
+        if n:
+            return GA_EPOCH + n
+    return None
+
+
+# A session opens in September and its resolutions are distributed into the
+# following year, so one year either side is the whole legitimate spread.
+PLAUSIBLE_YEARS = 1
+
+
+def plausible(date, year):
+    """Whether this date can belong to a document with that symbol year.
+
+    Rejecting rather than reporting: the extractor used to print a line about
+    A/RES/50/11 being adopted in 1946 and then write 1946-02-01 into the data.
+    A date from a citation in the body is not this document's date.
+    """
+    if year is None or not date:
+        return True
+    return abs(int(date[:4]) - year) <= PLAUSIBLE_YEARS
 
 
 def write(path, date, rule, raw):
@@ -130,6 +183,17 @@ def main():
         d_date, d_rule, d_raw = first_match(text, DISTRIBUTED, year)
         a_date, a_rule, a_raw = first_match(text, ADOPTED, year)
 
+        # A date the symbol's year says cannot be this document's is a date
+        # from something the body cites. Drop it rather than write it down.
+        if not plausible(d_date, year):
+            counts["rejected"] += 1
+            disagree.append((symbol, "distributed", d_date, year))
+            d_date = None
+        if not plausible(a_date, year):
+            counts["rejected"] += 1
+            disagree.append((symbol, "adopted", a_date, year))
+            a_date = None
+
         if d_date:
             write(targets["distributed"], d_date, d_rule, d_raw)
             counts["distributed"] += 1
@@ -138,15 +202,17 @@ def main():
             counts["adopted"] += 1
         if not d_date and not a_date:
             o_date, o_rule, o_raw = fallback(text, year)
+            if not plausible(o_date, year):
+                counts["rejected"] += 1
+                disagree.append((symbol, "other", o_date, year))
+                o_date = None
             if o_date:
                 write(targets["other"], o_date, o_rule, o_raw)
                 counts["other"] += 1
             else:
                 counts["none"] += 1
 
-        for kind, date in (("distributed", d_date), ("adopted", a_date)):
-            if date and year is not None and abs(int(date[:4]) - year) > 1:
-                disagree.append((symbol, kind, date, year))
+        # Anything still here passed the check above.
 
     print("kind\tcount")
     for kind, count in counts.most_common():

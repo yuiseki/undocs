@@ -1,3 +1,0 @@
-1957-02-20
-rule: any
-raw: 20 February 1957

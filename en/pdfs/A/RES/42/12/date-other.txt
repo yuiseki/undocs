@@ -1,3 +1,0 @@
-1971-04-23
-rule: any
-raw: 23 April 1971

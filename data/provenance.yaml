@@ -5,9 +5,9 @@
 dataset:
   name: undocs
   path: data/resolutions.jsonl
-  built: 2026-09-17
-  records: 4024
-  characters: 69281547
+  built: 2026-09-21
+  records: 37499
+  characters: 1228066480
   languages: [en]
   languages_planned: [ar, en, es, fr, ru, zh]
 
@@ -27,7 +27,7 @@ sources:
   - name: UN document symbols
     path: data/www.undocs.org/all_docs_urls_uniq.txt
     urls: 41942
-    symbols_after_normalisation: 39073
+    symbols_after_normalisation: 39405
     note: >
       Collected from un.org pages by scripts/www.undocs.org/list.ts. Only 4,073
       of these were fetched, because scripts/www.undocs.org/fetch.ts carries a
@@ -35,8 +35,8 @@ sources:
 
   - name: UN document PDFs
     path: en/pdfs
-    files: 4073
-    bytes: 1300000000
+    files: 39363
+    bytes: 17000000000
     retrieved_via: https://docs.un.org/{lang}/{symbol}
     note: >
       Fetched before 2026-09-15 by the older scraper. docs.un.org now serves
@@ -49,9 +49,9 @@ processing:
     options: default reading order, not -layout
     output: resolution.txt beside each PDF
     results:
-      written: 4024
-      no_text_likely_scan: 47
-      failed: 2
+      written: 37499
+      no_text_likely_scan: 1864
+      failed: 0
     note: >
       -layout pads every line to the original column positions and these
       documents are single column, so the default order is correct.
@@ -60,11 +60,18 @@ processing:
     script: scripts/extract/extract_date.py
     output: date-distributed.txt, date-adopted.txt, date-other.txt
     results:
-      distributed: 3014
-      adopted: 2595
-      other: 641
-      none: 23
+      distributed: 19283
+      adopted: 8206
+      other: 16695
+      none: 832
     validation: >
+      Every date is checked against the year the symbol implies, whether
+      written out as in S/RES/2728 (2024) or carried by a General Assembly
+      session number, where session N opens in September of 1945 + N. A date
+      more than a year away is dropped as belonging to something the body
+      cites. Resolving only written-out years covered 28% of the collection and
+      left A/RES/50/11, a 1995 resolution, carrying an adoption date of 1946.
+    superseded_validation: >
       Every date is checked against the year in the document symbol and against
       a 1945 to 2030 range. Disagreements: 0.
     note: >
@@ -82,6 +89,14 @@ processing:
         Lines reading NO COVER (n), the scanner noting a missing cover page,
         removed.
 
+  - step: publication
+    script: scripts/publish.py
+    output: data/documents.parquet
+    note: >
+      Streamed into Parquet rather than held as a datasets.Dataset. The English
+      text alone is 1.2 GB across 37,499 documents and costs several times that
+      as Python objects; zstd Parquet is 386 MB.
+
 repository:
   pdfs_in_git: >
     4,073, all from roughly 2020 to 2023, committed by the earlier scraper and
@@ -90,8 +105,15 @@ repository:
     about 70 GB, which git is the wrong place for. They are reproducible from
     scripts/docs.un.org/fetch.py, the symbol list, and data/fetch-manifest.jsonl.
   text_in_git: >
-    All of it, at 16.9 KB per document, 5.9% of the PDF. Kept because it is
-    what survives if the site moves again, which it has done once.
+    All of it, 1.23 GB across 37,499 documents. Kept because it is what
+    survives if the site moves again, which it has done once. The mean is
+    32.1 KB, twice the 16.9 KB projected from the 2020 to 2023 documents the
+    earlier scraper had collected; the older supplements and verbatim records
+    are long.
+  table_in_git: >
+    No. data/resolutions.jsonl is a rebuild of the text beside each PDF and
+    build_jsonl.py reproduces it in about thirty seconds, so tracking its
+    1.2 GB would hold a second copy of what is already there.
 
 known_limitations:
   - English only so far; the other five official languages are being collected.

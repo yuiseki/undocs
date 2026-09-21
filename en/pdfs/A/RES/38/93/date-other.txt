@@ -1,3 +1,0 @@
-1981-12-16
-rule: any
-raw: 16 December 1981

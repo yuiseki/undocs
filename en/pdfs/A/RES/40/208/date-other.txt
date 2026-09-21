@@ -1,3 +1,0 @@
-1975-09-16
-rule: any
-raw: 16 September 1975

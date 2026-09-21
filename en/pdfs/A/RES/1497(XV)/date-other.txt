@@ -1,3 +1,3 @@
-1946-09-05
+1960-10-31
 rule: any
-raw: 5 September 1946
+raw: 31 October 1960

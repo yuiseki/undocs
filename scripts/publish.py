@@ -34,16 +34,44 @@ STRING_FIELDS = [
 INT_FIELDS = ["n_chars"]
 
 
-def rows(path):
-    out = []
-    with open(path, encoding="utf-8") as f:
-        for line in f:
-            r = json.loads(line)
-            row = {k: r.get(k) for k in STRING_FIELDS}
-            for k in INT_FIELDS:
-                row[k] = r.get(k)
-            out.append(row)
-    return out
+BATCH = 2000
+
+
+def to_parquet(jsonl, out):
+    """Stream the jsonl into one Parquet file, and report what went in.
+
+    Not datasets.Dataset.from_list: the English collection alone is 1.2 GB of
+    text across 37,499 documents, and holding that as Python objects to hand to
+    the Hub costs several times its own size for nothing. Parquet is the
+    published form anyway.
+    """
+    import pyarrow as pa
+    import pyarrow.parquet as pq
+
+    schema = pa.schema([(k, pa.string()) for k in STRING_FIELDS] +
+                       [(k, pa.int64()) for k in INT_FIELDS])
+    fields = STRING_FIELDS + INT_FIELDS
+    writer = pq.ParquetWriter(out, schema, compression="zstd")
+    batch = {k: [] for k in fields}
+    n = chars = 0
+    langs = set()
+    try:
+        with open(jsonl, encoding="utf-8") as f:
+            for line in f:
+                r = json.loads(line)
+                for k in fields:
+                    batch[k].append(r.get(k))
+                n += 1
+                chars += r.get("n_chars") or 0
+                langs.add(r.get("lang"))
+                if len(batch["id"]) >= BATCH:
+                    writer.write_table(pa.Table.from_pydict(batch, schema=schema))
+                    batch = {k: [] for k in fields}
+        if batch["id"]:
+            writer.write_table(pa.Table.from_pydict(batch, schema=schema))
+    finally:
+        writer.close()
+    return n, chars, sorted(x for x in langs if x)
 
 
 def stale(jsonl, roots):
@@ -73,6 +101,8 @@ def main():
         os.path.join(BASE, "data/provenance.yaml")])
     ap.add_argument("--roots", nargs="*", default=[os.path.join(BASE, "en/pdfs")],
                     help="directories the jsonl was built from, for the staleness check")
+    ap.add_argument("--parquet", default=None,
+                    help="where to write the table; default data/documents.parquet")
     ap.add_argument("--repo", default=REPO)
     ap.add_argument("--push", action="store_true", help="actually upload")
     ap.add_argument("--skip-check", action="store_true",
@@ -83,19 +113,11 @@ def main():
         raise SystemExit("data/resolutions.jsonl is older than the text it was "
                          "built from. Run scripts/extract/build_jsonl.py")
 
-    import datasets
-
-    table = rows(a.jsonl)
-    features = datasets.Features(
-        {k: datasets.Value("string") for k in STRING_FIELDS} |
-        {k: datasets.Value("int64") for k in INT_FIELDS})
-    ds = datasets.Dataset.from_list(table, features=features)
-    print(ds)
-
-    langs = sorted({r["lang"] for r in table})
-    chars = sum(r["n_chars"] or 0 for r in table)
-    print(f"{len(table):,} documents, {chars:,} characters, languages {langs}, "
-          f"{os.path.getsize(a.jsonl)/1e6:.1f} MB of jsonl")
+    parquet = a.parquet or os.path.join(BASE, "data/documents.parquet")
+    n, chars, langs = to_parquet(a.jsonl, parquet)
+    print(f"{n:,} documents, {chars:,} characters, languages {langs}")
+    print(f"  {a.jsonl.split('/')[-1]} {os.path.getsize(a.jsonl)/1e6:.0f} MB "
+          f"-> {os.path.basename(parquet)} {os.path.getsize(parquet)/1e6:.0f} MB")
 
     for p in [a.card] + a.extra:
         if not os.path.exists(p):
@@ -107,22 +129,24 @@ def main():
         print("dry run. pass --push to upload")
         return 0
 
-    from huggingface_hub import DatasetCard, HfApi
+    from huggingface_hub import HfApi
 
     api = HfApi()
-    # Nothing else creates it. push_to_hub and upload_file both assume the
-    # repository is already there and answer 404 when it is not.
+    # Nothing else creates it. upload_file answers 404 when it is not there.
     api.create_repo(a.repo, repo_type="dataset", exist_ok=True)
 
-    # Card first, dataset second. push_to_hub writes a dataset_info block into
-    # the card's front matter, and pushing the card afterwards would erase it.
-    DatasetCard(open(a.card, encoding="utf-8").read()).push_to_hub(
-        a.repo, repo_type="dataset")
+    # Data first, card last. Nothing here rewrites the card, so this ordering
+    # means the repository is never in a state where the card describes files
+    # that have not arrived.
+    print(f"uploading {os.path.basename(parquet)} ...", flush=True)
+    api.upload_file(path_or_fileobj=parquet, path_in_repo=os.path.basename(parquet),
+                    repo_id=a.repo, repo_type="dataset")
     for p in a.extra:
         api.upload_file(path_or_fileobj=p, path_in_repo=os.path.basename(p),
                         repo_id=a.repo, repo_type="dataset")
-    ds.push_to_hub(a.repo)
-    print(f"pushed to {a.repo}")
+    api.upload_file(path_or_fileobj=a.card, path_in_repo="README.md",
+                    repo_id=a.repo, repo_type="dataset")
+    print(f"pushed to https://huggingface.co/datasets/{a.repo}")
     return 0
 
 

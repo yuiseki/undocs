@@ -1,3 +1,3 @@
-1949-08-12
+1987-12-08
 rule: any
-raw: 12 August 1949
+raw: 8 December 1987

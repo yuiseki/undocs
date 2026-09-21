@@ -1,3 +1,3 @@
-1950-07-11
+1954-11-23
 rule: any
-raw: 11 July 1950
+raw: 23 November 1954

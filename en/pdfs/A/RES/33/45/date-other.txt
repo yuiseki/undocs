@@ -1,3 +1,3 @@
-1960-12-14
+1977-12-07
 rule: any
-raw: 14 December 1960
+raw: 7 December 1977

@@ -1,3 +1,0 @@
-1963-11-18
-rule: any
-raw: 18 November 1963
