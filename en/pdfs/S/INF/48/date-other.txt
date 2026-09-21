@@ -1,0 +1,3 @@
+1992-01-07
+rule: any
+raw: 7 January 1992

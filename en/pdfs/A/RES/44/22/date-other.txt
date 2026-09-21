@@ -1,0 +1,3 @@
+1988-11-14
+rule: any
+raw: 14 November 1988

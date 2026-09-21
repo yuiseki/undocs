@@ -26,7 +26,7 @@ REPO = "yuiseki/un-docs"
 # Read as they are. Everything in this dataset is a string or a count, so
 # unlike the ragged question sets there is nothing to carry as embedded JSON.
 STRING_FIELDS = [
-    "id", "lang", "body", "pdf",
+    "id", "lang", "body", "text_source", "pdf",
     "date_distributed", "date_distributed_rule", "date_distributed_raw",
     "date_adopted", "date_adopted_rule", "date_adopted_raw",
     "date_other", "date_other_rule", "date_other_raw",

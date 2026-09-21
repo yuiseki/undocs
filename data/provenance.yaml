@@ -6,8 +6,8 @@ dataset:
   name: undocs
   path: data/resolutions.jsonl
   built: 2026-09-21
-  records: 37499
-  characters: 1228066480
+  records: 39363
+  characters: 1312301724
   languages: [en]
   languages_planned: [ar, en, es, fr, ru, zh]
 
@@ -60,10 +60,10 @@ processing:
     script: scripts/extract/extract_date.py
     output: date-distributed.txt, date-adopted.txt, date-other.txt
     results:
-      distributed: 19283
-      adopted: 8206
-      other: 16695
-      none: 832
+      distributed: 19441
+      adopted: 8227
+      other: 18227
+      none: 996
     validation: >
       Every date is checked against the year the symbol implies, whether
       written out as in S/RES/2728 (2024) or carried by a General Assembly
@@ -88,6 +88,27 @@ processing:
       - >
         Lines reading NO COVER (n), the scanner noting a missing cover page,
         removed.
+
+  - step: reading the scans
+    script: scripts/extract/ocr_pdf.py
+    tool: tesseract 5.5.0, 300 dpi greyscale, --psm 1, -l eng
+    output: resolution-ocr.txt beside each PDF
+    results:
+      documents: 1864
+      pages: 18811
+      characters: 84235244
+      failed: 0
+    note: >
+      Written under a different name from the pdftotext output, and carried
+      through as the text_source column, because a reading of an image is not
+      the text a publisher embedded. In a 200-file sample 0.6% of characters
+      fall outside the ordinary set; errors cluster in document symbols and
+      small print rather than in the body.
+    threads: >
+      One OpenMP thread per call. tesseract parallelises a page by itself and
+      sixteen workers against 32 cores put the load average at 56. On an idle
+      machine that threading is worth almost nothing, 592 ms a page against
+      606 ms with one thread, so the parallelism belongs to the pool.
 
   - step: publication
     script: scripts/publish.py

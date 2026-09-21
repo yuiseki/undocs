@@ -47,28 +47,48 @@ def read_date(directory, kind):
     return date or None, rule, raw
 
 
+def read_body(directory, text_name, ocr_name):
+    """The document's text and where it came from.
+
+    The embedded text first, then the OCR. 1,864 documents have only the
+    second: they are scans, and what they carry is a reading of an image
+    rather than something a publisher wrote down. The distinction travels with
+    the text as a column, because a reader cannot judge the text without it.
+    """
+    for name, source in ((text_name, "pdf"), (ocr_name, "ocr")):
+        path = os.path.join(directory, name)
+        if os.path.exists(path):
+            body = clean(open(path, encoding="utf-8", errors="ignore").read())
+            if body:
+                return body, source
+    return None, None
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", action="append", required=True,
                     metavar="LANG=PATH",
                     help="e.g. en=en/pdfs; repeat for each language")
     ap.add_argument("--text-name", default="resolution.txt")
+    ap.add_argument("--ocr-name", default="resolution-ocr.txt")
     ap.add_argument("--out", required=True)
     args = ap.parse_args()
 
     total = 0
     per_lang = {}
+    per_source = {}
     with open(args.out, "w", encoding="utf-8") as out:
         for spec in args.root:
             lang, _, root = spec.partition("=")
             if not root:
                 raise SystemExit(f"expected LANG=PATH, got {spec!r}")
-            paths = sorted(glob.glob(os.path.join(root, "**", args.text_name), recursive=True))
+            directories = sorted({os.path.dirname(p) for name in (args.text_name, args.ocr_name)
+                                  for p in glob.glob(os.path.join(root, "**", name),
+                                                     recursive=True)})
             count = 0
-            for path in paths:
-                directory = os.path.dirname(path)
+            for directory in directories:
                 symbol = directory[len(root):].strip("/")
-                body = clean(open(path, encoding="utf-8", errors="ignore").read())
+                body, source = read_body(directory, args.text_name, args.ocr_name)
                 if not body:
                     continue
                 record = {
@@ -76,6 +96,7 @@ def main():
                     "lang": lang,
                     "body": body,
                     "n_chars": len(body),
+                    "text_source": source,
                     "pdf": os.path.join(directory, "resolution.pdf"),
                 }
                 for kind in DATE_KINDS:
@@ -84,11 +105,14 @@ def main():
                     record[f"date_{kind}_rule"] = rule
                     record[f"date_{kind}_raw"] = raw
                 out.write(json.dumps(record, ensure_ascii=False) + "\n")
+                per_source[source] = per_source.get(source, 0) + 1
                 count += 1
             per_lang[lang] = count
             total += count
 
     print(f"records\t{total}")
+    for source, count in sorted(per_source.items()):
+        print(f"{source}\t{count}")
     for lang, count in sorted(per_lang.items()):
         print(f"{lang}\t{count}")
 

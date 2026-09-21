@@ -1,0 +1,3 @@
+1993-07-30
+rule: meeting
+raw: 30 July 1993

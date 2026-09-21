@@ -1,0 +1,398 @@
+UNITED A
+NATIONS
+
+General Assembly
+
+Distr.
+GENERAL
+
+A/RES/47/68
+23 February 1993
+
+Forty-seventh session
+Agenda item 72
+
+RESOLUTION ADOPTED BY THE GENERAL ASSEMBLY
+
+{on the report of the Special Political Committee (A/47/610) ]
+
+47/68. Principles Relevant to the Use of Nuclear Power Sources
+in Outer Space
+
+The General Assembly,
+
+Having considered the report of the Commé#ttee on the Peaceful Uses of
+Outer Space on the work of its thirty-fifth segsion 1/ and the text of the
+Principles Relevant to the Use of Nuclear Power Sources in Outer Space as
+approved by the Committee and annexed to its report, 2/
+
+Recognizing that for some missions in outer space nuclear power sources
+are particularly suited or even essential owing to their compactness, long
+life and other attributes,
+
+Recognizing also that the use of nuclear power sources in outer space
+should focus on those applications which take advantage of the particular
+properties of nuclear power sources,
+
+Recognizing further that the use of nuclear power sources in outer space
+should be based on a thorough safety assessment, including probabilistic risk
+analysis, with particular emphasis on reducing the risk of accidental exposure
+of the public to harmful radiation or radioactive material,
+
+1/ Official Records of the General Assembl Forty-seventh Session,
+Supplement No. 20 (A/47/20). .
+2/ Ibid., annex.
+[ave
+
+93-10418
+
+A/RES/47/68
+Page 2
+
+Recognizing the need, in this respect, for a set of principles
+containing goals and guidelines to ensure the safe use of nuclear power
+sources in outer space,
+
+Affirming that this set of Principles applies to nuclear power sources
+in outer space devoted to the generation of electric power on board space
+objects for non-propulsive purposes, which have characteristics generally
+comparable to those of systems used and missions performed at the time of the
+adoption of the Principles,
+
+Recognizing that this set of Principles will require future revision in
+view of emerging nuclear power applications and of evolving international
+recommendations on radiological protection,
+
+Adopts the Principles Relevant to the Use of Nuclear Power Sources in
+Outer Space as set forth below.
+
+Principle 1. Applicability of international law
+
+Activities involving the use of nuclear power sources in outer space
+shall be carried out in accordance with international law, including in
+particular the Charter of the United Nations and the Treaty on Principles
+Governing the Activities of States in the Exploration and Use of Outer Space,
+including the Moon and Other Celestial Bodies. 3/
+
+Principle 2. Use of terms
+
+1. For the purpose of these Principles, the terms “launching State" and
+"State launching" mean the State which exercises jurisdiction and control over
+a space object with nuclear power sources on board at a given point in time
+relevant to the principle concerned.
+
+2. For the purpose of principle 9, the definition of the term "launching
+State" as contained in that principle is applicable.
+
+3. For the purposes of principle 3, the terms "foreseeable" and "all
+possible" describe a class of events or circumstances whose overall
+probability of occurrence is such that it is considered to encompass only
+credible possibilities for purposes of safety analysis. The term "general
+concept of defence-in-depth" when applied to nuclear power sources in outer
+space refers to the use of design features and mission operations in place of
+or in addition to active systems, to prevent or mitigate the consequences of
+system malfunctions. Redundant safety systems are not necessarily required
+for each individual component to achieve this purpose. Given the special
+requirements of space use and of varied missions, no particular set of systems
+or features can be specified as essential to achieve this objective. For the
+purposes of paragraph 2 (d) of principle 3, the term "made critical" does not
+include actions such as zero-power testing which are fundamental to ensuring
+system safety.
+
+3/ Resolution 2222 (XXI), annex.
+
+foes
+
+A/RES/47/68
+Page 3
+
+Principle 3. Guidelines and criteria for safe use
+
+In order to minimize the quantity of radioactive material in space and
+the risks involved, the use of nuclear power sources in outer space shall be
+restricted to those space missions which cannot be operated by non-nuclear
+energy sources in a reasonable way.
+
+1. General goals for radiation protection and nuclear safety
+
+(a) States launching space objects with nuclear power sources on board
+shall endeavour to protect individuals, populations and the biosphere against
+radiological hazards. The design and use of space objects with nuclear power
+sources on board shall ensure, with a high degree of confidence, that the
+hazards, in foreseeable operational or accidental circumstances, are kept
+below acceptable levels as defined in paragraphs 1 (b) and (c).
+
+Such design and use shall also ensure with high reliability that
+radioactive material does not cause a significant contamination of outer
+space.
+
+(b) During the normal operation of space objects with nuclear power
+sources on board, including re-entry from the sufficiently high orbit as
+defined in paragraph 2 (b), the appropriate radiation protection objective for
+the public recommended by the International Commission on Radiological
+Protection shall be observed. During such normal operation there shall be no
+significant radiation exposure.
+
+(c) To limit exposure in accidents, the design and construction of the
+nuclear power source systems shall take into account relevant and generally
+accepted international radiological protection guidelines.
+
+Except in cases of low-probability accidents with potentially serious
+radiological consequences, the design for the nuclear power source systems
+shall, with a high degree of confidence, restrict radiation exposure to a
+limited geographical region and to individuals to the principal limit of 1 mSv
+in a year. It is permissible to use a subsidiary dose limit of 5 mSv ina
+year for some years, provided that the average annual effective dose
+equivalent over a lifetime does not exceed the principal limit of 1 mSv ina
+year.
+
+The probability of accidents with potentially serious radiological
+consequences referred to above shall be kept extremely small by virtue of the
+design of the system.
+
+Future modifications of the guidelines referred to in this paragraph
+shall be applied as soon as practicable.
+
+(da) Systems important for safety shall be designed, constructed and
+operated in accordance with the general concept of defence-in-depth. Pursuant
+to this concept, foreseeable safety-related failures or malfunctions must be
+capable of being corrected or counteracted by an action or a procedure,
+possibly automatic.
+
+The reliability of systems important for safety shall be ensured, inter
+
+alia, by redundancy, physical separation, functional isolation and adequate
+independence of their components.
+
+A/RES/47/68
+Page 4
+
+Other measures shall also be taken to raise the level of safety.
+2. Nuclear reactors
+
+(a) Nuclear reactors may be operated:
+
+(i) On interplanetary missions;
+
+(ii) In sufficiently high orbits as defined in paragraph 2 (b);
+
+(iii) In low-Earth orbits if they are stored in sufficiently high orbits
+after the operational part of their mission.
+
+(b) The sufficiently high orbit is one in which the orbital lifetime
+is long enough to allow for a sufficient decay of the fission products to
+approximately the activity of the actinides. The sufficiently high orbit must
+be such that the risks to existing and future outer space missions and of
+collision with other space objects are kept to a minimum. The necessity for
+the parts of a destroyed reactor also to attain the required decay time before
+re-entering the Earth's atmosphere shall be considered in determining the
+sufficiently high orbit altitude.
+
+(¢c) Nuclear reactors shall use only highly enriched uranium 235 as
+fuel. The design shall take into account the radioactive decay of the fission
+and activation products.
+
+(da) Nuclear reactors shall not be made critical before they have
+reached their operating orbit or interplanetary trajectory.
+
+{e) The design and construction of the nuclear reactor shall ensure
+that it can not become critical before reaching the operating orbit during all
+possible events, including rocket explosion, re-entry, impact on ground or
+water, submersion in water or water intruding into the core.
+
+(£) In order to reduce significantly the possibility of failures in
+satellites with nuclear reactors on board during operations in an orbit with a
+lifetime less than in the sufficiently high orbit (including operations for
+transfer into the sufficiently high orbit), there shall be a highly reliable
+operational system to ensure an effective and controlled disposal of the
+reactor.
+
+3. Radioisotope generators
+
+(a) Radioisotope generators may be used for interplanetary missions
+and other missions leaving the gravity field of the Earth. They may also be
+used in Earth orbit if, after conclusion of the operational part of their
+mission, they are stored in a high orbit. In any case ultimate disposal is
+necessary.
+
+(b) Radioisotope generators shall be protected by a containment system
+that is designed and constructed to withstand the heat and aerodynamic forces
+of re-entry in the upper atmosphere under foreseeable orbital conditions,
+including highly elliptical or hyperbolic orbits where relevant. Upon impact,
+the containment system and the physical form of the isotope shall ensure that
+no radioactive material is scattered into the environment so that the impact
+area can be completely cleared of radioactivity by a recovery operation.
+
+A/RES/47/68
+Page 5
+
+Principle 4. Safety assessment
+
+1. A launching State as defined in principle 2, paragraph 1, at the time of
+launch shall, prior to the launch, through cooperative arrangements, where
+relevant, with those which have designed, constructed or manufactured the
+nuclear power source, or will operate the space object, or from whose
+territory or facility such an object will be launched, ensure that a thorough
+and comprehensive safety assessment is conducted. This assessment shall cover
+as well all relevant phases of the mission and shall deal with all systems
+involved, including the means of launching, the space platform, the nuclear
+power source and its equipment and the means of control and communication
+between ground and space.
+
+2. This assessment shall respect the guidelines and criteria for safe use
+contained in principle 3.
+
+3. Pursuant to article XI of the Treaty on Principles Governing the
+Activities of States in the Exploration and Use of Outer Space, including the
+Moon and Other Celestial Bodies, the results of this safety assessment,
+together with, to the extent feasible, an indication of the approximate
+intended time-frame of the launch, shall be made publicly available prior to
+each launch, and the Secretary-General of the United Nations shall be informed
+on how States may obtain such results of the safety assessment as soon as
+
+possible prior to each launch. Ja
+Principle $. Notification of re-entry
+1. Any State launching a space object with nuclear power sources on board
+
+shall in a timely fashion inform States concerned in the event this space
+object is malfunctioning with a risk of re-entry of radioactive materials to
+the Earth. The information shall be in accordance with the following format:
+
+(a) System parameters:
+
+(i) Name of launching State or States, including the address of the
+authority which may be contacted for additional information or
+assistance in case of accident;
+
+(ii) International designation;
+(iii) Date and territory or location of launch;
+
+(iv) Information required for best prediction of orbit lifetime,
+trajectory and impact region;
+
+(Vv) General function of spacecraft;
+
+(b) Information on the radiological risk of nuclear power source(s):
+
+(i) Type of nuclear power source: radioisotopic/reactor;
+
+(ii) The probable physical form, amount and general radiological
+characteristics of the fuel and contaminated and/or activated
+
+components likely to reach the ground. The term "fuel" refers to
+the nuclear material used as the source of heat or power.
+
+A/RES/47/68
+Page 6
+
+This information shall also be transmitted to the Secretary~-General of the
+United Nations.
+
+2. The information, in accordance with the format above, shall be provided
+by the launching State as soon as the malfunction has become known. It shall
+be updated as frequently as practicable and the frequency of dissemination of
+the updated information shall increase as the anticipated time of re-entry
+into the dense layers of the Earth’s atmosphere approaches so that the
+international community will be informed of the situation and will have
+sufficient time to plan for any national response activities deemed necessary.
+
+3. The updated information shall also be transmitted to the
+Secretary-General of the United Nations with the same frequency.
+
+Principle 6. Consultations
+
+States providing information in accordance with principle 5 shall, as
+far as reasonably practicable, respond promptly to requests for further
+information or consultations sought by other States.
+
+Principle 7. Assistance to States
+
+1. Upon the notification of an expected re-entry into the Earth's
+atmosphere of a space object containing a nuclear power source on board and
+its components, all States possessing space monitoring and tracking
+facilities, in the spirit of international cooperation, shall communicate the
+relevant information that they may have available on the malfunctioning space
+object with a nuclear power source on board to the Secretary-General of the
+United Nations and the State concerned as promptly as possible to allow States
+that might be affected to assess the situation and take any precautionary
+measures deemed necessary.
+
+2. After re-entry into the Earth’s atmosphere of a space object containing
+a nuclear power source on board and its components:
+
+(a) The launching State shall promptly offer and, if requested by the
+affected State, provide promptly the necessary assistance to eliminate actual
+and possible harmful effects, including assistance to identify the location of
+the area of impact of the nuclear power source on the Earth’s surface, to
+detect the re-entered material and to carry out retrieval or clean-up
+operations;
+
+(b) All States, other than the launching State, with relevant
+technical capabilities and international organizations with such technical
+capabilities shall, to the extent possible, provide necessary assistance upon
+request by an affected State.
+
+In providing the assistance in accordance with subparagraphs (a) and (b)
+above, the special needs of developing countries shall be taken into account.
+
+Principle 8. Responsibility
+
+In accordance with article VI of the Treaty on Principles Governing the
+Activities of States in the Exploration and Use of Outer Space, including the
+Moon and Other Celestial Bodies, States shall bear international
+responsibility for national activities involving the use of nuclear power
+
+A/RES/47/68
+Page 7
+
+sources in outer space, whether such activities are carried on by governmental
+agencies or by non-governmental entities, and for assuring that such national
+activities are carried out in conformity with that Treaty and the
+recommendations contained in these Principles. When activities in outer space
+involving the use of nuclear power sources are carried on by an international
+organization, responsibility for compliance with the aforesaid Treaty and the
+recommendations contained in these Principles shall be borne both by the
+international organization and by the States participating in it.
+
+Principle 9. Liability and compensation
+
+1. In accordance with article VII of the Treaty on Principles Governing the
+Activities of States in the Exploration and Use of Outer Space, including the
+Moon and Other Celestial Bodies, and the provisions of the Convention on
+International Liability for Damage Caused by Space Objects, 4/ each State
+which launches or procures the launching of a space object and each State from
+whose territory or facility a space object is launched shall be
+internationally liable for damage caused by such space objects or their
+component parts. This fully applies to the case of such a space object
+carrying a nuclear power source on board. Whenever two or more States jointly
+launch such a space object, they shall be jointly and severally liable for any
+damage caused, in accordance with article V of the above-mentioned Convention.
+
+2. The compensation that such States shall be liable to pay under the
+aforesaid Convention for damage shall be determined in accordance with
+international law and the principles of justice and equity, in order to
+provide such reparation in respect of the damage as will restore the person,
+natural or juridical, State or international organization on whose behalf a
+claim is presented to the condition which would have existed if the damage had
+not occurred.
+
+3. For the purposes of this principle, compensation shall include
+reimbursement of the duly substantiated expenses for search, recovery and
+clean-up operations, including expenses for assistance received from third
+parties.
+
+Principle 10. Settlement of disputes
+Any dispute resulting from the application of these Principles shall be
+
+resolved through negotiations or other established procedures for the peaceful
+settlement of disputes, in accordance with the Charter of the United Nations.
+
+Principle 11. Review and revision
+
+These Principles shall be reopened for revision by the Committee on the
+Peaceful Uses of Outer Space no later than two years after their adoption.
+
+85th plenary meetin
+14 December 1992
+
+4/ Resolution 2777 (XXVI), annex.

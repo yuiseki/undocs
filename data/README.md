@@ -22,8 +22,10 @@ configs:
 
 # UN Documents
 
-The text of 37,499 United Nations General Assembly and Security Council
-documents, 1945 to 2023, extracted from the PDFs the UN publishes.
+The text of 39,363 United Nations General Assembly and Security Council
+documents, 1945 to 2023. Every PDF the UN publishes for these symbols is here:
+37,499 carry a text layer, and the remaining 1,864 are scans, read with
+tesseract.
 
 Code and provenance: https://github.com/yuiseki/undocs
 
@@ -31,13 +33,13 @@ Code and provenance: https://github.com/yuiseki/undocs
 
 | | |
 | --- | --- |
-| Documents | 37,499 |
-| Characters | 1,228,066,480 |
-| Median document | 8,723 characters |
+| Documents | 39,363 |
+| Characters | 1,312,301,724 |
+| Median document | 8,918 characters |
 | Range | 204 to 5,271,307 characters |
 | Years | 1945 to 2023 |
-| Security Council (`S/`) | 20,605 |
-| General Assembly (`A/`) | 16,894 |
+| From the PDF text layer | 37,499 |
+| Read with tesseract | 1,864 |
 | Languages | en |
 
 Every decade is represented: about 950 documents from the 1940s, 2,400 from the
@@ -52,6 +54,7 @@ decades is the UN's own, not the collection's.
 | `lang` | ISO 639-1 |
 | `body` | extracted text |
 | `n_chars` | length of `body` |
+| `text_source` | `pdf` or `ocr` |
 | `pdf` | path to the source PDF in the repository, where it is kept |
 | `date_distributed` | date from the `Distr.` header, ISO 8601 |
 | `date_adopted` | date the body states the resolution was adopted |
@@ -72,7 +75,7 @@ adopted in December and distributed in late January.
 | `date_distributed` | 19,283 |
 | `date_other` | 16,695 |
 | `date_adopted` | 8,206 |
-| no date found | 832 |
+| no date found | 996 |
 
 Every date is checked against the year the symbol implies, whether that year is
 written out, as in `S/RES/2728 (2024)`, or carried by a General Assembly session
@@ -80,12 +83,20 @@ number, where session N opens in September of 1945 + N. A date more than a year
 away from it comes from something the body cites rather than from the document,
 and is dropped.
 
-## What is not here
+## The 1,864 that were read from images
 
-**1,864 documents yield no text.** They are scans, mostly General Assembly
-supplements from around 1950: `A/1251` is 76 pages, `A/10034(SUPP)` is 18 MB.
-They are in the repository as PDFs and absent from this table. Nothing short of
-OCR will read them.
+These are scans with no text layer, mostly General Assembly supplements from
+around 1950: `A/1251` is 76 pages, `A/10034(SUPP)` is 196. tesseract 5.5 read
+them at 300 dpi, 18,811 pages in all, adding 84,235,244 characters.
+
+`text_source` says which is which. Filter on it if the distinction matters:
+what tesseract produces is a reading of an image, not something a publisher
+wrote down. It is good but not perfect. In a 200-file sample, 0.6% of
+characters fall outside the ordinary set of letters, digits and punctuation,
+and errors cluster in document symbols and small print: `S/26347` is read as
+`$/26347`. Body text and place names come through.
+
+## What is not here
 
 **Only English.** The other five official languages are collected by the same
 scraper and are not done.
