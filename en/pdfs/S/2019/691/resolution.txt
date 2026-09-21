@@ -1,0 +1,4829 @@
+S/2019/691*
+
+United Nations
+
+Security Council
+
+Distr.: General
+30 August 2019
+Original: English
+
+Note by the President of the Security Council
+In paragraph 2 of resolution 2464 (2019), the Security Council requested the
+Panel of Experts established pursuant to resolution 1874 (2009) to provide a midterm
+report to the Council with its findings and recommendations.
+Accordingly, the President hereby circulates the report received from the Panel
+of Experts (see annex).
+
+* Reissued for technical reasons on 4 December 2019.
+
+19-13211* (E)
+
+041219
+
+*1913211*
+
+S/2019/691
+
+Annex
+Letter dated 27 August 2019 from the Panel of Experts established
+pursuant to resolution 1874 (2009) addressed to the President of
+the Security Council
+The Panel of Experts established pursuant to Security Council resolution 1874
+(2009) has the honour to transmit herewith, in accordance with paragraph 2 of
+Security Council resolution 2464 (2019), the midterm report on its work.
+The attached report was provided to the Security Council Committee established
+pursuant to resolution 1718 (2006) on 31 July 2019 and was considered by the
+Committee on 26 August 2019.
+The Panel would appreciate it if the present letter and its enclosure were brought
+to the attention of the members of the Security Council and issued as a document of
+the Council.
+Panel of Experts established pursuant to Security Council
+resolution 1874 (2009)
+
+2/142
+
+19-13211
+
+S/2019/691
+
+Enclosure
+Letter dated 31 July 2019 from the Panel of Experts established
+pursuant to resolution 1874 (2009) addressed to the Chair of the
+Security Council Committee established pursuant to
+resolution 1718 (2006)
+The Panel of Experts established pursuant to Security Council resolutio n 1874
+(2009) has the honour to transmit herewith, in accordance with paragraph 2 of
+Security Council resolution 2464 (2019), the midterm report on its work.
+The Panel would appreciate it if the present letter and its annex were brought to
+the attention of the members of the Security Council Committee established pursuant
+to resolution 1718 (2006).
+Panel of Experts established pursuant to Security Council
+resolution 1874 (2009)
+
+19-13211
+
+3/142
+
+S/2019/691
+
+Report of the Panel of Experts established pursuant to
+resolution 1874 (2009)
+Summary
+During the reporting period, the Democratic People’s Republic of Korea
+continued to enhance its nuclear and missile programmes, although it did not conduct
+a nuclear test or intercontinental ballistic missile launch. Missile launches in May and
+July of 2019 enhanced its overall ballistic missile capabilities. While there have been
+continued diplomatic efforts, including at the highest levels, to achieve the verifiable
+denuclearization of the Korean Peninsula in a peaceful manner, a nd generally lower
+levels of tension on the Peninsula, the investigations carried out by the Panel of
+Experts show continued violations of the resolutions. For example, the Democratic
+People’s Republic of Korea continued to violate sanctions through ongoing illicit shipto-ship transfers and the procurement of weapons of mass destruction -related items
+and luxury goods. These and other sanctions violations are facilitated through the
+country’s access to the global financial system, through bank representatives and
+networks operating worldwide. The Democratic People’s Republic of Korea has also
+used cyberspace to launch increasingly sophisticated attacks to steal funds from
+financial institutions and cryptocurrency exchanges to generate income.
+Ongoing deficiencies in the implementation by Member States of financial
+sanctions, combined with the deceptive practices of the Democratic People ’s Republic
+of Korea, enabled the country to continue to access the international financial system.
+Democratic People’s Republic of Korea financial institutions, including designated
+banks, maintain more than 30 overseas representatives controlling bank accounts and
+facilitating transactions, including for illicit transfe rs of coal and petroleum. The
+country’s bank representatives and designated entities make use of complicit foreign
+nationals to obfuscate their activities. The Panel also investigated the widespread and
+increasingly sophisticated use by the Democratic People’s Republic of Korea of cyber
+means to illegally force the transfer of funds from financial institutions and
+cryptocurrency exchanges, launder stolen proceeds and generate income in evasion of
+financial sanctions. In particular, large-scale attacks against cryptocurrency exchanges
+allow the Democratic People’s Republic of Korea to generate income in ways that are
+harder to trace and subject to less government oversight and regulation than the
+traditional banking sector. Democratic People’s Republic of Korea cyber actors, many
+operating under the direction of the Reconnaissance General Bureau, raise money for
+the country’s weapons of mass destruction programmes, with total proceeds to date
+estimated at up to $2 billion.
+Representatives of designated entities, including the Korea Mining Development
+Trading Corporation, Saeng Pil and Namchongang, continued to operate overseas,
+including under diplomatic cover, attempting to transfer conventional weapons and
+expertise and to procure equipment and technology for the weapons of mass
+destruction programmes of the Democratic People’s Republic of Korea. The Munitions
+Industry Department and other designated entities continued to raise funds for those
+programmes, including through the overseas dispatch of information technology
+workers. The Reconnaissance General Bureau and other designated entities such as the
+Mansudae Overseas Project Group also engaged in the import of luxury goods and the
+attempted sale of frozen assets overseas.
+The Democratic People’s Republic of Korea continued unabated its ship-to-ship
+transfers, in violation of the resolutions. The Panel identified new evasion techniques,
+including the use of class B Automatic Identification Systems by feeder vessels and
+multiple transfers using smaller vessels. The Panel received a report from the United
+4/142
+
+19-13211
+
+S/2019/691
+
+States of America and 25 other Member States containing imagery, data, calculations
+and an assessment that the annual cap for 2019, as set by the Security Council, of the
+aggregate amount of 500,000 barrels of refined petroleum transferred to the
+Democratic People’s Republic of Korea, had been exceeded in the first four months of
+2019. The Panel also received a response to this from the Russian Federation that, at
+the present stage, it would be premature for the Security Council Committee
+established pursuant to resolution 1718 (2006) to make a conclusive determination and
+to cease refined petroleum imports. It also received a response from China that more
+evidence and information were needed to make a jud gment on the issue.
+The Panel noted that sanctions measures were not intended to have adverse
+humanitarian consequences for the civilian population of the Democratic People ’s
+Republic of Korea or the work of international and non-governmental organizations
+carrying out assistance and relief activities in the country. While the averag e time for
+the processing of exemption requests has been reduced, there has been no restoration
+of a banking channel, hindering the ongoing operations of United Nations and
+humanitarian organizations.
+The Panel recommends a series of designations and pra ctical measures in order
+to provide the Security Council, the 1718 Committee and Member States additional
+tools by which to address the current challenges and shortcomings in the
+implementation of the resolutions.
+
+19-13211
+
+5/142
+
+S/2019/691
+
+Contents
+Page
+
+I.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7
+
+II.
+
+Sectoral and maritime sanctions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7
+
+III.
+
+Embargoes, designated individuals and entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+IV.
+
+Finance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+
+V.
+
+Recent activities related to the nuclear and ballistic missile programmes . . . . . . . . . . . . . . . . .
+
+31
+
+VI.
+
+Unintended impact of sanctions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+32
+
+VII.
+
+Member State reporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+33
+
+VIII.
+
+Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+33
+
+Annexes* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+35
+
+* The annexes are being circulated in the language of submission only and without formal
+editing.
+6/142
+
+19-13211
+
+S/2019/691
+
+I. Introduction
+1.
+In paragraph 2 of its resolution 2464 (2019), the Security Council requested the
+Panel of Experts to provide to the Committee a midterm report with its findings and
+recommendations, as requested in paragraph 43 of resolution 2321 (2016). The
+present report covers the period from 2 February to 2 August 2019.
+
+II. Sectoral and maritime sanctions
+Ship-to-ship transfers
+Ship-to-ship transfers and direct delivery of petroleum products
+2.
+The Democratic People’s Republic of Korea has continued to violate the
+resolutions through the conducting of illicit ship -to-ship transfers as a primary means
+of importing refined petroleum.
+3.
+The Panel received a report containing updated data covering the period
+1 January to 23 April 2019 on tanker deliveries of refined petroleum products into the
+Democratic People’s Republic of Korea. That communication, provided by the United
+States of America to the Security Council Committee established pursuant to
+resolution 1718 (2006) on 11 June 2019 and supported by 25 other co-signatories, 1
+included a request for the Committee to make an immediate determination tha t the
+petroleum “cap has been breached, and to subsequently notify UN Member States of
+the breach and confirm that all subsequent transfers of refined petroleum to the DPRK
+must immediately halt” (see annex 1). The Russian Federation responded on 18 June
+2019 that, “at the current stage it is premature for the Committee to make a conclusive
+decision regarding the US proposal and to cease refined petroleum export to the
+DPRK” (see annex 2). China noted on 18 June 2019 that it needed “more evidence
+and information to make a judgment on this issue”.
+4.
+According to the report provided by the United States, the Democratic People ’s
+Republic of Korea would have effectively exceeded the import cap of 500 000 barrels
+(resolution 2397 (2017), para. 5) as at 23 April 2019 under any of three calculated
+scenarios covering the reported 70 deliveries: fully laden tankers, half -laden tankers
+or tankers that were one-third laden. 2 Under the last scenario, assuming each tanker’s
+port call delivered only one third of the identified vessel ’s capacity, the associated
+volume would already have exceeded the annual cap for 2019 by 23 April, when
+added to the petroleum delivery amounts submitted to the Committee by China and
+the Russian Federation. 3 According to the report, under the first scenario, assuming
+fully laden tankers, the import cap would have been exceeded by at least 100 per cent,
+at an estimated total of 1.093 million barrels. In addition to its estimates, the Uni ted
+States also provided the Panel with indicative satellite imagery of illicit petroleum
+products to the Democratic People’s Republic of Korea ports (see figure I) and
+another Member State provided information on illicit ship -to-ship transfers by the
+Democratic People’s Republic of Korea tankers (see figure II). The Russian
+Federation pointed out that it was “still considering the information provided by the
+United States regarding the cases of alleged ship-to-ship transfers of refined
+__________________
+
+The Republic of Korea and the United Kingdom of Great Britain and Northern Ireland also
+joined the 23 co-sponsors (see annex 1).
+2
+This scenario is based on the likely minimum economically viable amount of cargo for a tanker.
+3
+As of April 2019, China had submitted to the 1718 Committee an accumulated amount of
+4,194.43 tons of refined petroleum products exported to the Democratic People’s Republic of
+Korea since January 2019. The Russian Federation submitted an accumulated amount of
+18,974.616 metric tons for the same period. In May, China and the Russian Federation reported
+an additional amount of 1,536.03 tons and 3,208.969 tons, respectively, that had been exported.
+1
+
+19-13211
+
+7/142
+
+S/2019/691
+
+petroleum products to the DPRK, as well as the results of the computer modelling”
+(see annex 2).
+5.
+The Panel has also continued to document the widespread use of concealment
+and obfuscation techniques by the tankers and complicit parties, which, according to
+the Panel, amount to the evasion of the prohibition on illicit ship-to-ship transfers of
+petroleum to the Democratic People’s Republic of Korea. There were undeclared
+direct deliveries in violation of the reporting requirement on petroleum product
+imports (see resolution 2397 (2017), para. 5). Economic indicators reflecting overall
+stable prices for gasoline and diesel within the Democratic People ’s Republic of
+Korea are indicative of a lack of domestic shortages, notwithstanding international
+sanctions.
+Figure I
+Deliveries at Democratic People’s Republic of Korea ports from February to
+April 2019
+
+Source: Member State; Map: the Panel.
+
+8/142
+
+19-13211
+
+S/2019/691
+
+Figure II
+Illicit ship-to-ship transfers
+Yu Son conducting ship-to-ship transfer with an unidentified vessel
+20 March 2019
+
+Source: Member State.
+
+Un Pha 2 conducting ship-to-ship transfer with an unidentified tanker on
+27 March 2019
+
+Source: Member State.
+
+Mu Bong 1 conducting ship-to-ship transfer with unidentified tanker on
+15 April 2019
+
+Source: Member State.
+
+19-13211
+
+9/142
+
+S/2019/691
+
+Recommendations
+6.
+Member States should report any known transfers to the Committee, as
+required pursuant to the resolutions.
+7.
+Member States should promote information-sharing by international
+commodity traders, tanker fleet owners and operators, and vessel insurers to
+verify the actual destination of tankers in order to prevent evasion through the
+manipulation of Automatic Identification System transmission.
+8.
+The Panel recommends that the 1718 Committee designate the following
+vessels for illicit transfers of petroleum products in violation of paragraph 5 of
+resolution 2397 (2017):
+(a) Un Pha 2 (IMO No. 8966535), flag of the Democratic People’s
+Republic of Korea, for conducting a ship-to-ship transfer with an unknown
+tanker on 27 March 2019;
+(b) Mu Bong 1 (IMO No. 8610461), flag of the Democratic People’s
+Republic of Korea, for conducting a ship-to-ship transfer with an unknown
+tanker on 15 April 2019.
+New evasion methods
+9.
+The Panel notes the ongoing use of already well-documented evasion
+techniques, including Automatic Identification System turn-off; physical disguise; the
+use of small vessels without IMO numbers, name-changing, night transfers and other
+forms of identity fraud. In addition, the Panel found during the period under review
+the use of previously unreported evasion methods to circumvent sanctions.
+Foreign-flagged vessels conducting direct deliveries to Nampo
+10. A Member State has observed cases of direct deliveries by foreign -flagged
+vessels of unreported refined petroleum products to the Democratic People ’s
+Republic of Korea. Examples of such vessels include the deflagged New Regent (IMO
+No. 8312497), the Viet Nam-flagged Viet Tin 01 (IMO No. 8508838) and the Sierra
+Leone-flagged Sen Lin 01 (IMO No. 8910378). These vessels discharged petroleum
+products at Nampo between January and April 2019. The Viet Tin 01 conducted one
+call at Nampo port, while the Sen Lin 01 visited Nampo on 10 separate occasions. The
+New Regent, designated for deflagging and a global port ban, has delivered petroleum
+to Nampo (see figure III) twice in 2019. 4 According to the Member State, the New
+Regent’s designation likely led to a decision by the Democratic People’s Republic of
+Korea to convert the ship from a feeder vessel to a delivery tanker.
+
+__________________
+4
+
+10/142
+
+Mega Glory Holdings stated in an email to the Panel dated 8 July 2019 that it had s old the New
+Regent to another company in April 2018. The Panel noted that, as at 21 Ju ly 2019, maritime
+databases continued to list Mega Glory Holdings as the vessel’s registered owner, ship operator
+and manager. Panel investigations continue.
+19-13211
+
+S/2019/691
+
+Figure III
+New Regent at Nampo for first time
+
+Source: Member State; Map: the Panel.
+
+11. The Viet Tin 01 sailed to Nampo on 26 February to deliver a cargo of refined
+petroleum and departed the next day. The Panel found that the vessel had been
+operating on the basis of a bareboat charter since 4 January 2019. 5 The company
+“Happy Shipping Co. Ltd.”, based in Fujian, China, chartered the vessel through a
+Singapore-based company, KLJ Marine Services Pte. Ltd. (see annex 3). Viet Nam
+informed the Panel that the Viet Tin 01’s owner, Viet Trust Shipping Corporation, had
+been unsuccessful in contacting the bareboat charterer to reclaim its vessel. A Member
+State informed the Panel that contact between the vessel owner and Happy Shipping
+Co. Ltd. had been conducted through the individual broker, K.S. Kwek. 6 Mr. Kwek
+stated to the Panel that he had only provided personal translation services. The Panel’s
+investigation continues.
+12. The Viet Tin 01’s last recorded port of call was Singapore between 30 January
+and 2 February 2019. Documents indicated that the port of discharge for the cargo
+was Ulsan, Republic of Korea (see annex 4), but the Viet Tin 01’s Automatic
+Identification System on 2 February 2019 at first indicated its next port as Nampo,
+though this was then changed an hour later to Kaohsiung. It subsequently loitered off
+Kaohsiung from 13 to 16 February, before heading for Nampo (see figure IV). The
+vessel’s Automatic Identification System was turned off for most of its voyage in the
+month leading up to its Nampo port call. The Government of Viet Nam is
+investigating, and, from its own investigations, Singapore has provided information
+on the port call and on the 5,108 barrels of petroleum cargo.
+
+__________________
+
+A chartering arrangement, whereby no crew or provisions are included as part of the agreement
+and are instead the responsibility of the renter.
+6
+Mr. Kwek’s company is a different company from KLJ Marine Services Pte Ltd. Mr. Kwek has
+denied any business or personal relations with KLJ Marine Services Pte Ltd.
+5
+
+19-13211
+
+11/142
+
+S/2019/691
+
+Figure IV
+Route of the Viet Tin 01 and satellite imagery of the Nampo oil dock (38° 42′
+55″ N 125° 22′ 04″ E) on 26 February 2019 showing a vessel with a similar
+dimension at Nampo
+
+Source: Windward.
+
+Source: Planet Labs, Inc.
+
+Vessel disguise techniques
+13. A Member State provided to the Panel evidence of a merchant tanker operating
+in the East China Sea on 19 March 2019 with its Automatic Identification System
+switched off while carrying out a ship-to-ship transfer with another smaller
+unidentified feeder vessel. The larger vessel had, in part, painted over its IMO number
+but “8916293”, still visible, correlates with the designated Saebyol (also known as
+Chong Rim 2). The vessel’s name, likewise painted over, was embossed with the name
+“Venus”. Figure V shows a heavily laden vessel (feeder 1) approaching the Saebyol,
+while another vessel appearing unladen (feeder 2) has detached post ship -to-ship fuel
+transfer. Feeder 1 showed indications of readiness for a ship-to-ship transfer with
+rigged hoses on deck and fenders out. A nearby oil slick indicates a just completed
+ship-to-ship transfer with feeder 2.
+
+12/142
+
+19-13211
+
+S/2019/691
+
+Figure V
+Saebyol conducting ship-to-ship transfer on 19 March 2019 and feeder 2
+transmitting as a “fishing vessel” and potentially acting as decoy locator
+
+Source: Member State.
+
+14. In a new technique, feeder 2 appeared to be utilizing a class B Automatic
+Identification System transponder identifying itself as a fi shing vessel to obfuscate
+its identity and limit its range of detection. Feeder 2 could also have been serving as
+a homing locator 7 for potential transfer vessels on behalf of the Saebyol with its
+Automatic Identification System switched off.
+Returning feeder vessels
+15. Feeder vessels returned to conduct successive ship-to-ship transfers with the
+Democratic People’s Republic of Korea tanker An San 1 (IMO No. 7303803) in the
+East China Sea on 13 and 14 May 2019. Those transfers averaged 1.5 hours and took
+place at dawn and dusk on consecutive days (see figure VI) using smaller vess els
+lacking identifiers, probably to avoid aerial surveillance.
+
+__________________
+7
+
+19-13211
+
+Automatic Identification System class B transponders are used by vessels that fall below the
+threshold for compulsory Automatic Identification System fitment (class A) required under the
+International Convention for the Safety of Life at Sea, 1974, such as small fishing vessels. While
+class B units have less functionality and reduced power and range, they operate and communicate
+with class A units used on vessels of 300 or more gross tonnage.
+13/142
+
+S/2019/691
+
+Figure VI
+Ships of unknown nationality conducting ship-to-ship transfers with the tanker
+An San 1 over two consecutive days
+
+Source: Member State.
+
+16. The information provided above by different Member States involving the
+Saebyol and the An San 1 illustrates that Democratic People’s Republic of Korea
+tankers are meeting with multiple vessels to ens ure fuller loads before returning to
+the country to discharge their illicit cargo.
+Owners, operators and managers
+17. Vessels conducting ship-to-ship transfer or delivering refined petroleum directly
+to the Democratic People’s Republic of Korea are typically smaller ships with a
+deadweight tonnage of between 1,000 and 20,000 tons and older vessels of between
+30 and 35 years of age. The registered owners of such vessels own, in general, small
+fleets of up to four vessels and appear to be recently established shell or front
+companies listed under third-party ship operators in a different jurisdiction.
+Coal shipments
+Transfers of coal at sea
+18. The Democratic People’s Republic of Korea continues to violate the ban on coal
+exports established under resolution 2371 (2017). According to a Member State, it is
+believed to have exported a total of 930,000 metric tons of coal through at least 127
+deliveries 8 during the first four months of 2019.
+19. The Member State provided to the Panel images showing vessels loaded with
+coal off the Ningbo-Zhoushan port area, which it identified as Democratic People ’s
+Republic of Korea-associated vessels (see figures VII and VIII). China replied that
+“the information provided by the Panel lacks timeliness and cannot lead to on-site
+investigation. The information of relevant vessels is ambiguous and lacks accuracy,
+__________________
+8
+
+14/142
+
+The estimated value of the coal, based on $100 per metric ton, is calculated at approximately
+$93 million by the Member State supplying the information.
+19-13211
+
+S/2019/691
+
+which does not constitute a full evidence chain or basis for further investigation ” (see
+annex 6.1).
+Figure VII
+Democratic People’s Republic of Korea-flagged Jang Jin Gang preparing to
+conduct a ship-to-ship transfer near Ningbo with the aid of a floating crane
+
+Source: Member State; Map: the Panel.
+
+Figure VIII
+Five Democratic People’s Republic of Korea-associated vessels in the Ningbo
+area and another three vessels associated with the country on the same day
+
+Source: Member State; Map: the Panel.
+
+20. The Panel received imagery showing the Democratic People ’s Republic of
+Korea vessels Paek Yang San (IMO No. 9020534), Ka Rim Chon (IMO No. 8314811),
+Pho Phyong (IMO No. 8417962) and Tae Yang (IMO No. 8306929) conducting shipto-ship transfers of coal to lighters in the Gulf of Tonkin between September and
+October 2018 (see annex 5) (see figure IX). The Member State also provided images
+of lighters berthed at Qisha (see figure X) and in an anchorage area around the coal
+pier (see figure XI). China replied that “the information provided by the Panel lacks
+timeliness and cannot lead to on-site investigation. The information of relevant
+vessels is ambiguous and lacks accuracy, which does not constitute a full evidence
+chain or basis for further investigation.”; and “all of the coal vessels berthed at Qisha
+port have legal importing documents, and the origin of the coal is not the DPRK. In
+fact, most of the bulk cargo ships are very similar in shape, and it is imprudent to
+make association between the vessels involved in the ship-to-ship transfers with the
+ones berthed at Qisha port merely based on the satellite images” (see annex 6.1).
+
+19-13211
+
+15/142
+
+S/2019/691
+
+Figure IX
+Ship-to-ship transfer of coal in the Gulf of Tonkin
+
+Source: Member State; Map: the Panel.
+
+Figure X
+Lighters delivering coal to the port of Qisha
+
+Source: Member State; Map: the Panel.
+
+Figure XI
+Specific anchorage area for lighters
+
+Source: Member State, Map: the Panel.
+
+16/142
+
+19-13211
+
+S/2019/691
+
+Recommendations
+21. Given that Democratic People’s Republic of Korea vessels use lighters to
+avoid port calls, port authorities should engage in heightened scrutiny of such
+vessels through the verification of documentation, including certificates of
+origin, manifests and bills of lading, and seize, inspect and impound any vessel
+suspected of transporting prohibited items (resolution 2397 (2017), para. 9).
+22. The Panel recommends that the 1718 Committee designate the following
+Democratic People’s Republic of Korea vessels in violation of paragraph 8 of
+resolution 2371 (2017):
+(a) Paek Yang San (IMO No. 9020534), for conducting a ship-to-ship
+transfer on 5 September 2018;
+(b) Ka Rim Chon (IMO No. 8314811), for conducting a ship-to-ship
+transfer on 21 September 2018;
+(c) Pho Phyong (IMO No. 8417962), for conducting a ship-to-ship transfer
+on 24 October 2018;
+(d) Tae Yang (IMO No. 8306929), for conducting a ship-to-ship transfer
+on 25 October 2018.
+Investigations of the Democratic People’s Republic of Korea coal in
+third countries
+23. In March 2019, the Republic of Korea reported to the Committee that it had
+additionally indicted an individual and two companies involved in prohibited coal
+exports through Kholmsk by the Democratic People’s Republic of Korea in 2017
+(S/2019/171, para. 37). It also reported that it had submitted six individuals and five
+entities to the Public Prosecutor’s Office, based on its investigations into two
+additional cases of prohibited coal exports by the Democratic People ’s Republic of
+Korea between December 2017 and June 2018. A total of 14,840 metric tons of coal
+were brought in after trans-shipment in third countries. The Republic of Korea applied
+a national port entry ban against additional vessels in relation to those ca ses (see table
+below).
+Table
+National port entry bans applied by the Republic of Korea since August 2018
+
+Source: Member State, the Panel.
+
+Democratic People’s Republic of Korea-originated coal from the Wise Honest
+24. The Panel continued to investigate and track the illicit coal shipment initially
+carried onboard the Democratic People’s Republic of Korea-flagged vessel Wise
+Honest (IMO No. 8905490), which had been detained by Indonesia on 4 April 2018
+for falsely declaring its flag as Sierra Leone. Since then, its captain, Kim Chung Son,
+
+19-13211
+
+17/142
+
+S/2019/691
+
+has been fined 9 for violating shipping regulations and, together with the crew,
+deported from Indonesia. The Panel has also continued its investigations into the
+company, Enermax, listed as the buyer of the coal on board the Wise Honest (see
+paras. 52–53). According to the United States, “more than $750,000 were transmitted
+through accounts at a U.S. financial institution in connection with the March 2018
+shipment of coal on board the Wise Honest”. 10
+25. According to the United States, 10 the Wise Honest was the only vessel registered
+to the Korea Songi Shipping Company (for information on the payment for the coal,
+see para. 52). The United States also reported the vessel as being controlled by the
+Korea Songi General Trading Corporation (also known as the Songi Trading
+Company), which is “subordinate to the KPA [Korean People’s Army] and involved
+in exporting DPRK coal”. 10
+26. Following a court order in November 2018 from the District Court in
+Balikpapan, Indonesia, 11 the coal was “returned” to the Indonesian broker, Eko
+Setyamoko, who had originally been involved in the brokering of coal onboard the
+Wise Honest. The 26,500 metric tons of illicit coal was transferred from the Wise
+Honest to the Panama-flagged Dong Thanh (IMO No. 9180035). The Dong Thanh
+then sailed for the Malaysian port of Kemaman on 13 April 2019 under instructions
+of the operator Qingdao Global Shipping Co. Ltd (see annex 7), arriving on 19 April
+when it was refused entry. Malaysian authorities provided the Panel with documents
+showing that the shipper, Pt. Bara Makmur Sadayana, which is also Mr. Setyamoko ’s
+company (see annex 8), 12 falsely labelled the coal as of Indonesian origin (see figure
+XII). 13 The Panel’s investigations into the Wise Honest coal transactions revealed the
+various certificates of origin issued contained fraudulent information (see annex 9).
+
+__________________
+
+The fine was set at 400,000,000 rupiah or approximately $28,500.
+See Case 1:19-cv-04210, filed on 9 May 2019, United States District Court, Southern District of
+New York.
+11
+See Case No. 682/Pid.B/2018/PN.BPP, ruling of 22 November 2019, Balikpapan Court of First
+Instance.
+12
+S/2019/171, annex 19, and according to Indonesian court documents.
+13
+Mr. Setyamoko appealed to the court for approval for the coal to be sold on the basis that the
+price for coal was decreasing (page 3 of ruling No. 682/Pid.B/2018/PN Bpp). The contractual
+value was $2,990,000.
+9
+
+10
+
+18/142
+
+19-13211
+
+S/2019/691
+
+Figure XII
+Document falsely listing the coal as of Indonesian origin
+
+Source: the Panel.
+
+27. The decision by the District Court to release the illicit coal and approve its
+re-export by the same broker who had facilitated the illegal transaction once again
+demonstrates the clear need for Member States to prioritize the incorporation of
+Security Council resolutions into national law. The lack of such a legal framework
+allows the Democratic People’s Republic of Korea and complicit actors to exploit
+shortcomings. Indonesia has initiated a review of its legal framework to ensure that
+its obligations under the resolutions are met. This case also highlights the ongoing
+involvement of the Democratic People’s Republic of Korea embassies and their
+diplomats in the circumvention of sanctions measures. 14
+28. The Dong Thanh’s time charterer informed the Panel that, because the vessel
+had been carrying coal from the Wise Honest, it was unable to enter port and had
+sailed for Vung Tau, Viet Nam, pending a decision on the disposal of its cargo
+(resolution 2937 (2017), para. 9). Viet Nam confirmed the vessel’s arrival in its
+internal waters in the area of Ba Ria-Vung Tau on 6 June 2019 and that its customs
+authority had interdicted the vessel and was investigating the case. The Panel
+identified a link between the ship operator of the Dong Thanh, Qingdao Global
+Shipping Co. Ltd, now known as Qingdao Global Shipping Group Ltd, 15 and the Wise
+Honest. A payment to Qingdao Global was made in 2018 from an account used to
+fund the Wise Honest’s transactions. Qingdao Global told the Panel that the payment
+was to compensate them for a non-delivery of coal from the “White Honest” [sic] to
+its vessel Ken Orchid (IMO No. 9598153). Documents supplied by Qingdao Global
+show that Ken Orchid was chartered to trans-ship the coal onboard the Wise Honest
+
+__________________
+
+Paragraph 13 of resolution 2270 (2016) and paragraph 17 of resolution 2321 (2016). See also
+S/2019/171, para. 36.
+15
+Qingdao Global informed the Panel it was aware that the cargo carried on board the Dong Thanh
+was from the Wise Honest but legal to export under court order and “can be treated cgo from
+Indonesia to export instead of Russian cgo origin, and by that time we hv no any info that such
+cgo suspected saction cgo under UN on watch” (sic).
+14
+
+19-13211
+
+19/142
+
+S/2019/691
+
+to Pohang, Republic of Korea (see annex 10). The document details match the content
+of a contract that lists Enermax as its consignee. 16
+Recommendation
+29. The Panel recommends that the 1718 Committee designate the Wise
+Honest’s captain, Kim Chung Son, its owner Korea Songi Shipping Company
+(IMO No. 5607043) and Korea Songi General Trading Corporation for their role
+in violating sanctions.
+Prohibited fishing activities
+30. Two Member States provided the Panel with information showing the
+continuation of fishing rights transfers, including an image of a fishing vessel of a
+third country displaying a fishing permit number plate issued by the Democratic
+People’s Republic of Korea (see figure XIII).
+Figure XIII
+Fishing vessel displaying the name “琼东渔 12122” with the Democratic
+People’s Republic of Korea fishing permit number plate
+
+Source: Member State.
+
+31. One Member State also reported that it had encountered fishing vessels from a
+third country heading towards Democratic People’s Republic of Korea fishing zones
+without fishing permit number plates. In communication with those vessels, the crews
+responded that they had already sent applications for fishing right certificates to the
+Democratic People’s Republic of Korea and would receive the permits upon arrival
+in the country’s fishing zones. The crews also stated that those permits would be
+handed over to them at sea by a command vessel from the third country, which had
+picked up the permit number plates in advance at Wonsan port. They also s tated that
+Democratic People’s Republic of Korea patrol boats would sometimes deliver fishing
+certificates directly to their vessels, possibly to avoid international monitoring. To the
+Panel’s enquiry, China replied: “Chinese authorities have prohibited ocean fishing
+operations in the DPRK sea areas” and “琼东渔 12122 is not a fishing vessel legally
+registered in China. The flag state and vessel identification could not be verified
+simply based on the painted ship name” (see annex 6.2).
+
+__________________
+16
+
+20/142
+
+The documents show that the volume and value of the coal scheduled to be trans -shipped from
+the Wise Honest to the Ken Orchid match with the figures in the contract between Enermax and
+Hong Kong Nova International Trade Company (S/2019/171, annex 17).
+19-13211
+
+S/2019/691
+
+III. Embargoes, designated individuals and entities
+32. Although the Panel notes that instances of military cooperation appear to have
+been declining as more Member States have complied with resolutions, it also notes
+ongoing illicit activities by Democratic People’s Republic of Korea nationals and
+individuals of third countries in violation of the resolutions.
+33. The Panel has yet to receive replies to its requests for information on military
+cooperation from countries, including the Democratic Republic of the Congo, Eritrea,
+Libya, Myanmar, Uganda, the United Republic of Tanzania and Yemen.
+Islamic Republic of Iran
+34. With regard to its ongoing investigations into military cooperation with the
+Democratic People’s Republic of Korea (S/2019/171, para. 72), a Member State
+indicated to the Panel that two designated entities, KOMID and Saeng Pil , maintain
+active offices in the Islamic Republic of Iran and that at least three KOMID
+representatives remain in the Islamic Republic of Iran under diplomatic cover. On
+30 July 2019, the Islamic Republic of Iran replied to the Panel rejecting the Member
+State’s indications (see annex 11).
+Namibia
+35. A Member State reported to the Panel a possible visit of Kim Tong Chol, 17 the
+former representative of “M.O.P. Architectural & Technical Service (NAMIBIA)”, 18
+seeking to sell its assets in Namibia. Namibia replied to the Panel that, after his
+departure in September 2017, Kim returned to Namibia two times on tourist visas in
+a new service passport before exiting in May 2019 (see anne x 12).
+Recommendation
+36. Member States should enhance the monitoring of re-entry into their
+territory by individuals who worked for designated entities, using past records
+and biometric data.
+Rwanda
+37. A Member State indicated that Democratic People’s Republic of Korea nationals
+in Rwanda are conducting special forces training at a military camp in Gabiro. The
+Panel has requested information from Rwanda.
+Syrian Arab Republic
+38. With regard to its investigations into the activities of De mocratic People’s
+Republic of Korea nationals in the Syrian Arab Republic and Syrian arms brokers’
+attempts to sell the Democratic People’s Republic of Korea-originated military
+equipment in the Middle East and Africa (S/2019/171, paras. 86–92), the Panel
+continues to receive information from Member States that these activities are
+ongoing. The Panel received only a general reply from the Syrian Arab Republic in
+January 2019 but no substantive information.
+
+__________________
+17
+18
+
+19-13211
+
+Date of birth 7 August 1968.
+Namibian subsidiary of the Mansudae Overseas Project Group of Companies (S/2018/171,
+para. 108; S/2019/171, para. 79).
+21/142
+
+S/2019/691
+
+Uganda
+39. Member States indicated the presence of KOMID and the provision of
+specialized training is ongoing and that Democratic People ’s Republic of Korea
+workers remain in the country (S/2019/171, paras. 93–94). The Panel awaits replies
+from Uganda to multiple enquiries.
+Seizure of Mansudae paintings
+40. In January 2019, the Ministry of Unification of the Republic of Korea stated
+that its customs service at Incheon Airport had seized paintings of Mansudae Art
+Studio purchased by some members of the World Federation of Korean Association
+of Commerce during its business visit to Pyongyang in November 2018. To the
+Panel’s enquiries, the Republic of Korea replied that, of 19 paintings, it had seized
+10 and 9 had been transferred to third countries.
+Munitions Industry Department and information technology workers
+41. A Member State informed the Panel that the Democratic People ’s Republic of
+Korea Munitions Industry Department, an entity designated for its supervisory role in
+the development of the country’s nuclear and ballistic missile programmes (KPe.028),
+is using its subordinate trading corporations (see annex 13) to station abroad
+information technology workers such as software programmers and developers in
+order to earn foreign currency.
+42. According to the Member State, hundreds of information technology workers are
+deployed overseas in Europe, Asia, Africa and the Middle East, earning on average
+$3,000 to 5,000 a month and paying a significant portion of their earnings to
+Democratic People’s Republic of Korea entities that control the workers. To obscure
+their nationality and identity, they employ an operational model whereby a local citizen
+serves as a nominal head of a company that, in fact, is run by Democratic People’s
+Republic of Korea developers who, in turn, pay the company for their cover. These
+workers also use foreign websites to obtain freelance work while disguising their
+identity. Alongside non-malicious information technology work, the Democratic
+People’s Republic of Korea information technology workers conduct illicit work
+involving the theft of assets such as cryptocurrency in support of Democratic People ’s
+Republic of Korea cyber actors in the evasion of financial sanctions ( see paras. 57–68).
+Nuclear program procurement: pressure transducers
+43. The Panel found that pressure transducers with appearance and model numbers
+very similar to the products investigated and reported in the Panel ’s last report
+(S/2019/171, para. 65) were advertised by other retailers. When products are not
+directly exported, the manufacturer’s end user controls may not apply. The Panel
+continues to investigate possible procurement routes.
+Luxury goods
+44. The Democratic People’s Republic of Korea has continued to import luxury
+goods in violation of sanctions.
+45. A Mercedes-Maybach S-class limousine was observed first in Pyongyang and
+then in Hanoi during the United States-Democratic People’s Republic of Korea
+summit in February 2019. Daimler AG confirmed to the Panel that the images were
+of vehicles produced by the company, with modifications by another party. Daimler
+could not determine the date of production or sale without more information and
+stated that it had complied with all relevant applicable embargoes and did no business
+with the Democratic People’s Republic of Korea.
+22/142
+
+19-13211
+
+S/2019/691
+
+46. With regard to the Mercedes-Maybach S-class, Mercedes-Benz S-600 vehicles
+and at least one Toyota Land Cruiser transferred into Viet Nam for the United StatesDemocratic People’s Republic of Korea summit in Hanoi, Viet Nam responded that its
+request for the Democratic People’s Republic of Korea delegation to enter Viet Nam
+for the summit had been approved by the 1718 Committee. Viet Nam indicated that it
+had requested information several times on the number and type of vehicles brought
+into Viet Nam, but the Democratic People’s Republic of Korea never provided that
+information, citing security reasons. It was underlined in a recent investigative report 19
+that two armoured Mercedes-Maybach S-600 vehicles originated in Germany and were
+shipped through various countries before possibly being transported to the Democratic
+People’s Republic of Korea in October 2018.
+47. A Member State informed the Panel of the seizure of two shipments of vodka,
+classified as luxury goods in this Member State, and ultimately destined for the
+Democratic People’s Republic of Korea. See annex 14 for the Panel’s preliminary
+findings.
+48. The Panel obtained information that the Taesong department store in
+Pyongyang, which was reopened in April 2019 after renovation and is selling luxury
+goods, is part of the Taesong Group, which includes designated entities Korea
+Taesong Trading Company (KPe.041) and Korea Daesong Bank (KPe.035), and is
+under the direction of Office 39 (KPe.030) and previously linked with Democratic
+People’s Republic of Korea proliferation and procurement for its ballistic missile
+programmes.
+
+IV. Finance
+49. The Panel’s investigations show that the Democratic People’s Republic of
+Korea enjoys ongoing access to the international financial system, that its networks
+continue to evade financial sanctions in ways that make it difficult to detect illicit
+activity and that Member States continue to fail to take the measures required under
+the resolutions, including the expulsion of Democratic People ’s Republic of Korea
+bank representatives operating abroad. The increasing scope and sophistication of
+cyberattacks by the Democratic People’s Republic of Korea to steal funds from
+financial institutions and cryptocurrency exchanges also allows the country to evade
+financial sanctions and generate income in ways that are harder to trace and subject
+to less government oversight and regulation. A Member State informed the Panel that
+the proportion of revenue received from attacks by Democratic People ’s Republic of
+Korea cyber actors has grown in relation to income generated through other activities.
+Bank representatives of the Democratic People’s Republic of Korea abroad
+50. The Panel continued its investigation into more than 30 representatives of
+financial institutions of the Democratic People’s Republic of Korea operating abroad,
+including from the Tanchon Commercial Bank, Korea Kumgang Bank, Foreign Trade
+Bank, Cheil Credit Bank, Daesong Bank, Ilsim International Bank, Bank of East
+Land, Daedong Credit Bank, Unification Development Bank and Ryugyong
+Commercial Bank. The Panel found those banks to be operating through
+representatives in China, Indonesia (see para. 52), Libya, the Russian Federation, the
+Syrian Arab Republic and the United Arab Emirates (see annexes 15 and 16, which
+contain replies received from the relevant Member States). The Panel notes that all
+the above-mentioned Member States must expel all individuals acting on behalf of a
+
+__________________
+19
+
+19-13211
+
+See C4ADS, Lux & Loaded: Exposing North Korea’s Strategic Procurement Networks (July 2019).
+23/142
+
+S/2019/691
+
+financial institution of the Democratic People’s Republic of Korea in accordance with
+paragraph 33 of resolution 2321 (2016).
+51. Overseas Democratic People’s Republic of Korea bank representatives continue
+to play an active role in brokering networks for ship-to-ship transfers and other related
+violations using third-country brokers and other financial evasion techniques. One of
+those representatives had previously been investigated by the Panel for the illicit
+financial trade in arms and related materiel. 20
+Financial and contractual arrangements for coal and petroleum transfers
+52. The Panel investigated the evasion techniques used in c ontractual and financial
+arrangements and transactions, including the trans-shipment of the coal aboard the
+Wise Honest. Trans-shipment costs for the transfer were paid by a Democratic
+People’s Republic of Korea overseas bank representative for Jinmyong Jo int Bank,
+who arranged a transfer of $760,000 through Huitong Minerals and routed through a
+financial institution in the United States (see annex 17). Similar evasion techniques
+were seen in the financial arrangements associated with the sale of a $2,990,0 00 coal
+shipment aboard the vessel that was the subject of a contract between the Republic of
+Korea company Enermax (as final recipient) and the Hong Kong Nova International
+Trade Company (as seller). While Enermax claimed to the Panel that it had agreed t o
+purchase “Indonesian coal” from a “local broker in Indonesia”, the company was
+unable to substantiate those assertions, stating that all relevant email communications
+had been “deleted”. 21 In addition, Enermax did not find anything suspicious about a
+“local Indonesian broker” issuing all contracts, paperwork and financing for the coal
+procurement through a company based in Hong Kong specialized in a completely
+different area (selling cigarette manufacturing machinery). Enermax did not seek to
+undertake any due diligence before signing a contract requiring it to transfer
+$3 million (an unprecedented transaction for the company) to the Hong Kong -based
+bank account of Hong Kong Nova International Trade Company and could not
+identify the representative who had signed the contract for the company.
+53. Just seven months later, Enermax was again listed as the consignee on a bill of
+lading for a shipment of 2,588 metric tons of coal from Nakhodka to Pohang port on
+1 November 2018 aboard the DN5505 on the return trip from shipping two armoured
+Mercedes-Benz vehicles that reportedly ended up in the Democratic People ’s
+Republic of Korea in violation of sanctions. 22 The consigner for the armoured vehicles
+was the same as for the coal purchased by Enerma x, Do Young Shipping, a Marshall
+Islands shell company that is also the owner and ship manager for the DN5505. With
+regard to the origin of the coal, the Republic of Korea detained the DN5505 in Pohang
+for importing Democratic People’s Republic of Korea coal from Nakhodka in
+February and referenced the DN5505’s coal import in November 2018 (see annexes
+18 and 19). Similar to its explanation for purchasing the “Indonesian coal”, Enermax
+claimed in a press interview that it had taken another local broker at h is word that the
+
+__________________
+
+For example, Ko Il Hwan of Korea Daesong Bank. See S/2019/171, para. 21, and annex 32;
+S/2017/150, paras. 225, 227 and 230.
+21
+The Chief Executive Officer of Enermax did not reply to the Panel’s questions about how he had
+learned about the deal and come into contact with the local Indonesia broker for it (he had not
+been to Indonesia in years). Enermax maintains an extremely low company profi le for a deal of
+this magnitude. It does not have a company website and has not reported its annual sales figures
+since 2014.
+22
+C4ADS, Lux & Loaded: Exposing North Korea’s Strategic Procurement Networks (16 July
+2019), pp. 41–42.
+20
+
+24/142
+
+19-13211
+
+S/2019/691
+
+coal originated in the Russian Federation. 23 The Panel did not receive replies from
+Enermax to its latest enquiries on its involvement in cases of the import of Democratic
+People’s Republic of Korea-originated coal into the Republic of Korea.
+Financial operations of designated entities and Democratic People’s Republic of
+Korea diplomats 24
+54. With regard to the ongoing financial activities and assets of Reconnaissance
+General Bureau agents, including Kim Sou Gwang (also known as Kim Sou -gwang,
+Son-kwang KIM, KIM Son-gwang, KIM Su-kwang), Ms. Kim Su Gyong (aka Kim
+Su Kyong), Kim Yong Nam and their family members, the Panel investigated the
+payment of rental income from apartments owned by Kim Sou Gwang in Paris and
+Rome. While the rental income on his Paris apartment has been frozen, the real estate
+company was permitted to transfer amounts of it for the payment of taxes (but not to
+Kim Sou Gwang himself). The payments were transferred to a French national
+residing in China working with a Chinese company. Subsequent information revealed
+that this French national is connected to Kim and that the payments were likely still
+reaching him. France is investigating the case, with a view to ensuring the effective
+implementation of the assets freeze. This case highlights the importance of Member
+States freezing the assets of all individuals and entities working on behalf of
+designated individuals and entities.
+55. With regard to Kim Sou Gwang’s Rome apartment, 25 Italy indicated to the Panel
+in July 2018 that the monthly rental income of 850 euros was being transferred to an
+account held by Kim in an Italian financial institution, which had a then -balance of
+4,071.16 euros. Italy also indicated that its Ministry of Finance had informed the
+lessee that the rent should no longer be paid to Kim but rather to an administrator
+identified and named by the State Property Office who would manage the property.
+56. Kim Chol Yong, a Democratic People’s Republic of Korea diplomat who
+arranged an attempted shipment of four generator units to the Democratic People’s
+Republic of Korea through East Asia in 2016 (interdicted by the Netherlands), has
+served as a Democratic People’s Republic of Korea diplomat in France for many years
+and has established multiple bank accounts in the European Union using numerous
+evasion techniques (S/2019/171, paras. 120–123). While France ordered the closure
+of his accounts, along with those of other Democratic People ’s Republic of Korea
+diplomats in accordance with paragraph 16 of resolution 2321 (2016), the Panel
+learned about reported recent business activities by Kim on behalf of Democratic
+People’s Republic of Korea entities and made enquiries with France. 26 In addition,
+Austria replied to the Panel’s enquiry regarding its investigation on attempts by the
+Democratic People’s Republic of Korea Embassy in Vienna to release funds from a
+frozen account of Korea Ungum Corporation to pay for an outstanding salary to an
+individual allegedly working for that company. Austria confirmed that those requests
+__________________
+
+See Edward Wong and Christoph Koetti, “How North Korea’s leader gets his luxury cars”, New
+York Times, 16 July 2019. In another interview on the case, an Enermax official tried to defend
+Do Young Shipping and the DN5505 by arguing that it was not feasible for the vessel to transport
+vehicles on the basis of its structure and design, which he had seen in person. See “Vessel seized
+by South Korea exported armored limos, imported coal: report ”, NK Pro, 16 July 2019.
+24
+For the Panel’s previous reporting on this issue, see S/2019/171, para. 126; S/2018/171,
+paras. 169–172; S/2017/742, para. 50.
+25
+Address: Via Mar della Cina 179/Viale della Grande Muraglia Ci nese 484, Rome. The apartment
+has been under lease since 15 November 2016.
+26
+The Panel welcomes information provided by France that it had been conducting outreach with
+its financial institutions on the risks relating to Democratic People ’s Republic of Korea
+diplomats, including the sharing of lists of accredited Democratic People ’s Republic of Korea
+diplomats in France and other European Union countries, in line with the Panel’s
+recommendation to Member States in this regard (S/2019/171, para. 161).
+23
+
+19-13211
+
+25/142
+
+S/2019/691
+
+were refused, the alleged employee of the company was the Embassy’s accredited
+administrative and technical staff member and that any such work of that individual
+would be in breach of the resolutions and article 42 of the Vienna Convention on
+Consular Relations (see annex 20).
+Evasion of financial sanctions through cyber means
+57. The Panel continued its investigations into the evasion by the Democratic
+People’s Republic of Korea of financial sanctions through cyber means to illegally
+force the transfer of funds from financial institutions and cryptocurrency exchanges,
+launder stolen proceeds and generate income, whether in fiat or cryp tocurrency. 27
+Based on information provided by Member States and open source reports, the Panel
+is undertaking investigations of at least 35 reported instances of Democratic People ’s
+Republic of Korea actors attacking financial institutions, cryptocurrency exchanges
+and mining activity designed to earn foreign currency, including in the following
+Member States: Bangladesh (2 cases), Chile (2), Costa Rica (1), the Gambia (1),
+Guatemala (1), India (3), Kuwait (1), Liberia (1), Malaysia (1), Malta (1), Nigeria (1),
+Poland (1), the Republic of Korea (10), Slovenia (1), South Africa (1), Tunisia (1)
+and Viet Nam (1) (see annex 21). 28 The Panel is investigating such attacks as
+attempted sanctions violations by Democratic People’s Republic of Korea cyber
+actors of paragraph 8 (d) of resolution 1718 (2006), paragraphs 8 and 11 of resolution
+2094 (2013) and paragraph 32 of resolution 2270 (2016). The Panel’s investigations
+show a marked increase in the scope and sophistication of cyberactivities, including
+attacks in violation of financial sanctions. Some estimates placed the amount illegally
+acquired by the Democratic People’s Republic of Korea at as much as $2 billion.
+58. The main cyberactivities carried out by Democratic People ’s Republic of Korea
+actors have included the following: attacks through the Society for Worldwide
+Interbank Financial Telecommunication (SWIFT) network (with bank employee
+computers and infrastructure accessed to send fraudulent messages and destroy
+evidence), the theft of cryptocurrency (through attacks on both exchanges and users)
+and the mining of cryptocurrency as a source of funds for a professional branch of the
+military. In one notable example, Democratic People’s Republic of Korea cyber actors
+gained access to the infrastructure managing entire automatic teller machine networks
+of a Member State for the purposes of installing malware modifying transaction
+processing in order to force 10,000 cash distributions to individuals working for or
+on behalf of the Democratic People’s Republic of Korea across more than 20
+countries in five hours. 29 That operation required large numbers of people on the
+ground, which suggests extensive coordination with Democratic People ’s Republic
+of Korea nationals working abroad and possible cooperation with organized crime.
+
+__________________
+
+The act of generating revenue with cybertools and obfuscating and laundering through cyber
+means constitutes sanctions evasion. For previous Panel reporting, see S/2019/171, paras. 109–118.
+According to a Member State, Democratic People’s Republic of Korea actors use cyberspace as an
+asymmetric means to engage in the theft of military technology in violation of an arms embargo;
+revenue operations; cyberblackmail and extortion campaigns; hacking for pay; and the movement
+of money.
+28
+Replies from Member States to the Panel’s enquiries to date are contained in annexes 20 and 23.
+The Panel has requested that all relevant Member States provide information on the re sults of
+their investigations, including technical information on tactics used by the attackers, patterns of
+attack, attribution, information on other cyberattacks attribut able to the Democratic People’s
+Republic of Korea or carried out in a similar manner, or any measures taken to address the
+attacks and prevent such attacks from occurring in the future.
+29
+See “FASTCash: How the Lazarus Group is emptying millions from ATM s”, Symantec,
+2 October 2018. Available at www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atmmalware.
+27
+
+26/142
+
+19-13211
+
+S/2019/691
+
+59. With regard to the foreign currency earned through cyberattacks, a ccording to
+one Member State, “These activities contribute to the DPRK’s WMD programme”.
+Implementing such attacks is low risk and high yield, 30 often requiring minimal
+resources (e.g., a laptop and Internet access). That Member State indicated that the
+increasing sophistication of the attacks, combined with advances in global technology
+and digitization, results in growing attack surfaces and an expanding selection of
+targets for those actors, leading to an increase in vulnerable countries and sectors,
+given that cyberdefence is never absolute.
+60. The Panel had previously established the role of the Reconnaissance General
+Bureau in cyberattacks by the Democratic People’s Republic of Korea (S/2019/171,
+paras. 109–118), further confirmed by a Member State that stated that many
+Democratic People’s Republic of Korea cyber actors are subordinate to the Bureau.
+That Member State added that the Democratic People’s Republic of Korea has an
+elaborate selection process for its cyber units, with recruits being selected at a very
+young age and given specialized training, mostly by the military and secret services.
+The Panel notes that different Member States and companies employ their own
+naming conventions for Democratic People’s Republic of Korea-linked advanced
+persistent threats. 31
+61. A Member State highlighted that attacks by Democratic People ’s Republic of
+Korea actors also demonstrate increasing sophistication in social engineering. In an
+attack against Redbanc, an interbank network in Chile, Democratic People’s Republic
+of Korea hackers approached a target employee through LinkedIn with a job
+opportunity followed by an entire interview over Skype in Spanish to build trust
+before asking the target to download malware. 32 For information on patterns and
+methods of attacks, see annex 22.
+62. Democratic People’s Republic of Korea cyber actors steal cryptocurrency, use
+it to launder proceeds in evasion of financial sanctions and mine it through
+cryptojacking attacks for the purposes of revenue generation. According to a Member
+State, cryptocurrency attacks allow the Democratic People ’s Republic of Korea to
+more readily use the proceeds of their attacks abroad. In order to obfuscate their
+activities, attackers use a digital version of layering in which they create thousands
+of transactions in real time through one-time use cryptocurrency wallets. According
+to that Member State, stolen funds following one attack in 2018 were transferred
+through at least 5,000 separate transactions and further routed to multiple countries
+before eventual conversion to fiat currency, making it highly difficult to track the
+funds.
+63. Another Member State informed the Panel that the “DPRK mostly attacks ROK
+crypto currency exchanges from within the DPRK”. While Democratic People’s
+Republic of Korea cyberattacks on Republic of Korea targets have been increasing in
+number, sophistication and scope since 2008, 33 including a clear shift in 2016 to
+attacks focused on generating financial revenue. In 2019, Democratic People’s
+Republic of Korea cyber actors shifted focus to targeting cryptocurrency exchanges.
+Some cryptocurrency exchanges have been attacked multiple times. Bithumb was
+reportedly attacked by Democratic People’s Republic of Korea cyber actors at least
+__________________
+
+While the chances of being detected and punished are low, the potential benefit is high.
+Investigation and attribution processes are complex, and there is a low risk of reprisal because
+the Democratic People’s Republic of Korea has limited Internet access.
+31
+These include APT 37, APT 38, Hidden Cobra, the Lazarus Group, the Reaper Group, Labyrinth
+Chollima, Stardust Chollima, Velvet Chollima, the Kimsuky Group, Lab 110 and Bureau 121.
+32
+See “Así fue el intento de ciberataque a Redbanc en diciembre”, TrendTIC. 10 January 2019.
+33
+The Republic of Korea has come under dozens of attacks by Democratic People’s Republic of
+Korea cyber actors since 2008 on various targets, including banks, government and military
+targets, power plants, corporate entities and the media.
+30
+
+19-13211
+
+27/142
+
+S/2019/691
+
+four times. The first two attacks, in February and July 2017, resulted in losses of
+approximately $7 million each, with subsequent attacks in June 2018 and March 2019
+resulting in the loss of $31 million and $20 million, respectively, showing the
+increased capacity and determination of Democratic People’s Republic of Korea
+cyber actors. Similarly, Youbit (formerly Yapizon) suffered multiple attacks involving
+a $4.8 million loss in April 2017 and then 17 per cent of its overall assets in Dec ember
+2017, forcing the exchange to close. Those attacks, along with an attack on UpBit on
+28 May 2019, used similar tools, codes and attack vectors (including spear phishing
+and watering holes) to those used in previous cyberattacks on security and defenc e
+targets attributed to the Democratic People’s Republic of Korea. 34 In addition to the
+Republic of Korea, the Panel investigated Democratic People ’s Republic of Korea
+attacks on cryptocurrency exchanges in five other countries (see annex 21 B).
+64. With regard to laundering the proceeds of attacks through cryptocurrency, the
+worldwide WannaCry ransomware attacks in May 2017, which affected more than
+200,000 computers in 150 countries, demanded ransom payments in the Bitcoin
+cryptocurrency. A Member State investigation found that the cryptocurrency obtained
+through WannaCry malware had been laundered through multiple virtual currencies
+and multiple jurisdictions to obfuscate transactions.
+65. Bitcoin ransom payments made by victims of WannaCry were transferred from
+a Bitcoin wallet through cryptocurrency exchanges and ultimately converted to
+Monero, another cryptocurrency, using a Swiss-based cryptocurrency exchange called
+ShapeShift. 35 Monero is an anonymity-enhanced virtual currency and therefore more
+difficult to trace than standard cryptocurrencies such as Bitcoin, Litecoin or
+Ethereum, which prolongs attribution. The proceeds of the third attack on Bithumb in
+June 2018 were transferred through YoBit. 36 By August 2018, less than two months
+after the attack, the funds were sent to YoBit in a complex series of hundreds of
+transactions with the aim of converting and cashing out the entirety of the stolen
+cryptocurrency (as opposed to spending the acquired cryptocurrency directly on
+goods and services). The above-mentioned cases show a clear evolution from the
+earlier Democratic People’s Republic of Korea cyberattack on the customers of a
+Republic of Korea online shopping mall, Interpark, which was designed to generate
+foreign currency.
+66. The Panel notes that, in addition to Democratic People’s Republic of Korea
+cyberattacks on cryptocurrency exchanges and individual users, Democratic People ’s
+Republic of Korea cyber actors have also engaged in the mining of cryptocurrency. A
+Member State informed the Panel that a professional branch of the Democratic People’s
+Republic of Korea military is engaging in such mining. One open source report noted
+a significant increase in Bitcoin and Monero mining activity within the Democratic
+People’s Republic of Korea, which it attributed to elites and others with Internet access
+within the country. 37 Given the increased anonymity of cryptocurrencies, newly mined
+cryptocurrency can be used to facilitate sanctions-evasion activity.
+__________________
+
+This included the attack Operation Fake Striker carried out earlier in May and an attack on
+7 January 2019 on 77 reporters who previously had contact with the Ministry of Unification.
+35
+See Thomas Brewster. “WannaCry hackers are using this Swiss company to launder $142,000
+Bitcoin ransoms”, Forbes, 3 August 2017.
+36
+The aim of the hackers appears to have been to convert and cash out the entirety of the large
+amount of cryptocurrency that they had stolen, rather than spending the acquired cryptocurrency
+directly on goods and services. See David Carlisle and Kayla Izenman, “Closing the crypto gap”,
+RUSI Occasional Papers, 14 April 2019. See also Thomas Brewster. “WannaCry hackers are
+using this Swiss company to launder $142,000 Bitcoin ransoms ”, Forbes, 3 August 2017.
+Proceeds from WannaCry were also transferred through ShapeShift (Switzerland).
+37
+See Priscilla Moriuchi, “North Korea’s ruling elite adapt Internet behavior to foreign scrutiny”,
+Recorded Future, 25 April 2018.
+34
+
+28/142
+
+19-13211
+
+S/2019/691
+
+67. The panel also investigated alleged instances of cryptojacking, in which
+malware is used to infect a computer for the purposes of illicitly using its resources
+to generate cryptocurrency. In one report, a piece of malware designed to mine
+Monero and send any mined currency to servers located at Kim Il Sung University in
+Pyongyang was analysed. 38 Separately, according to another report, the Republic of
+Korea Financial Security Institute specifically attributed a similar cryptojacking
+attack on an Republic of Korea company’s computer to Democratic People’s Republic
+of Korea hackers. 39 According to the report, the malware is believed to have generated
+approximately $25,000 worth of Monero for the hackers who deployed the malware.
+Given the increased anonymity of Monero, it is difficult to determine t he total amount
+of revenue that the Democratic People’s Republic of Korea may be generating from
+such attacks. Nevertheless, this cryptojacking incident suggests the increasingly
+sophisticated use of cryptojacking by the Democratic Republic of Korea and its
+willingness to use malware to generate cryptocurrency through mining for the benefit
+of the regime.
+68. The Panel takes positive note of information provided by Member States on
+action that they have taken to counter losses due to attacks by Democratic People’s
+Republic of Korea cyber actors (see annex 23).
+Asset-backed cryptocurrency company using blockchain technology to
+generate revenue
+69. Registered in Hong Kong on 12 April 2018, Marine Chain Platform Limited 40
+was set up as a blockchain-enabled platform for vessel transactions that offered partial
+ownership of maritime vessels in exchange for digital tokens. 41 According to a
+Member State, Marine Chain had ties with the Democratic People ’s Republic of
+Korea, and at least one company employee had links to Democratic People’s Republic
+of Korea cyber actors who have extorted Bitcoin from online companies. The Member
+State further indicated that Marine Chain’s start-up funds likely came from the
+extortion of cybercurrencies. The Panel investigated Marine Chain for evasion of
+financial sanctions and the prohibition of cooperative entities pursuant to paragraph
+18 of resolution 2375 (2017).
+70. The Panel’s investigation found that, while Captain Jonathan Foong Kah
+Keong 42 was formally listed as the Chief Executive Officer of Marine Chain Platform
+Limited (Hong Kong Companies Registry No. 2679578), in reality, Julien Kim was
+the owner, sole investor and de facto Chief Executive Officer, directing all company
+activities through orders that he gave to Foong and other consultants. All documents
+and communications issued by Kim were done in the name of his alias, “Tony
+Walker”, with the exception of an internal company phone list describing “Julien Kim
+aka Tony Walker” as “Brain child and main investor” and a consultancy contract that
+__________________
+
+See Chris Doman, “A North Korean Monero cryptocurrency miner”, AlienVault, 8 January 2018.
+See Sam Kim, “North Korean hackers hijack computers to mine cryptocurrencies”, Bloomberg,
+1 January 2018.
+40
+Marine Chain Platform Limited was closed on 17 September 2018. Information from the Inves tor
+Deck and other company documents describing its business plan and activities are contained in
+annex 24.
+41
+According to a Member State, such buying and selling of marine vessels through digital
+tokenization could facilitate the relatively anonymous ownership and management of vessels and
+enable investors to convert their share to other cryptocurre ncy platforms.
+42
+Foong has been active in the maritime industry in Singapore for decades and his company,
+Singclass, has served as the classification society for two Democratic People’s Republic of
+Korea-flagged vessels, the Hung Tae 1 (IMO No. 8604541) and the Pyong Hua (IMO No.
+8510518). Foong was first approached by Kim in October 2017 when Kim presented himself as a
+blockchain expert who, according to Foong, “needed my expertise on shipping issues to ensure
+the success of this start up”.
+38
+39
+
+19-13211
+
+29/142
+
+S/2019/691
+
+Kim had signed with Foong on 18 January 2018 to set out his responsibilities as Kim ’s
+external face and facilitator, with a number of tasks relating to setting up the company
+and bank account and signing all official paperwork (see annexes 25–28).
+71. In terms of the company’s financial operations, Foong undertook multiple
+transfers on behalf of Kim from his company account in a Singaporean financial
+institution. Foong stated, “I would use my Singclass account (which is my business
+separate from Marine Chain) to make some of these payments upon receiving
+payments from Tony and upon Tony’s instructions to pay them. This was because the
+Singclass account was the only USD account that I had”. The payments into the
+account from Kim (in amounts ranging from $30,000 to $150,000) were all done
+through Hong Kong front companies, with a separate company used for each
+transaction. The payments processed by Foong through Singclass Interna tional Pte
+Ltd included some that appeared suspicious (see annex 29). A summary of further
+findings on this case is contained in annex 27.
+Recommendations
+72. The Panel recommends that the Security Council, when drafting future
+sanctions measures, highlight the gravity of cyberattacks carried out by the
+Democratic People’s Republic of Korea to circumvent the resolutions by illegally
+generating revenue for the country.
+73. Member States should ensure that their regulation covers virtual currency
+and non-banking financial institutions and money services businesses, including
+cryptocurrency exchanges. Where appropriate, Member States should take
+regulatory action directed towards financial entities (inclusive of cryptocurrency
+services), with the aim of promoting better online security to reduce the risk of
+future potential cyberattacks by Democratic People’s Republic of Korea actors.
+74. Member States should ensure that their financial institutions, including
+banks and cryptocurrency exchanges, take independent steps to protect against
+malicious Democratic People’s Republic of Korea cyberactivities. These steps
+include participating in information-sharing on threats with other financial
+institutions through organizations such as the Financial Services Information
+Sharing and Analysis Center, designing compartmentalized computer systems to
+isolate any attacks, maintaining regular backup copies of their data, undertaking
+awareness training on common social engineering tactics, implementing policies
+governing the sharing of information and access of systems, and developing
+response plans in the event of an attack.
+75. Member States should ensure that cryptocurrency exchanges share the
+same obligations assigned to banks to prevent the laundering of funds, such as
+to monitor suspicious transactions, provide Governments with information on
+accounts after attacks, freeze assets of sanctioned entities under their control and
+block transactions believed to be emanating from accounts controlled by or
+associated with malicious actors.
+76. Member States should enhance their ability to facilitate robust information
+exchange both at the national level (through successful interagency
+collaboration) and internationally (information-sharing initiatives and
+collaboration on financial sector threats) to detect and prevent attempts by the
+Democratic People’s Republic of Korea to employ its cybercapabilities for
+sanctions evasion. Best practices should be shared among Governments and
+passed on to relevant private entities.
+
+30/142
+
+19-13211
+
+S/2019/691
+
+V. Recent activities related to the nuclear and ballistic
+missile programmes
+Nuclear
+77. The nuclear programme of the Democratic People’s Republic of Korea
+continues to operate, notwithstanding the absence of nuclear testing and the closure
+of the test site at Punggye-ri. There have been no observed indications of operation
+of the 5 MW (e) reactor in Yongbyon during the reporting period. Multiple Member
+States reported to the Panel that they could not determine whether the fuel rods had
+been moved to the reprocessing facility. The construction of the light water reactor
+continues. Repeated dredging has been observed along the Kuryong River. Occasional
+activity was observed at the radiochemical laboratory, which one Member State
+indicated could be for maintenance. Another Member State assessed that the
+Yongbyon uranium enrichment facility continues to operate.
+78. The first Member State reported that the uranium concentration complex and
+mining sites in Pyongsan remain operational. The Panel continues its monitoring of
+other nuclear-related facilities.
+79. In addition, the Panel is further conducting its “choke point” items survey
+(S/2019/171, para. 66) (see annex 31).
+Strengthening the capacity of the ballistic missile programme for autonomy,
+integration and deterrence
+80. The new class of short-range ballistic 43 missile (S/2019/171, annex 84.4)
+launched on 4 and 9 May 2019 and two missiles referred to by the Korean Central
+News Agency as a “new-type tactical guided weapon”, 44 launched on 24 July 2019,
+are evidence of the ability of the Democratic People ’s Republic of Korea to master
+key components of ballistic missile systems, including solid rocket fuel production,
+mobility through the use of different types of transporter erector launcher and th e
+capacity to penetrate ballistic missile defence systems. 45 In June 2019, Member States
+provided assessments to the Panel regarding the comprehensive and autonomous
+nature of the integrated ballistic missile programme of the Democratic People’s
+Republic of Korea in which advances in the short-range ballistic missile programme
+increase the effectiveness of the entire ballistic missile programme. Notwithstanding
+sanctions, the Democratic People’s Republic of Korea has managed to indigenize the
+entire missile production chain (annex 32, para. 4, and S/2019/171, annex 84.5).
+Nevertheless, the Democratic People’s Republic of Korea continues its activities
+abroad, including sales, procurement and technical cooperati on to benefit its ballistic
+missile programmes and for financial gain (annex 32, para. 6).
+81. The Democratic People’s Republic of Korea is continuously improving the
+dispersed, concealed underground infrastructure of its ballistic missile programme,
+including the rail network on which it depends (annex 32, para. 5, and S/2019/171,
+annex 84.3).
+
+__________________
+
+Some experts expressed an opinion that projectiles launched on 4 and 9 May 2019 were “tactical
+guided weapons” and not short-range ballistic missiles and were similar to the projectiles
+launched on 24 July 2019.
+44
+Korean Central News Agency, 26 July 2019.
+45
+Annex 32, paras. 1–3. The new submarine reported by the Korean Central News Agency on
+22 July could be a possible platform for sea-launched ballistic missiles.
+43
+
+19-13211
+
+31/142
+
+S/2019/691
+
+Figure XIV
+Short-range ballistic missile launch on 4 May 2019 from Wonsan Hodo peninsula 46
+
+Source: Korean Central News Agency (left); Planet Labs, Inc. (right).
+
+VI. Unintended impact of sanctions
+82. According to paragraph 25 of resolution 2397 (2017), sanctions measures are
+not intended to have adverse humanitarian consequences for the civilian population
+of the Democratic People’s Republic of Korea or negatively affect the work of
+international and non-governmental organizations carrying out assistance and relief
+activities in the country for the benefit of the civilian population there. In the 2019
+needs and priorities report for the Democratic People ’s Republic of Korea, the
+resident coordinator stated “the situation for millions of people in the DPR Korea
+(DPRK) remains grim. The country’s most vulnerable people struggle with food
+insecurity and undernutrition and lack of access to basic services. As a result, around
+10.9 million people remain in need of humanitarian assistance to cover their food,
+nutrition, health and water, sanitation and hygiene needs”. 47 The Panel is aware of
+ongoing reports that United Nations sanctions cause unintended negative
+humanitarian consequences (e.g., in health care, water and sanitation and nutrition for
+vulnerable groups).
+83. In its previous final report, the Panel identified six main areas of concern
+communicated by United Nations agencies and humanitarian operations in which
+unintended consequences had adversely affected the operation of their humanitarian
+programmes in the Democratic People’s Republic of Korea (S/2019/171, para. 176).
+Two leading concerns were delays in receiving exemptions from the Committee and
+the collapse of the banking channel. On 6 August 2018, the Committee adopted
+“Implementation Assistance Notice No. 7: guidelines for obtaining exemptions to
+deliver humanitarian assistance to the Democratic People ’s Republic of Korea”. 48
+While the average time between the receipt and approval of exemption requests has
+been significantly reduced, 49 there has been no restoration of a banking channel. This,
+together with the practice by financial institutions of rejecting all transactions tied up
+to high-risk jurisdictions, has continued to hinder the programmes of United Nations
+__________________
+
+Short-range ballistic missile launch site (39°24'32.25"N 127°31'53.63"E) on 04 May 2019 and
+smoke trace at 01:54:39 UTC.
+47
+See 2019 DPR Korea Needs and Priorities, a report from the resident coordinator for the
+Democratic People’s Republic of Korea (March 2019).
+48
+Available at www.un.org/securitycouncil/sites/www.un.org.securitycouncil/files/1718_
+implementation_assistance_notice_7.pdf.
+49
+From February 2019 to the time of writing, the Committee granted 16 approval s. Information
+about the exemptions approved by the Committee are posted on the website. See
+www.un.org/sc/suborg/en/sanctions/1718/exemptions-measures/humanitarian-exemption-requests.
+46
+
+32/142
+
+19-13211
+
+S/2019/691
+
+agencies and humanitarian organizations, with adverse consequences for the civilian
+population of the Democratic People’s Republic of Korea.
+Recommendation
+84. The Panel recommends that the Committee be briefed biannually by the
+relevant United Nations agencies on the unintended impact of sanctions on the
+civilian population and on their operations within the Democratic People’s
+Republic of Korea.
+
+VII. Member State reporting
+85. For statistics on recent Member State reporting on resolutions, see annex 33.
+The Panel notes that the quantity and quality of Member State reporting needs to
+improve across the board. The Panel also recalls the deadline for all Member States
+to submit midterm reports on the repatriation of Democratic People’s Republic of
+Korea workers pursuant to paragraph 8 of resolution 2397 (2017). Furthermore,
+considering the uneven quality of the only 37 midter m reports received, the Panel
+underlines the importance of Member States including all the relevant detailed
+information in their submissions.
+
+VIII. Recommendations
+1.
+Member States should report any known transfers to the Committee, as
+required pursuant to the resolutions.
+2.
+Member States should promote information-sharing by international
+commodity traders, tanker fleet owners and operators, and vessel insurers to
+verify the actual destination of tankers in order to prevent evasion through the
+manipulation of Automatic Identification System transmission.
+3.
+The Panel recommends that the 1718 Committee designate the following
+vessels for illicit transfers of petroleum products in violation of paragraph 5 of
+resolution 2397 (2017):
+(a) Un Pha 2 (IMO No. 8966535), flag of the Democratic People’s
+Republic of Korea, for conducting a ship-to-ship transfer with an unknown
+tanker on 27 March 2019;
+(b) Mu Bong 1 (IMO No. 8610461), flag of the Democratic People’s
+Republic of Korea, for conducting a ship-to-ship transfer with an unknown
+tanker on 15 April 2019.
+4.
+Given that Democratic People’s Republic of Korea vessels use lighters to
+avoid port calls, port authorities should engage in the heightened scrutiny of such
+vessels through the verification of documentation, including certificates of
+origin, manifests and bills of lading, and seize, inspect and impound any vessel
+suspected of transporting prohibited items.
+5.
+The Panel recommends that the 1718 Committee designate the following
+Democratic People’s Republic of Korea vessels in violation of paragraph 8 of
+resolution 2371 (2017):
+(a) Paek Yang San (IMO No. 9020534), for conducting a ship-to-ship
+transfer on 5 September 2018;
+(b) Ka Rim Chon (IMO No. 8314811), for conducting a ship-to-ship
+transfer on 21 September 2018;
+19-13211
+
+33/142
+
+S/2019/691
+
+(c) Pho Phyong (IMO No. 8417962), for conducting a ship-to-ship transfer
+on 24 October 2018;
+(d) Tae Yang (IMO No. 8306929), for conducting a ship-to-ship transfer
+on 25 October 2018.
+6.
+The Panel recommends that the Committee designate the Wise Honest’s
+captain, Kim Chung Son, its owner, Korea Songi Shipping Company (IMO
+No. 5607043), and Korea Songi General Trading Corporation for their role in
+violating sanctions.
+7.
+Member States should enhance the monitoring of re-entry into their
+territory by individuals who worked for designated entities, using past records
+and biometric data.
+8.
+The Panel recommends that the Security Council, when drafting future
+sanctions measures, highlight the gravity of cyberattacks carried out by the
+Democratic People’s Republic of Korea to circumvent the resolutions by illegally
+generating revenue for the country.
+9.
+Member States should ensure that their regulation covers virtual currency
+and non-banking financial institutions and money services businesses, including
+cryptocurrency exchanges. Where appropriate, Member States should take
+regulatory action directed towards financial entities (inclusive of cryptocurrency
+services), with the aim of promoting better online security to reduce the risk of
+future potential cyberattacks by Democratic People’s Republic of Korea actors.
+10. Member States should ensure that their financial institutions, including
+banks and cryptocurrency exchanges, take independent steps to protect against
+malicious Democratic People’s Republic of Korea cyberactivities. These steps
+include participating in information-sharing on threats with other financial
+institutions through organizations such as the Financial Services Information
+Sharing and Analysis Center, designing compartmentalized computer systems to
+isolate any attacks, maintaining regular backup copies of their data, undertaking
+awareness training on common social engineering tactics, implementing policies
+governing the sharing of information and access of systems, and developing
+response plans in the event of an attack.
+11. Member States should ensure that cryptocurrency exchanges share the
+same obligations assigned to banks to prevent the laundering of funds such as to
+monitor suspicious transactions, provide Governments with information on
+accounts after attacks, freeze assets of sanctioned entities under their control and
+block transactions believed to be emanating from accounts controlled b y or
+associated with malicious actors.
+12. Member States should enhance their ability to facilitate robust information
+exchange both at the national level (through successful interagency
+collaboration) and internationally (information-sharing initiatives and
+collaboration on financial sector threats) to detect and prevent attempts by the
+Democratic People’s Republic of Korea to employ its cybercapabilities for
+sanctions evasion. Best practices should be shared among Governments and
+passed on to relevant private entities.
+13. The Panel recommends that the Committee be briefed biannually by the
+relevant United Nations agencies on the unintended impact of sanctions on the
+civilian population and on their operations within the Democratic People’s
+Republic of Korea.
+
+34/142
+
+19-13211
+
+S/2019/691
+
+Annex 1: United States submission to the 1718 Committee of 11 June 2019
+
+19-13211
+
+35/142
+
+S/2019/691
+
+36/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+37/142
+
+S/2019/691
+
+38/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+39/142
+
+S/2019/691
+
+40/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+41/142
+
+S/2019/691
+
+42/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+43/142
+
+S/2019/691
+
+44/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+45/142
+
+S/2019/691
+
+46/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+47/142
+
+S/2019/691
+
+48/142
+
+19-13211
+
+S/2019/691
+
+Source: Member State
+
+19-13211
+
+49/142
+
+S/2019/691
+
+Annex 2: Communication of the Russian Federation to the 1718 Committee of
+18 June 2019
+
+Source: Member State
+
+50/142
+
+19-13211
+
+S/2019/691
+
+Annex 3: Bareboat charter agreement of the Viet Tin 01
+
+19-13211
+
+51/142
+
+S/2019/691
+
+52/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+53/142
+
+S/2019/691
+
+54/142
+
+19-13211
+
+S/2019/691
+
+Source: The Panel
+
+19-13211
+
+55/142
+
+S/2019/691
+
+Annex 4: Manifest of cargo loaded onto the Viet Tin 01
+
+Source: Member State
+
+56/142
+
+19-13211
+
+S/2019/691
+
+Annex 5: Vessels documented through imagery conducting ship-to-ship transfers of coal
+off the Gulf of Tonkin and offloaded at Qisha
+#
+
+STS Transfer
+Date
+
+1
+
+5 September
+2018
+
+2
+
+21 September
+2018
+
+3
+
+23 September
+2018
+
+4
+
+24 October
+2018
+
+5
+
+25 October
+2018
+
+6
+
+15 February
+2019
+
+Vessel
+Paek Yang San
+IMO: 9020534
+DPRK-flagged
+Ka Rim Chon
+IMO: 8314811
+DPRK-flagged
+Pho Phyong
+IMO: 8417962
+DPRK-flagged
+Pho Phyong
+IMO: 8417962
+DPRK-flagged
+Tae Yang
+IMO: 8306929
+DPRK-flagged
+Asia Honor
+IMO: 8405220
+Unknown-flagged
+(formerly Comoros-flagged)
+
+Offload Date
+
+By 23 December
+2018
+
+By 27 December
+2018
+
+By 7 March
+2019
+
+Source: Member State
+
+19-13211
+
+57/142
+
+S/2019/691
+
+Annex 6.1: Response from the People’s Republic of China to the queries from
+the Panel
+
+Source: Member State
+
+58/142
+
+19-13211
+
+S/2019/691
+
+Annex 6.2: Response from the People’s Republic of China to the queries from
+the Panel
+
+Source: Member State
+
+19-13211
+
+59/142
+
+S/2019/691
+
+Annex 7: Document showing Qingdao Global Shipping Co Ltd as Dong
+Thanh’s vessel operator
+
+Note: Metro Ocean is the sub-charterer of the Dong Thanh, and is located in the same building as Qingdao Global
+Shipping Group Ltd (former Qingdao Global Shipping Co, Ltd).
+Source: The Panel
+60/142
+
+19-13211
+
+S/2019/691
+
+Annex 8: Eko Setyamoko and Pt. Bara Makmur Sadayana company
+
+19-13211
+
+61/142
+
+S/2019/691
+
+Source: The Panel
+
+62/142
+
+19-13211
+
+S/2019/691
+
+Annex 9: Certificates of origin containing false information
+Certificate of origin for coal on board the Wise Honest
+
+Source: The Panel
+
+19-13211
+
+63/142
+
+S/2019/691
+
+Reply from the Russian Federation on the Certificate of origin for coal on board the Wise Honest
+
+Source: Member State
+
+64/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+65/142
+
+S/2019/691
+
+Certificate of origin carried for coal transshipped from the Wise Honest on board the Dong Thanh
+
+Source: The Panel
+
+66/142
+
+19-13211
+
+S/2019/691
+
+Explanation from Jianlong (Hong Kong) International on the certificate of origin issued for the coal
+on board the Dong Thanh. The company had issued its certificate of origin based on and in addition
+to a certificate of origin issued by Eko Setyamoko ’s company Pt Bara Makmur Sadayana for the
+coal on board the Dong Thanh.
+
+19-13211
+
+67/142
+
+S/2019/691
+
+68/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+69/142
+
+S/2019/691
+
+70/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+71/142
+
+S/2019/691
+
+72/142
+
+19-13211
+
+S/2019/691
+
+Source: The Panel
+
+19-13211
+
+73/142
+
+S/2019/691
+
+Annex 10: Cargo documents prepared for Ken Orchid for the original
+transshipment of coal onboard the Wise Honest in April 2018
+
+74/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+75/142
+
+S/2019/691
+
+Source: The Panel
+
+76/142
+
+19-13211
+
+S/2019/691
+
+Annex 11: Iran’s reply to the Panel
+
+19-13211
+
+77/142
+
+S/2019/691
+
+Source: Member State
+
+78/142
+
+19-13211
+
+S/2019/691
+
+Annex 12: Passport information and recent entry/exit record of Kim Tong Chol
+to Namibia
+Date
+23/09/2017
+24/08/2018
+30/04/2019
+07/05/2019
+17/05/2019
+
+Entry/exit to/from
+Namibia
+Exit
+Entry
+Exit
+Entry
+Exit
+
+Passport number
+
+Passport type
+
+927234267
+108120258
+108120258
+108120258
+108120258
+
+Ordinary
+Service
+Service
+Service
+Service
+
+Source: The Panel, Member State
+
+19-13211
+
+79/142
+
+S/2019/691
+
+Annex 13: List of DPRK Trading Corporations subordinate to the Munitions
+Industry Department (KPe.028) reported by a Member State
+Kuryonggang Trading Corporation (구룡강무역회사)
+Ryungseng Trading Corporation (륭성무역회사)
+Tangun Trading Corporation (단군무역회사)
+Hangryon Trading Corporation (항련무역회사)
+Ryonbong General Corporation (련봉총회사)
+5 Trading Corporation (5 무역회사)
+Pugang Trading Corporation (부강무역회사)
+Mirae Trading Corporation (미래무역회사)
+Ryonhap Trading Corporation (련합무역회사)
+Advanced Technology Trading Corporation (첨단기술무역회사)
+Jinhung Joint Production Corporation (진흥합작회사)
+Sobaeksu United Corporation (소백수련합회사)
+Pihosan Trading Corporation (비호산무역회사)
+Sinhung IT Trading Corporation (신흥정보기술무역회사)
+Chonryong Trading General Corporation (천룡무역총회사)
+Taesong Trading Corporation (조선태성무역회사)
+Peace Motors Corporation (평화자동차회사)
+Taeryonggang Trading Corporation (대령강무역회사)
+
+Source: Member State
+
+80/142
+
+19-13211
+
+S/2019/691
+
+Annex 14: Vodka seizures
+1. A Member State informed the Panel that it seized two shipments of vodka, which it classified as
+luxury goods, on the grounds of being destined for the DPRK.
+2. The first seizure on 20 November 2018 was of 15,600 bottles of Belarusian vodka acquired
+for USD 14,160. The producer was the same as in a previous vodka seizure investigated by the
+Panel in 2018. 50 Documents accompanying the shipment identified the consignee as Hongkong
+Jieming Industrial Co. Limited 51. An addendum dated 28 September 2018 to the contract signed
+six months earlier on 28 March added a Singaporean company, Aspen Resources Pte Ltd 52, a
+human resource agency, as a payer. The owner of the company, Sai Keong Cheang, a.k.a. Jordan
+Cheang 53, replied to the Panel that the USD 14,160 payment had been made at the request of an
+acquaintance, known to him only as “Ms. Li”, for the purchase of red wine. However, the amount
+of payment and payment reference number listed on the payment confirmation is the same as for
+the vodka shipment contract. Furthermore, an e-mail address on this payment confirmation
+indicated that one of his other companies, Mekong International Pte Ltd, 54 had been used to make
+this payment on behalf of Cheang (Figure). The Panel has yet to receive a reply from Hongkong
+Jieming Industrial Co. Limited.
+
+__________________
+
+S/2019/171 paras 105 and 106.
+香港杰明實業有限公司. Address listed on Hong Kong Companies Registry acquired in Ma y 2019:
+Room 1506, 15/F, Loon Kee Building. No. 267-275, Des Voeux Road Central, Hongkong, China. This
+company has frequently changed its registered address and management.
+52
+Address: 190 Macpherson Road, #07-01, Singapore 348548
+53
+Singaporean citizen, born in 1972.
+54
+This company shares an address with Aspen Resources and his seven other companies; Aspen
+Corporation Pte ltd, Aspen Incorporation Pte Ltd, Baron & Baron Pte Ltd , Galaxy Energy Service Pte
+Ltd., Le Tong Resources Pte Ltd, Xtrada Pacific Pte Ltd. Autech Pte Ltd.
+50
+51
+
+19-13211
+
+81/142
+
+S/2019/691
+
+Figure: Payment confirmation
+
+Source: The Panel
+
+3. In a second case, a shipment of 90,000 bottles of Russian vodka for a total of USD 27,125 was
+seized on 21 February 2019. The consignee was a company in Inner Mongolia, Manzhouli
+Kesheng Trade Co., Ltd. 55, which promotes itself as a Russian food importer. To the Panel’s
+inquiry on the shipping company of this vodka, China replied that “Based on the information
+obtained by the Chinese side, DPRK-related factors are not found in this case. China proposes
+that the Panel request relevant Member State to provide solid evidence to show that the DPRK
+is the final destination of the goods. Besides, vodka is not clearly specified as prohibited item by
+the Security Council, and the Panel’s investigation on this case lacks sufficient legal basis.” The
+Panel has yet to receive replies to its inquiries from the consignee 56. Investigation continues.
+__________________
+
+满洲里科圣贸易有限责任公司, Room 170, No. 17 Building, The North Port, Gemini West Tower,
+Manzohuli City, China.
+55
+
+On 29 July 2019, the Russian Federation replied to the Panel’s inquiry to an entity which is the producer and sender of the
+vodka.
+56
+
+82/142
+
+19-13211
+
+19-13211
+
+Annex 15: DPRK bank representatives subject to expulsion under paragraph 33 of resolution 2321 (2016)
+Names
+
+Title and activities
+
+Location
+
+DOB / Passport number / expiry
+UN Security Council designations
+where applicable
+22 Feb 1958; Dip PP no. 836110034,
+exp 1 Jan 2020
+UN res 2270 (2016) designated him
+as “Tanchon Commercial Bank
+Representative in Syria” on 2 March
+2016 (amended 5 Aug. 2017) KPi.016
+25 Aug. 1976 with dip PP number
+836110035, expires 1 January 2020
+
+Jang Bom Su (aka
+Jang Pom Su, Jang
+Hyon U)
+장범수
+
+Tanchon Commercial Bank (hereafter TCB) Representative. Also
+operates in and travels to Lebanon under various aliases
+
+Syria
+
+Jon Myung Guk
+(a.k.a. Cho’n
+Myo’ng-kuk,
+Jon Yong Sang)
+전명국 (전영상)
+Ryom Huibong (aka
+Ryo’M Hu’I-Pong)
+렴희봉
+
+Tanchon Commercial Bank (hereafter TCB) Representative in Syria.
+Also travels to and operates in Lebanon under various aliases.
+
+Syria
+
+Representative of Korea Kumgang Group Bank (aka KKG bank,
+금강은행 Kumgang Export and Import Bank, 金刚银行)
+
+Dubai,
+UAE
+
+18 September 1961 PP No.:
+745120026 (expires 20 January 2020)
+
+Ri Sun Chol (Aka Ri
+Song Chol)
+리선철 (리성철)
+
+Representative of Korea Kumgang Group Bank
+
+Dubai,
+UAE
+
+28 March 1964 PP No.:836132137
+
+Dubai,
+UAE
+
+1 January 1975 PP No.: 563220533
+
+Korea Kumgang Group Bank
+
+UAE
+
+26 May 1983 PP No.: 836434467
+
+Foreign Trade Bank Representative. The office opened at least 5
+accounts at Banque International Arabe Tunisie (BIAT) in Tunisia.
+Two of them are in the name of a front company, Kartos. Kim
+Kyong Il has also been involved in transactions undertaken by
+Daedong Credit Bank in China.
+
+Libya
+
+1 August 1979; PP No. 836210029
+
+Kwak Chongchol
+(Aka Kwak JongChol)
+곽정철
+Ro Il Gwang
+로일광
+Kim Kyong Il (Aka
+Kim Kyo'ng-il
+김경일
+
+Transported money of DPRK laborers in the Middle East to the
+DPRK
+Deputy Representative of Korea Kumgang Group Bank
+
+Res 2397 (2017) designated him as
+“FTB deputy chief representative in
+Libya” on 22 December (KPi.067)
+S/2019/691
+
+83/142
+
+Chu Hyo’k (Aka Ju
+Hyok)
+주혁
+
+Unification Development Bank (or Korea Unification Development
+Bank, UDB or KUDB) representative. Replaced Ri Un’So’ng. Choe
+Un Hyok’s KUDB business card with his title of “Representative of
+KUDB, Moscow Russia” with the same address as the Embassy in
+Moscow is available in the Panel’s 2017 Final Report, S/2017/150 p.
+251.
+Russia replied in a letter of 25 January 2018, “We will inform you
+accordingly in case we receive additional information on the
+whereabouts of Choe Un Hyok.” The Panel has not received any
+additional information in reply to its two follow-up letters.
+Foreign Trade Bank Representative
+Russia replied Chu Hyo’k is not currently residing in Russia. (see
+below)
+
+Ri U’n-so’ng (aka Ri
+Eun Song; Ri Un
+Song)
+리은성
+
+Korea Unification Development Bank representative
+Russia replied that Ri U’n-so’ng is not currently residing in Russia.
+
+Han Jang Su
+(aka Chang-Su Han)
+한장수
+
+Chief Representative of the Foreign Trade Bank
+The Russian Federation replied, Mr. Han Jang Su is the Third
+Secretary of the Commercial Counsellor’s Section of the Embassy of
+the Democratic People’s Republic of Korea to the Russian
+Federation and has been officially accredited by the Russian
+Ministry of Foreign Affairs. He entered the Russian Federation on 23
+June 2017 and is staying in the country legally. No information is
+available concerning activities that are inconsistent with his official
+status.
+Foreign Trade Bank Representative
+
+Ku Ja Hyong (aka
+Ku Cha-hyo'ng)
+구자형
+
+Moscow,
+Russia
+
+Russian
+Federation
+
+19-13211
+
+Libya
+(also
+travelled
+to Tunisia,
+UAE, and
+Saudi
+Arabia
+20152017)
+
+19 October 1985
+PP No.: 83612287 (expires March
+2021)
+
+23 Nov. 1986; PP No. 836420186,
+issued 28 Oct. 2016 (expires 28 Oct
+2021)
+Res 2397 (2017) designated him as an
+“overseas FTB Representative” on 22
+December (KPi.065)
+23 July 1969
+Res 2397 (2017) designated him as
+“overseas Korean Unification
+Development Bank representative” on
+22 December (KPi.078)
+8 Nov. 1969; PP No.: 745420176
+(expires 19 Oct 2020
+Designated by Resolution 2371
+(2017) as “Chief Representative of
+the Foreign Trade Bank”
+
+8 September 1957; PP No.:
+563220533; Another PP No.:
+654210218 (expires 27 June 2019 used in July 2016)
+Res 2397 (2017) designated him as
+“FTB chief representative in Libya”
+on 22 December 2017 (Kpi.070)
+
+S/2019/691
+
+84/142
+
+Choe, Un Hyok
+최은혁
+
+19-13211
+
+Ch’oe So’k-min
+
+Foreign Trade Bank Representative. In 2016, Ch’oe So’k-min was
+the deputy representative at the FTB branch office in Shenyan g. He
+has been associated with cash transfers from that FTB office to
+banks affiliated with DPRK special organizations and RGB located
+overseas.
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+Foreign Trade Bank Representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Shenyang
+China
+
+Foreign Trade Bank Representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Shenyang,
+China
+
+Bank of East Land Representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Dandong,
+China
+
+Korea Daesong Bank Representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Beijing,
+China
+
+Pak Bong Nam (aka
+Lui Wai Ming; Pak
+Pong Nam; Pak
+Pong-nam)
+
+Ilsim International Bank representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Shenyang,
+China
+
+박봉남
+Pak Mun Il
+
+Korea Daesong Bank Representative
+
+Yanji,
+China
+
+최석민
+
+Kim Tong Chol (aka:
+Kim Tong-ch'o'l)
+김동철
+Ko Chol Man (aka
+Ko Ch'o'l-man)
+고철만
+Mun Kyong Hwan
+(aka Mun Kyo'nghwan)
+문경환
+Pae Won Uk (aka
+Pae Wo'n-uk)
+배원욱
+
+Res 2397(2017) designated him as
+“overseas FTB Representative” on 22
+December (KPi.064)
+
+Shenyang,
+China
+
+28 Jan 1966; PP No.: 381337404
+(expires 26 Sept 2016)
+Res 2397 (2017) designated him as
+“overseas FTB representative” on 22
+December (KPi.068)
+30 September 1967; PP No.
+472420180
+Res 2397 (2017) designated him as
+“overseas FTB representative” on 22
+December (KPi.069)
+22 August 1967; PP No. 381120660
+exp. 25 March 2016
+Res 2397 (2017) designated him as
+“overseas Bank of East Land
+representative” on 22 December
+(KPi.071)
+22 August 1969; PP No.: 472120208
+exp 22 Feb 2017
+Res 2397 (2017) designated him as
+“overseas Daesong Bank
+representative” on 22 December
+(KPi.072)
+06 May 1969
+Res 2397 (2017) designated him as
+“overseas Ilsim International Bank
+representative” on 22 December 2017
+(KPi.073)
+1 January 1965; PP No.: 563335509
+(expires 27/8/2018)
+
+85/142
+
+S/2019/691
+
+박문일
+
+25 July 1978
+
+Ri Chun Hwan (Aka
+Ri Ch'un-hwan)
+리춘환
+
+Foreign Trade Bank Representative
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+Zhuhai,
+China
+
+Ri Chun Song (Aka
+Ri Ch'un-so'ng)
+리춘성
+
+Foreign Trade Bank Representative. Opened a Euro account at
+International Arab Bank of Tunisia (BAIT) on 18 July 2012 in the
+name of “Secretary’s Delegate of the DPRK’s Mission to Tripoli”
+(closed on 22 August 2013.
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+Representative for Koryo Bank and Koryo Credit Development
+Bank. Reportedly established front companies to procure items and
+conduct financial transactions on behalf of DPRK
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+Ilsim (ILSIM) International Bank Representative
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Korea Kumgang Group Bank Representative. Has held several
+accounts in his name at Chinese banks and is suspected of operating
+a cover company.
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+
+Beijing,
+China
+
+Ri Song-hyok (Aka
+Li Cheng He)
+리성혁
+
+Pang Su Nam (Aka
+Pang So-Nam, Pang
+Sunam)
+방수남
+
+Cha Sung Jun (Aka
+Ch’a Su’ng-chun)
+차승준
+
+Res 2397 (2017) designated him as
+“overseas official of Korea Daesong
+Bank” on 22 December 2017
+(KPi.079)
+21 August 1957’ PP No: 563233049
+(expires 9 May 2018); PP No.:
+563233049 (expires 9 May 2018)
+Res 2397 (2017) designated him as
+“overseas FTB representative” on 22
+December (KPi.074)
+30 October 1965; PP No. 654133553
+(expires 11 March 2019)
+Res 2397 (2017) designated him as
+“overseas FTB representative” on 22
+December (KPi.075)
+
+Beijing,
+China
+
+Zhuhai,
+China
+
+Beijing,
+China
+
+19 March 1965 PP No. 654234735
+(expires 19 May 2019) Res 2397
+(2017) designated him as “overseas
+representative for Koryo Bank and
+Koryo Credit Development Bank” on
+22 December (KPi.077)
+1 October 1964; PP No.: 472110138
+
+4 June 1966; PP No.: 472434355
+
+S/2019/691
+
+86/142
+
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+
+19-13211
+
+19-13211
+
+Kim Kyong Hyok
+(Aka Kim Kyo’nghyo’k)
+김경혁
+
+Pak Ch’O’l-Nam
+박철남
+
+Jo Chol Song (Aka
+Cho Ch’o’l-So’ng)
+조철성
+
+Ho Young Il (Aka
+Ho’ Yo’ng-il)
+허영일
+
+Kim Mun Chol (Aka
+Kim Mun-ch’o’l)
+김문철
+
+Shanghai,
+China
+
+5 November 1985; PP No.:
+381335989 (expires 14 September
+2016)
+
+Beijing,
+China
+
+16 June 1971 PP No.: 745420413
+(expires 19 November 2020)
+
+Dandong,
+China
+
+25 September 1984
+PP: 654320502 (expires 16 September
+2019)
+Res 2371(2017) designated him as
+“Representative for Korea United
+Development Bank” on 5 Aug
+(KPi.058)
+
+Dandong
+China
+
+DOB: 9 September 1968
+
+Dandong,
+China
+
+DOB 25 March 1957
+Res 2371(2017) designated him as
+“Representative for Korea United
+Development Bank” on 5 Aug
+(KPi.060)
+
+S/2019/691
+
+87/142
+
+Representative, Cheil Credit Bank / First Credit Bank
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Representative, Cheil Credit Bank / First Credit Ban. Opened 6 bank
+accounts in the name “Great Prince Limited (崇王有限公司)”in
+banks in Hong Kong and Shenzhen, China”
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Deputy Representative for the Korea Kwangson Banking
+Corporation (KKBC)
+Uses false entity names for the KKBC, such as “Good Field Trading
+Limited (城豐貿易有限公司)” and “Golden Tiger Investment Group
+(金虎(香港)國際投資集團有限公司)”, both registered in Hong
+Kong.
+China stated, “China has closed all the representative offices of the
+DPRK financial institutions in China, and all the relevant
+representatives in China have left China.”
+Hana Bank Representative
+In 2016, Ho Young Il was associated with a high volume of USD
+transactions for the FTB.
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Representative for Korea United Development Bank. Uses false
+entity names including “Chongryu Technical Company” or “Kyong
+Un Trading Company”
+China replied “that as a designated individual he has been blocked
+from entry and Chinese banks requested the freeze of his assets.
+
+Ilsim International Bank Representative
+
+최천영
+Ko Tae Hun (Aka
+Kim Myong Gi)
+
+Tanchon Commercial Bank Representative
+
+Transited
+China,
+Ethiopia,
+UAE,
+visited
+Sudan 57
+
+Daesong Bank representative who, in late 2016, held Chinese bank
+accounts.
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Representative, Korea Daesong Bank
+As of 2015, Kim Sangho was an Office 39 official posted as a Korea
+Daesong Trading Company representative in Yanji, China.
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Representative, Korea Unification Development Bank. In 2015, he
+was an Office 39 official posted to Hong Kong.
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+
+Beijing,
+China
+
+07 May 1980; PP 563132918 (expires
+04 February 2018)
+
+Yanji,
+China
+
+16 May 1957 PP No.: 563337601
+(expires: 26 September 2018)
+
+Zhuhai,
+China
+
+16 July 1956; PP No.: 918320780
+
+고태훈 (or
+고대훈)
+(aka 김명기)
+Kang Min
+강민
+
+Kim Sang Ho
+김상호
+
+Kim Jong Man (Aka
+Kim Cho’ng Man)
+김정만
+
+19-13211
+
+__________________
+57
+
+See S/2017/150, p. 64
+
+PP no: 654410078
+Res 2371(2017) designated him as
+“Representative for Ilsim
+International Bank” on 5 Aug
+(KPi.054)
+25 May 1972; PP 563120630 (expires
+20 March 2018)
+UN Res 2270 (2016) designated him
+as “Tanchon Commercial Bank (TCB)
+official” on 2 March (KPi.025)
+
+S/2019/691
+
+88/142
+
+Choe Chun Yong
+(Aka Ch’oe Ch’unyo’ng)
+
+19-13211
+
+Kim Hyok Chol
+(Aka Kim Hyo’kCho’l,
+
+Deputy Representative, Korea Unification Development Bank
+
+Hyok Chol Kim
+
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Ryugyong Commercial Bank branch representative (2014 to present)
+China replied, “The other DPRK individuals mentioned in the
+Panel's report are neither included in the sanction list of the Security
+Council resolutions nor registered in China as the representatives of
+the DPRK financial institutions. China cannot verify and confirm
+whether they have relationship with the DPRK financial
+institutions.”
+Korea United Development Bank (KUDB) Representative. Since
+2011 made multiple trips around Europe, especially in France and
+Italy, with the assistance of her father, Kim Yong Nam, and brother,
+Kim Su-Gwang, RGB agents who used their status as staff members
+of international organizations to help her obtain visas. Kim Su Gwang (Kim Sou Kwang) recently departed Belarus. See:
+S/2017/742 para 50 and S/2016/15, para 187.
+
+김혁철
+
+Ri Ho Nam (aka Ri
+Ho-nam)
+리호남
+
+Ms. Kim Su Gyong
+김수경
+
+Zhuhai,
+China
+
+9 July 1978; PP No.: 472235761
+(expires 6 June 2017)
+
+Beijing,
+China
+
+DOB: 3 January 1967; PP No.:
+654120210 (expires 21 February 2019
+
+Europe,
+also
+transited
+UAE and
+the
+Russian
+Federation
+
+DOB: 16 Jan 1973; PP 745120374
+
+58
+
+Mun Cho'ng-Ch'o'l
+문정철
+
+Tanchon Commercial Bank Representative. Has facilitated
+transactions for TCB.
+
+Jong Song Ho
+
+President of the Jinmyong Joint Venture Bank/Jinmyong Joint Bank
+
+Res 2094 (2013) designated him as
+“Tanchon Commercial Bank (TCB)
+official” on 7 March (KPi.012)
+Indonesia
+
+– 진명합영은행. Jong Song Ho helped arranged the sale of a
+shipment of DPRK coal aboard the Wise Honest through an
+Indonesian broker with the final listed recipient being the ROK
+company, Enermax. See S/2019/171, para 36 (business card at Annex
+19).
+
+The Russian Federation informed the Panel that unilateral sanctions were “not an argument for suspicion of unlawful activities on Russian territory”.
+
+S/2019/691
+
+89/142
+
+__________________
+58
+
+Foreign Trade Bank Representative. Russia replied to the Panel, “Mr. Ri
+Jong Won arrived in Russia on 5 February 2018 as an officially accredited
+member of the Embassy of the Democratic People’s Republic of Korea to
+the Russian Federation. It is not known what information was used to
+determine that he is the Moscow-based deputy representative of the
+Foreign Trade Bank. Moreover, according to the available information, he
+returned to the Democratic People’s Republic of Korea on 8 October
+2018.”
+
+DOB 22 Apr 1971; PP PS654320421
+(exp 11 Mar 2019)
+
+Choe Song Nam
+CHOE, Song Nam
+(aka CH'OE, So'ngnam)
+최성남
+
+Representative of Daesong Bank
+
+DOB: 07 Jan 1979; Passport
+563320192 expires 09 Aug 2018
+
+Kim Chol
+KIM, Chol (a.k.a.
+KIM, Ch'o'l)
+
+Representative of Korea United Development Bank
+
+DOB 27 Sep 1964
+
+Representative of Kumgang Bank
+
+DOB 17 Jan 1964
+
+Ko Il Hwan
+KO, Il Hwan (a.k.a.
+KO, Il-hwan)
+고일환
+
+Representative of Korea Daesong Bank. According to a Member
+State, he engaged in transactions for ship-to-ship transfers in 2018
+while acting as representative of Daesong Bank in Shenyang.
+
+DOB 28 August 1967
+Passport 927220424 expires 12 Jun
+2022
+
+Ri Myong Hun
+RI, Myong Hun
+(a.k.a. RI, Myo'nghun)
+리명훈
+Kim Nam Ung
+김남웅
+
+Representative of Foreign Trade Bank
+
+DOB 14 Mar 1969; Gender Male;
+Passport 381420089 expires 11 Oct
+2016
+
+Representative for Ilsim International Bank, which is affiliated with
+the DPRK military and has a close relationship with the Korea
+
+Passport no.: 654110043
+
+김철
+Paek Jong Sam
+PAEK, Jong Sam
+(a.k.a. PAEK,
+Chong-sam)
+백종삼
+
+S/2019/691
+
+90/142
+
+RI, Jong Won (a.k.a.
+RI, Cho'ng-Wo'n;
+a.k.a. RI, Jung Won)
+리정원
+
+19-13211
+
+19-13211
+
+Kwangson Banking Corporation. Ilsim International Bank has
+attempted to evade United Nations sanctions.
+RI, Jong Won (a.k.a.
+RI, Cho'ng-Wo'n;
+a.k.a. RI, Jung Won)
+
+The Russian Federation replied, Mr. Ri Jong Won arrived in Russia
+on 5 February 2018 as an officially accredited member of the
+Embassy of the Democratic People’s Republic of Korea to the
+Russian Federation. It is not known what information was used to
+determine that he is the Moscow-based deputy representative of the
+Foreign Trade Bank. Moreover, according to the available
+information, he returned to the DPRK on 8 October 2018.
+
+Res 2371(2017) desigmated him as
+Representative for Ilsim International
+Bank
+DOB: 22 Apr 1971; Passport no
+654320421 expires 11 Mar 2019
+
+Source: The Panel, Member States and UN documents
+
+S/2019/691
+
+91/142
+
+Names, alias, Korean and Chinese spelling
+Bank of East Land
+동방은행
+aka: Haedong Bank (해동은행), Dongbang Bank,
+Tongbang U’Nhaeng, Tongbang Bank,
+(朝鲜）东方银行
+
+HQ address / phone / fax/
+SWIFT
+BEL Building, JonsungDong, Pyongyang
+Tel: +850 2 18111
+Fax: +850 2 3814410
+
+Credit Bank of Korea
+조선신용은행
+aka Korea Credit Bank, International Credit Bank,
+朝鲜信用银行
+
+Munsu Street, Central
+District, Pyongyang
++850 2 3818285
++850 2 3817806
+
+Daedong Credit Bank [JV]
+대동신용은행
+大同信用银行
+Aka Taedong Credit Bank, Dae-Dong Credit
+Bank, DCB Finance Ltd, Perigrine-Daesong
+Development Bank
+
+Suite 401, Potonggang Hotel,
+Ansan-Dong,
+Pyongchon District,
+Pyongyang,
+(b) Ansan-dong, Botonggang
+Hotel,
+Pongchon, Pyongyang,
++850 2 3814866
+SWIFT: DCBK KPPY
+
+Daesong Credit Development Bank [JV]
+대성신용개발은행
+Koryo Credit Development Bank
+(고려글로벌신용은행), Koryo Global Trust
+Bank, Koryo-Global Credit Bank, Korea Credit
+Investment Company (조선신용투자회사)
+First Eastern Bank
+
+Daesong Credit Development
+Bank [Joint Venture]
++850 2 381 4100
++850 2 341 4013
+
+Rason, DPRK
+
+Security Council designations and information provided
+to Panel by Member States and United Nations resolutions
+Res 2087 (2013) on 22 January 2013 (KPe.013)
+Info in UN Panel reports: S/2017/150; pp 76-77 and
+S/2017/742, para 61.
+Facilitates weapons-related transactions for, and other support
+to, arms manufacturer and exporter Green Pine Associated
+Corporation. Has actively worked with Green Pine to transfer
+funds in a manner that circumvents sanctions.
+
+Res 2270 (2016) on 2 March 2016 (KPe.023)
+Representative offices and front companies in China
+according to Panel: S/2017/150, paras 225-230 and
+S/2017/742, paras 51-56.
+Clients include: T Specialist International (Singapore) Ltd,
+OCN (Singapore) International Distribution Ptd Ltd; Pan
+Systems; Dalian Daxin Electron Co Ltd, Hongdae
+International, Yueda International Trading Co, Hing Heng,
+Korea Sinheung Trading Co, Hana Electronics.
+Joint venture with Korea Daesong Bank; majority stake
+acquired by a Chinese company. See current report,
+paragraphs XX.
+
+Affiliated with Central Bank and Unaforte (Italy and Hong
+Kong, China). See Panel report S/2017/150 para 221.
+
+S/2019/691
+
+92/142
+
+Annex 16: DPRK financial institutions with overseas representatives
+
+19-13211
+
+19-13211
+
+Foreign Trade Bank (FTB)
+조선무역은행
+朝鲜贸易银行
+aka: Mooyokbank, Korea Trade Bank,
+Mooyokbank
+International Consortium Bank (ICB)
+국제합영은행
+Hi-Fund Bank International Consortium Bank
+(ICB), Sungri Hi-Fund International Bank, Sungri
+Economic Group
+Jinmyong Joint Venture Bank/Jinmyong Joint
+Bank
+
+진명합영은행
+
+FTB Building, Jungsong
+dong, Central District,
+Pyongyang
+Tel: +850 2 18111
+Fax: +850 2 3814467
+SWIFT/BIC FTBD KP PY
+Sungri Exhibition Hall,
+Pyongyang
+
+Res 2371 (2017) on 5 Aug 2017 (KPe.047)
+State-owned bank which acts as the DPRK’s primary foreign
+exchange bank and has provided key financial support to the
+Korea Kwangson Banking Corporation.
+See para X on registered office abroad.
+
+Pyongyang
+Tel: +85-02-18111-381-8161
+Fax: +85-02-381-4410
+
+Appears to be owned by the Jinmyong Trading Group.
+Advertisement presented at 19th Pyongyang Spring
+International Trade Fair (2016). Designated by OFAC in
+September 2017 pursuant to E.O. 13810, which targets, in
+part, persons determined to be operating in the financial
+services industry in the DPRK. The President, Jong So ng Ho
+arranged the sale of a shipment of DPRK coal aboard the
+Wise Honest through an Indonesian broker with the final
+listed recipient being the ROK company, Enermax. See
+S/2019/171, para 36 (business card at Annex 19).
+
+Associated Factory:
+Address:
+Room No. 2204, 3211
+Pyongyang Information Center,
+Kyonghung-dong, Pothonggang
+District, Pyongyang
+Koryo Bank Building,
+Pyongyang, Democratic
+People's Republic of Korea
+
+Koryo Credit Development Bank / Daesong
+Credit Development Bank [JV] (Aka. KoryoGlobal Credit Bank, Koryo Global Trust Bank)
+고려신용개발은행 대성신용개발은행
+(aka 고려글로벌신용은행)
+Korea Daesong Bank
+대성은행 / 조선 대성은행
+大成银行
+aka: Choson Taesong Unhaeng, Daesong Bank,
+Taesong Bank
+According to a Member State, in 2018 the bank
+has used the following false names when
+processing transactions for ship-to-ship transfers:
+
+Yanggakdo International
+Hotel, Pyongyang
+Tel: +850 2 381 4100
+Fax: +850 2 341 4013
+Segori-dong, Gyongheung
+Street, Pyongyang
+Tel +850 2 818221
+Fax +850 2 814576
+SWIFT/BIC:
+KDBKKPPY
+
+Res 2356 (2017) on 2 June 2017 (KPe.045)
+Associated with Office 38 and Office 39 of the KWP.
+Operated by Korea Myohyang Economic Group; joint venture
+partner in Koryo-Global Bank.
+Res 2371 (2017) on 5 August 2017 (KPe.049)
+Joint venture with Koryo Bank
+
+Res 2321 (2016) on 30 November 2016 (KPe.035)
+Owned and controlled by Office 39 of the Korea Workers’
+Party
+According to a Member State, Ko Il Hwan engaged in
+transactions on behalf of Korea Daesong Bank from
+Shenyang for ship-to-ship transfers in 2018.
+
+S/2019/691
+
+93/142
+
+Koryo Bank
+고려은행
+高丽银行
+
+Korea National Insurance Corporation
+조선민족보험총회사
+Korea Foreign Insurance Company, 朝鲜民族保
+险总会社
+Korea Joint Venture Bank
+조선합영은행
+Korea Joint Bank, Korea Joint Operation Bank,
+Chosun Joint Operation Bank, Habyong Bank, 朝
+鲜合营银行
+
+Ryugyong Commerical Bank (RCB)
+
+S/2019/691
+
+94/142
+
+조선녹색산업무역 (Chosun Noksaek Sanop
+Muyok, Korea Green Industry Trading
+Company/Corporation 朝鲜绿色产业贸易 ) and
+조선신용투자회사(Chosun Sinyong Tuja Hoesa,
+Korea Credit Investment Company/Corporation
+朝鲜信用投资公司 or 朝鲜信用投资会社).
+Korea Kwangson Banking Corporation
+조선광선은행
+朝鲜光鲜银行, Korea Kwangson Finance
+Company, 朝鲜 蔡鲜金金朝朝, Korea Kwangson
+Finance Company
+
+Jungsong-dong, Sungri
+Street, Central District,
+Pyongyang
+
+Res 2370 (2016) on 2 March 2016
+Provides financial services in support to Tanchon Commercial
+Bank and Korea Hyoksin Trading Corporation, a subordinate
+of the Korea Ryonbong General Corporation. Tanchon has
+used KKBC to facilitate funds transfers likely amounting to
+millions of dollars, including transfers involving KOMID related funds. For more info see PoE report S/2017/150, p.
+63.
+
+KNIC Building, Central
+District Pyongyang
++850 2 18111/222
+Ext:3418024
++850 2 3814410
+KJB Building, Ryugyong 1
+dong, Pothonggang District,
+Pyongyang
++850 2 381-8151, 850-218111-381-8151
++850 2 381-4410
+
+Ryusang Bank, 柳京商业银行, 柳商银行
+
+Changgwang Hotel, 5th
+Floor, Pyongyang
+Beijing, China
+Dandong, China
+
+Two ATMs at Pyongyang Airport and one in the lobby of
+Changgwang Inn.
+Ryugyong Commercial Bank ATM lists an address in the
+Changgwang Foreign House, Suite #05-24
+Joint Venture with OCN Pyongyang Office and Koryo
+Commercial Bank
+
+Korea Unification (United) Development Bank
+
+KUDB Building, Pyongyang
+
+Res 2321 (2016) on 30 November 2016 (KPe.033)
+USA on 16 March 2016
+
+류경상업은행/류상은행
+
+(조선) 통일발전은행
+19-13211
+
+(朝鲜)统一发展银行
+
+SWIFT/BIC: KUDBKPPY
+See Panel of Experts report (S/2017/150, p 62)
+
+19-13211
+
+aka: Myohyangsan Bank, Unification
+Development Bank, T’ongil Palchon Bank, Korea
+Tongil Paljon Bank, Korea Reunification
+Development Bank
+Hana Banking Corporation
+하나은행
+aka Korea Kumsong Bank, Kumsong Bank,
+Single-Minded International Bank,
+
+Ilsim International Bank
+일심국제은행
+日心国际银行
+aka. Korea Kumsong Bank, Kumsong Bank,
+Single-Minded International Bank, 日心国际银行
+First Credit Bank. (JV) or Cheil Credit Bank
+제일신용은행
+第一信用银行
+aka: First Trust Bank Corporation, Jeil Credit
+Bank, Kyongyong Credit Bank
+
+Koryo Commercial Bank
+고려상업은행
+高丽商业银行
+aka Korea Commercial Bank
+
+Partial Ownership by Central Bank. Overseas several Bank
+Card product lines for domestic use
+
+a) 3-18 Pyongyang
+Information Center,
+Potonggang District (as of
+2016). b) i Rakrang District,
+Jongbaek 1-dong Tel: +850 2
+433-1575 (02-433-1575)
+SWIFT: KYCBKPPYXXX
+Rakrang Tel: 961-3331, 9610003
+KCB Building, Taedonggang
+District, Pyongyang; ;
+Beijing, China; Shenyang,
+China; SWIFT/BIC
+KCBKKPP1
+Saemul 1-Dong Pyongchon
+District, Pyongyang
+
+Belongs to Workers Party of Korea. It was established in
+2008 as JV venture with Singapore’s Miracle Commerce Pte.
+Ltd., and its CEO William Toh (aka Toh Hwee Howe) who
+has been involved in trade with the DPRK using his other two
+companies, I-Tech Intelligence Resources and Sinsar Trading
+Ltd.
+
+Res 2321 (2016) on 30 November (KPe.034)
+Affiliated with the DPRK military and has close relationship
+with Korea Kwangson Banking Corporation (KKBC) and has
+attempted to evade United Nations sanctions.
+
+Joint Venture with OCN and Ryugyong Commerical Bank
+
+Designated by UN on 24 Apr. 2009 (KPe.003)
+
+KUDB Building, Pyongyang
+
+Main DPRK financial entity for sales of conventional arms,
+ballistic missiles, and goods related to the assembly and
+manufacture of such weapons. Under Second Economic
+Committee; financial arm of KOMID.
+Res 2321 (2016) on 30 November (KPe.033)
+
+SWIFT/BIC: KUDBKPPY
+
+Information in UN POE report: S/2017/742, p. 22
+
+S/2019/691
+
+95/142
+
+Tanchon Commercial Bank
+단천상업은행
+端川商业银行
+AKA: Changgwang Credit Bank, (창광신용은행)
+Korea Changgwang Credit Bank
+(조선창광신용은행); Yongaksan Bank
+(용악산은행), Lyongaksan Bank (룡악산은행)
+Korea United Development Bank (KUDB)
+조선통일발전은행
+(朝鲜）统一发展银行
+
+ISB Building, Pyongyang;
+Haebangsan Hotel, JungsongDong, Sungri Street, Central
+District, Pyongyang,
+Dandong, China
+SWIFT/BIC
+BRBKKPPIXXX
+ISB Building, Pyongyang
+Pyongyang, Democratic
+People's Republic of Korea
+SWIFT: ILSIKPPY
+
+S/2019/691
+
+96/142
+
+aka: Myohyangsan Bank, Unification
+Development Bank, T’ongil Palchon Bank, Korea
+Tongil Paljon Bank, Korea Reunification
+Development Bank
+Kumgang Group Bank / Kumgang Bank
+(KKG)
+Korea Kumgang Bank
+(조선) 금강은행
+金刚银行 aka: Kumgang Export and Import Bank
+
+Kumgang Bank Building,
+Central District, Pyongyang
+(The North East Asia Bank
+building in Pyongyang
+became the KKG Bank
+building)
+
+Kumgyo International Commercial Bank
+금교국제상업은행
+
+Tanchon Commercial Bank
+단천상업은행
+端川商业银行
+AKA: Changgwang Credit Bank, (창광신용은행)
+Korea Changgwang Credit Bank
+(조선창광신용은행); Yongaksan Bank
+(용악산은행), Lyongaksan Bank (룡악산은행)
+Source: The Panel, Member States and UN documents
+
+Associated with Korea Ponghwa General Corporation (under
+External Economic Committee of the Cabinet) and Korea
+Pyongyang Trading Company
+
+Affiliated with Korean Chongsong Mining Company and
+Changgwang Shop. See Panel report S/2017/150 para 220.
+
+Saemul 1-Dong Pyongchon
+District, Pyongyang
+
+Designated by UN on 24 Apr. 2009 (KPe.003)
+Main DPRK financial entity for sales of conventional arms,
+ballistic missiles, and goods related to the assembly and
+manufacture of such weapons. Under Second Economic
+Committee; financial arm of KOMID.
+
+19-13211
+
+S/2019/691
+
+Annex 17: Payment for Wise Honest transshipment costs arranged by DPRK bank
+representative
+
+19-13211
+
+97/142
+
+S/2019/691
+
+Source: Annex 19 of Panel’s report S/2019/171 of 5 March 2019.
+
+98/142
+
+19-13211
+
+S/2019/691
+
+b. Supplementary information on payment for Wise Honest from US Court documents
+Excerpts from Case 1:19-cv-04210 filed on 9 May 2019, United States District Court, Southern
+District of New York
+43. In connection with the March 2018 shipment of coal on board M/V Wise Honest from
+North Korea, see supra 11 28- 30, payments totaling more than $750,000 were transmitted
+through the correspondent accounts of another U.S. financial institution ("Bank-2"), which was
+specifically listed as being located in "New York, USA."
+Source: Case 1:19-cv-04210 filed on 9 May 2019, United States District Court, Southern D istrict of New York
+
+19-13211
+
+99/142
+
+S/2019/691
+
+Annex 18: Screenshot of media coverage of a Republic of Korea Parliamentary
+Committee Press Conference on Detention of DN5505 for importing DPRK-origin coal
+
+English Translation:
+
+Source: Meeting of the special committee on the investigation of sanctions against North Korea, YouTube, 18 April 2019.
+https://www.youtube.com/watch?v=e7ldPPMeIN4
+
+100/142
+
+19-13211
+
+S/2019/691
+
+Annex 19: International Shipping News, “Ship Suspected of Carrying N.K. Coal Is
+Under Probe: lawmaker”, 19 April 2019
+
+A Togo-flagged ship has been under probe in South Korea on suspicion of carrying North
+Korean coal in a potential violation of U.N. Security Council sanctions, an opposition
+lawmaker said Thursday.
+The vessel, believed to have come from Russia’s Nakhodka, entered the South Korean
+southeastern port of Pohang in February to unload 3,217 tons of North Korean coal and its
+departure was suspended, according to Rep. Yoo Ki-june of the main opposition Liberty Korea
+Party (LKP).
+The DN5505 vessel also unloaded 2,588 tons of coal in South Korea in November, he said.
+“The government grudgingly recognized that the vessel was shipping North Korean coal and
+kicked off the investigation,” Yoo claimed.
+North Korea is banned from exporting coal, iron ore and other mineral resources under
+Resolution 2371, passed in August, 2017. U.N. sanctions call for a country to capture and look
+into a vessel suspected of engaging in prohibited activities with North Korea.
+The DN5505 has become the sixth ship whose departure from a South Korean port was
+suspended or denied due to suspected shipments of North Korean coal or ship-to-ship oil
+transfer in international waters.
+Yoo said the name of the ship was changed in January 2018 and its original name is Xiang Jin.
+Source: “Ship suspected of carrying N.K. coal is under probe: lawmaker” in International Shipping News,
+19 April 2019.
+
+19-13211
+
+101/142
+
+S/2019/691
+
+Annex 20: Austria’s reply to the Panel
+
+102/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+103/142
+
+S/2019/691
+
+104/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+105/142
+
+S/2019/691
+
+106/142
+
+19-13211
+
+S/2019/691
+
+DPRK service passport held by Jo Kwang Chol 조광철
+
+19-13211
+
+107/142
+
+S/2019/691
+
+Letter from the DPRK Embassy in Beijing requesting visa for Jo Kwang Chol and his family
+
+Source: Member State
+
+108/142
+
+19-13211
+
+S/2019/691
+
+Annex 21: Suspected DPRK cyber-attacks on financial institutions (including
+banks and cryptocurrency exchanges) investigated by the Panel
+A.
+
+Banks
+
+Date
+Dec
+2015
+Dec
+2015
+
+Location
+Guatemala
+
+Details
+Reported loss of 16 million USD.
+
+Vietnam
+
+Feb
+2016
+May
+2016
+
+Bangladesh
+
+Attempted theft of more than 1 million Euro ($1.1 millions) of funds
+through fraudulent SWIFT messages according to statement Tien
+Phong Bank later issued.59
+Attempted theft of $951M
+
+July
+2016
+
+India
+
+July
+2016
+Oct
+2017
+Oct
+2017
+
+Nigeria
+
+Reported theft of $18M from Standard Bank that caused a
+malfunction of the system shortly before the cash was withdrawn
+from ATM machines at convenience stores in Tokyo and 16
+prefectures across Japan with forged cards made with data stolen
+from credit cards issued by the bank.
+A reply from the Government of Japan to the Panel dated 25 July
+2019 stated, “As of 9 July 2019, approximately 260 suspects,
+including organized crime group members, have been arrested, and
+the total amount of the cash illegally withdrawn from the ATMs
+across Japan was approximately 1.86 billion yen. The suspects
+used forged cards with data of roughly 3,000 pieces of customer
+information stolen from the Standard Bank in the Republic of
+South Africa, in order to withdraw cash from approximately 1,700
+ATMs located in Tokyo and 16 prefectures across Japan. The case
+is still under investigation.”
+Attempted theft of $166M using tactics and techniques similar to
+February 2016 attack on Bangladesh Bank. Funds were transferred
+to the Canadia Bank Plc and RHB IndoChina Bank Ltd in
+Cambodia, the Siam Commercial Bank in Thailand, Bank Sinopac
+in Taiwan Province of China, and a bank in Australia (routed by
+Citibank New York and JP Morgan Chase New York).
+Attempted theft of $100M 60
+
+Tunisia
+
+Attempted theft of $60M
+
+Taiwan
+Province of
+China
+Mexico
+
+Attempted theft of $60M from Far Eastern International Bank; all
+but $500,000 recovered by the bank 61
+
+Jan
+2018
+
+South Africa
+/ Japan
+
+Attempted theft of 110M USD from Bancomext 62
+
+__________________
+
+https://www.nytimes.com/2016/05/27/business/dealbook/north-korea-linked-to-digital-thefts-from-global-banks.html
+APT38: Un-usual Suspects, October 2018, p.7, mentions ‘an African bank that appears to have been targeted in earl y 2016 […]
+and involved an attempted theft of approximately $100 million ’. https://content.fireeye.com/apt/rpt-apt38
+61
+Article by Reuters dated 16 October 2016 on the DPRK likely behind SWIFT cyber-attack on Taiwan Province of China.
+https://reut.rs/2kVSmKO.
+62
+FireEye APT38 report
+59
+60
+
+19-13211
+
+109/142
+
+S/2019/691
+
+Jan
+2018
+Feb
+2018
+March
+2018
+
+Costa Rica
+
+Attempted theft of 19M USD 63
+
+India
+
+May
+2018
+
+Chile
+
+June
+2018
+Aug
+2018
+
+Liberia
+
+Attempted theft of 16.8 USD from City Union Bank using
+techniques similar to February 2016 attack on Bangladesh Bank.
+Attempted theft of 390M USD 29 March 2018 cybersecurity
+incident involving attempted unauthorized fund transfers using
+falsified SWIFT messages
+Theft of approximately 10 million USD from Banco de Chile
+through unauthorized transactions using SWIFT, mainly to Hong
+Kong. The hackers distracted bank employs from the theft by using
+malware to render 9000 bank owned computers inoperable. 64
+Attempted theft of 32M USD
+
+Oct
+2018
+Feb
+2019
+
+Chile
+
+Feb
+2019
+March
+2019
+March
+2019
+March
+2019
+
+Spain
+
+Reported theft of 13M USD through attack on Cosmos Bank
+through simultaneous ATM withdrawals across 23 countries in five
+hours as well as the transfer of 139 million Rupees to a Hong
+Kong-based company’s account in three unauthorized SWIFT
+transactions. On 8 October 2018 the United States included this
+and other similar DPRK attacks in its alert regarding the
+“FASTCash Campaign”65
+Attack on Redbanc using malware called POWERRATANKBA.
+Sophisticated social engineering via LinkedIn, Skype.
+Attempted theft of 14.5M USD from the Bank of Valletta (BOV)
+on 13 February. Before being reversed, transfers were made to
+banks located in the UK, the US, Czech Republic, and Hong Kong,
+China. “phishing” activity using the same digital fingerprint had
+been detected since October 2018.
+Attempted theft of 10.8M USD 66
+
+Gambia
+
+Attempted theft of 12.2M USD
+
+Nigeria
+
+Attempted theft of 9.3M USD
+
+Kuwait
+
+Reported theft of 49M USD
+
+Malaysia
+
+India
+
+Malta
+
+Source: Information from Member States, Statements by Government agencies, corporate statements, reports by
+cyber security firms and media articles
+
+__________________
+
+In a reply to the Panel dated 24 July 2019, the Mission of Costa Rica stated, “The Mission can confirm that a private financial
+institution experienced an alleged cyberattack in Costa Rica in January 2018. An investigation has been launched by the Offic e of
+the Public Prosecutor's Division on Fraud. On July 17, 2019, the Division delegated the investigation to the Ministry of Scie nce,
+Technology and Telecommunication. Because the investigation is still ongoing, it is not possible for the Mission to provide t he Panel
+with any result.”
+64
+FireEye APT38 report
+65
+Alert (TA 18-275A) “Hidden Cobra – FASTCash Campaign”, US-CERT (United States Computer Emergency Readiness Team),
+8 October 2018. The general pattern of such attacks targeting financial institutions has been well documented in a criminal complaint
+issued by the U.S. Government. Criminal Complaint filed to the U.S. District Court for the Central District of California against
+Park Jin Hyok https://www.justice.gov/opa/press-release/file/1092091/download
+66
+Spain’s National Cryptologic Centre (CCN), under the National Intelligence Centre stated in its 2019 Cyberthreats and Trends report
+that hackers associated with the DPRK government conducted the largest number of reported cyberattacks against Spain in 2018.
+63
+
+110/142
+
+19-13211
+
+S/2019/691
+
+B.
+
+Cryptocurrency
+
+Date
+Feb 2017
+22 April 2017
+
+Location
+ROK
+ROK
+
+12 May 2017
+July 2017
+
+ROK
+
+Summer 2017
+
+ROK
+
+23 Sept 2017
+
+ROK
+
+May-Sept
+2017
+
+ROK
+
+23 September
+2017
+
+Details
+Theft of 7M USD in first attack on Bithumb
+Theft of 4.8M USD in first attack on Youbit
+(3618 Bitcoin)
+Global WannaCry attack resulted in Bitcoin
+laundered through Monero
+144,000 USD (52 Bitcoin) 67
+Reported theft of more than 7 million USD in
+second attack on Bithumb including: 870,000
+USD in Bitcoin and 7 million USD in Bitcoin
+and Ethereum. 68 National Intelligence
+Services attributed to the DPRK.
+25,000 USD (70 Monero) 69 through Monero
+cryptojacking / mining through illegal seizure
+of a Republic of Korea company server
+Theft of undisclosed amount of Bitcoin
+(possibly 2.19 million USD) in attack on
+Coinis. Total of 6.99M USD reported in
+losses from this and the April 2017 Youbit
+attack combined
+ROK Police reported attacks on three
+cryptocurrency exchanges by DPRK actors
+and detailed that 25 employees at four
+different exchanges were targeted in 10
+separate “spear phishing” attempts since July
+201770
+Coinis attack – undisclosed amount of
+Bitcoin, possibly 2.19 million USD 71
+
+19 Dec 2017
+
+ROK
+
+Dec 2017
+
+Slovenia
+
+Theft of 17 percent of Youbit assets in second
+attack on Youbit. Youbit later declared
+bankruptcy as a result of hack. 72
+Reported theft of 70+M USD from the
+bitcoin mining company, NiceHash, which
+reported “a highly professional attack with
+
+__________________
+
+United States District Court, Central District of California, United States of America v. PARK JIN HYOK, Case No. MJ18-1479,
+Criminal Complaint, 8 June 2018, para. 6. Available at www.justice.gov/opa/press-release/file/1092091/download.
+68
+Nikhilesh De, “Police Confirm North Korean Connection in Bitcoin Exchange Phishing, Coindesk, 2 October 2017
+https://www.coindesk.com/police-confirm-north-korean-connection-bitcoin-exchange-phishing; and Stan Higgins, North Korea Is
+Targeting South Korea’s Bitcoin Exchanges, Report Claims, 12 September 2017, https://www.coindesk.com/report-north-koreatargets-south-koreas-bitcoin-exchanges-cyber-attacks. The Korean Internet Security Agency reportedly thwarted an attempted hack
+on 10 Korean exchanges back in October.
+69
+According to a news article, an assessment by Kwak Kyoung-ju at the Republic of Korea Financial Security Institute attributed the
+seizure of a server at an ROK to a hacking unit called “Andariel”. Sam Kim, “North Korean Hackers Hijack Computers to Mine
+Cryptocurrencies” Bloomberg, 31 December 2017.
+70
+Republic of Korea Police
+https://www.coindesk.com/police-confirm-north-korean-connection-bitcoin-exchange-phishing;
+https://www.coindesk.com/report-north-korea-targets-south-koreas-bitcoin-exchanges-cyber-attacks.
+Korean Internet Security
+Agency reportedly thwarted an attempted hack on 10 Korean exchanges back in October.
+71
+Republic of Korea Intelligence Service as reported by Yonhap News, 16 December 2017. “Spy agency suspects N. Korean
+involvement in recent hacking into cryptocurrency exchange ”, https://www.yna.co.kr/view/AKR20171216027100014.
+72
+“Youbit statement announcing closure following hack” (Korean). 19 December 2017.
+67
+
+19-13211
+
+111/142
+
+S/2019/691
+
+June 2018
+
+ROK
+
+Aug 2018
+Oct 2018
+March 2019
+March 2019
+
+India
+Bangladesh
+Thailand/Singapore/Hong
+Kong, China 73
+ROK
+
+28 May 2019
+
+ROK
+
+sophisticated social engineering” that
+resulted in approximately 63.92M USD of
+Bitcoin being stolen.
+Third attack on Bithumb. Bithumb
+announced in a since deleted tweet that
+hackers stole approximately $31 million.
+Proceeds were laundered through a separate
+crypto-currency exchange called YoBit.
+Reported theft of 13M USD
+Attempted theft of 2.6M USD
+Reported theft of 9M USD from DragonEx
+Reported theft of 20M USD in fourth attack
+on Bithumb (3M EOS and 20 million Ripple
+coins stolen worth $13.4M USD and 6M
+USD, respectively)
+UpBit attacked. No losses reported.
+
+Source: Information from Member States, Statements by Government agencies, corporate statements, reports by
+cyber security firms and media articles
+
+__________________
+73
+
+According to the company’s Twitter and LinkedIn accounts, it is based in Singapore. The LinkedIn page states, “Registered in
+Singapore, Operation Department headquartered in Bangkok.” However, Singapore indicated to the Panel that it does not currently
+have any registration information for a company under the name of DragonEx. Singapore further stated, “We note that DragonEx’s
+announcement of 27 March 2019 on its Telegram channel states that the Hong Kong Cyber Security and Technology Crime
+Investigation Bureau is investigating the incident.” DragonEx stated in its announcement of the cyberattack that it informed the
+judicial administrations of Estonia, Thailand, Singapore and Hong Kong.
+For more information on the attack, see
+http://www.coinwire.com/360-security-warns-about-lazarus-hacker-group and
+https://www.secrss.com/articles/9511
+
+112/142
+
+19-13211
+
+S/2019/691
+
+Annex 22: Information on patterns and methods of DPRK cyber attacks
+1.
+
+After selecting a target, malicious DPRK cyber actors research employees and
+organizations looking for vectors of attack. Attacks frequently involve one or more
+of the following tactics employed against a single target: engaging in spear phishing
+attacks; engaging in Watering Hole attacks whereby hackers compromise sites likely
+to be visited by a particular target group; and exploiting existing, well known
+software vulnerabilities which the target is believed to have left unpatched. After
+establishing an initial foothold, DPRK hackers then work to move laterally and
+elevate their privileges within a system; establishing as much control as possible
+before attempting to execute a cyber-theft. These patterns of attack are not unique
+to DPRK hackers, what distinguishes them are the targets they select (such as
+financial institutions) and that following completion of their goals (or upon
+discovery) DPRK hackers are often willing to destroy large amounts of data to cover
+their tracks or distract targets while the theft is in process. 74
+
+2.
+
+Examples of these tactics include spear phishing attacks in the form of job
+applications which were sent to employees of the Bangladesh Bank in the February
+2016 attack and used to compromise computers controlled by the bank. 75 In 2017,
+DPRK cyber actors infected the website of the Polish Financial Supervision
+Authority with malware programed to only download onto computers which visited
+the site if they were from 104 pre-selected financial institutions and telecom
+companies. 76 In March 2017 the security vulnerability known as CVE-2017-0144
+which affected computers running some versions of the Windows operating system
+became known. Patches were not initially available for Windows XP though and in
+May 2017 DPRK hackers deployed the WannaCry ransomware worm targeting older
+computers running Windows XP which had not patched the vulnerability. 77 Finally,
+in 2018, as part of a cyber-heist targeting a Chilean bank, DPRK hackers destroyed
+data on approximately 9,000 bank-owned computers in order to distract bank
+employees from the theft of $10 million. 78
+
+__________________
+
+Nalani Fraser, Jacqueline O’Leary, Vincent Cannon, Fred Plan “APT38: Details on New North
+Korean Regime-Backed Threat Group”, 3 October 2018. Accessed at https://www.fireeye.com/
+blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threatgroup.html on 11 July 2019.
+75
+United States District Court, Central District of California, United States of America v. PARK JIN
+HYOK, Case No. MJ18-1479, Criminal Complaint, 8 June 2018.
+76
+Symantec Security Response, “Attackers target dozens of global banks with new malware”,
+Symantec. 12 February 2017.
+77
+Criminal Complaint filed to the U.S. District Court for the Central Distric t of California against
+Park Jin Hyok.
+78
+Dave Sherwood and Felipe Iturrieta, “Bank of Chile trading down after hackers rob millions in
+cyberattack”. Reuters. 11 June 2018.
+74
+
+19-13211
+
+113/142
+
+S/2019/691
+
+Annex 23: Actions taken by Member States to counter losses due to attacks by DPRK
+cyber actors
+Costa Rica
+In its reply to the Panel of 24 July 2019, Costa Rica stated the following:
+In terms of our country's cybersecurity strategy, we have strengthened the capabilities of the
+Response Center for Information and Technology Incidents of the Ministry of Science,
+Technology, and Telecommunications. The Center's main purpose is to provide quick IT response
+services to the public sector. Although the Center does not handle prosecutions, the government
+has implemented response and coordination protocols between the Center and other state
+agencies. Furthermore, the Government has created a National Strategy for Cybersecurity; it has
+improved the monitoring capabilities of public websites by the Response Center; and it has
+provided training in technical and logistical cybersecurity to government officials. Lastly, the
+government has increased international cooperation in terms of cybersecurity with governments
+and international organizations such as the Government of South Korea and the Organization of
+American States, among others.
+India
+In its reply to the Panel of 7 June 2019, India stated the following:
+In the light of SWIFT related incidents and frauds like the cyberattacks in August 2018 on
+Cosmos Bank based in Pune, the banking regulator of India has undertaken various preventive
+measures which include:
+(a)
+Issuing circulars on cyber security controls and on the controls that are required to
+be put in place for trade finance transactions to avoid misuse of the SWIFT ecosystem,
+advising the banks to implement controls for strengthening the security environment of
+the SWIFT infrastructure and to take steps to manage the operational risk surrounding the
+usage of the SWIFT system, in a time bound manner.
+(b)
+Conducting special scrutiny of select banks to assess their operational control
+framework to safeguard against the risk of misuse of the SWIFT ecosystem.
+(c)
+Issuing a circular to banks advising them to undertake a comprehensive audit of
+their SWIFT system covering the controls prescribed by the banking regulator.
+(d)
+Sharing of market intelligence on the SWIFT ecosystem gathered from various
+sources with banks through the issuance of Advisories, which include information on
+indicators of compromise affecting the SWIFT payment ecosystem and measures
+prescribed to check for compromise and plug these immediately.
+Japan
+In its reply to the Panel dated 25 July 2019, Japan stated the following:
+Preventing and addressing cyberattacks is a common challenge for the international community
+in terms of national security and crisis management. The GoJ will continue to take necessary
+actions while collaborating with other countries. Regarding the Panel's inquiry of 8. in its letter,
+the specific measures already taken by the relevant Ministries and Agencies to prevent and
+address the similar kinds of attacks in general are exemplified as follows:
+-
+
+114/142
+
+The Police of Japan and the relevant authorities have been making their utmost efforts to
+strengthen the cooperation with foreign security authorities and relevant organizations as
+
+19-13211
+
+S/2019/691
+
+-
+
+-
+
+well as the public-private partnership, while enhancing the collection and analysis of
+cyber-threat information.
+The Financial Services Agency (FSA) has urged financial institutions that have ATMs
+accepting the cards issued overseas to take preventive measures such as developing and
+introducing a system to detect unusual dealing patterns and abnormal transactions, and
+the FSA has been following up by conducting annual research to the financial institutions
+concerned, for instance.
+The FSA has also been strictly carrying out on-site and off-site inspections/monitoring of
+crypto-assets exchange service providers, and when the FSA identified issues/problems,
+it took appropriate measures including administrative dispositions. Moreover, the relevant
+acts have been updated and will come into force by June 2020 at the latest, in order to
+strengthen regulations on crypto-assets exchange service providers, for example, by
+imposing on the providers new obligation to store the customers' crypto-assets in much
+more secure manners such as Cold Wallets, except the minimum amount needed for the
+smooth execution of their businesses.
+
+Republic of Korea
+In its reply to the Panel of 28 July 2019, the ROK stated the following:
+In order to effectively address and deter cyberattacks on cryptocurrency exchanges, the ROK
+government has been taking active measures. Most importantly, an inter-agency coordination
+mechanism is in operation for the sharing of information and countering cyber threats. Also,
+security checks on cryptocurrency exchanges, the Information Security Management System
+(ISMS) Certification, capacity-building of the private sector serve as key tools for enhancing
+cyber security and preventing future attacks.
+European Union
+On 17 May 2019, the Council of the EU established a framework which allows the EU to impose
+targeted restrictive measures, such as asset freezes or travel bans, in order to deter and respond
+to cyber-attacks.79 The EU also published and has begun implementing the Fifth Anti-Money
+Laundering Directive (AMDL5) which extends the scope of anti-money laundering rules to
+include cryptocurrencies. 80
+FATF
+The Financial Action Task Force (FATF) proposed strict new guidelines with respect to
+cryptocurrencies and member states are expected to begin implementing these rules in June
+2019.81
+
+__________________
+
+European Council Council of the European Union. “Cyber-attacks: Council is now able to impose sanctions”. EU. 17 May 2019.
+80
+European Union. “Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive
+(EU) 2015/849 on the prevention of the use of the financial system for the purposes of mo ney laundering or terrorist financing, and
+amending Directives 2009/138/EC and 2013/36/EU”. EU. 19 June 2018.
+81
+FATF. “Outcomes FATF Plenary, 17-19 October 2018”. FATF. 19 October 2018.
+79
+
+19-13211
+
+115/142
+
+S/2019/691
+
+Annex 24: Marine Chain description according to company documents
+Excerpts from Marine Chain Investor Deck:
+Challenge:
+Ship ownership, management and industry specific problems
+•
+The shipping industry is specialized and parochial.
+•
+It is risky with high capital barriers to entry.
+•
+It is sensitive to the influence of macroeconomic and geopolitical developments, the
+unpredictability of the forces of nature and ever-changing human appetites and behavior
+•
+There is a tight knit community of dedicated owners and service providers who have
+developed a highly specialized understanding of the dynamics of the industry and its inherent
+financial risks.
+•
+Major growth in demand for modernization of vessels to meet evolving standards of
+environmental sustainability.
+•
+Mounting pressure on vessel owners to invest hard capital into vessels to meet fast
+approaching deadlines for sustainability enhancements.
+•
+Shipowners have access to a limited segment of the financial community to meet the high
+industry capital demands
+The Shipping Industry is Facing Headwinds
+Solution
+Marine Chain Business model overview
+•
+The Marine Chain business model is based on the key principles of Efficiency, Transparency
+& Sustainability (ET&S),
+•
+Marine Chain platform will offer next generation tokenization technology to monetize
+portions of the vessel by conversion into digital units (tokens)
+•
+Digital tokens, supported on the Blockchain, represent fractional ownership of individual
+vessels permitting investment from the full spectrum of the investment community.
+•
+Marine Chain will be introducing asset backed security tokens enjoying proprietary
+ownership of the underlying vessel.
+•
+Investors, as token holders will gain exposure to the economics of the vessel ownership, i.e.
+income generation and capital appreciation from the underlying vessel.
+•
+These crypto assets will follow the ERC20 Token Standard and will be available for
+integration with other services on the Ethereum blockchain.
+______________________________________________________________________
+Opportunity
+•
+Marine Chain has identified the unique and timely use of blockchain technology and asset
+tokenization as a significant business opportunity for vessel owners giving access to the
+blockchain technology platform and tokenization of Marine Chain qualified vessels.
+•
+The vessel owner can use the proceeds of the tokenization to retire debt and boost operating
+margins.
+•
+The impact of the successful tokenization of a portion of a specific vessel will be to:
+•
+Boost operating margins
+•
+Enable essential investment in the vessel to meet sustainability requirements
+•
+Potentially boost the value of the vessel
+116/142
+
+19-13211
+
+S/2019/691
+
+•
+Enable any third party as a token holder to take fractional ownership of a vessel and
+participate in the potential financial benefits of ownership
+•
+Enable token holders to trade the fractional ownership of the vessels on a secure trading
+platform
+•
+Enable token holders to liquidate for other crypto or fiat currencies.
+•
+Marine Chain believes that the Marine Chain blockchain tokenization model for the global
+maritime industry will have wide application into global industry and commerce
+______________________________________________________________________
+Utility vs Security Tokens
+Regulators around the financial services industry globally are increasingly defining crypto
+currencies into two distinct categories; utility token and security token.
+Utility token: a currency style token issued and used to facilitate a currency type function (such
+as Bitcoin).
+Marine Chain Tokens (MCT) are utility tokens.
+Security token: issued in exchange for the ownership of tangible assets with certain finacial rights
+pertaining to those assets attached to the token.
+Marine Chain Vessel Tokens are security tokens.
+Utility token coin offerings seem likely to remain unregulated but the issue of security token and
+the action of trading them will likely be considered a regulated activity under the various
+financial regulatory bodies governing global financial markets.
+______________________________________________________________________
+Capital Requirements
+Stage l financing:
+- Initial Coin Offering of Marine Chain Tokens (MCT).
+- May-July 2018
+- Soft Cap US$20m
+Utility token tradable on recognised exchanges
+Use of proceeds:
+- Development of MCP trading platform and operating systems
+- Establishment of the operating team and related expenses Liquidity buffer
+______________________________________________________________________
+
+19-13211
+
+117/142
+
+S/2019/691
+
+I.
+
+Marine Chain Platform
+
+• MCP Key Process: MCP is designed to enable the tokenization of vessels. It is built on
+the Ethereum blockchain enables fractional ownership of vessels. Token holders will be able
+to participate in the financial benefits of vessel ownership.
+• MCP Token Introduction: MCP will create Marine Chain Token (MCT) - an ERC20
+compliant, MCP specific currency - as a proof of contribution to the platform that is
+transferable. Once token sale starts any Ethereum (ETH), Bitcoin (BTC), or Litecoin (LTC)
+wallet can purchase Marine-Chain Tokens. Fiat currencies will also be accepted.
+• Marine-Chain Token Usability and Transferability: The MCT Token Sale has the purpose
+to raise funds for the platform development. MCT holders can later purchase Vessel Tokens
+with their MCT when the platform has been built and is in operation. MCT holders can use
+their MCTs to pay any fees (Vessel listing fee, trading fee, transfer fee etc.) or since MCT is
+an ERC20 token, they can freely transfer their MCTs and trade it anywhere on the Ethereum
+eco-system.
+• Tokenization of Vessels: Marine-Chain allows vessel builders, owners, or sellers to sell
+their vessels on the platform digitally. Marine-Chain will work with partnered maritime
+organizations to identify the potential vessels to be digitized on the platform. There will be
+strong due diligence before confirming the listing on the platform of any vessel.
+• Vessel Token Lifecycle Events: Upon successful creation of the vessel digital assets, all
+the token holders are rightful owners of the vessel and will be entitled to a profit generated
+by the vessel. Marine-Chain also aims to create value for the token holders by allowing
+secondary transactions to occur where the vessel token ownership can be transferred to
+another person.
+______________________________________________________________________
+Blockchain for the Marine Industry
+•
+Blockchain History: Blockchain is a compound word, literally meaning putting blocks in
+chains. Each block contains unique information about a transaction, i.e. who it's from, how much
+it's for or where it's going. The genius of blockchain is the solving of what has been referred to
+in the industry as the double spend problem. Effectively being able to spend the same money
+twice. This problem was formerly solved by putting a trusted 3rd party in the middle of the
+transactions to prevent this from happening. Cryptographers sought to solve this problem without
+the need for third party intervention.
+•
+Blockchain Technology: The blockchain which is the technology at the heart of Bitcoin
+creates blocks and inserts each block into an immutable chain. Meaning a chain of blocks or
+records that can never be changed. Each block has a timestamp and the data from the transaction.
+The chain is built on a peer to peer distributed system that allows each node or person the full
+access to every transaction that has even been recorded on the chain. This process is done through
+what is called mining. Once this process is complete that newly form block can never be removed
+or altered.
+•
+New applications of blockchain: Blockchain can be used for many more application other
+than currencies. Record keeping on the blockchain allows for an immutable record trail that is in
+the hands of many people all with the same information. The advancement and rapid adoption of
+blockchain technology has enabled a fundamental change in paradigm for many industries where
+democratization and subdivision of ownership were previously impractical and inefficient.
+Marine-Chain aims to fulfill a growing market need by utilizing the blockchain.
+118/142
+
+19-13211
+
+S/2019/691
+
+•
+Applying blockchain to the marine Industry: Although the marine vessel market has plenty
+of opportunities for making significant gains, buying and owning a vessel is out of reach for
+most. When joint ownership exists, it is usually with just a few select individuals under written
+agreements which are slow and cumbersome to execute. Marine-Chain is applying blockchain
+technology for the "tokenization" of vessel 19 ownership. In a simple, fast, efficient and
+transparent process, these tokens can then be
+______________________________________________________________________
+Revenue Model:
+Marine Chain Platform
+Revenue occurs when a vessel is tokenized, and any amount of those tokens are sold.
+Marine Chain collects <1% of value traded on our platform on every transaction. This can occur
+many times
+over for each vessel because tokens can be exchanged easily. Additionally, each
+time a vessel is listed/delisted on the Marine Chain Platform, there is a small fee collected. All
+transactions are paid for by Marine Chain Tokens. Increasing the number vessels on our platform
+and sales
+will increase revenue; our partnerships are important for this reason. Note that many vessels are
+worth many millions of dollars.
+By comparison, the Marine Chain Platform will attract sellers because we offer a reduction in
+the traditional broker fee of 1%, thus resulting in money saved for the seller.
+Marine Chain Exchange
+Revenue is derived from a small fee on each and every transaction that occurs on the platform.
+Increased trading volume and users bases drive this number up. Additionally, Marine Chain
+Exchange may charge a considerable fee for alt coins/tokens that want to be listed on tradable
+on the exchange. Furthermore, a licensed exchange will allow us to list other Initial Coin
+Offerings (ICOs) for a hefty fee, likely to be charged as a percentage of the amount of capital
+raised.
+ICO Brokerage
+Revenue from ICO. Brokerage are excluded at this stage.
+______________________________________________________________________
+Marine Chain: SWOT analysis
+Strengths
+Core team with massive amount of expertise and experience
+Very strong advisors and partners
+High-level design and architecture have been laid out
+White paper and business plan
+350-page report by SCMO on maritime industry leading to target segments
+Top lawyers as advisors
+In terms of execution, there is significant experience in the ICO space, so very high confidence
+to be able to deliver the platform and exchange within the specified timeframe
+19-13211
+
+119/142
+
+S/2019/691
+
+Opportunities
+Shipowners are desperate for cash
+Perfect timing on the sustainability theme
+Access to huge asset class to a new investors
+Expansion to other hard asset sectors
+Once the exchange is up, we can expand in various areas creating futures, indices or others
+On sustainability, we can potentially do scoring, measure the impact and can change the industry
+for the better
+In the shipping industry:
+•
+Tonnage is cheap now and expect to gain in the next 5 years; Reversing the depreciation
+factor of the vessel
+•
+Projecting that ships' tonnage will be increasing gradually down the road
+
+120/142
+
+19-13211
+
+S/2019/691
+
+Annex 25: Excerpt from « Marine Chain Team members » document
+
+Source: The Panel
+
+19-13211
+
+121/142
+
+S/2019/691
+
+Annex 26: Information on Consultancy contract signed between Julien Kim and Captain
+Foong dated 18 January 2018
+
+A.
+
+Contract details
+
+The contract stipulated the following responsibilities: “Party B, under the consultant with
+Party A and under his consent shall register the company with name Marine-Chain
+Foundation to the country where it is helpful for company’s development”; “shall open
+corporate bank account(s) in the bank where it is helpful for company’s development”;
+“shall attend the Company’s business-related event”: and “shall sign on the company’s
+business-related document i.e. agreement, contract, payment proposal and etc” Foong
+could propose “ideas and plans for company’s development” for Kim’s consideration,
+but was given no specific responsibilities typical of a CEO.
+
+B.
+
+122/142
+
+Julien Kim’s signature on last page of contract:
+
+19-13211
+
+S/2019/691
+
+Julien Kim’s signature on other pages of contract:
+
+Source: The Panel
+
+19-13211
+
+123/142
+
+S/2019/691
+
+Annex 27: Additional findings in Marine Chain case investigation
+1. After signing the consultancy contract on 18 January 2018, Kim indicated to
+Foong in a text message that he was to hold 100% of the company’s shares.
+Foong objected to this on the grounds that it was “too much responsibility”
+for him and “not much time to look after the operation aspect”. Kim replied
+that he should not worry about the company’s operations, stating, “you can
+simply write me authorization letter to handle operation.” (See next Annex)
+2. Despite Kim’s role in directing company operations, Foong was unable to
+answer basic questions about or provide basic information, contacts or
+biodata for him. When pressed, Foong produced some email and text
+correspondences with “Tony Walker” as well as his alleged address in the US
+(which misspelled the city “Denver”). Another of the consultants hired by
+Marine Chain as “Chief Strategist and Development Officer” also
+complained about the orders emanating from “Tony Walker” who was
+supposed to be just advising Foong and who was never seen in person. Kim
+issued directions over email and text and joined meetings via Skype or chat,
+claiming to be in various countries where he was meeting “potential
+investors”, including in Italy, China and the US.
+3. Despite the opacity around his identity, Kim appears to have been unimpeded
+in his ability to conduct business globally, hiring more than a dozen wellreputed consultants and law firms across Europe, the US, and Asia with
+decades of international business experience (See Annex entitled,
+“Consultants and Law Firms retained by Marine Chain”). Kim dealt directly
+with most of the consultants and law firms he hired, presenting Foong with
+bills to pay for services and phone calls for services the substance of which
+Foong was not aware.
+4. After ceasing to make payments into Foong’s Singapore account, Kim
+disappeared completely in July, leaving Foong to deal with all of the fall-out
+including unpaid invoices, unpaid consultants etc. Foong tried multiple times
+to get in touch with Kim, as did other team members. The company was
+closed in September 2018.
+Source: The Panel
+
+124/142
+
+19-13211
+
+S/2019/691
+
+Annex 28: Text communications between Julien Kim (« Tony Walker ») and Captain
+Foong on Marine Chain operations
+A.
+
+19-13211
+
+Registration of Hong Kong company and allocation of shares
+
+125/142
+
+S/2019/691
+
+B.
+
+126/142
+
+Financial instructions from Kim (“Tony Walker”) to Foong
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+127/142
+
+S/2019/691
+
+128/142
+
+19-13211
+
+S/2019/691
+
+19-13211
+
+129/142
+
+S/2019/691
+
+Source: The Panel
+
+130/142
+
+19-13211
+
+S/2019/691
+
+Annex 29: Selected transfers to and from Singclass bank account
+A. Transfers by Julien Kim to Captain Foong’s corporate account in Singapore
+Company
+
+Date
+
+HONGKONG
+JOOLEE
+GROUP CO.,
+LIMITED
+SOUTHING
+TRADING
+CO., LIMITED
+BLUE
+VEENUS
+LIMITED
+
+26
+February
+2018
+
+TOTAL GOLD
+LIMITED
+B.
+
+Amount
+transferred
+(in USD)
+59,940.63
+
+Payment details / notes
+
+7 March
+2018
+
+55,731.64
+
+None listed
+
+27 March
+2018
+
+33,493.30
+
+None listed
+
+10 April
+2018
+
+149,973.18
+
+Payment details: “payment for goods”
+
+None listed
+
+Selected recipients of transactions undertaken by Captain Foong
+
+Foong processed many payments on behalf of Julien Kim through Singclass International Pte
+Ltd but some of the accounts with possible links to the DPRK include:
+
+Source: The Panel
+
+19-13211
+
+131/142
+
+S/2019/691
+
+Annex 30: Consultants and Law Firms retained by Marine Chain
+•
+
+An advisory firm headed by a French national specialized in logistics, transportation,
+and supply chain management, with specific experience in blockchain was hired to lay
+the groundwork and assist with hiring the rest of the team of consultants.
+
+•
+
+A Chief Financial Officer of French nationality residing in Hong Kong, with 18+ years
+of building, leading and advising some of World's leading corporations & Fortune 500
+companies across multiple industry and geographical settings of the Asia-Pacific &
+Europe.
+
+•
+
+A Chief Technology and Security Officer based in the US with a wide scope of experience
+in building enterprise software and products for Fortune 500 companies. This person
+established the website domain, www.marine-chain.io in March 2018.
+
+•
+
+An Operations & Sustainability Officer of Finnish nationality residing in Finland with a
+doctorate in science in construction project management.
+
+•
+
+A Chief Blockchain Architect of Singaporean nationality but residing in Hong Kong, with
+years of international blockchain expertise and specialties in Fintech, product portfolio
+management, cloud, blockchain and program management.
+
+•
+
+A consultant of German nationality living in Hong Kong with 17+ years experience in
+Banking, Finance Trading through work in London, New York, Tokyo and Hong Kong.
+This consultant developed a business plan and investor deck.
+
+•
+
+One of the largest global integrated shipping services companies was hired to attract
+clients for Marine Chain and undertake shipbroking and shipping research.
+
+•
+
+A high-level industry expert company providing advisory in logistics, transportation and
+supply chain management was hired to produce a 350-page extensive feasibility study for
+Marine Chain and ongoing industry advice and expertise.
+
+•
+
+Four legal teams in different firms in Hong Kong were retained to provide legal advice in
+various fields. One provided advice on the structure and proposals for Marine Chain;
+another provided advice on blockchain technology and cryptocurrency; another was
+retained to provide advice on the structure and planning of the project and to apply for
+the SFC license. A further team undertook preliminary analysis of possible Marine Chain
+token models from a regulatory standpoint.
+
+132/142
+
+19-13211
+
+S/2019/691
+
+Annex 31: “Choke-point” items survey
+Stemming from its ongoing investigation on the procurement of pressure transducers by two
+DPRK agents, the Panel is conducting a survey of the world’s manufacturers of “choke-point”
+items: items whose procurement remains critical or important for the DPRK’s illicit
+programmes. 82 Based on its analysis of past investigations and information from Member States,
+the Panel notes that the DPRK’s procurement routes are not only directly from producers but
+also through retailers, second-hand markets, “business to business” websites, and even through
+the industrial scrap market 83. Although producers’ control over and oversight of the aftermarket
+is limited, they still face reputational risk from subsequent diversion and there are prec autionary
+measures they can apply. Some producers are new entrant manufacturers of advancedspecification items looking to establish internal screening systems, while others are looking to
+enhance their existing systems. Therefore, as part of its “choke point” items survey, as well as
+identifying critical items and the risk of diversion to the DPRK, the Panel is requesting
+information on the internal screening processes of producers, with a view to promulgating “best
+practices’. The Panel additionally continues to analyse new patterns and trends in DPRK illicit
+procurement.
+
+__________________
+82
+83
+
+S/2019/171, paragraph 66.
+Also see section 6, Annex 30.
+
+19-13211
+
+133/142
+
+S/2019/691
+
+Annex 32: Strengthening the ballistic programme’s capacity
+1. According to one Member State the DPRK is actively engaged in indigenous R&D and the
+production of missiles with solid propellant, inter alia at the industrial complex of Hamhung.
+According to another Member State, there is a clear development progression from propellant
+for artillery rockets/SRBMs to solid propellant for ICBMs (see section 4 of this annex).
+Figure I shows two similar distinctive white containers (11m x 2.40m) moving in two diffent
+areas of the Hamhung-Hungnam industrial complex. The first container moved from the
+location 39°49'11.81"N 127°35'17.93"E, 400m from the solid fuel propellant production
+facility of the Hungnam 17 Factory (39°49'27.00"N 127°35'13.55"E), as observed during the
+following dates in 2019: 20 February, 25 February, 1 March, 4 March, 25 March, 26 March
+and 3 April.
+The second white container moved from location 39° 57′ 27″ N 127° 33′ 37″ E, at the new
+production area of the Chemical Material Institute CMI (production of missile casing), as
+observed during the following dates in 2018: 29 July, 18 August (1h56; 4h50) and 15
+September. This type of white containers (11m x 2.40m) could transport rocket motor casings
+(wound from composite fibers).
+Figure I: Similar white containers moving at the solid fuel facility (first seven pictures)
+and the rocket casing production facility (last four pictures)
+
+Source: Images courtesy of Planet Labs, Inc, and image@2019DigitalGlobe Google Earth (5 th picture fron the left)
+
+2. Mobility and versatility through the use of different types of Transporter Erector Launcher
+(TEL) was demonstrated in the SRBM launch tests on the 4 May with a wheeled TEL and 9
+May with a caterpillar TEL (see section 3 of this annex). Moreover, the caterpillar TEL (9
+May) used the same cabin as was seen during a test of the Pukkuksong-2 (KN-15) MRBM
+on a wheeled TEL.
+
+134/142
+
+19-13211
+
+S/2019/691
+
+Figure II: Wheeled TEL on 4 May (left), caterpillar TEL on 9 May 2019 (right)
+
+Source: KCNA (left), Rodong Sinmun (right)
+
+3. According to one Member State, the DPRK’s capacity to penetrate ballistic missile defense
+systems has increased with the new SRBM tested on 4 and 9 May 2019 (see Figure II above)
+because its trajectory is flatter than that of a traditional SCUD missile. According to another
+Member State, the DPRK has achieved indigeneous capabilities in the production of guidance
+systems. For the 4 May SRBM test launch the estimated range was 230-240 km and for the 9
+May test 270-420 km. The 9 May test took place from the launch site near the area of Kilchukun (40°57'23.81"N 129°19'4.83"E). According to this Member State, the missile system
+tested on 4 May and 9 May was the same and the launches were supervised by the DPRK’s
+conventional command. According to the first Member State, the DPRK has upgraded its
+SCUD-D missile systems with better guidance and electronics. The DPRK has exported the
+SCUD-D to Syria which has been its long-term customer and partner. Despite its active
+attempts, it is increasingly difficult for the DPRK to secure new customers.
+4. The DPRK’s BM programme is comprehensive and autonomous. Systems integration and
+internal synergies ensure that developments on the SRBM programme benefit MRBM/IRBM
+and ICBM programmes. With regard to missile engine development 84 , according to one
+Member State, the DPRK’s current goal appears to be to develop a solid-fueled first stage for
+its ICBM. Another Member State observed the deployment of solid fueled missiles
+Pukkuksong-2 (KN-15) MRBM in the missile bases close to the northern border where the
+liquid fueled missile Nodong also remained deployed.
+5. The dispersed, concealed and underground infrastructure of the BM programme has been
+continuously improved (see Figure III: Sakkanmol missile operating base). There has been
+continuous construction of storage galleries (see Figures III and IV) and support structures
+accompanied by increasing natural concealment of facilities by vegetation. Regular activity
+has been observed at the ICBM bases located in areas close to the northern border. Site and
+infrastructure work is in progress. According to a Member State, the DPRK’s priority is to
+secure the railway network dedicated to support its ICBM brigades which is essential for the
+ICBM bases network. There are stations within 5 km of each missile brigade and storage site.
+Development was observed at the Hoejung-ri ICBM site, 25 km from the northern border
+__________________
+84
+
+See reference to propellant in paragraph 1
+
+19-13211
+
+135/142
+
+S/2019/691
+
+(see S/2019/171, Annex 84-3). The DPRK has a total of 5200 km of partially electrified rail
+track, much in a poor state.
+Figure III: Concealment, protection and underground gallery entrance of two galleries i n
+the area of Sakkanmol missile operating base, located at 38°34'15.23"N 126° 7'18.12"E
+and 38°34'14.31"N 126° 7'21.64"E, respectively.
+
+Source: The Panel.
+
+136/142
+
+19-13211
+
+S/2019/691
+
+Figure IV: underground facility development in progress on 9 November 2017,
+2 November 2018, 9 March 2019 and 23 June 2019 in Hoejung-ri ICBM Base,
+located 41°21'56.17"N 126°55'42.32"E
+
+Source: Images courtesy of Planet Labs, Inc and image@2019DigitalGlobe Google Earth (bottom left corner)
+
+6. The DPRK’s development of the BM programme benefitted from active cooperation with
+third countries, including in sales and procurements in the missile field. One Member State
+reported to the Panel on such activity particularly during 2018. According to a second
+Member State, the Second Academy of Natural Sciences (subordinate to the 2 nd Economic
+Committee) changed its names to ‘Academy of National Defense Science’ (ANDS). Both
+names are listed: respectively as KPe.018 and KPe.021. ANDS controls a network of overseas
+front companies tasked with collecting scientific information. Moreover, ANDS plays a key
+role in the DPRK’s R&D efforts related to chemical and biological weapons.
+According to the first Member State, ANDS (see Figure V) manages most missile-related
+procurement and export activities through overseas agents and front companies. These
+include the Pusong Trading Corporation and the Korea Habjanggang Trading Company which
+have been involved in procurement of chemical process equipment related to missile
+technology from East Asia (Figure VI).
+A procurement agent in Europe working with Pusong Trading Corporation sought to acquire
+used mixing machinery that could be deployed in the BM programme (see Figure VII). Such
+used machinery has no warranty and is subject to less stringent export controls than new
+equipment. The market for used equipment (and related scrap) is less visible. This
+procurement attempt by the DPRK agent was unsuccessful, but the Panel was told that the
+agent has diplomatic status and is still in Europe.
+
+19-13211
+
+137/142
+
+S/2019/691
+
+In Syria, DPRK technicians still appear to be present and in contact with Pyongyang,
+according to the first Member State. DPRK representatives in Syria are also in contact with
+procurement agents in a third country who can acquire specialized technological equipment.
+Such exports are arranged by DPRK agents right from the market to the customer in a manner
+that is difficult to track.
+Further, according to the first Member State, in February 2019 in East Asia, DPRK
+procurement agents procured high-tech communication equipment for missile-to-ground
+communication that can operate at very high altitudes. The DPRK regularly procures
+Glonass/GPS sensors at intervals of around two months.
+The 221 General Bureau of the designated Reconnaissance General Bureau (RGB) (KPe.031)
+is charged with generating hard currency through exports of prohibited goods (see Figure
+VIII) in order to support the listed entity KOMID (KPe.001) (see Figure VIII), aka External
+Economic General Bureau. The funds generated by these weapon sales remain outside the
+DPRK where they are transferred from trade agents to procurement agents for the acquisition
+of sought-after commodities. These commodities are then transferred and sold in another
+country to generate hard currency, allowing the DPRK to launder and conceal revenues from
+arms sales without using the international banking system.
+Instead of exporting full missile systems, the DPRK is sending technicians to a buyer country
+and establishing a complete supply chain. Such activities are ongoing in Iran, Syria and Egypt
+according to the first Member State. The Panel was told that the 221 GB is represented at the
+DPRK Embassy in Teheran with by least three individuals. The number of DPRK
+procurement agents overseas is decreasing and those remaining are focusing on the
+procurement of critical missile related components as well as dual-use and below-threshold
+items. In order to circumvent sanctions, the DPRK changes its import/export-related
+organization structures every eight months.
+According to the first Member State, there are DPRK students involved in international
+scientific collaboration in East Asia who have studied issues including advanced composites
+in special environments and space material behavior and evaluation. Intangible transfers of
+technology are key to the DPRK’s move towards self-reliance.
+
+138/142
+
+19-13211
+
+S/2019/691
+
+Figure V: Academy of National Defense Science (ANDS)
+
+Source: Member State
+
+Figure VI: Korea Habjanggang Trading Company
+
+Source: Member State
+
+19-13211
+
+139/142
+
+S/2019/691
+
+Figure VII: Mixing machine
+
+Source: Member State
+
+Figure VIII: 221 General Bureau of RGB
+
+Source: Member State
+
+140/142
+
+19-13211
+
+S/2019/691
+
+7. Dismantlement of the Sohae (Tongchang-ri) satellite rocket launch site was interrupted.
+The vertical missile-engine test stand is now renovated and possibly operational.
+Figure IX: Sohae vertical test site on the 28 December 2018, with the roof of the structure
+partially dismantled (left). The roof of the structure was rebuilt by March 2019, and only
+limited changes had been made since then, as observed on 2 May 2019 (right).
+
+Source: Images courtesy of Planet Labs, Inc.
+
+Figure X: Sohae satellite launch site on 28 December 2019, with the rail mounted
+structure dismantled (left); it was rebuilt as observed on 8 March 2019 (right).
+
+Source: Images courtesy of Planet Labs, Inc.
+
+19-13211
+
+141/142
+
+S/2019/691
+
+Annex 33: Status of Member States reporting on implementation of relevant resolutions
+As of 31 July 2019, 37 Member States have submitted reports on the implementation of
+paragraph 8 of resolution 2397 (2017), 75 Member States have submitted reports on the
+implementation of paragraph 17 of resolution 2397 (2017), 90 Member States have submitted
+reports on the implementation of resolution 2375 (2017), 87 Member States have submitted
+reports on the implementation of resolution 2371 (2017), 104 Member States have submitted
+reports on the implementation of resolution 2321 (2016) and 113 Member States on the
+implementation of resolution 2270 (2016).
+Source: The Panel
+
+142/142
+
+19-13211

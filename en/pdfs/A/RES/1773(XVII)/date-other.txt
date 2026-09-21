@@ -1,0 +1,3 @@
+1962-11-07
+rule: any
+raw: 7 November 1962

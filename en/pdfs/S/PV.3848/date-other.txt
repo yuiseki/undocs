@@ -1,0 +1,3 @@
+1998-01-14
+rule: any
+raw: 14 January 1998

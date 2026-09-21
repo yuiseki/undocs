@@ -1,0 +1,3 @@
+1973-09-10
+rule: any
+raw: 10 September 1973

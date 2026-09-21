@@ -1,0 +1,3 @@
+1990-09-25
+rule: any
+raw: 25 September 1990

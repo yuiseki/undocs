@@ -1,0 +1,3 @@
+1999-01-06
+rule: distr
+raw: 6 January 1999

@@ -1,0 +1,3 @@
+1992-08-12
+rule: any
+raw: 12 August 1992

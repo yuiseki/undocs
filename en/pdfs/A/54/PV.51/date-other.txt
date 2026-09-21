@@ -1,0 +1,3 @@
+1999-11-10
+rule: any
+raw: 10 November 1999

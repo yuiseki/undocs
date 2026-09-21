@@ -21,7 +21,7 @@ import subprocess
 import sys
 
 BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-REPO = "yuiseki/undocs"
+REPO = "yuiseki/un-docs"
 
 # Read as they are. Everything in this dataset is a string or a count, so
 # unlike the ragged question sets there is nothing to carry as embedded JSON.

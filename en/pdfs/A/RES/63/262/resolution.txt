@@ -1,0 +1,618 @@
+United Nations
+
+A/RES/63/262
+
+General Assembly
+
+Distr.: General
+5 March 2009
+
+Sixty-third session
+Agenda item 118
+
+Resolution adopted by the General Assembly on 24 December 2008
+[on the report of the Fifth Committee (A/63/648/Add.3)]
+
+63/262. Information and communications technology,
+enterprise resource planning, and security,
+disaster recovery and business continuity
+The General Assembly,
+Recalling its resolutions 57/304 of 15 April 2003, 59/275 of 23 December
+2004, 60/283, section II, of 7 July 2006 and 62/250 of 20 June 2008,
+Having considered the report of the Secretary-General entitled “Investing in
+information and communications technology: information and communications
+strategy for the United Nations Secretariat” 1 and the addendum thereto, 2 the report
+of the Secretary-General entitled “Information and communications technology:
+enterprise systems for the United Nations Secretariat worldwide”, 3 the report of the
+Secretary-General on information and communications technology security, disaster
+recovery and business continuity for the United Nations 4 and the related report of
+the Advisory Committee on Administrative and Budgetary Questions, 5 the first
+progress report of the Secretary-General on the adoption of International Public
+Sector Accounting Standards by the United Nations 6 and the related report of the
+Advisory Committee on Administrative and Budgetary Questions, 7 the report of the
+Secretary-General entitled “Investing in information and communications
+technology: status report” 8 and the related report of the Advisory Committee on
+Administrative and Budgetary Questions, 9 the note by the Secretary-General on
+information and communication technology security, business continuity and
+disaster recovery 10 and the related report of the Advisory Committee on
+0F
+
+1F
+
+2F
+
+3F
+
+4F
+
+5F
+
+6F
+
+7F
+
+8F
+
+9F
+
+_______________
+1
+
+A/62/793 and Corr.1.
+A/62/793/Add.1.
+3
+A/62/510/Rev.1.
+4
+A/62/477.
+5
+A/63/487 and Corr.1 and 2.
+6
+A/62/806.
+7
+A/63/496.
+8
+A/62/502.
+9
+A/62/7/Add.31. For the final text, see Official Records of the General Assembly, Sixty-second Session,
+Supplement No. 7A.
+10
+A/61/290.
+2
+
+08-48651
+
+A/RES/63/262
+
+Administrative and Budgetary Questions, 11 the report of the Secretary-General
+entitled “Investing in the United Nations for a stronger Organization worldwide:
+interim report: investing in information and communications technology” 12 and the
+related report of the Advisory Committee on Administrative and Budgetary
+Questions, 13 the notes by the Secretary-General transmitting the report of the Joint
+Inspection Unit on policies of the United Nations system organizations towards the
+use of open source software in the secretariats 14 and the comments of the SecretaryGeneral and those of the United Nations System Chief Executives Board for
+Coordination thereon, 15 the notes by the Secretary-General transmitting the report of
+the Joint Inspection Unit on knowledge management in the United Nations system 16
+and the comments of the Secretary-General and those of the United Nations System
+Chief Executives Board for Coordination thereon, 17 and the report of the SecretaryGeneral on the feasibility of the application of cost-accounting principles in the
+United Nations Secretariat 18 and the related report of the Advisory Committee on
+Administrative and Budgetary Questions, 19
+10F
+
+1F
+
+12F
+
+13F
+
+14F
+
+15F
+
+16F
+
+17F
+
+18F
+
+Underlining the importance of information and communications technology in
+meeting the growing demands of the Organization as it becomes increasingly reliant
+on its information technology and communications infrastructure,
+Also underlining the importance of information and communications technology
+in strengthening oversight and accountability and in increasing the availability of
+accurate and timely information to support decision-making,
+Reaffirms that the Fifth Committee is the appropriate Main Committee of
+1.
+the General Assembly entrusted with responsibilities for administrative and
+budgetary matters;
+Recalls the role of the Secretary-General as the Chief Administrative
+2.
+Officer of the Organization, in accordance with the provisions of Article 97 of the
+Charter of the United Nations;
+Recognizes the need for central authority to set common standards,
+3.
+provide an Organization-wide perspective, optimize use of resources and improve
+information and communications technology services;
+Also recognizes the need for an integrated, global information system
+4.
+that makes possible the effective management of human, financial and physical
+resources and that is based on streamlined business processes and best practices;
+Further recognizes the need for a global operational framework to enable
+5.
+the United Nations to respond effectively to emergency situations that may impair
+the operations of critical elements of its information and communications
+technology infrastructure and facilities;
+
+_______________
+11
+
+A/61/478.
+A/61/765.
+13
+A/61/804.
+14
+A/60/665.
+15
+A/60/665/Add.1.
+16
+A/63/140.
+17
+A/63/140/Add.1.
+18
+A/61/826.
+19
+A/62/537.
+12
+
+2
+
+A/RES/63/262
+
+6.
+Endorses the conclusions and recommendations contained in the reports
+of the Advisory Committee on Administrative and Budgetary Questions,5,9 subject to
+the provisions of the present resolution;
+0H
+
+1H
+
+I
+Information and communications technology strategy and governance
+Recognizing the importance of the Secretary-General’s knowledge
+management proposals, particularly in facilitating more informed decision-making
+and improving the effectiveness of the Organization,
+Emphasizing the importance of strong, central leadership for the establishment
+and implementation of Organization-wide information and communications
+technology standards and activities in order to ensure efficient utilization of
+resources, modernization of information systems and improvement in the
+information and communications technology services available to the United
+Nations,
+Recognizes that the successful integration of central information and
+1.
+communications technology functions across the Secretariat is essential to achieving
+coherence and coordination in the work of the Organization and between the
+Secretariat and the funds, programmes and specialized agencies;
+Notes the intention of the Secretary-General to establish the Office of
+2.
+Information and Communications Technology in a budget-and-staff-neutral manner;
+3.
+Stresses the need for a simple and operationally effective information and
+communications technology governance structure with clear lines of authority and
+accountability;
+Decides to establish the Office of Information and Communications
+4.
+Technology as an independent organizational unit under a separate budget section,
+to be headed by the Chief Information Technology Officer at the level of Assistant
+Secretary-General;
+Emphasizes that there is no single governance model for information and
+5.
+communications technology that can be assumed to be solely appropriate for the
+United Nations;
+Notes the considerable level of expertise in the International Computing
+6.
+Centre, and requests the Secretary-General to continue to utilize the services of the
+Centre in supporting the information and communications technology activities of
+the United Nations;
+Requests the Secretary-General to ensure that the centralization and
+7.
+integration of the information and communications technology functions in the
+Office of Information and Communications Technology do not have any negative
+impact on the support provided to field operations worldwide;
+Encourages the Secretary-General, as Chairman of the United Nations
+8.
+System Chief Executives Board for Coordination, to foster deeper coordination and
+collaboration among United Nations organizations in all matters related to
+information and communications technology;
+Requests the Secretary-General, in accordance with its resolution 58/269
+9.
+of 23 December 2003, to submit a revised strategic framework to the Committee for
+Programme and Coordination at its forty-ninth session in the light of the
+
+3
+
+A/RES/63/262
+
+programmatic aspects of the revision arising from the creation of the Office of
+Information and Communications Technology;
+10. Also requests the Secretary-General to report to the General Assembly at
+the main part of its sixty-fifth session on his information and communications
+technology strategy, including on:
+(a) Any necessary adjustments to the governance structure to make it simpler
+and operationally effective as a policy setting and management instrument;
+(b)
+
+An update on such management and reporting arrangements;
+
+(c) An in-depth assessment of the organizational arrangement, including the
+possibility of changing the placement of the Office of Information and
+Communications Technology in the structure of the Organization;
+(d) A comprehensive inventory of information and communications
+technology capacities across the Secretariat, including dedicated and part-time
+personnel;
+(e) More precisely identified and quantified efficiency gains or benefits
+expected from the implementation of the information and communications
+technology strategy;
+(f)
+benefits;
+
+The methodology and benchmarks used to identify and measure those
+
+(g) The roles and responsibilities of the Office of the Chief Information
+Technology Officer and the Department of Field Support of the Secretariat
+regarding information and communications technology activities, including on lines
+of authority, accountability and the division of labour set out in the new
+organizational structure;
+II
+Enterprise resource planning project
+1.
+Recalls section II, paragraph 4, of its resolution 60/283, in which it
+decided to replace the Integrated Management Information System with a nextgeneration enterprise resource planning system or other comparable system;
+Stresses that the implementation of the enterprise resource planning
+2.
+system should aim at consolidating the management of all financial, human and
+physical resources under a single integrated information system for the entire
+Organization, including for peacekeeping and field missions;
+Recognizes the considerable operational and financial risks involved in
+3.
+the implementation of the enterprise resource planning system, and stresses the need
+for the Secretary-General to ensure full accountability and clear lines of
+responsibility for the project;
+Notes the intention of the Secretary-General to implement the
+4.
+functionalities of the United Nations enterprise resource planning system in ways
+that would mitigate organizational and managerial risks;
+Stresses the need to implement the various functions of the enterprise
+5.
+resource planning system across the global range of United Nations offices in a
+well-planned, step-by-step manner that ensures adequate preparation and training
+for each location and that minimizes the burden of change on the Organization and
+its resources, in order to further mitigate organizational and managerial risks;
+4
+
+A/RES/63/262
+
+6.
+Notes that the enterprise resource planning system provides for an
+integrated suite of information technology applications, as outlined by the
+Secretary-General in paragraph 20 of his report,3 and requests the Secretary-General
+to report on those applications to the General Assembly at its sixty-fourth session;
+7.
+Approves the proposed governance framework of the enterprise resource
+planning project;
+8.
+Notes that the enterprise resource planning governance structure proposed
+by the Secretary-General is distinct from the information and communications
+technology governance structure;
+Recognizes that the successful implementation of the enterprise resource
+9.
+planning project requires the full support and commitment of senior management, as
+well as close and continuous engagement with key stakeholders;
+10. Emphasizes that the enterprise resource planning project should be
+viewed primarily as a business project driven by business process demands and
+delivered through complex information technology systems requiring a high level of
+technical expertise;
+11. Recalls that the objective of the enterprise resource planning project is to
+enhance the effective and transparent use of the resources of the Organization and,
+in that regard, emphasizes the need to identify tangible and measurable efficiency
+and productivity gains arising from the project;
+12. Requests the Secretary-General to limit customization of the enterprise
+resource planning software to the extent feasible in order to ensure costeffectiveness as well as flexibility in upgrading to new versions of the software and
+to report on any necessary customization with full justification of rationale and cost;
+13. Also requests the Secretary-General, where customization for a particular
+function is unavoidable, to consider enhancing existing systems or using specialized
+software that can integrate with the enterprise resource planning system where it is
+more cost-effective in the long-term;
+14. Stresses that changes to the working practices and business processes of
+the Secretariat should always be considered before undertaking customization;
+15. Expresses its readiness to consider any duly justified proposal aimed at
+reducing customization, stressing that any proposed changes to the United Nations
+regulations must have prior approval of the General Assembly;
+16. Stresses that, as a later adopter of the enterprise resource planning
+system, the United Nations can benefit from the lessons learned by other entities of
+the United Nations system that have implemented such systems;
+17. Takes note of the overall resource requirements for the implementation of
+the enterprise resource planning systems for the United Nations as contained in the
+relevant report of the Secretary-General;3
+2H
+
+18. Approves the amount of 20 million United States dollars, comprising
+5,110,000 dollars to be funded from the regular budget for the biennium 2008–2009,
+7,050,000 dollars from the support account for peacekeeping operations for the
+period from 1 July 2008 to 30 June 2009 and 7,840,000 dollars from extrabudgetary
+resources for the biennium 2008–2009 for the implementation of the enterprise
+resource planning system;
+
+5
+
+A/RES/63/262
+
+19. Decides to approve the utilization of the amount of 2,346,000 dollars of
+interest accrued under the Integrated Management Information System Fund
+available as at 31 December 2007 to offset the regular budget requirements for the
+enterprise resource planning project approved in paragraph 18 of the present
+section;
+20. Requests the Secretary-General to meet the regular budget share of
+requirements for the enterprise resource planning system in the amount of 2,764,000
+dollars from the overall resources appropriated for the biennium 2008–2009 for the
+regular budget and to report the related expenditure as necessary in the second
+performance report for the biennium 2008–2009;
+21. Authorizes the Secretary-General to enter into commitments in a total
+amount not to exceed 7,050,000 dollars for the support account for peacekeeping
+operations for the period from 1 July 2008 to 30 June 2009 in respect of the support
+account share for the enterprise resource planning project;
+22. Takes note that an estimated amount of 7,840,000 dollars will be financed
+from extrabudgetary resources for the biennium 2008–2009;
+23. Endorses the cost-sharing arrangement for the financing of the enterprise
+resource planning project proposed by the Secretary-General in paragraph 79 of his
+report;3
+3H
+
+24. Decides not to suspend the provisions for the application of credits under
+regulations 3.2 (d), 5.3 and 5.4 of the Financial Regulations and Rules of the United
+Nations, 20 regarding the use of available balances in the surplus account of the
+General Fund and the unencumbered balance of active peacekeeping operations;
+19F
+
+25. Authorizes the Secretary-General to establish a multi-year special account
+to record income and expenditures for this project;
+26. Requests the Secretary-General to keep the enterprise resource planning
+governance structure under review and to report to the General Assembly at the
+main part of its sixty-fourth session on the enterprise resource planning project,
+including:
+(a)
+
+An assessment of the organizational arrangements;
+
+(b) A revised enterprise resource planning project implementation and
+updated budget, taking stock of the design phase, with a full and detailed
+justification of the resources needed;
+(c) An updated business case, including details on tangible and measurable
+efficiency and productivity gains in the areas of operation and administration to be
+achieved through the implementation of the enterprise resource planning system, as
+well as benchmarks for measuring progress and the anticipated return on
+investment;
+(d) Highlighting those modules that are essential for the implementation of
+the International Public Sector Accounting Standards;
+(e) An update on the implementation of the customer relationship management
+and enterprise content management systems, including further resources required, as
+well as the cost-sharing arrangement for their continued implementation;
+
+_______________
+20
+
+6
+
+ST/SGB/2003/7.
+
+A/RES/63/262
+
+(f) Justification of the need, and options for, contingency resources,
+including a possible budgetary alternative;
+(g)
+
+Options for a reduced enterprise resource planning package at lower cost;
+III
+Customer relationship management and enterprise content
+management systems
+
+1.
+Recognizes the benefits of the implementation of the customer relationship
+management and enterprise content management systems, and requests the SecretaryGeneral to continue to implement those applications throughout the Organization, as
+appropriate;
+Stresses that the customer relationship management and enterprise content
+2.
+management systems shall be developed and implemented under the authority of the
+Chief Information Technology Officer in order to ensure a coordinated approach to
+the development of enterprise systems;
+Emphasizes the need to ensure complementarity between the customer
+3.
+relationship management and enterprise content management systems with the
+forthcoming enterprise resource planning system;
+Decides to approve additional resource requirements for the enterprise
+4.
+content management project in the amount of 2 million dollars, and requests the
+Secretary-General to meet the requirements from within the overall resources
+appropriated under the programme budget for the biennium 2008–2009 and to report
+on the related expenditure, as necessary, in the second performance report on the
+programme budget for the biennium;
+Notes that implementation of the customer relationship management and
+5.
+enterprise content management systems is already in progress, and that at the time
+of the inception of those projects, the Secretary-General had not made a full
+proposal to the General Assembly;
+IV
+Security, disaster recovery and business continuity
+1.
+Emphasizes the need for appropriate information and communications
+technology security, disaster recovery and business continuity plans;
+2.
+Requests the Secretary-General to consolidate systems in central data
+centres in order to strengthen disaster recovery and business continuity and to
+minimize the size of local primary and secondary data centres;
+Also requests the Secretary-General to prioritize systems in order to
+3.
+minimize the cost of disaster recovery and business continuity;
+4.
+Recalls section XV of its resolution 60/266 of 30 June 2006, and stresses
+the need to ensure timely and secure communications and information exchange
+within and between duty stations, as well as to ensure that a robust and fault-tolerant
+infrastructure is in place to continue or restart operations in the event of a natural or
+a man-made disaster or disruption;
+Notes that the Secretariat lacks an Organization-wide approach to disaster
+5.
+recovery and business continuity, thereby exposing the Organization to considerable
+risks, and, in this regard, welcomes the development of a unified approach to
+disaster recovery and business continuity activities throughout the Secretariat;
+7
+
+A/RES/63/262
+
+6.
+Encourages the Secretary-General to take a unified approach to disaster
+recovery and business continuity, utilizing all available infrastructure, in order to
+achieve economies of scale and cost efficiencies;
+Deeply regrets that the Secretary-General entered into a long-term lease
+7.
+for the proposed Long Island City data centre before the viability of the site as a
+secondary data centre for United Nations Headquarters had been fully established,
+and urges the Secretary-General to explore alternative uses for the leased space as a
+matter of urgency;
+Notes with concern that the delay this caused may lead to further cost
+8.
+escalation, including to the capital master plan, and risk to data;
+9.
+Notes the particular challenge of providing disaster recovery and business
+continuity to customized departmental information and communications technology
+systems, and encourages the Secretary-General to pursue an enterprise information
+and communications technology approach wherever possible;
+10. Requests the Secretary-General to ensure that the United Nations uses
+enterprise data centres rather than local data centres as far as possible;
+11. Decides not to approve the proposal of the Secretary-General for a new
+secondary data centre at this stage, and requests him to report to the General
+Assembly at the first part of its resumed sixty-third session on the risk mitigation
+measures to be taken during the relocation of the primary data centre to the North
+Lawn;
+12. Requests the Secretary-General to submit a unified disaster recovery and
+business continuity plan, including a permanent solution for Headquarters;
+13. Also requests the Secretary-General to fully explore the possibilities for
+consolidating and using the most reliable and cost-effective solution for data
+storage, business continuity services and hosting of enterprise systems, drawing on
+the experience of other United Nations entities and global developments in
+information and communications technology, and to report thereon to the General
+Assembly at the main part of its sixty-fourth session;
+14. Encourages application and data re-engineering where it supports the
+long-term goal of managing data recovery and business continuity in system-wide
+enterprise data centres and where, from a long-term perspective, it is more costeffective than hosting them at a local data centre;
+15. Notes with appreciation the commitment of the Government of Spain,
+and approves the related proposal to host a secondary active telecommunications
+facility at Valencia, Spain, to support peacekeeping activities;
+16. Decides not to proceed at this stage with plans to host computing and
+data storage equipment relating to Secretariat business continuity operations and
+enterprise solutions at the secondary active communications facility at Valencia;
+17. Requests the Secretary-General to include, in the report requested in
+paragraph 13 of the present section, plans to reduce the number of local data centres
+at Headquarters, offices away from Headquarters and peacekeeping missions;
+
+8
+
+A/RES/63/262
+
+18. Endorses the cost-sharing arrangement proposed by the SecretaryGeneral for the new primary data centre of the United Nations Headquarters; 21
+20F
+
+19. Requests the Secretary-General to submit a proposal on cost-sharing
+arrangements in the context of the report requested in paragraph 11 of the present
+section on the new secondary data centre;
+20. Takes note of the intention to meet the estimated requirements in the
+amount of 149,400 dollars for the establishment of the secondary active
+telecommunications facility at Valencia for the period from 1 July 2008 to 30 June
+2009 from within resources approved for the same period for the United Nations
+Logistics Base at Brindisi, Italy;
+21. Approves the amount of 7,145,500 dollars for the establishment of a new
+primary data centre on the North Lawn at Headquarters, of which 5,716,400 dollars
+is to be funded from resources appropriated under the programme budget for the
+biennium 2008–2009, and authorizes the Secretary-General to report the related
+expenditure, as necessary, in the context of the second performance report on the
+programme budget for the biennium;
+22. Authorizes the Secretary-General to enter into commitments in a total
+amount not to exceed 1,429,100 dollars for the support account for peacekeeping
+operations for the period from 1 July 2008 to 30 June 2009 in respect of support
+account share for the establishment of a new primary data centre on the North
+Lawn;
+23. Takes note of paragraphs 89 and 96 of the report of the Advisory
+Committee on Administrative and Budgetary Questions,5 and decides to approve the
+amount of 2.5 million dollars, to be funded from the regular budget for the current
+biennium, for the provision of disaster recovery and business continuity services to
+Headquarters, offices away from Headquarters and field missions, and requests the
+Secretary-General to meet the above requirements from within the overall resources
+appropriated for the biennium for the regular budget and to report the related
+expenditures, as necessary, in the second performance report for the biennium;
+4H
+
+V
+International Public Sector Accounting Standards
+1.
+Takes note of the first progress report of the Secretary-General on the
+adoption of the International Public Sector Accounting Standards;6
+5H
+
+2.
+Endorses the conclusions and recommendations contained in the report
+of the Advisory Committee on Administrative and Budgetary Questions;7
+6H
+
+3.
+Recalls that the General Assembly, in its resolution 60/283, approved the
+adoption of the International Public Sector Accounting Standards by the United
+Nations;
+Underlines that the adoption of the International Public Sector Accounting
+4.
+Standards will improve governance, accountability and transparency in the United
+Nations system;
+
+_______________
+21
+
+A/62/477, para. 113.
+
+9
+
+A/RES/63/262
+
+5.
+Recognizes that the enterprise resource planning system will serve as the
+backbone for implementation by the United Nations of the International Public
+Sector Accounting Standards;
+Encourages the Secretary-General, as Chairman of the United Nations
+6.
+System Chief Executives Board for Coordination, to work within the Board to
+monitor the application of the International Public Sector Accounting Standards to
+ensure consistency within the United Nations system as a whole;
+VI
+Cost accounting
+1.
+Endorses the report of the Advisory Committee on Administrative and
+Budgetary Questions,19 subject to the provisions of the present resolution;
+7H
+
+2.
+Takes note of paragraphs 12, 17 and 18 of the report of the Advisory
+Committee on Administrative and Budgetary Questions;19
+8H
+
+3.
+Notes that cost accounting is more suitably applied to the support
+services of the Organization and may not be suitable for use in the substantive work
+of the Organization;
+Requests the Secretary-General to continue to improve the methods for
+4.
+calculating costs of support services, including through a framework for cost
+accounting in order to standardize current costing practices, and to report thereon to
+the General Assembly at its sixty-fifth session;
+Also requests the Secretary-General to include, in the report requested in
+5.
+paragraph 4 of the present section, an analysis of other areas within the support
+services of the Organization in which cost accounting could be applied.
+74th plenary meeting
+24 December 2008
+
+10

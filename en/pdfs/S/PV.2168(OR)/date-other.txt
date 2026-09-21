@@ -1,0 +1,3 @@
+1979-09-14
+rule: any
+raw: 14 September 1979

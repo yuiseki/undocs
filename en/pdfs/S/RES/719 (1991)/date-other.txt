@@ -1,0 +1,3 @@
+1991-10-12
+rule: any
+raw: 12 October 1991

@@ -1,0 +1,166 @@
+United Nations
+
+A/RES/69/266
+
+General Assembly
+
+Distr.: General
+11 March 2015
+
+Sixty-ninth session
+Agenda item 9
+
+Resolution adopted by the General Assembly on 26 February 2015
+[without reference to a Main Committee (A/69/L.53 and Add.1)]
+
+69/266. A global geodetic reference frame for sustainable
+development
+The General Assembly,
+Reaffirming the purposes and principles of the Charter of the United Nations,
+Reaffirming also its resolution 54/68 of 6 December 1999, in which it
+endorsed the resolution entitled “The Space Millennium: Vienna Declaration on
+Space and Human Development”, 1 which included, inter alia, key actions to
+improve the efficiency and security of transport, search and rescue, geodesy and
+other activities by promoting the enhancement of, universal access to and
+compatibility of space-based navigation and positioning systems, including Global
+Navigation Satellite systems,
+Reaffirming further its resolution 57/253 of 20 December 2002, in which it
+endorsed the Plan of Implementation of the World Summit on Sustainable
+Development (Johannesburg Plan of Implementation), 2 and means of
+implementation, which included, inter alia, strengthening cooperation and
+coordination among global observing systems and research programmes for
+integrated global observations, taking into account the need for building capacity
+and sharing of data from ground-based observations, satellite remote sensing and
+other sources among all countries,
+Reaffirming its resolution 66/288 of 27 July 2012, in which it endorsed the
+outcome document of the United Nations Conference on Sustainable Development,
+entitled “The future we want”, in which Heads of State and Government recognized
+the importance of space-technology-based data, in situ monitoring and reliable
+geospatial information for sustainable development policymaking, programming and
+project operations,
+Noting Economic and Social Council resolution 2011/24 of 27 July 2011, by
+which the Council established the Committee of Experts on Global Geospatial
+Information Management, encouraged Member States to hold regular high-level,
+_______________
+1
+
+Adopted by the Third United Nations Conference on the Exploration and Peaceful Uses of Outer Space
+(UNISPACE III), held in Vienna from 19 to 30 July 1999 (A/CONF.184/6, chap. I, resolution 1).
+2
+Report of the World Summit on Sustainable Development, Johannesburg, South Africa, 26 August–4 September
+2002 (United Nations publication, Sales No. E.03.II.A.1 and corrigendum, chap. I, resolution 2, annex).
+
+15-02936 (E)
+
+*1502936*
+
+Please recycle
+
+A/RES/69/266
+
+A global geodetic reference frame for sustainable development
+
+multi-stakeholder discussions on global geospatial information, including through
+the convening of global forums, with a view to promoting a comprehensive dialogue
+with all relevant actors and bodies, and emphasized the importance of promoting
+national, regional and global efforts to foster the exchange of knowledge and
+expertise, to assist developing countries in building and strengthening national
+capacities in that field,
+Noting also resolution 1, adopted on 1 November 2012 by the Nineteenth
+United Nations Regional Cartographic Conference for Asia and the Pacific, held in
+Bangkok from 29 October to 1 November 2012, 3 in which the Conference, realizing
+the need to improve the sustainability and capability of the Global Geodetic
+Observing System and the need to encourage and support the adoption of the
+International Terrestrial Reference Frame as the foundation reference frame, urged
+the Committee of Experts to consult with Member States to adopt and sustain the
+global geodetic reference frame and provide a road map for its implementation, and
+to participate in and make commitments to the Global Geodetic Observing System
+to ensure its long-term sustainability,
+Noting further decision 3/102, adopted by the Committee of Experts on
+26 July 2013, 4 in which the Committee agreed that actions should be taken to
+facilitate the submission of a resolution to be tabled at the sixty-eighth session of
+the General Assembly in order to seek support and commitment at the highest level,
+and requested the Secretariat to establish a working group, with equitable regional
+representation, to develop the conceptual note and draft text of the resolution
+through an open and inclusive process,
+Recognizing the importance of international cooperation, as no one country
+can do this alone, to realize the global geodetic reference frame and services to
+underpin Global Navigation Satellite Systems technology and provide the framework
+for all geospatial activity, as a key enabler of spatial data interoperability, disaster
+mitigation and sustainable development,
+Recognizing also the economic and scientific importance of and the growing
+demand for an accurate and stable global geodetic reference frame for the Earth that
+allows the interrelationship of measurements taken anywhere on the Earth and in
+space, combining geometric positioning and gravity field-related observations, as
+the basis and reference in location and height for geospatial information, which is
+used in many Earth science and societal applications, including sea-level and
+climate change monitoring, natural hazard and disaster management and a whole
+series of industrial applications (including mining, agriculture, transport, navigation
+and construction) in which precise positioning introduces efficiencies,
+Recognizing further the extraordinary achievements made by national mapping
+and space agencies, geodetic commissions, research organizations and universities
+and other international organizations such as the International Federation of
+Surveyors, building upon initiatives of the International Association of Geodesy,
+representing the global geodetic community, in measuring and monitoring changes
+in the Earth’s system on a best-effort basis, including the development of the now
+adopted International Terrestrial Reference Frame,
+
+_______________
+3
+
+See E/CONF.102/8, chap. IV, sect. B.
+See Official Records of the Economic and Social Council, 2013, Supplement No. 26 (E/2013/46), chap. I,
+sect. B.
+4
+
+2/3
+
+A global geodetic reference frame for sustainable development
+
+A/RES/69/266
+
+Recognizing the investments of Member States in developing satellite missions
+for positioning and remote sensing of the Earth, supporting a range of scientific
+endeavours that improve our understanding of the “Earth system” and underpin
+decision-making, and recognizing that the full societal benefits of these investments
+are realized only if they are referenced to a common global geodetic reference frame
+at the national, regional and global levels,
+Recognizing with appreciation that some Member States are already
+implementing open geodetic data-sharing mechanisms for the benefit of realizing,
+improving and accessing the global geodetic reference frame at the national,
+regional and global levels,
+Acknowledging that the global geodetic reference frame depends upon the
+participation of countries all around the globe, and the need to take action to
+strengthen international cooperation,
+1.
+Notes with appreciation the establishment of a working group by the
+Committee of Experts on Global Geospatial Information Management to develop a
+global geodetic road map that addresses key elements relating to the development
+and sustainability of the global geodetic reference frame;
+2.
+Encourages Member States and relevant international organizations to
+enhance global cooperation in providing technical assistance, especially for capacity
+development in geodesy for developing countries, with the aim of ensuring the
+development, sustainability and advancement of the global geodetic reference frame;
+3.
+Urges Member States to implement open sharing of geodetic data,
+standards and conventions, on a voluntary basis, to contribute to the global
+reference frame and regional densifications through relevant national mechanisms
+and intergovernmental cooperation, and in coordination with the International
+Association of Geodesy;
+4.
+Invites Member States to commit to improving and maintaining
+appropriate national geodetic infrastructure as an essential means to enhance the
+global geodetic reference frame;
+5.
+Also invites Member States to engage in multilateral cooperation that
+addresses infrastructure gaps and duplications towards the development of a more
+sustainable global geodetic reference frame;
+6.
+Further invites Member States to develop outreach programmes that
+make the global geodetic reference frame more visible and understandable to
+society.
+80th plenary meeting
+26 February 2015
+
+3/3

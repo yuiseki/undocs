@@ -1,0 +1,3 @@
+1987-12-22
+rule: any
+raw: 22 December 1987

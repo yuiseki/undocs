@@ -1,0 +1,1617 @@
+S/2011/695
+
+United Nations
+
+Security Council
+
+Distr.: General
+8 November 2011
+Original: English
+
+Note by the President of the Security Council
+At its 6335th meeting, held on 9 June 2010 in connection with the item entitled
+“Non-proliferation”, the Security Council adopted resolution 1929 (2010).
+In paragraph 4 of the resolution, the Security Council requested the Director
+General of the International Atomic Energy Agency to communicate to the Security
+Council all his reports on the application of safeguards in the Islamic Republic of
+Iran.
+Accordingly, the President herewith circulates the report of the Director
+General dated 8 November 2011 (see annex).
+
+11-59035 (E) 151111
+
+*1159035*
+
+S/2011/695
+
+Annex
+Letter dated 8 November 2011 from the Director General of the
+International Atomic Energy Agency addressed to the President of
+the Security Council
+I enclose herewith the report requested by the Security Council in its
+resolution 1929 (2010), which I have submitted today to the Board of Governors of
+the International Atomic Energy Agency (see enclosure).
+I should be grateful if you would bring this letter and the enclosed report to the
+attention of all members of the Security Council.
+(Signed) Yukiya Amano
+
+2
+
+11-59035
+
+S/2011/695
+
+Enclosure*
+Implementation of the NPT Safeguards Agreement and relevant
+provisions of Security Council resolutions in the Islamic Republic
+of Iran
+Report by the Director General
+
+A.
+
+Introduction
+1.
+This report of the Director General to the Board of Governors and, in parallel,
+to the Security Council, is on the implementation of the NPT Safeguards
+Agreement 1 and relevant provisions of Security Council resolutions in the Islamic
+Republic of Iran (Iran).
+2.
+The Security Council has affirmed that the steps required by the Board of
+Governors in its resolutions 2 are binding on Iran. 3 The relevant provisions of the
+aforementioned Security Council resolutions were adopted under Chapter VII of the
+United Nations Charter, and are mandatory, in accordance with the terms of those
+resolutions. 4
+3.
+By virtue of its Relationship Agreement with the United Nations, 5 the Agency
+is required to cooperate with the Security Council in the exercise of the Council’s
+responsibility for the maintenance or restoration of international peace and security.
+All Members of the United Nations agree to accept and carry out the decisions of
+the Security Council, 6 and in this respect, to take actions which are consistent with
+their obligations under the United Nations Charter.
+
+__________________
+
+* Circulated to the Board of Governors of the International Atomic Energy Agency under the
+symbol GOV/2011/65.
+1 The Agreement between Iran and the Agency for the Application of Safeguards in Connection
+with the Treaty on the Non-Proliferation of Nuclear Weapons (INFCIRC/214), which entered
+into force on 15 May 1974.
+2 The Board of Governors has adopted ten resolutions in connection with the implementation of
+safeguards in Iran: GOV/2003/69 (12 September 2003); GOV/2003/81 (26 November 2003);
+GOV/2004/21 (13 March 2004); GOV/2004/49 (18 June 2004); GOV/2004/79 (18 September
+2004); GOV/2004/90 (29 November 2004); GOV/2005/64 (11 August 2005); GOV/2005/77
+(24 September 2005); GOV/2006/14 (4 February 2006); and GOV/2009/82 (27 November 2009).
+3 In resolution 1929 (2010), the Security Council: affirmed, inter alia, that Iran shall, without
+further delay, take the steps required by the Board in GOV/2006/14 and GOV/2009/82;
+reaffirmed Iran’s obligation to cooperate fully with the IAEA on all outstanding issues,
+particularly those which give rise to concerns about the possible military dimensions of the
+Iranian nuclear programme; decided that Iran shall, without delay, comply fully and without
+qualification with its Safeguards Agreement, including through the application of modified
+Code 3.1 of the Subsidiary Arrangements; and called upon Iran to act strictly in accordance with
+the provisions of its Additional Protocol and to ratify it promptly (operative paras 1-6).
+4 The United Nations Security Council has adopted the following resolutions on Iran: 1696
+(2006); 1737 (2006); 1747 (2007); 1803 (2008); 1835 (2008); and 1929 (2010).
+5 The Agreement Governing the Relationship between the United Nations and the IAEA entered
+into force on 14 November 1957, following approval by the General Conference, upon
+recommendation of the Board of Governors, and approval by the General Assembly of the
+United Nations. It is reproduced in INFCIRC/11 (30 October 1959), Part I.A.
+6 The Charter of the United Nations, Article 25.
+
+11-59035
+
+3
+
+S/2011/695
+
+4.
+In a letter dated 26 May 2011, H.E. Dr Fereydoun Abbasi, Vice President of
+Iran and Head of the Atomic Energy Organization of Iran (AEOI), informed the
+Director General that Iran would be prepared to receive relevant questions from the
+Agency on its nuclear activities after a declaration by the Agency that the workplan
+(INFCIRC/711) had been fully implemented and that the Agency would thereafter
+implement safeguards in Iran in a routine manner. In his reply of 3 June 2011, the
+Director General informed Dr Abbasi that the Agency was neither in a position to
+make such a declaration, nor to conduct safeguards in Iran in a routine manner, in
+light of concerns about the existence in Iran of possible military dimensions to
+Iran’s nuclear programme. On 19 September 2011, the Director General met
+Dr. Abbasi in Vienna, and discussed issues related to the implementation of Iran’s
+Safeguards Agreement and other relevant obligations. In a letter dated 30 September
+2011, the Agency reiterated its invitation to Iran to re-engage with the Agency on
+the outstanding issues related to possible military dimensions to Iran’s nuclear
+programme and the actions required of Iran to resolve those issues. In a letter dated
+30 October 2011, Dr Abbasi referred to his previous discussions with the Director
+General and expressed the will of Iran “to remove ambiguities, if any”, suggesting
+that the Deputy Director General for Safeguards (DDG-SG), should visit Iran for
+discussions. In his reply, dated 2 November 2011, the Director General indicated his
+preparedness to send the DDG-SG to “discuss the issues identified” in his
+forthcoming report to the Board of Governors.
+5.
+This report addresses developments since the last report (GOV/2011/54,
+2 September 2011), as well as issues of longer standing, and, in line with the
+Director General’s opening remarks to the Board of Governors on 12 September
+2011, contains an Annex setting out in more detail the basis for the Agency’s
+concerns about possible military dimensions to Iran’s nuclear programme. The
+report focuses on those areas where Iran has not fully implemented its binding
+obligations, as the full implementation of these obligations is needed to establish
+international confidence in the exclusively peaceful nature of Iran’s nuclear
+programme.
+
+B.
+
+Facilities Declared under Iran’s Safeguards Agreement
+6.
+Under its Safeguards Agreement, Iran has declared to the Agency 15 nuclear
+facilities and nine locations outside facilities where nuclear material is customarily
+used (LOFs). 7 Notwithstanding that certain of the activities being undertaken by
+Iran at some of the facilities are contrary to the relevant resolutions of the Board of
+Governors and the Security Council, as indicated below, the Agency continues to
+implement safeguards at these facilities and LOFs.
+
+C.
+
+Enrichment Related Activities
+7.
+Contrary to the relevant resolutions of the Board of Governors and the
+Security Council, Iran has not suspended its enrichment related activities in the
+following declared facilities, all of which are nevertheless under Agency safeguards.
+
+__________________
+7 All of the LOFs are situated within hospitals.
+
+4
+
+11-59035
+
+S/2011/695
+
+C.1.
+
+Natanz: Fuel Enrichment Plant and Pilot Fuel Enrichment Plant
+8.
+Fuel Enrichment Plant (FEP): There are two cascade halls at FEP: Production
+Hall A and Production Hall B. According to the design information submitted by
+Iran, eight units are planned for Production Hall A, with 18 cascades in each unit. No
+detailed design information has yet been provided for Production Hall B.
+9.
+As of 2 November 2011, 54 cascades were installed in three of the eight units
+in Production Hall A, 37 of which were declared by Iran as being fed with UF6. 8
+Whereas initially each installed cascade comprised 164 centrifuges, Iran has
+subsequently modified 15 of the cascades to contain 174 centrifuges each. To date,
+all the centrifuges installed are IR-1 machines. As of 2 November 2011, installation
+work in the remaining five units was ongoing, but no centrifuges had been installed,
+and there had been no installation work in Production Hall B.
+10. Between 15 October and 8 November 2011, the Agency conducted a physical
+inventory verification (PIV) at FEP, the results of which the Agency is currently
+evaluating.
+11. Iran has estimated that, between 18 October 2010 and 1 November 2011, it
+produced 1787 kg of low enriched UF6, which would result in a total production of
+4922 kg of low enriched UF6 since production began in February 2007. 9 The nuclear
+material at FEP (including the feed, product and tails), as well as all installed
+cascades and the feed and withdrawal stations, are subject to Agency containment
+and surveillance. 10 The consequences for safeguards of the seal breakage in the feed
+and withdrawal area 11 will be evaluated by the Agency upon completion of its
+assessment of the PIV.
+12. Based on the results of the analysis of environmental samples taken at FEP
+since February 2007 12 and other verification activities, the Agency has concluded
+that the facility has operated as declared by Iran in the Design Information
+Questionnaire (DIQ).
+13. Pilot Fuel Enrichment Plant (PFEP): PFEP is a research and development
+(R&D) facility, and a pilot low enriched uranium (LEU) production facility, which
+was first brought into operation in October 2003. It has a cascade hall that can
+accommodate six cascades, and is divided between an area designated for the
+production of LEU enriched up to 20% U-235 (Cascades 1 and 6) and an area
+designated for R&D (Cascades 2, 3, 4 and 5).
+14. In the production area, Iran first began feeding low enriched UF6 into Cascade
+1 on 9 February 2010, for the stated purpose of producing UF 6 enriched up to 20%
+U-235 for use in the manufacture of fuel for the Tehran Research Reactor
+(TRR). 13, 14 Since 13 July 2010, Iran has been feeding low enriched UF6 into two
+
+__________________
+8 The 54 installed cascades contained approximately 8000 centrifuges; the 37 cascades declared
+
+by Iran as being fed with UF 6 on that date contained 6208 centrifuges. Not all of the centrifuges
+in the cascades that were being fed with UF6 may have been working.
+9 The Agency previously verified that, as of 17 October 2010, a total of 3135 kg of low enriched
+UF 6 had been produced since the start of operations in February 2007 (GOV/2011/29, para. 9).
+10 In line with normal safeguards practice, small amounts of nuclear material at the facility
+(e.g. some waste and samples) are not subject to containment and surveillance.
+11 GOV/2011/29, para. 10.
+12 Results are available to the Agency for samples taken up to 6 March 2011.
+13 GOV/2010/28, para. 9.
+14 TRR is a 5 MW reactor which operates with 20% U-235 enriched fuel and is used for the
+irradiation of different types of targets and for research and training purposes.
+
+11-59035
+
+5
+
+S/2011/695
+
+interconnected cascades (Cascades 1 and 6), each of which consists of 164 IR-1
+centrifuges. 15
+15. Between 13 and 29 September 2011, the Agency conducted a PIV at PFEP and
+verified that, as of 13 September 2011, 720.8 kg of low enriched UF6 had been fed
+into the cascade(s) in the production area since the process began on 9 February
+2010, and that a total of 73.7 kg of UF6 enriched up to 20% U-235 had been
+produced. The Agency is continuing with its assessment of the results of the PIV.
+Iran has estimated that, between 14 September 2011 and 28 October 2011, a total of
+44.7 kg of UF6 enriched at FEP was fed into the two interconnected cascades and
+that approximately 6 kg of UF6 enriched up to 20% U-235 were produced.
+16. The preliminary results of the PIV show an improvement to the operator’s
+weighing system. Once the assessment of the PIV has been completed, the Agency
+will be able to determine whether the operator’s better sampling procedures have
+resulted in a more accurate determination of the level of U-235 enrichment. 16
+17. In the R&D area, as of 22 October 2011, Iran had installed 164 IR-2m
+centrifuges in Cascade 5, 17 all of which were under vacuum, and 66 IR-4 centrifuges
+in Cascade 4, none of which had been fed with UF 6. In Cascades 2 and 3, Iran has
+been feeding natural UF6 into single machines, 10-machine cascades and 20-machine
+cascades of IR-1, IR-2m and IR-4 centrifuges.
+18. Between 21 August 2011 and 28 October 2011, a total of approximately 59.8
+kg of natural UF6 was fed into centrifuges in the R&D area, but no LEU was
+withdrawn as the product and the tails are recombined at the end of the process.
+19. Based on the results of the analysis of the environmental samples taken at
+PFEP 18 and other verification activities, the Agency has concluded that the facility
+has operated as declared by Iran in the DIQ.
+C.2.
+
+Fordow Fuel Enrichment Plant
+20. In September 2009, Iran informed the Agency that it was constructing the
+Fordow Fuel Enrichment Plant (FFEP), located near the city of Qom. In its DIQ of
+10 October 2009, Iran stated that the purpose of the facility was the production of
+UF6 enriched up to 5% U-235, and that the facility was being built to contain
+16 cascades, with a total of approximately 3000 centrifuges. 19
+21. In September 2010, Iran provided the Agency with a revised DIQ in which it
+stated that the purpose of FFEP was to include R&D as well as the production of
+UF6 enriched up to 5% U-235.
+22. As previously reported, Iran provided the Agency with another revised DIQ in
+June 2011 in which the stated purpose of FFEP was the production of UF6 enriched
+up to 20% U-235, as well as R&D. Iran informed the Agency that initially this
+production would take place within two sets of two interconnected cascades, and
+that each of these cascades would consist of 174 centrifuges. Iran was reported to
+
+__________________
+15 GOV/2010/28, para. 9.
+16 GOV/2011/29, para. 14; GOV/2011/54, para. 15.
+17 Iran had previously indicated its intention to install two 164-centrifuge cascades (Cascades 4
+
+and 5) in the R&D area (GOV/2011/7, para. 17).
+18 Results are available to the Agency for samples taken up to 5 March 2011.
+19 GOV/2009/74, para. 9.
+
+6
+
+11-59035
+
+S/2011/695
+
+have decided to “triple its (production) capacity”, after which Iran would stop the
+“20% fuel production” at Natanz. 20
+23. On 17 October 2011, as anticipated in its letter to the Agency dated 11 October
+2011, Iran transferred from FEP to FFEP one large cylinder containing LEU in the
+form of UF6 and one small cylinder containing depleted uranium (DU) in the form
+of UF6. According to Iran, the LEU will be used for feeding and the DU will be used
+for line passivation. On 24 October 2011, the Agency detached the seal on the
+cylinder containing the DU, and the cylinder was immobilized at the feeding station.
+At the request of Iran, the Agency will detach the seal on the cylinder containing the
+LEU on 8 November 2011, and the cylinder will be immobilized at the feeding
+station.
+24. During an inspection on 23 and 24 October 2011, the Agency verified that Iran
+had installed all 174 centrifuges in each of two cascades, neither of which had been
+connected to the cooling and electrical lines, and had installed 64 centrifuges in a
+third cascade. To date, all the centrifuges installed are IR-1 machines. Iran informed
+the Agency that the main power supply had been connected to the facility. No
+centrifuges had been installed in the area designated for R&D purposes.
+25. The Agency continues to verify that FFEP is being constructed according to
+the latest DIQ provided by Iran. As previously reported, although Iran has provided
+some clarification regarding the initial timing of, and circumstances relating to, its
+decision to build FFEP at an existing defence establishment, additional information
+from Iran is still needed in connection with this facility. 21
+26. The results of the analysis of the environmental samples taken at FFEP up to
+27 April 2011 did not indicate the presence of enriched uranium. 22
+C.3.
+
+Other Enrichment Related Activities
+27. The Agency is still awaiting a substantive response from Iran to Agency
+requests for further information in relation to announcements made by Iran
+concerning the construction of ten new uranium enrichment facilities, the sites for
+five of which, according to Iran, have been decided, and the construction of one of
+which was to have begun by the end of the last Iranian year (20 March 2011) or the
+start of this Iranian year. 23,24 In August 2011, Dr. Abbasi was reported as having
+said that Iran did not need to build new enrichment facilities during the next two
+years. 25 Iran has not provided information, as requested by the Agency in its letter
+of 18 August 2010, in connection with its announcement on 7 February 2010 that it
+possessed laser enrichment technology. 26 As a result of Iran’s lack of cooperation on
+those issues, the Agency is unable to verify and report fully on these matters.
+
+__________________
+20 Dr. Fereydoun Abbasi, ‘Iran to Triple Production of 20%-Enriched Uranium’, Fars News
+
+Agency, 8 June 2011.
+21 GOV/2011/29, para. 20.
+22 The results did show a small number of particles of depleted uranium (GOV/2010/10, para. 17).
+23 ‘Iran Specifies Location for 10 New Enrichment Sites’, Fars News Agency, 16 August 2010.
+24 GOV/2010/46, para. 33.
+25 ‘Iran atomic chief says fuel swap talks over: IRNA’, Agence France Press article of 31 August
+
+2011, citing remarks made by Dr Abbasi during an interview with the Islamic Republic News
+Agency.
+26 Cited on the website of the Presidency of the Islamic Republic of Iran, 7 February 2010, at
+http://www.president.ir/en/?ArtID=20255 .
+
+11-59035
+
+7
+
+S/2011/695
+
+D.
+
+Reprocessing Activities
+28. Pursuant to the relevant resolutions of the Board of Governors and the Security
+Council, Iran is obliged to suspend its reprocessing activities, including R&D. 27 In a
+letter to the Agency dated 15 February 2008, Iran stated that it “does not have
+reprocessing activities”. In that context, the Agency has continued to monitor the
+use of hot cells at TRR and the Molybdenum, Iodine and Xenon Radioisotope
+Production (MIX) Facility. 28 The Agency carried out an inspection and design
+information verification (DIV) at TRR on 15 October 2011, and a DIV at the MIX
+Facility on 16 October 2011. It is only with respect to TRR, the MIX Facility and
+the other facilities to which the Agency has access that the Agency can confirm that
+there are no ongoing reprocessing related activities in Iran.
+
+E.
+
+Heavy Water Related Projects
+29. Contrary to the relevant resolutions of the Board of Governors and the
+Security Council, Iran has not suspended work on all heavy water related projects,
+including the construction of the heavy water moderated research reactor, the Iran
+Nuclear Research Reactor (IR-40 Reactor), which is subject to Agency safeguards. 29
+30. On 17 October 2011, the Agency carried out a DIV at the IR-40 Reactor at
+Arak and observed that construction of the facility was ongoing and the coolant heat
+exchangers had been installed. According to Iran, the operation of the IR-40 Reactor
+is planned to commence by the end of 2013.
+31. Since its visit to the Heavy Water Production Plant (HWPP) on 17 August
+2011, the Agency, in a letter to Iran dated 20 October 2011, requested further access
+to HWPP. The Agency has yet to receive a reply to that letter, and is again relying
+on satellite imagery to monitor the status of HWPP. Based on recent images, the
+HWPP appears to be in operation. To date, Iran has not provided the Agency access
+to the heavy water stored at the Uranium Conversion Facility (UCF) in order to take
+samples. 30
+
+F.
+
+Uranium Conversion and Fuel Fabrication
+32. Although it is obliged to suspend all enrichment related activities and heavy
+water related projects, Iran is conducting a number of activities at UCF and the Fuel
+Manufacturing Plant (FMP) at Esfahan which, as described below, are in
+contravention of those obligations, although both facilities are under Agency
+safeguards.
+
+__________________
+27 S/RES/1696 (2006), para. 2; S/RES/1737 (2006), para. 2; S/RES/1747 (2007), para. 1;
+
+S/RES/1803 (2008), para. 1; S/RES/1835 (2008), para. 4; S/RES/1929 (2010), para. 2.
+28 The MIX Facility is a hot cell complex for the separation of radiopharmaceutical isotopes from
+
+targets, including uranium, irradiated at TRR. The MIX Facility is not currently processing any
+uranium targets.
+29 S/RES/1737 (2006), para. 2; S/RES/1747 (2007), para. 1; S/RES/1803 (2008), para. 1;
+S/RES/1835 (2008), para. 4; S/RES/1929 (2010), para. 2.
+30 GOV/2010/10, paras. 20 and 21.
+
+8
+
+11-59035
+
+S/2011/695
+
+33. Uranium Conversion Facility: On 18 October 2011, the Agency carried out a
+DIV at UCF during which the Agency observed the ongoing installation of the
+process equipment for the conversion of UF6 enriched up to 20% U-235 into U3O8.
+During the DIV, Iran informed the Agency that the initial tests of this conversion
+line, originally scheduled to start on 6 September 2011, had been postponed and
+would not involve the use of nuclear material.
+34. As previously reported, Iran informed the Agency in July 2011 that it would
+start R&D activities at UCF for the conversion of UF6 enriched up to 5% U-235 into
+UO2. During the aforementioned DIV, Iran informed the Agency that 6.8 kg of DU
+in the form of UF6 had been processed and that Iran had produced 113 g of uranium
+in the form of UO2 that met its specifications. According to Iran, this UO2 has been
+sent to FMP to produce test pellets. Iran has also started using UF6 enriched to
+3.34% U-235 to produce UO2. During the DIV, Iran further informed the Agency
+that this UO2 would also be sent to FMP to produce fuel pellets, which would then
+be sent to TRR for “performance test studies”.
+35. In a letter dated 4 October 2011, Iran informed the Agency of the
+postponement of the production of natural UF6, involving the use of uranium ore
+concentrate (UOC) produced at the Bandar Abbas Uranium Production Plant,
+originally scheduled to restart on 23 October 2011. In a letter dated 11 October
+2011, Iran informed the Agency that, from 11 November 2011, it intended to use
+UOC produced at the Bandar Abbas Uranium Production Plant for the production of
+natural uranium in the form of UO2. During the DIV on 18 October 2011, the
+Agency took a sample of this UOC. During the same DIV, Iran informed the Agency
+that, since 23 July 2011, it had fed into the process 958.7 kg of uranium in the form
+of UOC 31 and produced about 185.6 kg of natural uranium in the form of UO2, and
+further indicated that some of the product had been fed back into the process. In a
+letter dated 8 October 2011, Iran informed the Agency that it had transferred about
+1 kg of this UO2 to the R&D section of FMP in order to “conduct research activities
+and pellet fabrication”.
+36. Fuel Manufacturing Plant: As previously reported, in a DIQ for FMP dated
+31 May 2011, Iran informed the Agency that a fresh fuel rod of natural UO2
+manufactured at FMP would be shipped to TRR for irradiation and post-irradiation
+analysis. On 15 October 2011, the Agency carried out an inspection and a DIV at
+TRR and confirmed that, on 23 August 2011, Iran had started to irradiate a prototype
+fuel rod containing natural UO2 that had been manufactured at FMP. In a letter dated
+30 August 2011, Iran informed the Agency that “for the time being” it had no plans
+to conduct any destructive testing on the rod and that only non-destructive testing
+would be conducted at TRR.
+37. On 22 October 2011, the Agency carried out an inspection and a DIV at FMP
+and confirmed that Iran had started to install some equipment for the fabrication of
+fuel for TRR. 32 During the inspection, the Agency verified five fuel plates
+containing natural U3O8 that had been produced at the R&D laboratory at FMP for
+testing purposes.
+
+__________________
+31 This was taken from Iran’s stockpile of imported UOC (GOV/2003/75, Annex I, para. 8).
+32 GOV/2010/46, para. 26.
+
+11-59035
+
+9
+
+S/2011/695
+
+G.
+
+Possible Military Dimensions
+38. Previous reports by the Director General have identified outstanding issues
+related to possible military dimensions to Iran’s nuclear programme and actions
+required of Iran to resolve these. 33 Since 2002, the Agency has become increasingly
+concerned about the possible existence in Iran of undisclosed nuclear related
+activities involving military related organizations, including activities related to the
+development of a nuclear payload for a missile, about which the Agency has
+regularly received new information.
+39. The Board of Governors has called on Iran on a number of occasions to engage
+with the Agency on the resolution of all outstanding issues in order to exclude the
+existence of possible military dimensions to Iran’s nuclear programme. 34 In
+resolution 1929 (2010), the Security Council reaffirmed Iran’s obligations to take
+the steps required by the Board of Governors in its resolutions GOV/2006/14 and
+GOV/2009/82, and to cooperate fully with the Agency on all outstanding issues,
+particularly those which give rise to concerns about the possible military dimensions
+to Iran’s nuclear programme, including by providing access without delay to all
+sites, equipment, persons and documents requested by the Agency. 35 Since August
+2008, Iran has not engaged with the Agency in any substantive way on this matter.
+40. The Director General, in his opening remarks to the Board of Governors on
+12 September 2011, stated that in the near future he hoped to set out in greater detail
+the basis for the Agency’s concerns so that all Member States would be kept fully
+informed. In line with that statement, the Annex to this report provides a detailed
+analysis of the information available to the Agency to date which has given rise to
+concerns about possible military dimensions to Iran’s nuclear programme.
+41. The analysis itself is based on a structured and systematic approach to
+information analysis which the Agency uses in its evaluation of safeguards
+implementation in all States with comprehensive safeguards agreements in force.
+This approach involves, inter alia, the identification of indicators of the existence or
+development of the processes associated with nuclear-related activities, including
+weaponization.
+42. The information which serves as the basis for the Agency’s analysis and
+concerns, as identified in the Annex, is assessed by the Agency to be, overall,
+credible. The information comes from a wide variety of independent sources,
+including from a number of Member States, from the Agency’s own efforts and from
+information provided by Iran itself. It is consistent in terms of technical content,
+individuals and organizations involved, and time frames.
+43. The information indicates that Iran has carried out the following activities that
+are relevant to the development of a nuclear explosive device:
+• Efforts, some successful, to procure nuclear related and dual use equipment
+and materials by military related individuals and entities (Annex, Sections C.1
+and C.2);
+
+__________________
+33 GOV/2011/29, para. 35; GOV/2011/7, Attachment; GOV/2010/10, paras. 40-45; GOV/2009/55,
+
+paras. 18-25; GOV/2008/38, paras. 14-21; GOV/2008/15, paras. 14-25 and Annex; GOV/2008/4,
+paras. 35-42.
+34 Most recently in GOV/2009/82 (27 November 2009).
+35 S/RES/1929, paras. 2 and 3.
+
+10
+
+11-59035
+
+S/2011/695
+
+• Efforts to develop undeclared pathways for the production of nuclear material
+(Annex, Section C.3);
+• The acquisition of nuclear weapons development information and
+documentation from a clandestine nuclear supply network (Annex, Section C.4);
+and
+• Work on the development of an indigenous design of a nuclear weapon
+including the testing of components (Annex, Sections C.5-C.12).
+44. While some of the activities identified in the Annex have civilian as well as
+military applications, others are specific to nuclear weapons.
+45. The information indicates that prior to the end of 2003 the above activities
+took place under a structured programme. There are also indications that some
+activities relevant to the development of a nuclear explosive device continued after
+2003, and that some may still be ongoing.
+
+H.
+
+Design Information
+46. The modified Code 3.1 of the Subsidiary Arrangements General Part to Iran’s
+Safeguards Agreement provides for the submission to the Agency of design
+information for new facilities as soon as the decision to construct, or to authorize
+construction of, a new facility has been taken, whichever is the earlier. The modified
+Code 3.1 also provides for the submission of fuller design information as the design
+is developed early in the project definition, preliminary design, construction and
+commissioning phases. Iran remains the only State with significant nuclear activities
+in which the Agency is implementing a comprehensive safeguards agreement but
+which is not implementing the provisions of the modified Code 3.1. 36 The Agency
+is still awaiting receipt from Iran of updated design information for the IR-40
+Reactor, and further information pursuant to statements it has made concerning the
+planned construction of new uranium enrichment facilities and the design of a
+reactor similar to TRR. 37
+47. As reported previously, Iran’s response to Agency requests for Iran to confirm
+or provide further information regarding its statements concerning its intention to
+construct new nuclear facilities is that it would provide the Agency with the required
+information in “due time” rather than as required by the modified Code 3.1 of the
+Subsidiary Arrangements General Part to its Safeguards Agreement. 38
+
+__________________
+36 In accordance with Article 39 of Iran’s Safeguards Agreement, agreed Subsidiary Arrangements
+
+cannot be changed unilaterally; nor is there a mechanism in the Safeguards Agreement for the
+suspension of provisions agreed to in the Subsidiary Arrangements. Therefore, as previously
+explained in the Director General’s reports (see e.g. GOV/2007/22, 23 May 2007), the modified
+Code 3.1, as agreed to by Iran in 2003, remains in force. Iran is further bound by operative
+paragraph 5 of Security Council resolution 1929 (2010) to “comply fully and without
+qualification with its IAEA Safeguards Agreement, including through the application of
+modified Code 3.1”.
+37 GOV/2010/46, para. 32.
+38 See para. 27 of this report and GOV/2011/29, para. 37.
+
+11-59035
+
+11
+
+S/2011/695
+
+I.
+
+Additional Protocol
+48. Contrary to the relevant resolutions of the Board of Governors and the
+Security Council, Iran is not implementing its Additional Protocol. The Agency will
+not be in a position to provide credible assurance about the absence of undeclared
+nuclear material and activities in Iran unless and until Iran provides the necessary
+cooperation with the Agency, including by implementing its Additional Protocol. 39
+
+J.
+
+Other Matters
+49. In August 2011, the Agency carried out a PIV at the Jabr Ibn Hayan
+Multipurpose Research Laboratory (JHL) to verify, inter alia, nuclear material, in
+the form of natural uranium metal and process waste, related to the conversion
+experiments carried out by Iran between 1995 and 2002. 40,41 The Agency’s
+measurement of this material was 19.8 kg less than the operator’s declaration of
+270.7 kg. In a letter dated 2 November 2011, Iran provided additional information
+on this matter. The Agency is working with Iran to try to resolve this discrepancy.
+50. As previously reported, in a letter dated 19 June 2011, Iran informed the
+Agency of its intention to “transfer some of spent fuel assemblies (HEU [high
+enriched uranium] Control Fuel Element (CFE) and Standard Fuel Element (SFE))
+from spent fuel pool (KMPE) to reactor core (KMPB) in order to conduct a research
+project”. As of 15 October 2011, this activity had yet to begin.
+51. On 2 and 3 October 2011, the Agency carried out an inspection at the Bushehr
+Nuclear Power Plant, during which the Agency noted that the reactor was in
+operation. Iran subsequently informed the Agency that the reactor has since been
+shut down for routine maintenance.
+
+K.
+
+Summary
+52. While the Agency continues to verify the non-diversion of declared nuclear
+material at the nuclear facilities and LOFs declared by Iran under its Safeguards
+Agreement, as Iran is not providing the necessary cooperation, including by not
+implementing its Additional Protocol, the Agency is unable to provide credible
+assurance about the absence of undeclared nuclear material and activities in Iran,
+and therefore to conclude that all nuclear material in Iran is in peaceful activities. 42
+53. The Agency has serious concerns regarding possible military dimensions to
+Iran’s nuclear programme. After assessing carefully and critically the extensive
+
+__________________
+39 Iran’s Additional Protocol was approved by the Board on 21 November 2003 and signed by Iran
+
+on 18 December 2003, although it has not been brought into force. Iran provisionally
+implemented its Additional Protocol between December 2003 and February 2006.
+40 This material had been under Agency seal since 2003.
+41 GOV/2003/75, paras. 20-25 and Annex 1; GOV/2004/34, para. 32, and Annex, paras. 10-12;
+GOV/2004/60, para. 33, and Annex, paras. 1-7.
+42 The Board has confirmed on numerous occasions, since as early as 1992, that paragraph 2 of
+INFCIRC/153 (Corr.), which corresponds to Article 2 of Iran’s Safeguards Agreement,
+authorizes and requires the Agency to seek to verify both the non-diversion of nuclear material
+from declared activities (i.e. correctness) and the absence of undeclared nuclear activities in the
+State (i.e. completeness) (see, for example, GOV/OR.864, para. 49).
+
+12
+
+11-59035
+
+S/2011/695
+
+information available to it, the Agency finds the information to be, overall, credible.
+The information indicates that Iran has carried out activities relevant to the
+development of a nuclear explosive device. The information also indicates that prior
+to the end of 2003, these activities took place under a structured programme, and
+that some activities may still be ongoing.
+54. Given the concerns identified above, Iran is requested to engage substantively
+with the Agency without delay for the purpose of providing clarifications regarding
+possible military dimensions to Iran’s nuclear programme as identified in the Annex
+to this report.
+55. The Agency is working with Iran with a view to resolving the discrepancy
+identified during the recent PIV at JHL.
+56. The Director General urges Iran, as required in the binding resolutions of the
+Board of Governors and mandatory Security Council resolutions, to take steps
+towards the full implementation of its Safeguards Agreement and its other
+obligations, including: implementation of the provisions of its Additional Protocol;
+implementation of the modified Code 3.1 of the Subsidiary Arrangements General
+Part to its Safeguards Agreement; suspension of enrichment related activities;
+suspension of heavy water related activities; and, as referred to above, addressing
+the Agency’s serious concerns about possible military dimensions to Iran’s nuclear
+programme, in order to establish international confidence in the exclusively
+peaceful nature of Iran’s nuclear programme.
+57.
+
+11-59035
+
+The Director General will continue to report as appropriate.
+
+13
+
+S/2011/695
+
+Annex
+Possible Military Dimensions to Iran’s Nuclear Programme
+1.
+This Annex consists of three Sections: Section A, which provides an historical
+overview of the Agency’s efforts to resolve questions about the scope and nature of
+Iran’s nuclear programme, in particular regarding concerns about possible military
+dimensions; Section B, which provides a general description of the sources of
+information available to the Agency and its assessment of the credibility of that
+information; and Section C, which reflects the Agency’s analysis of the information
+available to it in the context of relevant indicators of the existence or development
+of processes associated with nuclear-related activities, including weaponization.
+
+A.
+
+Historical Overview
+2.
+Since late 2002, the Director General has reported to the Board of Governors
+on the Agency’s concerns about the nature of Iran’s nuclear programme. Such
+concerns coincided with the appearance in open sources of information which
+indicated that Iran was building a large underground nuclear related facility at
+Natanz and a heavy water production plant at Arak. 1
+3.
+Between 2003 and 2004, the Agency confirmed a number of significant
+failures on the part of Iran to meet its obligations under its Safeguards Agreement
+with respect to the reporting of nuclear material, the processing and use of
+undeclared nuclear material and the failure to declare facilities where the nuclear
+material had been received, stored and processed. 2 Specifically, it was discovered
+that, as early as the late 1970s and early 1980s, and continuing into the 1990s and
+2000s, Iran had used undeclared nuclear material for testing and experimentation in
+several uranium conversion, enrichment, fabrication and irradiation activities,
+including the separation of plutonium, at undeclared locations and facilities. 3
+4.
+In October 2003, Iran informed the Director General that it had adopted a
+policy of full disclosure and had decided to provide the Agency with a full picture of
+its nuclear activities. 4 Following that announcement, Iran granted the Agency access
+to locations the Agency requested to visit, provided information and clarifications in
+relation to the origin of imported equipment and components and made individuals
+available for interviews. It also continued to implement the modified Code 3.1 of
+the Subsidiary Arrangements General Part, to which it agreed in February 2003,
+which provides for the submission of design information on new nuclear facilities as
+soon as the decision to construct or to authorize construction of such a facility is
+taken. 5 In November 2003, Iran announced its intention to sign an Additional
+Protocol to its Safeguards Agreement (which it did in December 2003 following
+
+__________________
+1 GOV/2003/40, para. 3.
+2 GOV/2003/40, para. 32; GOV/2003/75, para. 48; GOV/2004/83, paras. 85-86; GOV/2005/67,
+
+para. 4.
+3 GOV/2003/75, Annex 1; GOV/2004/83, paras. 85-86.
+4 GOV/2003/75, paras. 13 and 15.
+5 GOV/2003/40, para. 6. Iran stopped implementing the modified Code 3.1 in March 2007
+
+(GOV/2007/22, para. 12).
+
+14
+
+11-59035
+
+S/2011/695
+
+Board approval of the text), and that, prior to its entry into force, Iran would act in
+accordance with the provisions of that Protocol. 6
+5.
+Between 2003 and early 2006, Iran submitted inventory change reports,
+provided design information with respect to facilities where the undeclared
+activities had taken place and made nuclear material available for Agency
+verification. Iran also acknowledged that it had utilized entities with links to the
+Ministry of Defence in some of its previously undeclared activities. 7 Iran
+acknowledged that it had had contacts with intermediaries of a clandestine nuclear
+supply network in 1987 and the early 1990s, and that, in 1987, it had received a
+handwritten one page document offering assistance with the development of
+uranium centrifuge enrichment technology, in which reference was also made to a
+reconversion unit with casting equipment. 8 Iran further acknowledged that it had
+received a package of information related to centrifuge enrichment technology that
+also included a 15 page document (hereafter referred to as the “uranium metal
+document”) which Iran said it did not ask for and which describes, inter alia,
+processes for the conversion of uranium fluoride compounds into uranium metal and
+the production of hemispherical enriched uranium metallic components. 9
+6.
+The Agency continued to seek clarification of issues with respect to the scope
+and nature of Iran’s nuclear programme, particularly in light of Iran’s admissions
+concerning its contacts with the clandestine nuclear supply network, information
+provided by participants in that network and information which had been provided to
+the Agency by a Member State. This last information, collectively referred to as the
+“alleged studies documentation”, which was made known to the Agency in 2005,
+indicated that Iran had been engaged in activities involving studies on a so-called
+green salt project, high explosives testing and the re-engineering of a missile re-entry
+vehicle to accommodate a new payload. 10 All of this information, taken together,
+gave rise to concerns about possible military dimensions to Iran’s nuclear
+programme.
+7.
+In August 2007, Iran and the Agency agreed on “Understandings of the Islamic
+Republic of Iran and the IAEA on the Modalities of Resolution of the Outstanding
+Issues” (generally referred to as the “work plan”) (INFCIRC/711). By February
+2008, the four items identified in the work plan as “past outstanding issues”, and the
+two items identified as “other outstanding issues”, had been determined by the
+Agency to be either closed, completed or no longer outstanding. 11 The remaining
+issues which needed to be clarified by Iran related to the alleged studies, together
+with other matters which had arisen in the course of resolving the six other issues
+and which needed to be addressed in connection with the alleged studies,
+__________________
+6 GOV/2003/75, para. 18. The Additional Protocol was approved by the Board of Governors on
+
+21 November 2003, and signed on behalf of Iran and the Agency on 18 December 2003
+(GOV/2004/11, para. 5). In February 2006, Iran notified the Agency that it would no longer
+implement the provisions of the Additional Protocol (GOV/2006/15, para. 31).
+7 GOV/2004/11, para. 37.
+8 Iran has stated that the intermediaries offered the reconversion unit with casting equipment on
+their own initiative, not at the request of the AEOI. Iran also stated that it did not receive the
+reconversion unit (GOV/2005/67, para. 14).
+9 GOV/2005/87, para. 6; GOV/2007/58, para. 25. Pakistan confirmed, in response to an Agency
+inquiry, that an identical document existed in Pakistan (GOV/2008/15, para. 24).
+10 GOV/2006/15, para. 38.
+11 GOV/2007/58, paras. 18, 23, 25; GOV/2008/4, paras. 11, 18, 24, 34.
+
+11-59035
+
+15
+
+S/2011/695
+
+specifically: the circumstances of Iran’s acquisition of the uranium metal document,
+procurement and research and development (R&D) activities of military related
+institutes and companies that could be nuclear related; and the production of nuclear
+equipment and components by companies belonging to defence industries. 12
+8.
+Between February and May 2008, pursuant to the work plan, the Agency
+shared with Iran information (including documentation) on the alleged studies, and
+sought clarifications from Iran. 13 In May 2008, Iran submitted to the Agency a 117
+page assessment of that information. While Iran confirmed the veracity of some of
+the information which the Agency had shared with it (such as acknowledgement of
+names of people, places and organizations), Iran’s assessment was focused on
+deficiencies in form and format, and dismissed the allegations as having been based
+on “forged” documents and “fabricated” data. 14
+9.
+The Agency continued to receive additional information from Member States
+and acquired new information as a result of its own efforts. The Agency tried
+without success to engage Iran in discussions about the information, and finally
+wrote to Iran in October 2010 to inform it about this additional information. 15
+10. Between 2007 and 2010, Iran continued to conceal nuclear activities, by not
+informing the Agency in a timely manner of the decision to construct or to authorize
+construction of a new nuclear power plant at Darkhovin 16 and a third enrichment
+facility near Qom (the Fordow Fuel Enrichment Plant). 17,18 The Agency is still
+awaiting substantive responses from Iran to Agency requests for further information
+about its announcements, in 2009 and 2010 respectively, that it had decided to
+construct ten additional enrichment facilities (the locations for five of which had
+already been identified) 19 and that it possessed laser enrichment technology. 20
+11. The Agency has continued to receive, collect and evaluate information relevant
+to possible military dimensions to Iran’s nuclear programme. As additional
+information has become available to the Agency, the Agency has been able,
+notwithstanding Iran’s lack of engagement, to refine its analysis of possible military
+dimensions to Iran’s nuclear programme. 21
+
+B.
+
+Credibility of Information
+12. As indicated in paragraph 6 above, among the information available to the
+Agency is the alleged studies documentation: a large volume of documentation
+(including correspondence, reports, view graphs from presentations, videos and
+engineering drawings), amounting to over a thousand pages. The information
+
+__________________
+12 GOV/2008/15, paras. 14-15, 25.
+13 GOV/2008/15, para. 16.
+14 GOV/2008/38, para. 15.
+15 GOV/2010/62, paras. 34-35.
+16 GOV/2008/38, para. 11.
+17 GOV/2009/74, paras. 7-17.
+18 GOV/2010/10, para. 31; GOV/2010/28, para. 31; GOV/2010/46, para. 31.
+19 GOV/2010/10, para. 33. In August 2010, Iran informed the Agency that the construction of one
+
+of these facilities was to start at the end of the current Iranian year (March 2011) or the
+beginning of the next year (GOV/2010/46, para. 33).
+20 GOV/2010/46, para. 18.
+21 GOV/2011/54, para. 43.
+
+16
+
+11-59035
+
+S/2011/695
+
+reflected in that documentation is of a technically complex and interconnected
+nature, showing research, development and testing activities over time. It also
+contains working level correspondence consistent with the day to day
+implementation of a formal programme. Consistent with the Agency’s practice, that
+information has been carefully and critically examined. The Agency has also had
+several meetings with the Member State to clarify the information it had provided,
+to question the Member State about the forensics it had carried out on the
+documentation and the information reflected in it, and to obtain more information
+on the underlying sources.
+13. In addition to the alleged studies documentation, the Agency has received
+information from more than ten Member States. This has included procurement
+information, information on international travel by individuals said to have been
+involved in the alleged activities, financial records, documents reflecting health and
+safety arrangements, and other documents demonstrating manufacturing techniques
+for certain high explosive components. This information reinforces and tends to
+corroborate the information reflected in the alleged studies documentation, and
+relates to activities substantially beyond those identified in that documentation.
+14. In addition to the information referred to in paragraphs 12 and 13 above, the
+Agency has acquired information as a result of its own efforts, including
+publications and articles acquired through open source research, satellite imagery,
+the results of Agency verification activities and information provided by Iran in the
+context of those verification activities. 22 Importantly, the Agency has also had direct
+discussions with a number of individuals who were involved in relevant activities in
+Iran, including, for example, an interview with a leading figure in the clandestine
+nuclear supply network (see paragraph 35 below). The information obtained by the
+Agency from the discussions with these individuals is consistent with the
+information provided by Member States, and that acquired through its own efforts,
+in terms of time frames and technical content.
+15. As indicated in paragraph 8 above, Iran has acknowledged certain information
+reflected in the alleged studies documentation. However, many of the answers given
+by Iran to questions posed by the Agency in connection with efforts to resolve the
+Agency’s concerns have been imprecise and/or incomplete, and the information has
+been slow in coming and sometimes contradictory. This, combined with events such
+as the dismantling of the Lavisan-Shian site in late 2003/early 2004 (see paragraph
+19 below), and a pattern of late or after the fact acknowledgement of the existence
+of previously undeclared parts of Iran’s nuclear programme, have tended to increase
+the Agency’s concerns, rather than dispel them.
+16. As indicated above, the information consolidated and presented in this Annex
+comes from a wide variety of independent sources, including from a number of
+Member States, from the Agency’s own efforts and from information provided by
+Iran itself. It is overall consistent in terms of technical content, individuals and
+organizations involved and time frames. Based on these considerations, and in light
+of the Agency’s general knowledge of the Iranian nuclear programme and its
+historical evolution, the Agency finds the information upon which Part C of this
+Annex is based to be, overall, credible.
+__________________
+22 Further specific examples are described below in Section C of this Annex.
+
+11-59035
+
+17
+
+S/2011/695
+
+C.
+
+Nuclear Explosive Development Indicators
+17. Within its nuclear programme, Iran has developed the capability to enrich
+uranium to a level of up to 20% U-235, declared to be for use as fuel in research
+reactors. In the absence of any indicators that Iran is currently considering
+reprocessing irradiated nuclear fuel to extract plutonium, 23 the Agency has, to date,
+focused its analysis of Iran’s nuclear programme on an acquisition path involving
+high enriched uranium (HEU). Based on indicators observed by the Agency in
+connection with Iran’s nuclear activities, the Agency’s work has concentrated on an
+analysis pertinent to the development of an HEU implosion device.
+
+C.1.
+
+Programme management structure
+18. The Agency has been provided with information by Member States which
+indicates that the activities referred to in Sections C.2 to C.12 were, at least for
+some significant period of time, managed through a programme structure, assisted
+by advisory bodies, and that, owing to the importance of these efforts, senior Iranian
+figures featured within this command structure. From analysis of this information
+and information provided by Iran, and through its own endeavours, the Agency has
+been able to construct what it believes to be a good understanding of activities
+undertaken by Iran prior to the end of 2003. The Agency’s ability to construct an
+equally good understanding of activities in Iran after the end of 2003 is reduced, due
+to the more limited information available to the Agency. For ease of reference, the
+figure below depicts, in summary form, what the Agency understands of the
+programme structure, and administrative changes in that structure over the years.
+Attachment 1 to this Annex provides further details, derived from that information,
+about the organizational arrangements and projects within that programme structure.
+Ministry of Defence Armed Forces Logistics (MODAFL)
+
+Education Research Institute (ERI)
+Created in 1989/90 to coordinate Defence R&D
+
+Scientific Committee with office at ERI
+1989
+
+1998/99
+
+Physics
+Research
+Centre
+(PHRC)
+
+Departments
+
+2002
+
+AMAD
+Plan
+
+2004
+
+Projects
+
+2006
+
+Aug 2008
+
+Section for
+Advanced
+Development
+Centres
+Applications &
+Technologies
+(SADAT)
+
+2010
+
+Pardis Tehran
+Malek Ashtar
+Complexes
+University
+(MUT)
+
+Feb 2011
+Organisation of
+Defensive
+Innovation and
+Research
+(SPND)
+
+Orchid Office,
+Orchid Scientific
+Research Centre
+
+Institute of Applied Physics (IAP)
+
+__________________
+23 Nevertheless, there are, and have been in the past, activities in Iran relevant to the production of
+
+plutonium.
+
+18
+
+11-59035
+
+S/2011/695
+
+19. The Agency received information from Member States which indicates that,
+sometime after the commencement by Iran in the late 1980s of covert procurement
+activities, 24 organizational structures and administrative arrangements for an
+undeclared nuclear programme were established and managed through the Physics
+Research Centre (PHRC), and were overseen, through a Scientific Committee, by
+the Defence Industries Education Research Institute (ERI), established to coordinate
+defence R&D for the Ministry of Defence Armed Forces Logistics (MODAFL). Iran
+has confirmed that the PHRC was established in 1989 at Lavisan-Shian, in Tehran.
+Iran has stated that the PHRC was created with the purpose of “preparedness to
+combat and neutralization of casualties due to nuclear attacks and accidents (nuclear
+defence) and also support and provide scientific advice and services to the Ministry
+of Defence”. Iran has stated further that those activities were stopped in 1998. 25 In
+late 2003/early 2004, Iran completely cleared the site. 26
+20. According to information provided by Member States, by the late 1990s or
+early 2000s, the PHRC activities were consolidated under the “AMAD Plan”.
+Mohsen Fakhrizadeh (Mahabadi) was the Executive Officer of the AMAD Plan, the
+executive affairs of which were performed by the “Orchid Office”. 27 Most of the
+activities carried out under the AMAD Plan appear to have been conducted during
+2002 and 2003.
+21. The majority of the details of the work said to have been conducted under the
+AMAD Plan come from the alleged studies documentation which, as indicated in
+paragraph 6 above, refer to studies conducted in three technical areas: the green salt
+project; high explosives (including the development of exploding bridgewire
+detonators); and re-engineering of the payload chamber of the Shahab 3 missile
+re-entry vehicle.
+22. According to the Agency’s assessment of the information contained in that
+documentation, the green salt project (identified as Project 5.13) was part of a larger
+project (identified as Project 5) to provide a source of uranium suitable for use in an
+undisclosed enrichment programme. The product of this programme would be
+converted into metal for use in the new warhead which was the subject of the missile
+re-entry vehicle studies (identified as Project 111). As of May 2008, the Agency was
+not in a position to demonstrate to Iran the connection between Project 5 and Project
+111. However, subsequently, the Agency was shown documents which established a
+connection between Project 5 and Project 111, and hence a link between nuclear
+material and a new payload development programme.
+23. Information the Agency has received from Member States indicates that,
+owing to growing concerns about the international security situation in Iraq and
+neighbouring countries at that time, work on the AMAD Plan was stopped rather
+__________________
+24 GOV/2004/83; GOV/2003/75, Annex 1.
+25 At which time, according to Iran, the centre was changed to the Biological Studies Centre. Iran
+
+also stated that, in 2002, the Institute of Applied Physics (IAP) was also located at that site, and
+that, although some of the biological activities continued there, the main objective was to use
+the capabilities of universities in Iran (in particular at the Malek Ashtar University near
+Esfahan) for the education and R&D needs of the Ministry of Defence (GOV/2004/83,
+paras. 100-101).
+26 According to Iran, the site was cleared in 2003/2004 in order to return the land to the local
+municipality (GOV/2004/60, paras. 42-46; GOV/2004/83, paras. 96-105).
+27 Possibly so named because one of the locations used by the AMAD Plan was on Orchid Street in
+Tehran.
+
+11-59035
+
+19
+
+S/2011/695
+
+abruptly pursuant to a “halt order” instruction issued in late 2003 by senior Iranian
+officials. According to that information, however, staff remained in place to record
+and document the achievements of their respective projects. Subsequently,
+equipment and work places were either cleaned or disposed of so that there would
+be little to identify the sensitive nature of the work which had been undertaken.
+24. The Agency has other information from Member States which indicates that
+some activities previously carried out under the AMAD Plan were resumed later,
+and that Mr. Fakhrizadeh retained the principal organizational role, first under a new
+organization known as the Section for Advanced Development Applications and
+Technologies (SADAT), 28 which continued to report to MODAFL, and later, in
+mid-2008, as the head of the Malek Ashtar University of Technology (MUT) in
+Tehran. 29 The Agency has been advised by a Member State that, in February 2011,
+Mr. Fakhrizadeh moved his seat of operations from MUT to an adjacent location
+known as the Modjeh Site, and that he now leads the Organization of Defensive
+Innovation and Research. 30 The Agency is concerned because some of the activities
+undertaken after 2003 would be highly relevant to a nuclear weapon programme.
+C.2.
+
+Procurement activities
+25. Under the AMAD Plan, Iran’s efforts to procure goods and services allegedly
+involved a number of ostensibly private companies which were able to provide
+cover for the real purpose of the procurements. The Agency has been informed by
+several Member States that, for instance, Kimia Maadan was a cover company for
+chemical engineering operations under the AMAD Plan while also being used to
+help with procurement for the Atomic Energy Organization of Iran (AEOI). 31
+26. In addition, throughout the entire timeline, instances of procurement and
+attempted procurement by individuals associated with the AMAD Plan of
+equipment, materials and services which, although having other civilian
+applications, would be useful in the development of a nuclear explosive device,
+have either been uncovered by the Agency itself or been made known to it. 32
+Among such equipment, materials and services are: high speed electronic switches
+and spark gaps (useful for triggering and firing detonators); high speed cameras
+(useful in experimental diagnostics); neutron sources (useful for calibrating neutron
+measuring equipment); radiation detection and measuring equipment (useful in a
+nuclear material production environment); and training courses on topics relevant to
+nuclear explosives development (such as neutron cross section calculations and
+shock wave interactions/hydrodynamics).
+
+__________________
+28 The information indicates that SADAT consisted of at least seven centres, each responsible for
+
+carrying out specific R&D work. The activities were established as overt work applicable to
+conventional military activities, some with possible nuclear applications. The work in the
+SADAT Centres drew on resources at Iranian universities which had laboratories available to
+them and students to do the research.
+29 The information indicates that, in his new role, Mr. Fakhrizadeh merged the SADAT Centres
+into complexes within MUT, known as “Pardis Tehran”.
+30 Known from its Farsi initials as “SPND”.
+31 GOV/2008/4, para. 32; GOV/2006/15, para. 39.
+32 GOV/2008/4, para. 40.
+
+20
+
+11-59035
+
+S/2011/695
+
+C.3.
+
+Nuclear material acquisition
+27. In 2008, the Director General informed the Board that: the Agency had no
+information at that time — apart from the uranium metal document — on the actual
+design or manufacture by Iran of nuclear material components of a nuclear weapon
+or of certain other key components, such as initiators, or on related nuclear physics
+studies, 33 and that it had not detected the actual use of nuclear material in
+connection with the alleged studies. 34
+28. However, as indicated in paragraph 22 above, information contained in the
+alleged studies documentation suggests that Iran was working on a project to secure
+a source of uranium suitable for use in an undisclosed enrichment programme, the
+product of which would be converted into metal for use in the new warhead which
+was the subject of the missile re-entry vehicle studies. Additional information
+provided by Member States indicates that, although uranium was not used, kilogram
+quantities of natural uranium metal were available to the AMAD Plan.
+29. Information made available to the Agency by a Member State, which the
+Agency has been able to examine directly, indicates that Iran made progress with
+experimentation aimed at the recovery of uranium from fluoride compounds (using
+lead oxide as a surrogate material to avoid the possibility of uncontrolled
+contamination occurring in the workplace).
+30. In addition, although now declared and currently under safeguards, a number
+of facilities dedicated to uranium enrichment (the Fuel Enrichment Plant and Pilot
+Fuel Enrichment Plant at Natanz and the Fordow Fuel Enrichment Plant near Qom)
+were covertly built by Iran and only declared once the Agency was made aware of
+their existence by sources other than Iran. This, taken together with the past efforts
+by Iran to conceal activities involving nuclear material, create more concern about
+the possible existence of undeclared nuclear facilities and material in Iran.
+
+C.4.
+
+Nuclear components for an explosive device
+31. For use in a nuclear device, HEU retrieved from the enrichment process is first
+converted to metal. The metal is then cast and machined into suitable components
+for a nuclear core.
+32. As indicated in paragraph 5 above, Iran has acknowledged that, along with the
+handwritten one page document offering assistance with the development of
+uranium centrifuge enrichment technology, in which reference is also made to a
+reconversion unit with casting equipment, Iran also received the uranium metal
+document which describes, inter alia, processes for the conversion of uranium
+compounds into uranium metal and the production of hemispherical enriched
+uranium metallic components.
+33. The uranium metal document is known to have been available to the
+clandestine nuclear supply network that provided Iran with assistance in developing
+its centrifuge enrichment capability, and is also known to be part of a larger package
+of information which includes elements of a nuclear explosive design. A similar
+package of information, which surfaced in 2003, was provided by the same network
+
+__________________
+33 GOV/2008/15, para. 24.
+34 GOV/2008/38, para. 21.
+
+11-59035
+
+21
+
+S/2011/695
+
+to Libya. 35 The information in the Libyan package, which was first reviewed by
+Agency experts in January 2004, included details on the design and construction of,
+and the manufacture of components for, a nuclear explosive device. 36
+34. In addition, a Member State provided the Agency experts with access to a
+collection of electronic files from seized computers belonging to key members of
+the network at different locations. That collection included documents seen in
+Libya, along with more recent versions of those documents, including an up-dated
+electronic version of the uranium metal document.
+35. In an interview in 2007 with a member of the clandestine nuclear supply
+network, the Agency was told that Iran had been provided with nuclear explosive
+design information. From information provided to the Agency during that interview,
+the Agency is concerned that Iran may have obtained more advanced design
+information than the information identified in 2004 as having been provided to
+Libya by the nuclear supply network.
+36. Additionally, a Member State provided information indicating that, during the
+AMAD Plan, preparatory work, not involving nuclear material, for the fabrication of
+natural and high enriched uranium metal components for a nuclear explosive device
+was carried out.
+37. As the conversion of HEU compounds into metal and the fabrication of HEU
+metal components suitable in size and quality are steps in the development of an
+HEU nuclear explosive device, clarification by Iran is needed in connection with the
+above.
+C.5.
+
+Detonator development
+38. The development of safe, fast-acting detonators, and equipment suitable for
+firing the detonators, is an integral part of a programme to develop an implosion
+type nuclear device. Included among the alleged studies documentation are a
+number of documents relating to the development by Iran, during the period 20022003, of fast functioning detonators, known as “exploding bridgewire detonators” or
+“EBWs” as safe alternatives to the type of detonator described for use in the nuclear
+device design referred to in paragraph 33 above.
+39. In 2008, Iran told the Agency that it had developed EBWs for civil and
+conventional military applications and had achieved a simultaneity of about one
+microsecond when firing two to three detonators together, 37 and provided the
+Agency with a copy of a paper relating to EBW development work presented by two
+Iranian researchers at a conference held in Iran in 2005. A similar paper was
+published by the two researchers at an international conference later in 2005. 38 Both
+papers indicate that suitable high voltage firing equipment had been acquired or
+developed by Iran. Also in 2008, Iran told the Agency that, before the period 20022004, it had already achieved EBW technology. Iran also provided the Agency with
+
+__________________
+35 The same network was also the source of an unsolicited offer to Iraq in 1990 for the provision of
+
+information dealing with centrifuge enrichment and nuclear weapon manufacturing
+(GOV/INF/1998/6, Section B.3).
+36 GOV/2004/11, para. 77; GOV/2004/12, paras. 30-32.
+37 GOV/2008/15, para. 20.
+38 The authors of the papers have affiliations to Malek Ashtar University and the Air Defence
+Industries Group of Tehran.
+
+22
+
+11-59035
+
+S/2011/695
+
+a short undated document in Farsi, understood to be the specifications for a
+detonator development programme, and a document from a foreign source showing
+an example of a civilian application in which detonators are fired simultaneously.
+However, Iran has not explained to the Agency its own need or application for such
+detonators.
+40. The Agency recognizes that there exist non-nuclear applications, albeit few,
+for detonators like EBWs, and of equipment suitable for firing multiple detonators
+with a high level of simultaneity. Notwithstanding, given their possible application
+in a nuclear explosive device, and the fact that there are limited civilian and
+conventional military applications for such technology, Iran’s development of such
+detonators and equipment is a matter of concern, particularly in connection with the
+possible use of the multipoint initiation system referred to below.
+C.6.
+
+Initiation of high explosives and associated experiments
+41. Detonators provide point source initiation of explosives, generating a naturally
+diverging detonation wave. In an implosion type nuclear explosive device, an
+additional component, known as a multipoint initiation system, can be used to
+reshape the detonation wave into a converging smooth implosion to ensure uniform
+compression of the core fissile material to supercritical density. 39
+42. The Agency has shared with Iran information provided by a Member State
+which indicates that Iran has had access to information on the design concept of a
+multipoint initiation system that can be used to initiate effectively and
+simultaneously a high explosive charge over its surface. 40 The Agency has been
+able to confirm independently that such a design concept exists and the country of
+origin of that design concept. Furthermore, the Agency has been informed by
+nuclear-weapon States that the specific multipoint initiation concept is used in some
+known nuclear explosive devices. In its 117 page submission to the Agency in May
+2008, Iran stated that the subject was not understandable to Iran and that Iran had
+not conducted any activities of the type referred to in the document.
+43. Information provided to the Agency by the same Member State referred to in
+the previous paragraph describes the multipoint initiation concept referred to above
+as being used by Iran in at least one large scale experiment in 2003 to initiate a high
+explosive charge in the form of a hemispherical shell. According to that information,
+during that experiment, the internal hemispherical curved surface of the high
+explosive charge was monitored using a large number of optical fibre cables, and the
+light output of the explosive upon detonation was recorded with a high speed streak
+camera. It should be noted that the dimensions of the initiation system and the
+explosives used with it were consistent with the dimensions for the new payload
+which, according to the alleged studies documentation, were given to the
+engineers who were studying how to integrate the new payload into the chamber of
+the Shahab 3 missile re-entry vehicle (Project 111) (see Section C.11 below).
+Further information provided to the Agency by the same Member State indicates
+that the large scale high explosive experiments were conducted by Iran in the region
+of Marivan.
+
+__________________
+39 “Supercritical” density is one at which fissionable material is able to sustain a chain reaction in
+
+such a manner that the rate of reaction increases.
+40 GOV/2008/15, Annex, Section A.2, Document 3.
+
+11-59035
+
+23
+
+S/2011/695
+
+44. The Agency has strong indications that the development by Iran of the high
+explosives initiation system, and its development of the high speed diagnostic
+configuration used to monitor related experiments, were assisted by the work of a
+foreign expert who was not only knowledgeable in these technologies, but who, a
+Member State has informed the Agency, worked for much of his career with this
+technology in the nuclear weapon programme of the country of his origin. The
+Agency has reviewed publications by this foreign expert and has met with him. The
+Agency has been able to verify through three separate routes, including the expert
+himself, that this person was in Iran from about 1996 to about 2002, ostensibly to
+assist Iran in the development of a facility and techniques for making ultradispersed diamonds (“UDDs” or “nanodiamonds”), where he also lectured on
+explosion physics and its applications.
+45. Furthermore, the Agency has received information from two Member States
+that, after 2003, Iran engaged in experimental research involving a scaled down
+version of the hemispherical initiation system and high explosive charge referred to
+in paragraph 43 above, albeit in connection with non-nuclear applications. This
+work, together with other studies made known to the Agency in which the same
+initiation system is used in cylindrical geometry, could also be relevant to improving
+and optimizing the multipoint initiation design concept relevant to nuclear
+applications.
+46. The Agency’s concern about the activities described in this Section derives
+from the fact that a multipoint initiation system, such as that described above, can
+be used in a nuclear explosive device. However, Iran has not been willing to engage
+in discussion of this topic with the Agency.
+C.7.
+
+Hydrodynamic experiments
+47. One necessary step in a nuclear weapon development programme is
+determining whether a theoretical design of an implosion device, the behaviour of
+which can be studied through computer simulations, will work in practice. To that
+end, high explosive tests referred to as “hydrodynamic experiments” are conducted
+in which fissile and nuclear components may be replaced with surrogate materials. 41
+48. Information which the Agency has been provided by Member States, some of
+which the Agency has been able to examine directly, indicates that Iran has
+manufactured simulated nuclear explosive components using high density materials
+such as tungsten. These components were said to have incorporated small central
+cavities suitable for the insertion of capsules such as those described in Section C.9
+below. The end use of such components remains unclear, although they can be
+linked to other information received by the Agency concerning experiments
+involving the use of high speed diagnostic equipment, including flash X ray, to
+monitor the symmetry of the compressive shock of the simulated core of a nuclear
+device.
+
+__________________
+41 Hydrodynamic experiments can be designed to simulate the first stages of a nuclear explosion.
+
+In such experiments, conventional high explosives are detonated to study the effects of the
+explosion on specific materials. The term “hydrodynamic” is used because material is
+compressed and heated with such intensity that it begins to flow and mix like a fluid, and
+“hydrodynamic equations” are used to describe the behaviour of fluids.
+
+24
+
+11-59035
+
+S/2011/695
+
+49. Other information which the Agency has been provided by Member States
+indicates that Iran constructed a large explosives containment vessel in which to
+conduct hydrodynamic experiments. The explosives vessel, or chamber, is said to
+have been put in place at Parchin in 2000. A building was constructed at that time
+around a large cylindrical object at a location at the Parchin military complex. A
+large earth berm was subsequently constructed between the building containing the
+cylinder and a neighbouring building, indicating the probable use of high explosives
+in the chamber. The Agency has obtained commercial satellite images that are
+consistent with this information. From independent evidence, including a
+publication by the foreign expert referred to in paragraph 44 above, the Agency has
+been able to confirm the date of construction of the cylinder and some of its design
+features (such as its dimensions), and that it was designed to contain the detonation
+of up to 70 kilograms of high explosives, which would be suitable for carrying out
+the type of experiments described in paragraph 43 above.
+50. As a result of information the Agency obtained from a Member State in the
+early 2000s alleging that Iran was conducting high explosive testing, possibly in
+association with nuclear materials, at the Parchin military complex, the Agency was
+permitted by Iran to visit the site twice in 2005. From satellite imagery available at
+that time, the Agency identified a number of areas of interest, none of which,
+however, included the location now believed to contain the building which houses
+the explosives chamber mentioned above; consequently, the Agency’s visits did not
+uncover anything of relevance.
+51. Hydrodynamic experiments such as those described above, which involve high
+explosives in conjunction with nuclear material or nuclear material surrogates, are
+strong indicators of possible weapon development. In addition, the use of surrogate
+material, and/or confinement provided by a chamber of the type indicated above,
+could be used to prevent contamination of the site with nuclear material. It remains
+for Iran to explain the rationale behind these activities.
+C.8.
+
+Modelling and calculations
+52. Information provided to the Agency by two Member States relating to
+modelling studies alleged to have been conducted in 2008 and 2009 by Iran is of
+particular concern to the Agency. According to that information, the studies
+involved the modelling of spherical geometries, consisting of components of the
+core of an HEU nuclear device subjected to shock compression, for their neutronic
+behaviour at high density, and a determination of the subsequent nuclear explosive
+yield. The information also identifies models said to have been used in those studies
+and the results of these calculations, which the Agency has seen. The application of
+such studies to anything other than a nuclear explosive is unclear to the Agency. It is
+therefore essential that Iran engage with the Agency and provide an explanation.
+53. The Agency obtained information in 2005 from a Member State indicating
+that, in 1997, representatives from Iran had met with officials from an institute in a
+nuclear-weapon State to request training courses in the fields of neutron cross
+section calculations using computer codes employing Monte Carlo methodology,
+and shock wave interactions with metals. In a letter dated 14 May 2008, Iran
+advised the Agency that there was nothing to support this information. The Agency
+has also been provided with information by a Member State indicating that, in 2005,
+arrangements were made in Iran for setting up projects within SADAT centres (see
+
+11-59035
+
+25
+
+S/2011/695
+
+Section C.1 and Attachment 1), inter alia, to establish a databank for “equation of
+state” information 42 and a hydrodynamics calculation centre. The Agency has also
+been provided with information from a different Member State that, in 2005, a
+senior official in SADAT solicited assistance from Shahid Behesti University in
+connection with complex calculations relating to the state of criticality of a solid
+sphere of uranium being compressed by high explosives.
+54. Research by the Agency into scientific literature published over the past
+decade has revealed that Iranian workers, in particular groups of researchers at
+Shahid Behesti University and Amir Kabir University, have published papers
+relating to the generation, measurement and modelling of neutron transport. 43 The
+Agency has also found, through open source research, other Iranian publications
+which relate to the application of detonation shock dynamics to the modelling of
+detonation in high explosives, and the use of hydrodynamic codes in the modelling
+of jet formation with shaped (hollow) charges. Such studies are commonly used in
+reactor physics or conventional ordnance research, 44 but also have applications in
+the development of nuclear explosives.
+C.9.
+
+Neutron initiator
+55. The Agency has information from a Member State that Iran has undertaken
+work to manufacture small capsules suitable for use as containers of a component
+containing nuclear material. The Agency was also informed by a different Member
+State that Iran may also have experimented with such components in order to assess
+their performance in generating neutrons. Such components, if placed in the centre
+of a nuclear core of an implosion type nuclear device and compressed, could
+produce a burst of neutrons suitable for initiating a fission chain reaction. The
+location where the experiments were conducted was said to have been cleaned of
+contamination after the experiments had taken place. The design of the capsule, and
+the material associated with it, are consistent with the device design information
+which the clandestine nuclear supply network allegedly provided to Iran.
+56. The Agency also has information from a Member State that work in this
+technical area may have continued in Iran after 2004, and that Iran embarked on a
+four year programme, from around 2006 onwards, on the further validation of the
+design of this neutron source, including through the use of a non-nuclear material to
+avoid contamination.
+57. Given the importance of neutron generation and transport, and their effect on
+geometries containing fissile materials in the context of an implosion device, Iran
+needs to explain to the Agency its objectives and capabilities in this field.
+
+__________________
+42 An “equation of state” is a thermodynamic equation describing the state of matter under a given
+
+set of physical conditions (such as temperature, pressure, volume or internal energy).
+43 The modelling of neutron transport refers to the study of the motions and interactions of
+
+neutrons with materials which are used to see where they are and in what direction and at what
+speed they are going.
+44 For example, the shaped (hollow) charge studies said by Member States to have been carried out
+by the Centre for Research and Development of Explosion and Shock Technology, also known
+as “METFAZ”, have conventional military applications (such as for developing armour piercing
+projectiles), but can also be used to develop computer codes which can then be adapted to model
+nuclear explosives.
+
+26
+
+11-59035
+
+S/2011/695
+
+C.10.
+
+Conducting a test
+58. The Agency has information provided by a Member State that Iran may have
+planned and undertaken preparatory experimentation which would be useful were
+Iran to carry out a test of a nuclear explosive device. In particular, the Agency has
+information that Iran has conducted a number of practical tests to see whether its
+EBW firing equipment would function satisfactorily over long distances between a
+firing point and a test device located down a deep shaft. Additionally, among the
+alleged studies documentation provided by that Member State, is a document, in
+Farsi, which relates directly to the logistics and safety arrangements that would be
+necessary for conducting a nuclear test. The Agency has been informed by a
+different Member State that these arrangements directly reflect those which have
+been used in nuclear tests conducted by nuclear-weapon States.
+
+C.11.
+
+Integration into a missile delivery vehicle
+59. The alleged studies documentation contains extensive information regarding
+work which is alleged to have been conducted by Iran during the period 2002 to
+2003 under what was known as Project 111. From that information, the project
+appears to have consisted of a structured and comprehensive programme of
+engineering studies to examine how to integrate a new spherical payload into the
+existing payload chamber which would be mounted in the re-entry vehicle of the
+Shahab 3 missile.
+60. According to that documentation, using a number of commercially available
+computer codes, Iran conducted computer modelling studies of at least 14
+progressive design iterations of the payload chamber and its contents to examine
+how they would stand up to the various stresses that would be encountered on being
+launched and travelling on a ballistic trajectory to a target. It should be noted that
+the masses and dimensions of components identified in information provided to the
+Agency by Member States that Iran is alleged to have been developing (see
+paragraphs 43 and 48 above) correspond to those assessed to have been used in
+Project 111 engineering studies on the new payload chamber.
+61. During these studies, prototype components were allegedly manufactured at
+workshops known to exist in Iran but which Iran refused the Agency permission to
+visit. The six engineering groups said to have worked under Project 111 produced
+many technical reports, which comprise a substantial part of the alleged studies
+documentation. The Agency has studied these reports extensively and finds that they
+are both internally consistent and consistent with other supporting information
+related to Project 111.
+62. The alleged studies documentation also shows that, as part of the activities
+undertaken within Project 111, consideration was being given to subjecting the
+prototype payload and its chamber to engineering stress tests to see how well they
+would stand up in practice to simulated launch and flight stresses (so-called
+“environmental testing”). This work would have complemented the engineering
+modelling simulation studies referred to in paragraph 60 above. According to the
+information reflected in the alleged studies documentation, within Project 111,
+some, albeit limited, preparations were also being undertaken to enable the
+assembly of manufactured components.
+
+11-59035
+
+27
+
+S/2011/695
+
+63. Iran has denied conducting the engineering studies, claiming that the
+documentation which the Agency has is in electronic format and so could have been
+manipulated, and that it would have been easy to fabricate. 45 However, the quantity
+of the documentation, and the scope and contents of the work covered in the
+documentation, are sufficiently comprehensive and complex that, in the Agency’s
+view, it is not likely to have been the result of forgery or fabrication. While the
+activities described as those of Project 111 may be relevant to the development of a
+non-nuclear payload, they are highly relevant to a nuclear weapon programme.
+C.12.
+
+Fuzing, arming and firing system
+64. The alleged studies documentation indicates that, as part of the studies carried
+out by the engineering groups under Project 111 to integrate the new payload into
+the re-entry vehicle of the Shahab 3 missile, additional work was conducted on the
+development of a prototype firing system that would enable the payload to explode
+both in the air above a target, or upon impact of the re-entry vehicle with the
+ground. Iran was shown this information, which, in its 117 page submission
+(referred to above in paragraph 8), it dismissed as being “an animation game”.
+65. The Agency, in conjunction with experts from Member States other than those
+which had provided the information in question, carried out an assessment of the
+possible nature of the new payload. As a result of that assessment, it was concluded
+that any payload option other than nuclear which could also be expected to have an
+airburst option (such as chemical weapons) could be ruled out. Iran was asked to
+comment on this assessment and agreed in the course of a meeting with the Agency
+which took place in Tehran in May 2008 that, if the information upon which it was
+based were true, it would constitute a programme for the development of a nuclear
+weapon. Attachment 2 to this Annex reproduces the results of the Agency’s
+assessment as it was presented by the Secretariat to the Member States in the
+technical briefing which took place in February 2008.
+
+__________________
+45 GOV/2008/15, para. 22.
+
+28
+
+11-59035
+
+11-59035
+
+Attachment 1: List of Departments, Projects and Centres
+
+PHRC Departments
+
+AMAD Plan Projects
+
+SADAT Centres
+
+Department 01 Nuclear Physics
+Department 02 Centrifuge
+Enrichment
+Department 03 Laser Enrichment
+Department 04 Uranium Conversion
+Department 05 Geology
+Department 06 Health Physics
+Department 07 Workshop
+Department 08 Heavy Water
+Department 09 Analytical
+Laboratory
+Department 10 Computing
+Department 20 Analysis
+
+Project 110 Payload Design
+Project 111 Payload Integration
+Project 3 Manufacture of Components
+3.12 Explosives and EBW detonator
+3.14 Uranium metallurgy
+Project 4 Uranium Enrichment
+Project 5 Uranium Mining, Concentration & Conversion
+5.13 Green Salt Project
+5.15 Gchine Mine Project
+Projects 8, 9 and 10
+Project Health and Safety
+Project 19 Involvement of IAP
+Project/Group 117 Procurement and Supply
+
+Centre for Readiness & New Defence
+Technologies
+Centre for R&D (1) of Explosion & Shock
+Technology
+Centre for Industrial Research & Construction
+Centre for R&T (2) of Advanced Materials –
+Chemistry
+Centre for R&T of Advanced Materials –
+Metallurgy
+Centre for R&D of New Aerospace Technology
+Centre for Laser & Photonics Applications
+
+(1) R&D = Research & Development
+(2) R&T = Research & Technology
+
+S/2011/695
+
+29
+
+S/2011/695
+
+Attachment 2: Analysis of Payload
+
+30
+
+11-59035

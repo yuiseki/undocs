@@ -1,0 +1,3 @@
+1958-12-12
+rule: any
+raw: 12 December 1958

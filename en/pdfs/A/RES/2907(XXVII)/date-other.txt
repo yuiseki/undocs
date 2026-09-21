@@ -1,0 +1,3 @@
+1972-10-31
+rule: any
+raw: 31 October 1972

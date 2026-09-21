@@ -1,0 +1,3 @@
+1994-12-02
+rule: any
+raw: 2 December 1994

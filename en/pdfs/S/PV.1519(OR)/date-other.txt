@@ -1,0 +1,3 @@
+1969-11-27
+rule: any
+raw: 27 November 1969

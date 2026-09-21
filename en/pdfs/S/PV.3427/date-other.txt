@@ -1,0 +1,3 @@
+1994-09-22
+rule: any
+raw: 22 September 1994

@@ -1,0 +1,3 @@
+1976-11-17
+rule: distr
+raw: 17 November 1976

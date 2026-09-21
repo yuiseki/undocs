@@ -1,0 +1,3 @@
+2017-06-22
+rule: resolution_adopted
+raw: 22 June 2017

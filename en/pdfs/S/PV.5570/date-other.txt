@@ -1,0 +1,3 @@
+2006-11-22
+rule: any
+raw: 22 November 2006

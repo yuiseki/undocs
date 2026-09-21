@@ -1,0 +1,106 @@
+United Nations
+
+A/RES/63/269
+
+General Assembly
+
+Distr.: General
+7 May 2009
+
+Sixty-third session
+Agenda item 118
+
+Resolution adopted by the General Assembly on 7 April 2009
+[on the report of the Fifth Committee (A/63/648/Add.5)]
+
+63/269. Information and communications technology,
+disaster recovery and business continuity
+for the United Nations: arrangements
+for the secondary data centre at Headquarters
+The General Assembly,
+Recalling its resolution 63/262 of 24 December 2008,
+Having considered the report of the Secretary-General entitled “Information
+and communications technology, disaster recovery and business continuity for the
+United Nations: arrangements for the secondary data centre at Headquarters” 1 and
+the related report of the Advisory Committee on Administrative and Budgetary
+Questions, 2
+0F
+
+1F
+
+1.
+
+Takes note of the report of the Secretary-General;1
+
+2.
+Reaffirms the need for a global operational framework to enable the
+United Nations to respond effectively to emergency situations that may impair
+operations of critical elements of its information and communications technology
+infrastructure and facilities;
+Encourages the Secretary-General to take a unified approach to disaster
+3.
+recovery and business continuity, utilizing all available infrastructure, in order to
+achieve economies of scale and cost efficiencies;
+Requests the Secretary-General to ensure that the United Nations uses
+4.
+enterprise data centres rather than local data centres as far as possible;
+5.
+Notes with concern the continued deficiencies in the planning and
+management of the project;
+6.
+Regrets that the proposal of the Secretary-General did not provide the
+necessary assurances that its implementation would sufficiently mitigate risks,
+including risks related to the physical security of data, during the relocation of the
+primary data centre to the North Lawn at Headquarters;
+_______________
+1
+2
+
+08-48693
+
+A/63/743.
+A/63/774.
+
+A/RES/63/269
+
+7.
+Requests the Secretary-General, when utilizing the services of the
+International Computing Centre, to ensure compliance with all regulations and rules
+regarding procurement, in order to guarantee the cost-effectiveness of the services
+provided by the Centre;
+Endorses the conclusions and recommendations contained in the report
+8.
+of the Advisory Committee on Administrative and Budgetary Questions,2 subject to
+the provisions of the present resolution;
+9.
+Reiterates its request to the Secretary-General, expressed in section IV,
+paragraph 7, of its resolution 63/262, to ensure that the leased space is fully utilized
+if it is not possible to terminate the lease;
+10. Notes with concern that the delays caused by the lack of reliable disaster
+recovery and business continuity services for Headquarters may lead to further cost
+escalation, including in respect of the capital master plan, and risk to data;
+11. Decides that any further proposal for risk mitigation measures to protect
+data and the information and communications systems of the Secretariat during the
+construction work of the capital master plan, if necessary, shall be reported in the
+context of the annual progress report on the capital master plan;
+12. Requests the Secretary-General to absorb 5,096,880 United States dollars
+within the approved budget of the capital master plan, and decides that 2,031,860
+dollars shall be financed from the resources to be approved for the support account
+for peacekeeping operations for the period from 1 July 2009 to 30 June 2010 in
+order to pursue the most reliable and cost-effective risk mitigation measures during
+the migration of the primary data centre to the North Lawn;
+13. Also requests the Secretary-General to carry out a classification of
+critical/non-critical systems of the Secretariat and to provide to the General
+Assembly an inventory of systems classified according to their degree of criticality
+at the time of its consideration of the proposal for a permanent secondary data
+centre;
+14. Further requests the Secretary-General to ensure that the level of
+protection proposed has been subject to a thorough cost-benefit analysis;
+15. Recalls paragraph 12 of section IV of resolution 63/262, and requests the
+Secretary-General to submit to the General Assembly no later than at the main part
+of its sixty-fifth session a unified disaster recovery and business continuity plan,
+including a permanent solution for Headquarters.
+79th plenary meeting
+7 April 2009
+
+2

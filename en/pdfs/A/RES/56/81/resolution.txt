@@ -1,0 +1,1244 @@
+United Nations
+
+A/RES/56/81
+
+General Assembly
+
+Distr.: General
+31 January 2002
+
+Fifty-sixth session
+Agenda item 161
+
+Resolution adopted by the General Assembly
+[on the report of the Sixth Committee (A/56/588 and Corr.1)]
+
+56/81.
+
+United Nations Convention on the Assignment of
+Receivables in International Trade
+
+The General Assembly,
+Recalling its resolution 2205 (XXI) of 17 December 1966, by which it
+established the United Nations Commission on International Trade Law with a
+mandate to further the progressive harmonization and unification of the law of
+international trade and in that respect to bear in mind the interests of all peoples, in
+particular those of developing countries, in the extensive development of
+international trade,
+Considering that problems created by uncertainties as to the content and the
+choice of the legal regime applicable to the assignment of receivables constitute an
+obstacle to international trade,
+Convinced that the adoption of a convention on the assignment of receivables
+in international trade will enhance transparency, contribute to overcoming the
+problems of uncertainties in this field and promote the availability of capital and
+credit at more affordable rates, while protecting existing assignment practices and
+facilitating the development of new practices, as well as ensuring adequate
+protection of the interests of debtors in assignments of receivables,
+Recalling that, at its twenty-eighth session in 1995, the Commission decided to
+prepare uniform legislation on assignment in receivables financing and entrusted the
+Working Group on International Contract Practices with the preparation of a draft, 1
+Noting that the Working Group on International Contract Practices devoted
+nine sessions, from 1995 to 2000, to the preparation of the draft Convention on the
+Assignment of Receivables in International Trade, and that the Commission
+considered the draft Convention at its thirty-third session in 2000 2 and at its thirtyfourth session in 2001, 3
+Being aware that all States and interested international organizations were
+invited to participate in the preparation of the draft Convention at all the sessions of
+the Working Group and at the thirty-third and thirty-fourth sessions of the
+_______________
+1
+2
+
+3
+
+01 47767
+
+See Official Records of the General Assembly, Fiftieth Session, Supplement No. 17 (A/50/17), para. 381.
+Ibid., Fifty-fifth Session, Supplement No. 17, (A/55/17), chap III.
+Ibid., Fifty-sixth Session, Supplement No. 17 and corrigendum, (A/56/17 and Corr. 3), chap III.
+
+A/RES/56/81
+
+Commission, either as members or as observers, with a full opportunity to speak and
+make proposals,
+Noting with satisfaction that the text of the draft Convention was circulated for
+comments once before the thirty-third session of the Commission and a second time
+in its revised version before the thirty-fourth session of the Commission to all
+Governments and international organizations invited to attend the meetings of the
+Commission and the Working Group as observers, and that the comments received
+were before the Commission at its thirty-third 4 and thirty-fourth sessions,
+Taking note with satisfaction of the decision of the Commission at its thirtyfourth session to submit the draft Convention to the General Assembly for its
+consideration, 5
+Taking note of the draft Convention adopted by the Commission, 6
+1.
+Expresses its appreciation to the United Nations Commission on
+International Trade Law for preparing the draft Convention on the Assignment of
+Receivables in International Trade; 6
+2.
+Adopts and opens for signature or accession the United Nations
+Convention on the Assignment of Receivables in International Trade, contained in
+the annex to the present resolution;
+3.
+Calls upon all Governments to consider becoming party to the
+Convention.
+85th plenary meeting
+12 December 2001
+
+Annex
+United Nations Convention on the Assignment of Receivables in
+International Trade
+Preamble
+The Contracting States,
+Reaffirming their conviction that international trade on the basis of equality
+and mutual benefit is an important element in the promotion of friendly relations
+among States,
+Considering that problems created by uncertainties as to the content and the
+choice of legal regime applicable to the assignment of receivables constitute an
+obstacle to international trade,
+Desiring to establish principles and to adopt rules relating to the assignment of
+receivables that would create certainty and transparency and promote the
+modernization of the law relating to assignments of receivables, while protecting
+existing assignment practices and facilitating the development of new practices,
+Desiring also to ensure adequate protection of the interests of debtors in
+assignments of receivables,
+_______________
+4
+
+See A/CN.9/472 and Add.1–5.
+Official Records of the General Assembly, Fifty-sixth Session, Supplement No. 17 and corrigendum
+(A/56/17 and Corr.3), para. 200.
+6
+Ibid., annex I.
+5
+
+2
+
+A/RES/56/81
+
+Being of the opinion that the adoption of uniform rules governing the
+assignment of receivables would promote the availability of capital and credit at
+more affordable rates and thus facilitate the development of international trade,
+Have agreed as follows:
+Chapter I
+Scope of application
+Article 1
+Scope of application
+1.
+
+This Convention applies to:
+
+(a) Assignments of international receivables and to international assignments
+of receivables as defined in this chapter, if, at the time of conclusion of the contract
+of assignment, the assignor is located in a Contracting State; and
+(b) Subsequent assignments, provided that any prior assignment is governed
+by this Convention.
+2.
+This Convention applies to subsequent assignments that satisfy the
+criteria set forth in paragraph 1 (a) of this article, even if it did not apply to any
+prior assignment of the same receivable.
+3.
+This Convention does not affect the rights and obligations of the debtor
+unless, at the time of conclusion of the original contract, the debtor is located in a
+Contracting State or the law governing the original contract is the law of a
+Contracting State.
+4.
+The provisions of chapter V apply to assignments of international
+receivables and to international assignments of receivables as defined in this chapter
+independently of paragraphs 1 to 3 of this article. However, those provisions do not
+apply if a State makes a declaration under article 39.
+5.
+The provisions of the annex to this Convention apply as provided in
+article 42.
+Article 2
+Assignment of receivables
+For the purposes of this Convention:
+(a) “Assignment” means the transfer by agreement from one person
+(“assignor”) to another person (“assignee”) of all or part of or an undivided interest
+in the assignor’s contractual right to payment of a monetary sum (“receivable”)
+from a third person (“the debtor”). The creation of rights in receivables as security
+for indebtedness or other obligation is deemed to be a transfer;
+(b) In the case of an assignment by the initial or any other assignee
+(“subsequent assignment”), the person who makes that assignment is the assignor
+and the person to whom that assignment is made is the assignee.
+
+3
+
+A/RES/56/81
+
+Article 3
+Internationality
+A receivable is international if, at the time of conclusion of the original
+contract, the assignor and the debtor are located in different States. An assignment is
+international if, at the time of conclusion of the contract of assignment, the assignor
+and the assignee are located in different States.
+Article 4
+Exclusions and other limitations
+1.
+
+This Convention does not apply to assignments made:
+
+(a)
+
+To an individual for his or her personal, family or household purposes;
+
+(b) As part of the sale or change in the ownership or legal status of the
+business out of which the assigned receivables arose.
+2.
+This Convention does not apply to assignments of receivables arising
+under or from:
+(a)
+
+Transactions on a regulated exchange;
+
+(b) Financial contracts governed by netting agreements, except a receivable
+owed on the termination of all outstanding transactions;
+(c)
+
+Foreign exchange transactions;
+
+(d) Inter-bank payment systems, inter-bank payment agreements or clearance
+and settlement systems relating to securities or other financial assets or instruments;
+(e) The transfer of security rights in, sale, loan or holding of or agreement to
+repurchase securities or other financial assets or instruments held with an
+intermediary;
+(f)
+
+Bank deposits;
+
+(g)
+
+A letter of credit or independent guarantee.
+
+3.
+Nothing in this Convention affects the rights and obligations of any
+person under the law governing negotiable instruments.
+4.
+Nothing in this Convention affects the rights and obligations of the
+assignor and the debtor under special laws governing the protection of parties to
+transactions made for personal, family or household purposes.
+5.
+
+Nothing in this Convention:
+
+(a) Affects the application of the law of a State in which real property is
+situated to either:
+(i) An interest in that real property to the extent that under that law the
+assignment of a receivable confers such an interest; or
+(ii) The priority of a right in a receivable to the extent that under that law an
+interest in the real property confers such a right; or
+(b) Makes lawful the acquisition of an interest in real property not permitted
+under the law of the State in which the real property is situated.
+
+4
+
+A/RES/56/81
+
+Chapter II
+General provisions
+Article 5
+Definitions and rules of interpretation
+For the purposes of this Convention:
+(a) “Original contract” means the contract between the assignor and the
+debtor from which the assigned receivable arises;
+(b) “Existing receivable” means a receivable that arises upon or before
+conclusion of the contract of assignment and “future receivable” means a receivable
+that arises after conclusion of the contract of assignment;
+(c) “Writing” means any form of information that is accessible so as to be
+usable for subsequent reference. Where this Convention requires a writing to be
+signed, that requirement is met if, by generally accepted means or a procedure
+agreed to by the person whose signature is required, the writing identifies that
+person and indicates that person’s approval of the information contained in the
+writing;
+(d) “Notification of the assignment” means a communication in writing that
+reasonably identifies the assigned receivables and the assignee;
+(e) “Insolvency administrator” means a person or body, including one
+appointed on an interim basis, authorized in an insolvency proceeding to administer
+the reorganization or liquidation of the assignor’s assets or affairs;
+(f) “Insolvency proceeding” means a collective judicial or administrative
+proceeding, including an interim proceeding, in which the assets and affairs of the
+assignor are subject to control or supervision by a court or other competent authority
+for the purpose of reorganization or liquidation;
+(g) “Priority” means the right of a person in preference to the right of
+another person and, to the extent relevant for such purpose, includes the
+determination whether the right is a personal or a property right, whether or not it is
+a security right for indebtedness or other obligation and whether any requirements
+necessary to render the right effective against a competing claimant have been
+satisfied;
+(h) A person is located in the State in which it has its place of business. If the
+assignor or the assignee has a place of business in more than one State, the place of
+business is that place where the central administration of the assignor or the
+assignee is exercised. If the debtor has a place of business in more than one State,
+the place of business is that which has the closest relationship to the original
+contract. If a person does not have a place of business, reference is to be made to the
+habitual residence of that person;
+(i) “Law” means the law in force in a State other than its rules of private
+international law;
+(j) “Proceeds” means whatever is received in respect of an assigned
+receivable, whether in total or partial payment or other satisfaction of the receivable.
+The term includes whatever is received in respect of proceeds. The term does not
+include returned goods;
+
+5
+
+A/RES/56/81
+
+(k) “Financial contract” means any spot, forward, future, option or swap
+transaction involving interest rates, commodities, currencies, equities, bonds,
+indices or any other financial instrument, any repurchase or securities lending
+transaction, and any other transaction similar to any transaction referred to above
+entered into in financial markets and any combination of the transactions mentioned
+above;
+(l) “Netting agreement” means an agreement between two or more parties
+that provides for one or more of the following:
+(i) The net settlement of payments due in the same currency on the same
+date whether by notation or otherwise;
+(ii) Upon the insolvency or other default by a party, the termination of all
+outstanding transactions at their replacement or fair market values, conversion
+of such sums into a single currency and netting into a single payment by one
+party to the other; or
+(iii) The set-off of amounts calculated as set forth in subparagraph (l) (ii) of
+this article under two or more netting agreements;
+(m) “Competing claimant” means:
+(i) Another assignee of the same receivable from the same assignor,
+including a person who, by operation of law, claims a right in the assigned
+receivable as a result of its right in other property of the assignor, even if that
+receivable is not an international receivable and the assignment to that
+assignee is not an international assignment;
+(ii)
+
+A creditor of the assignor; or
+
+(iii) The insolvency administrator.
+Article 6
+Party autonomy
+Subject to article 19, the assignor, the assignee and the debtor may derogate
+from or vary by agreement provisions of this Convention relating to their respective
+rights and obligations. Such an agreement does not affect the rights of any person
+who is not a party to the agreement.
+Article 7
+Principles of interpretation
+1.
+In the interpretation of this Convention, regard is to be had to its object
+and purpose as set forth in the preamble, to its international character and to the
+need to promote uniformity in its application and the observance of good faith in
+international trade.
+2.
+Questions concerning matters governed by this Convention that are not
+expressly settled in it are to be settled in conformity with the general principles on
+which it is based or, in the absence of such principles, in conformity with the law
+applicable by virtue of the rules of private international law.
+
+6
+
+A/RES/56/81
+
+Chapter III
+Effects of assignment
+Article 8
+Effectiveness of assignments
+1.
+An assignment is not ineffective as between the assignor and the assignee
+or as against the debtor or as against a competing claimant, and the right of an
+assignee may not be denied priority, on the ground that it is an assignment of more
+than one receivable, future receivables or parts of or undivided interests in
+receivables, provided that the receivables are described:
+(a)
+
+Individually as receivables to which the assignment relates; or
+
+(b) In any other manner, provided that they can, at the time of the
+assignment or, in the case of future receivables, at the time of conclusion of the
+original contract, be identified as receivables to which the assignment relates.
+2.
+Unless otherwise agreed, an assignment of one or more future receivables
+is effective without a new act of transfer being required to assign each receivable.
+3.
+Except as provided in paragraph 1 of this article, article 9 and article 10,
+paragraphs 2 and 3, this Convention does not affect any limitations on assignments
+arising from law.
+Article 9
+Contractual limitations on assignments
+1.
+An assignment of a receivable is effective notwithstanding any
+agreement between the initial or any subsequent assignor and the debtor or any
+subsequent assignee limiting in any way the assignor’s right to assign its
+receivables.
+2.
+Nothing in this article affects any obligation or liability of the assignor
+for breach of such an agreement, but the other party to such agreement may not
+avoid the original contract or the assignment contract on the sole ground of that
+breach. A person who is not party to such an agreement is not liable on the sole
+ground that it had knowledge of the agreement.
+3.
+
+This article applies only to assignments of receivables:
+
+(a) Arising from an original contract that is a contract for the supply or lease
+of goods or services other than financial services, a construction contract or a
+contract for the sale or lease of real property;
+(b) Arising from an original contract for the sale, lease or licence of
+industrial or other intellectual property or of proprietary information;
+(c)
+
+Representing the payment obligation for a credit card transaction; or
+
+(d) Owed to the assignor upon net settlement of payments due pursuant to a
+netting agreement involving more than two parties.
+Article 10
+Transfer of security rights
+1.
+A personal or property right securing payment of the assigned receivable
+is transferred to the assignee without a new act of transfer. If such a right, under the
+law governing it, is transferable only with a new act of transfer, the assignor is
+obliged to transfer such right and any proceeds to the assignee.
+7
+
+A/RES/56/81
+
+2.
+A right securing payment of the assigned receivable is transferred under
+paragraph 1 of this article notwithstanding any agreement between the assignor and
+the debtor or other person granting that right, limiting in any way the assignor’s
+right to assign the receivable or the right securing payment of the assigned
+receivable.
+3.
+Nothing in this article affects any obligation or liability of the assignor
+for breach of any agreement under paragraph 2 of this article, but the other party to
+that agreement may not avoid the original contract or the assignment contract on the
+sole ground of that breach. A person who is not a party to such an agreement is not
+liable on the sole ground that it had knowledge of the agreement.
+4.
+Paragraphs 2 and 3 of this article apply only to assignments of
+receivables:
+(a) Arising from an original contract that is a contract for the supply or lease
+of goods or services other than financial services, a construction contract or a
+contract for the sale or lease of real property;
+(b) Arising from an original contract for the sale, lease or licence of
+industrial or other intellectual property or of proprietary information;
+(c)
+
+Representing the payment obligation for a credit card transaction; or
+
+(d) Owed to the assignor upon net settlement of payments due pursuant to a
+netting agreement involving more than two parties.
+5.
+The transfer of a possessory property right under paragraph 1 of this
+article does not affect any obligations of the assignor to the debtor or the person
+granting the property right with respect to the property transferred existing under the
+law governing that property right.
+6.
+Paragraph 1 of this article does not affect any requirement under rules of
+law other than this Convention relating to the form or registration of the transfer of
+any rights securing payment of the assigned receivable.
+Chapter IV
+Rights, obligations and defences
+Section I
+Assignor and assignee
+Article 11
+Rights and obligations of the assignor and the assignee
+1.
+The mutual rights and obligations of the assignor and the assignee arising
+from their agreement are determined by the terms and conditions set forth in that
+agreement, including any rules or general conditions referred to therein.
+2.
+The assignor and the assignee are bound by any usage to which they have
+agreed and, unless otherwise agreed, by any practices they have established between
+themselves.
+3.
+In an international assignment, the assignor and the assignee are
+considered, unless otherwise agreed, implicitly to have made applicable to the
+assignment a usage that in international trade is widely known to, and regularly
+observed by, parties to the particular type of assignment or to the assignment of the
+particular category of receivables.
+8
+
+A/RES/56/81
+
+Article 12
+Representations of the assignor
+1.
+Unless otherwise agreed between the assignor and the assignee, the
+assignor represents at the time of conclusion of the contract of assignment that:
+(a)
+
+The assignor has the right to assign the receivable;
+
+(b) The assignor has not previously assigned the receivable to another
+assignee; and
+(c)
+
+The debtor does not and will not have any defences or rights of set-off.
+
+2.
+Unless otherwise agreed between the assignor and the assignee, the
+assignor does not represent that the debtor has, or will have, the ability to pay.
+Article 13
+Right to notify the debtor
+1.
+Unless otherwise agreed between the assignor and the assignee, the
+assignor or the assignee or both may send the debtor notification of the assignment
+and a payment instruction, but after notification has been sent only the assignee may
+send such an instruction.
+2.
+Notification of the assignment or a payment instruction sent in breach of
+any agreement referred to in paragraph 1 of this article is not ineffective for the
+purposes of article 17 by reason of such breach. However, nothing in this article
+affects any obligation or liability of the party in breach of such an agreement for any
+damages arising as a result of the breach.
+Article 14
+Right to payment
+1.
+As between the assignor and the assignee, unless otherwise agreed and
+whether or not notification of the assignment has been sent:
+(a) If payment in respect of the assigned receivable is made to the assignee,
+the assignee is entitled to retain the proceeds and goods returned in respect of the
+assigned receivable;
+(b) If payment in respect of the assigned receivable is made to the assignor,
+the assignee is entitled to payment of the proceeds and also to goods returned to the
+assignor in respect of the assigned receivable; and
+(c) If payment in respect of the assigned receivable is made to another
+person over whom the assignee has priority, the assignee is entitled to payment of
+the proceeds and also to goods returned to such person in respect of the assigned
+receivable.
+2.
+The assignee may not retain more than the value of its right in the
+receivable.
+
+9
+
+A/RES/56/81
+
+Section II
+Debtor
+Article 15
+Principle of debtor protection
+1.
+Except as otherwise provided in this Convention, an assignment does not,
+without the consent of the debtor, affect the rights and obligations of the debtor,
+including the payment terms contained in the original contract.
+2.
+A payment instruction may change the person, address or account to
+which the debtor is required to make payment, but may not change:
+(a)
+
+The currency of payment specified in the original contract; or
+
+(b) The State specified in the original contract in which payment is to be
+made to a State other than that in which the debtor is located.
+Article 16
+Notification of the debtor
+1.
+Notification of the assignment or a payment instruction is effective when
+received by the debtor if it is in a language that is reasonably expected to inform the
+debtor about its contents. It is sufficient if notification of the assignment or a
+payment instruction is in the language of the original contract.
+2.
+Notification of the assignment or a payment instruction may relate to
+receivables arising after notification.
+3.
+Notification of a subsequent assignment constitutes notification of all
+prior assignments.
+Article 17
+Debtor’s discharge by payment
+1.
+Until the debtor receives notification of the assignment, the debtor is
+entitled to be discharged by paying in accordance with the original contract.
+2.
+After the debtor receives notification of the assignment, subject to
+paragraphs 3 to 8 of this article, the debtor is discharged only by paying the assignee
+or, if otherwise instructed in the notification of the assignment or subsequently by
+the assignee in a writing received by the debtor, in accordance with such payment
+instruction.
+3.
+If the debtor receives more than one payment instruction relating to a
+single assignment of the same receivable by the same assignor, the debtor is
+discharged by paying in accordance with the last payment instruction received from
+the assignee before payment.
+4.
+If the debtor receives notification of more than one assignment of the
+same receivable made by the same assignor, the debtor is discharged by paying in
+accordance with the first notification received.
+5.
+If the debtor receives notification of one or more subsequent
+assignments, the debtor is discharged by paying in accordance with the notification
+of the last of such subsequent assignments.
+6.
+If the debtor receives notification of the assignment of a part of or an
+undivided interest in one or more receivables, the debtor is discharged by paying in
+accordance with the notification or in accordance with this article as if the debtor
+10
+
+A/RES/56/81
+
+had not received the notification. If the debtor pays in accordance with the
+notification, the debtor is discharged only to the extent of the part or undivided
+interest paid.
+7.
+If the debtor receives notification of the assignment from the assignee,
+the debtor is entitled to request the assignee to provide within a reasonable period of
+time adequate proof that the assignment from the initial assignor to the initial
+assignee and any intermediate assignment have been made and, unless the assignee
+does so, the debtor is discharged by paying in accordance with this article as if the
+notification from the assignee had not been received. Adequate proof of an
+assignment includes but is not limited to any writing emanating from the assignor
+and indicating that the assignment has taken place.
+8.
+This article does not affect any other ground on which payment by the
+debtor to the person entitled to payment, to a competent judicial or other authority,
+or to a public deposit fund discharges the debtor.
+Article 18
+Defences and rights of set-off of the debtor
+1.
+In a claim by the assignee against the debtor for payment of the assigned
+receivable, the debtor may raise against the assignee all defences and rights of setoff arising from the original contract, or any other contract that was part of the same
+transaction, of which the debtor could avail itself as if the assignment had not been
+made and such claim were made by the assignor.
+2.
+The debtor may raise against the assignee any other right of set-off,
+provided that it was available to the debtor at the time notification of the assignment
+was received by the debtor.
+3.
+Notwithstanding paragraphs 1 and 2 of this article, defences and rights of
+set-off that the debtor may raise pursuant to article 9 or 10 against the assignor for
+breach of an agreement limiting in any way the assignor’s right to make the
+assignment are not available to the debtor against the assignee.
+Article 19
+Agreement not to raise defences or rights of set-off
+1.
+The debtor may agree with the assignor in a writing signed by the debtor
+not to raise against the assignee the defences and rights of set-off that it could raise
+pursuant to article 18. Such an agreement precludes the debtor from raising against
+the assignee those defences and rights of set-off.
+2.
+
+The debtor may not waive defences:
+
+(a)
+
+Arising from fraudulent acts on the part of the assignee; or
+
+(b)
+
+Based on the debtor’s incapacity.
+
+3.
+Such an agreement may be modified only by an agreement in a writing
+signed by the debtor. The effect of such a modification as against the assignee is
+determined by article 20, paragraph 2.
+
+11
+
+A/RES/56/81
+
+Article 20
+Modification of the original contract
+1.
+An agreement concluded before notification of the assignment between
+the assignor and the debtor that affects the assignee’s rights is effective as against
+the assignee, and the assignee acquires corresponding rights.
+2.
+An agreement concluded after notification of the assignment between the
+assignor and the debtor that affects the assignee’s rights is ineffective as against the
+assignee unless:
+(a)
+
+The assignee consents to it; or
+
+(b) The receivable is not fully earned by performance and either the
+modification is provided for in the original contract or, in the context of the original
+contract, a reasonable assignee would consent to the modification.
+3.
+Paragraphs 1 and 2 of this article do not affect any right of the assignor
+or the assignee arising from breach of an agreement between them.
+Article 21
+Recovery of payments
+Failure of the assignor to perform the original contract does not entitle the
+debtor to recover from the assignee a sum paid by the debtor to the assignor or the
+assignee.
+Section III
+Third parties
+Article 22
+Law applicable to competing rights
+With the exception of matters that are settled elsewhere in this Convention and
+subject to articles 23 and 24, the law of the State in which the assignor is located
+governs the priority of the right of an assignee in the assigned receivable over the
+right of a competing claimant.
+Article 23
+Public policy and mandatory rules
+1.
+The application of a provision of the law of the State in which the
+assignor is located may be refused only if the application of that provision is
+manifestly contrary to the public policy of the forum State.
+2.
+The rules of the law of either the forum State or any other State that are
+mandatory irrespective of the law otherwise applicable may not prevent the
+application of a provision of the law of the State in which the assignor is located.
+3.
+Notwithstanding paragraph 2 of this article, in an insolvency proceeding
+commenced in a State other than the State in which the assignor is located, any
+preferential right that arises, by operation of law, under the law of the forum State
+and is given priority over the rights of an assignee in insolvency proceedings under
+the law of that State may be given priority notwithstanding article 22. A State may
+deposit at any time a declaration identifying any such preferential right.
+
+12
+
+A/RES/56/81
+
+Article 24
+Special rules on proceeds
+1.
+If proceeds are received by the assignee, the assignee is entitled to retain
+those proceeds to the extent that the assignee’s right in the assigned receivable had
+priority over the right of a competing claimant in the assigned receivable.
+2.
+If proceeds are received by the assignor, the right of the assignee in those
+proceeds has priority over the right of a competing claimant in those proceeds to the
+same extent as the assignee’s right had priority over the right in the assigned
+receivable of that claimant if:
+(a) The assignor has received the proceeds under instructions from the
+assignee to hold the proceeds for the benefit of the assignee; and
+(b) The proceeds are held by the assignor for the benefit of the assignee
+separately and are reasonably identifiable from the assets of the assignor, such as in
+the case of a separate deposit or securities account containing only proceeds
+consisting of cash or securities.
+3.
+Nothing in paragraph 2 of this article affects the priority of a person
+having against the proceeds a right of set-off or a right created by agreement and not
+derived from a right in the receivable.
+Article 25
+Subordination
+An assignee entitled to priority may at any time subordinate its priority
+unilaterally or by agreement in favour of any existing or future assignees.
+Chapter V
+Autonomous conflict-of-laws rules
+Article 26
+Application of chapter V
+The provisions of this chapter apply to matters that are:
+(a)
+
+Within the scope of this Convention as provided in article 1, paragraph 4;
+
+(b)
+
+Otherwise within the scope of this Convention but not settled elsewhere
+
+and
+in it.
+Article 27
+Form of a contract of assignment
+1.
+A contract of assignment concluded between persons who are located in
+the same State is formally valid as between them if it satisfies the requirements of
+either the law which governs it or the law of the State in which it is concluded.
+2.
+A contract of assignment concluded between persons who are located in
+different States is formally valid as between them if it satisfies the requirements of
+either the law which governs it or the law of one of those States.
+
+13
+
+A/RES/56/81
+
+Article 28
+Law applicable to the mutual rights and obligations of the assignor and
+the assignee
+1.
+The mutual rights and obligations of the assignor and the assignee arising
+from their agreement are governed by the law chosen by them.
+2.
+In the absence of a choice of law by the assignor and the assignee, their
+mutual rights and obligations arising from their agreement are governed by the law
+of the State with which the contract of assignment is most closely connected.
+Article 29
+Law applicable to the rights and obligations of the assignee and the debtor
+The law governing the original contract determines the effectiveness of
+contractual limitations on assignment as between the assignee and the debtor, the
+relationship between the assignee and the debtor, the conditions under which the
+assignment can be invoked against the debtor and whether the debtor’s obligations
+have been discharged.
+Article 30
+Law applicable to priority
+1.
+The law of the State in which the assignor is located governs the priority
+of the right of an assignee in the assigned receivable over the right of a competing
+claimant.
+2.
+The rules of the law of either the forum State or any other State that are
+mandatory irrespective of the law otherwise applicable may not prevent the
+application of a provision of the law of the State in which the assignor is located.
+3.
+Notwithstanding paragraph 2 of this article, in an insolvency proceeding
+commenced in a State other than the State in which the assignor is located, any
+preferential right that arises, by operation of law, under the law of the forum State
+and is given priority over the rights of an assignee in insolvency proceedings under
+the law of that State may be given priority notwithstanding paragraph 1 of this
+article.
+Article 31
+Mandatory rules
+1.
+Nothing in articles 27 to 29 restricts the application of the rules of the
+law of the forum State in a situation where they are mandatory irrespective of the
+law otherwise applicable.
+2.
+Nothing in articles 27 to 29 restricts the application of the mandatory
+rules of the law of another State with which the matters settled in those articles have
+a close connection if and insofar as, under the law of that other State, those rules
+must be applied irrespective of the law otherwise applicable.
+Article 32
+Public policy
+With regard to matters settled in this chapter, the application of a provision of
+the law specified in this chapter may be refused only if the application of that
+provision is manifestly contrary to the public policy of the forum State.
+
+14
+
+A/RES/56/81
+
+Chapter VI
+Final provisions
+Article 33
+Depositary
+The Secretary-General of the United Nations is the depositary of this
+Convention.
+Article 34
+Signature, ratification, acceptance, approval, accession
+1.
+This Convention is open for signature by all States at the Headquarters of
+the United Nations in New York until 31 December 2003.
+2.
+This Convention is subject to ratification, acceptance or approval by the
+signatory States.
+3.
+This Convention is open to accession by all States that are not signatory
+States as from the date it is open for signature.
+4.
+Instruments of ratification, acceptance, approval and accession are to be
+deposited with the Secretary-General of the United Nations.
+Article 35
+Application to territorial units
+1.
+If a State has two or more territorial units in which different systems of
+law are applicable in relation to the matters dealt with in this Convention, it may at
+any time declare that this Convention is to extend to all its territorial units or only
+one or more of them, and may at any time substitute another declaration for its
+earlier declaration.
+2.
+Such declarations are to state expressly the territorial units to which this
+Convention extends.
+3.
+If, by virtue of a declaration under this article, this Convention does not
+extend to all territorial units of a State and the assignor or the debtor is located in a
+territorial unit to which this Convention does not extend, this location is considered
+not to be in a Contracting State.
+4.
+If, by virtue of a declaration under this article, this Convention does not
+extend to all territorial units of a State and the law governing the original contract is
+the law in force in a territorial unit to which this Convention does not extend, the
+law governing the original contract is considered not to be the law of a Contracting
+State.
+5.
+If a State makes no declaration under paragraph 1 of this article, the
+Convention is to extend to all territorial units of that State.
+Article 36
+Location in a territorial unit
+If a person is located in a State which has two or more territorial units, that
+person is located in the territorial unit in which it has its place of business. If the
+assignor or the assignee has a place of business in more than one territorial unit, the
+place of business is that place where the central administration of the assignor or the
+assignee is exercised. If the debtor has a place of business in more than one
+territorial unit, the place of business is that which has the closest relationship to the
+15
+
+A/RES/56/81
+
+original contract. If a person does not have a place of business, reference is to be
+made to the habitual residence of that person. A State with two or more territorial
+units may specify by declaration at any time other rules for determining the location
+of a person within that State.
+Article 37
+Applicable law in territorial units
+Any reference in this Convention to the law of a State means, in the case of a
+State which has two or more territorial units, the law in force in the territorial unit.
+Such a State may specify by declaration at any time other rules for determining the
+applicable law, including rules that render applicable the law of another territorial
+unit of that State.
+Article 38
+Conflicts with other international agreements
+1.
+This Convention does not prevail over any international agreement that
+has already been or may be entered into and that specifically governs a transaction
+otherwise governed by this Convention.
+2.
+Notwithstanding paragraph 1 of this article, this Convention prevails
+over the Unidroit Convention on International Factoring (“the Ottawa Convention”).
+To the extent that this Convention does not apply to the rights and obligations of a
+debtor, it does not preclude the application of the Ottawa Convention with respect to
+the rights and obligations of that debtor.
+Article 39
+Declaration on application of chapter V
+A State may declare at any time that it will not be bound by chapter V.
+Article 40
+Limitations relating to Governments and other public entities
+A State may declare at any time that it will not be bound or the extent to which
+it will not be bound by articles 9 and 10 if the debtor or any person granting a
+personal or property right securing payment of the assigned receivable is located in
+that State at the time of conclusion of the original contract and is a Government,
+central or local, any subdivision thereof, or an entity constituted for a public
+purpose. If a State has made such a declaration, articles 9 and 10 do not affect the
+rights and obligations of that debtor or person. A State may list in a declaration the
+types of entity that are the subject of a declaration.
+Article 41
+Other exclusions
+1.
+A State may declare at any time that it will not apply this Convention to
+specific types of assignment or to the assignment of specific categories of
+receivables clearly described in a declaration.
+2.
+
+After a declaration under paragraph 1 of this article takes effect:
+
+(a) This Convention does not apply to such types of assignment or to the
+assignment of such categories of receivables if the assignor is located at the time of
+conclusion of the contract of assignment in such a State; and
+
+16
+
+A/RES/56/81
+
+(b) The provisions of this Convention that affect the rights and obligations of
+the debtor do not apply if, at the time of conclusion of the original contract, the
+debtor is located in such a State or the law governing the original contract is the law
+of such a State.
+3.
+This article does not apply to assignments of receivables listed in
+article 9, paragraph 3.
+Article 42
+Application of the annex
+1.
+
+A State may at any time declare that it will be bound by:
+
+(a) The priority rules set forth in section I of the annex and will participate
+in the international registration system established pursuant to section II of the
+annex;
+(b) The priority rules set forth in section I of the annex and will effectuate
+such rules by use of a registration system that fulfils the purposes of such rules, in
+which case, for the purposes of section I of the annex, registration pursuant to such
+a system has the same effect as registration pursuant to section II of the annex;
+(c)
+
+The priority rules set forth in section III of the annex;
+
+(d)
+
+The priority rules set forth in section IV of the annex; or
+
+(e)
+
+The priority rules set forth in articles 7 and 9 of the annex.
+
+2.
+
+For the purposes of article 22:
+
+(a) The law of a State that has made a declaration pursuant to
+paragraph 1 (a) or (b) of this article is the set of rules set forth in section I of the
+annex, as affected by any declaration made pursuant to paragraph 5 of this article;
+(b) The law of a State that has made a declaration pursuant to paragraph 1 (c)
+of this article is the set of rules set forth in section III of the annex, as affected by
+any declaration made pursuant to paragraph 5 of this article;
+(c) The law of a State that has made a declaration pursuant to
+paragraph 1 (d) of this article is the set of rules set forth in section IV of the annex,
+as affected by any declaration made pursuant to paragraph 5 of this article; and
+(d) The law of a State that has made a declaration pursuant to paragraph 1 (e)
+of this article is the set of rules set forth in articles 7 and 9 of the annex, as affected
+by any declaration made pursuant to paragraph 5 of this article.
+3.
+A State that has made a declaration pursuant to paragraph 1 of this article
+may establish rules pursuant to which contracts of assignment concluded before the
+declaration takes effect become subject to those rules within a reasonable time.
+4.
+A State that has not made a declaration pursuant to paragraph 1 of this
+article may, in accordance with priority rules in force in that State, utilize the
+registration system established pursuant to section II of the annex.
+5.
+At the time a State makes a declaration pursuant to paragraph 1 of this
+article or thereafter, it may declare that:
+(a) It will not apply the priority rules chosen under paragraph 1 of this article
+to certain types of assignment or to the assignment of certain categories of
+receivables; or
+
+17
+
+A/RES/56/81
+
+(b) It will apply those priority rules with modifications specified in that
+declaration.
+6.
+At the request of Contracting or Signatory States to this Convention
+comprising not less than one third of the Contracting and Signatory States, the
+depositary shall convene a conference of the Contracting and Signatory States to
+designate the supervising authority and the first registrar and to prepare or revise the
+regulations referred to in section II of the annex.
+Article 43
+Effect of declaration
+1.
+Declarations made under articles 35, paragraph 1, 36, 37 or 39 to 42 at
+the time of signature are subject to confirmation upon ratification, acceptance or
+approval.
+2.
+Declarations and confirmations of declarations are to be in writing and to
+be formally notified to the depositary.
+3.
+A declaration takes effect simultaneously with the entry into force of this
+Convention in respect of the State concerned. However, a declaration of which the
+depositary receives formal notification after such entry into force takes effect on the
+first day of the month following the expiration of six months after the date of its
+receipt by the depositary.
+4.
+A State that makes a declaration under articles 35, paragraph 1, 36, 37 or
+39 to 42 may withdraw it at any time by a formal notification in writing addressed to
+the depositary. Such withdrawal takes effect on the first day of the month following
+the expiration of six months after the date of the receipt of the notification by the
+depositary.
+5.
+In the case of a declaration under articles 35, paragraph 1, 36, 37 or 39 to
+42 that takes effect after the entry into force of this Convention in respect of the
+State concerned or in the case of a withdrawal of any such declaration, the effect of
+which in either case is to cause a rule in this Convention, including any annex, to
+become applicable:
+(a) Except as provided in paragraph 5 (b) of this article, that rule is
+applicable only to assignments for which the contract of assignment is concluded on
+or after the date when the declaration or withdrawal takes effect in respect of the
+Contracting State referred to in article 1, paragraph 1 (a);
+(b) A rule that deals with the rights and obligations of the debtor applies only
+in respect of original contracts concluded on or after the date when the declaration
+or withdrawal takes effect in respect of the Contracting State referred to in article 1,
+paragraph 3.
+6.
+In the case of a declaration under articles 35, paragraph 1, 36, 37 or 39 to
+42 that takes effect after the entry into force of this Convention in respect of the
+State concerned or in the case of a withdrawal of any such declaration, the effect of
+which in either case is to cause a rule in this Convention, including any annex, to
+become inapplicable:
+(a) Except as provided in paragraph 6 (b) of this article, that rule is
+inapplicable to assignments for which the contract of assignment is concluded on or
+after the date when the declaration or withdrawal takes effect in respect of the
+Contracting State referred to in article 1, paragraph 1 (a);
+
+18
+
+A/RES/56/81
+
+(b) A rule that deals with the rights and obligations of the debtor is
+inapplicable in respect of original contracts concluded on or after the date when the
+declaration or withdrawal takes effect in respect of the Contracting State referred to
+in article 1, paragraph 3.
+7.
+If a rule rendered applicable or inapplicable as a result of a declaration or
+withdrawal referred to in paragraph 5 or 6 of this article is relevant to the
+determination of priority with respect to a receivable for which the contract of
+assignment is concluded before such declaration or withdrawal takes effect or with
+respect to its proceeds, the right of the assignee has priority over the right of a
+competing claimant to the extent that, under the law that would determine priority
+before such declaration or withdrawal takes effect, the right of the assignee would
+have priority.
+Article 44
+Reservations
+No reservations are permitted except those expressly authorized in this
+Convention.
+Article 45
+Entry into force
+1.
+This Convention enters into force on the first day of the month following
+the expiration of six months from the date of deposit of the fifth instrument of
+ratification, acceptance, approval or accession with the depositary.
+2.
+For each State that becomes a Contracting State to this Convention after
+the date of deposit of the fifth instrument of ratification, acceptance, approval or
+accession, this Convention enters into force on the first day of the month following
+the expiration of six months after the date of deposit of the appropriate instrument
+on behalf of that State.
+3.
+This Convention applies only to assignments if the contract of
+assignment is concluded on or after the date when this Convention enters into force
+in respect of the Contracting State referred to in article 1, paragraph 1 (a), provided
+that the provisions of this Convention that deal with the rights and obligations of the
+debtor apply only to assignments of receivables arising from original contracts
+concluded on or after the date when this Convention enters into force in respect of
+the Contracting State referred to in article 1, paragraph 3.
+4.
+If a receivable is assigned pursuant to a contract of assignment concluded
+before the date when this Convention enters into force in respect of the Contracting
+State referred to in article 1, paragraph 1 (a), the right of the assignee has priority
+over the right of a competing claimant with respect to the receivable to the extent
+that, under the law that would determine priority in the absence of this Convention,
+the right of the assignee would have priority.
+Article 46
+Denunciation
+1.
+A Contracting State may denounce this Convention at any time by
+written notification addressed to the depositary.
+2.
+The denunciation takes effect on the first day of the month following the
+expiration of one year after the notification is received by the depositary. Where a
+
+19
+
+A/RES/56/81
+
+longer period is specified in the notification, the denunciation takes effect upon the
+expiration of such longer period after the notification is received by the depositary.
+3.
+This Convention remains applicable to assignments if the contract of
+assignment is concluded before the date when the denunciation takes effect in
+respect of the Contracting State referred to in article 1, paragraph 1 (a), provided
+that the provisions of this Convention that deal with the rights and obligations of the
+debtor remain applicable only to assignments of receivables arising from original
+contracts concluded before the date when the denunciation takes effect in respect of
+the Contracting State referred to in article 1, paragraph 3.
+4.
+If a receivable is assigned pursuant to a contract of assignment concluded
+before the date when the denunciation takes effect in respect of the Contracting
+State referred to in article 1, paragraph 1 (a), the right of the assignee has priority
+over the right of a competing claimant with respect to the receivable to the extent
+that, under the law that would determine priority under this Convention, the right of
+the assignee would have priority.
+Article 47
+Revision and amendment
+1.
+At the request of not less than one third of the Contracting States to this
+Convention, the depositary shall convene a conference of the Contracting States to
+revise or amend it.
+2.
+Any instrument of ratification, acceptance, approval or accession
+deposited after the entry into force of an amendment to this Convention is deemed
+to apply to the Convention as amended.
+
+Annex to the Convention
+Section I
+Priority rules based on registration
+Article 1
+Priority among several assignees
+As between assignees of the same receivable from the same assignor, the
+priority of the right of an assignee in the assigned receivable is determined by the
+order in which data about the assignment are registered under section II of this
+annex, regardless of the time of transfer of the receivable. If no such data are
+registered, priority is determined by the order of conclusion of the respective
+contracts of assignment.
+Article 2
+Priority between the assignee and the insolvency administrator or creditors of the
+assignor
+The right of an assignee in an assigned receivable has priority over the right of
+an insolvency administrator and creditors who obtain a right in the assigned
+receivable by attachment, judicial act or similar act of a competent authority that
+gives rise to such right, if the receivable was assigned, and data about the
+assignment were registered under section II of this annex, before the commencement
+of such insolvency proceeding, attachment, judicial act or similar act.
+
+20
+
+A/RES/56/81
+
+Section II
+Registration
+Article 3
+Establishment of a registration system
+A registration system will be established for the registration of data about
+assignments, even if the relevant assignment or receivable is not international,
+pursuant to the regulations to be promulgated by the registrar and the supervising
+authority. Regulations promulgated by the registrar and the supervising authority
+under this annex shall be consistent with this annex. The regulations will prescribe
+in detail the manner in which the registration system will operate, as well as the
+procedure for resolving disputes relating to that operation.
+Article 4
+Registration
+1.
+Any person may register data with regard to an assignment at the registry
+in accordance with this annex and the regulations. As provided in the regulations,
+the data registered shall be the identification of the assignor and the assignee and a
+brief description of the assigned receivables.
+2.
+A single registration may cover one or more assignments by the assignor
+to the assignee of one or more existing or future receivables, irrespective of whether
+the receivables exist at the time of registration.
+3.
+A registration may be made in advance of the assignment to which it
+relates. The regulations will establish the procedure for the cancellation of a
+registration in the event that the assignment is not made.
+4.
+Registration or its amendment is effective from the time when the data
+set forth in paragraph 1 of this article are available to searchers. The registering
+party may specify, from options set forth in the regulations, a period of effectiveness
+for the registration. In the absence of such a specification, a registration is effective
+for a period of five years.
+5.
+Regulations will specify the manner in which registration may be
+renewed, amended or cancelled and regulate such other matters as are necessary for
+the operation of the registration system.
+6.
+Any defect, irregularity, omission or error with regard to the
+identification of the assignor that would result in data registered not being found
+upon a search based on a proper identification of the assignor renders the
+registration ineffective.
+Article 5
+Registry searches
+1.
+Any person may search the records of the registry according to
+identification of the assignor, as set forth in the regulations, and obtain a search
+result in writing.
+2.
+A search result in writing that purports to be issued by the registry is
+admissible as evidence and is, in the absence of evidence to the contrary, proof of
+the registration of the data to which the search relates, including the date and hour
+of registration.
+
+21
+
+A/RES/56/81
+
+Section III
+Priority rules based on the time of the contract of assignment
+Article 6
+Priority among several assignees
+As between assignees of the same receivable from the same assignor, the
+priority of the right of an assignee in the assigned receivable is determined by the
+order of conclusion of the respective contracts of assignment.
+Article 7
+Priority between the assignee and the insolvency administrator or creditors of the
+assignor
+The right of an assignee in an assigned receivable has priority over the right of
+an insolvency administrator and creditors who obtain a right in the assigned
+receivable by attachment, judicial act or similar act of a competent authority that
+gives rise to such right, if the receivable was assigned before the commencement of
+such insolvency proceeding, attachment, judicial act or similar act.
+Article 8
+Proof of time of contract of assignment
+The time of conclusion of a contract of assignment in respect of articles 6 and
+7 of this annex may be proved by any means, including witnesses.
+Section IV
+Priority rules based on the time of notification of assignment
+Article 9
+Priority among several assignees
+As between assignees of the same receivable from the same assignor, the
+priority of the right of an assignee in the assigned receivable is determined by the
+order in which notification of the respective assignments is received by the debtor.
+However, an assignee may not obtain priority over a prior assignment of which the
+assignee had knowledge at the time of conclusion of the contract of assignment to
+that assignee by notifying the debtor.
+Article 10
+Priority between the assignee and the insolvency administrator or creditors of the
+assignor
+The right of an assignee in an assigned receivable has priority over the right of
+an insolvency administrator and creditors who obtain a right in the assigned
+receivable by attachment, judicial act or similar act of a competent authority that
+gives rise to such right, if the receivable was assigned and notification was received
+by the debtor before the commencement of such insolvency proceeding, attachment,
+judicial act or similar act.
+DONE at ..., this ... day of ... two thousand one, in a single original, of which
+the Arabic, Chinese, English, French, Russian and Spanish texts are equally
+authentic.
+IN WITNESS WHEREOF the undersigned plenipotentiaries, being duly
+authorized by their respective Governments, have signed the present Convention.
+
+22

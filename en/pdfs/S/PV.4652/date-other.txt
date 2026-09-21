@@ -1,0 +1,3 @@
+2002-12-03
+rule: any
+raw: 3 December 2002

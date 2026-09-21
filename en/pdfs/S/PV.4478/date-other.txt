@@ -1,0 +1,3 @@
+2002-02-26
+rule: any
+raw: 26 February 2002

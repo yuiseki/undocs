@@ -1,0 +1,1340 @@
+S/2004/821
+
+United Nations
+
+Security Council
+
+Distr.: General
+18 October 2004
+Original: English
+
+Letter dated 15 October 2004 from the Secretary-General
+addressed to the President of the Security Council
+I should like to refer to the presidential statement dated 15 August 2004
+(S/PRST/2004/30), in which the Security Council requested my Special
+Representative for Burundi, in close contact with my Special Representative for the
+Democratic Republic of the Congo, to establish the facts and to report to the
+Security Council on the massacre of refugees from the Democratic Republic of the
+Congo at Gatumba, Burundi, on 13 August 2004.
+Further to the oral briefing on the preliminary findings of the investigation,
+which was provided by the Secretariat to the Security Council on 3 September 2004,
+I have the honour to transmit to you the joint report of the United Nations Operation
+in Burundi, the United Nations Organization Mission in the Democratic Republic of
+the Congo and the Office of the United Nations High Commissioner for Human
+Rights regarding the events that occurred at Gatumba on 13 August 2004.
+I would like to take this opportunity to reiterate my grave concern about the
+crimes committed recently against innocent civilians in Burundi and the Democratic
+Republic of the Congo. As the Security Council has noted in several of its
+resolutions and presidential statements, impunity must be brought to an end, and
+perpetrators of crimes such as the one described in the attached report must be
+brought to justice.
+I should be grateful if you would make this letter and the report available to
+the members of the Security Council.
+(Signed) Kofi A. Annan
+
+04-54319 (E) 221004
+
+*0454319*
+
+S/2004/821
+
+Contents
+Paragraphs
+
+Page
+
+I.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1–6
+
+3
+
+II.
+
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7–12
+
+4
+
+III.
+
+The massacre in its regional context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13–23
+
+5
+
+IV.
+
+The Gatumba camp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24–37
+
+7
+
+V.
+
+The massacre and its aftermath . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+38–60
+
+9
+
+A.
+
+Reactions in the Democratic Republic of the Congo . . . . . . . . . . . . . . . . . . . . .
+
+45–47
+
+10
+
+B.
+
+Reactions in Burundi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48–50
+
+11
+
+C.
+
+Reaction of the Government of Rwanda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+51
+
+11
+
+D.
+
+Political repercussions in the Democratic Republic of the Congo . . . . . . . . . .
+
+52–56
+
+12
+
+E.
+
+Political repercussions in Burundi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+57–60
+
+13
+
+ONUB-MONUC investigation and findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+61–98
+
+14
+
+A.
+
+Reconstruction of the attack . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+66–78
+
+14
+
+B.
+
+Response of the Burundi military, Gendarmerie and administrative officials .
+
+79–85
+
+16
+
+C.
+
+Allegations of involvement in the attack . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+86–97
+
+17
+
+D.
+
+Allegations of the militarization of the transit centre . . . . . . . . . . . . . . . . . . . .
+
+98
+
+20
+
+VII.
+
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+99–105
+
+20
+
+VIII.
+
+Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+106–110
+
+21
+
+I.
+
+Abbreviations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+
+II.
+
+Plan of the Gatumba transit centre at the time of the attack . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24
+
+III.
+
+Map of the Gatumba area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+27
+
+VI.
+
+Annexes
+
+2
+
+S/2004/821
+
+Joint report of the United Nations Organization Mission in the
+Democratic Republic of the Congo, the United Nations Operation
+in Burundi and the Office of the United Nations High
+Commissioner for Human Rights into the Gatumba massacre
+5 October 2004
+
+I. Introduction
+1.
+On the night of 13 August 2004, a transit centre assisted by the Office of the
+United Nations High Commissioner for Refugees (UNHCR) and housing Congolese
+refugees and Burundian returnees at Gatumba, Bujumbura Rural Province, Burundi,
+was brutally attacked by a large group of armed individuals. A total of 152
+Congolese refugees from the Tutsi communities of South Kivu known as the
+Banyamulenge were killed, 106 were wounded and 8 remain missing. The refugees
+appeared to be targeted because of their ethnicity.
+2.
+On 15 August, the Security Council called on the Special Representatives of
+the Secretary-General for Burundi and the Democratic Republic of the Congo to
+conduct an immediate joint investigation of the massacre.
+3.
+On 14 August, an investigation was initiated by human rights officers from the
+United Nations Operation in Burundi (ONUB) and the Office of the United Nations
+High Commissioner for Human Rights (OHCHR) in Burundi. A first report was
+ready in the afternoon of 14 August. Human rights officers from the United Nations
+Organization Mission in the Democratic Republic of the Congo (MONUC) joined
+on 16 August. The team was assisted by ONUB military observers.
+4.
+In the course of its investigation, the team visited the site of the massacre at
+Gatumba and interviewed a cross-section of individuals, including survivors,
+witnesses, civilian and military authorities of Burundi and the Democratic Republic
+of the Congo, representatives of UNHCR and other humanitarian agencies, the
+diplomatic community and other relevant actors in Burundi and the eastern
+Democratic Republic of the Congo over the following two weeks. The preliminary
+report of the human rights investigation was sent to the Secretary-General on
+27 August 2004.
+5.
+After an oral briefing on 3 September, the Security Council requested ONUB
+and MONUC to continue the investigation to identify those responsible for the
+attack, and to submit a final report on the massacre. In response, the two missions
+formed a multidisciplinary team, supplementing the human rights officers and
+military observers with military officers, United Nations police, political and
+disarmament and demobilization officers, and continued the investigation in both
+the eastern Democratic Republic of the Congo and Burundi.
+6.
+The present report reflects the findings of both the preliminary and the followup investigations.
+
+3
+
+S/2004/821
+
+II. Summary
+7.
+The joint investigation by MONUC and ONUB into the events of 13 August
+was able to establish the basic facts of the massacre, such as the time and method of
+attack and the number and fate of the victims. However, despite extensive research
+in both Burundi and the eastern Democratic Republic of the Congo, the United
+Nations team was at this stage unable to conclusively identify who authored,
+financed or carried out the killings. Nevertheless, sufficient information was
+collected to warrant further investigation.
+8.
+The team was able to conclude that the available evidence points to a
+Burundian rebel organization, the Parti pour la libération du peuple hutu — Forces
+nationales de libération (PALIPEHUTU-FNL), the only group to claim
+responsibility, as having probably participated in the massacre, but as being unlikely
+to have done so on its own. Evidence of the presence of other groups, largely
+produced by the testimony of survivors of the attack, was credible, but could not be
+independently confirmed by the United Nations team in its subsequent
+investigations.
+9.
+The attack targeted Banyamulenge refugees from the eastern Democratic
+Republic of the Congo who had fled fighting there between army factions and
+armed groups in the region in June. The fighting had complex political causes
+related to the transitional process in the Democratic Republic of the Congo.
+10. The Banyamulenge have long been perceived as pro-Rwanda by many actors
+in the region, even though the Banyamulenge participated on both sides of the
+fighting in June 2004, and many fled to Gatumba fearing reprisals. The
+Governments of Burundi and Rwanda, as well as the Munyamulenge Vice-President
+of the Democratic Republic of the Congo, charged that the Gatumba refugees were
+killed by an alliance of anti-Tutsi groups based in the eastern Democratic Republic
+of the Congo which may have included, depending upon the source, elements of the
+Armed Forces of the Democratic Republic of the Congo, members of a Rwandan
+Hutu rebel group partly composed of ex-forces armées rwandaises (FAR) and
+Interahamwe, and the Mayi-Mayi. The United Nations team investigated each claim
+and followed leads justifying further follow-up, but was unable to find conclusive
+evidence implicating any of those actors.
+11. The massacre was committed at a critical moment in the peace processes in
+both the Democratic Republic of the Congo and Burundi and threatened to scuttle
+both. In the immediate aftermath of the attack, Burundi and Rwanda threatened to
+invade the Democratic Republic of the Congo to pursue the groups they believed
+responsible. It was exploited by extremist elements in the principal political parties
+in both countries to harden positions on power-sharing, demobilization, military
+restructuring and elections. Regional and international mediators, including some
+from ONUB and MONUC, have attempted since the massacre to help the two
+Governments to put the peace processes back on track. The political situation in
+both countries remains fragile.
+12. The conclusions of this investigation reflect the United Nations team’s
+evaluation of the evidence it collected in the month after the massacre. Much of the
+most useful evidence was lost because the scene of the massacre had been badly
+contaminated before the team arrived, while bodies of the victims were buried
+without forensic analysis. Nonetheless, the team collected sufficient information
+
+4
+
+S/2004/821
+
+about this grave crime to recommend a thorough judicial inquiry at both the national
+level, led by the Government of Burundi with the full cooperation of the Democratic
+Republic of the Congo and Rwanda, and the international level, led by the
+International Criminal Court.
+
+III. The massacre in its regional context
+13. The Gatumba massacre occurred at a critical moment in international and
+regional efforts to establish stability, order and democratic institutions after 6 years
+of war in the Democratic Republic of the Congo and 11 years of conflict in Burundi.
+14. In Burundi, the Arusha Agreement of August 2000 provided for a three-year
+transition which began on 1 November 2001 and is scheduled to end on 31 October
+2004 after the adoption of a new constitution and the holding of elections for a posttransition government. In November 2003, the Conseil national pour la défense de la
+démocratie — Forces pour la défense de la démocratie (CNDD-FDD), one of two
+rebel groups refusing to end hostilities, signed a global ceasefire agreement and
+joined the Transitional Government, leaving Agathon Rwasa’s FNL as the last rebel
+group outside the peace process.
+15. The FNL leader, Agathon Rwasa, has consistently refused to join political
+negotiations with the Transitional Government, insisting that he would only
+negotiate with the real holders of power, the Tutsi political and military
+establishment. FNL refuses to negotiate within the established framework of the
+Arusha Agreement and claims to be the sole interlocutor with whom a powersharing agreement should be established.
+16. FNL is a small force of approximately 1,500 fighters, operating primarily
+within Burundi, mainly in the Provinces of Bujumbura Rural and Bubanza (both
+bordering the Democratic Republic of the Congo) and the outskirts of Bujumbura.
+Its strategic position allows it to keep pressure on the civilian population of the
+capital. FNL forces remain in close proximity to the Forces armées burundaises
+(FAB), and prefer to ambush FAB units rather than engage in open battles.
+Combined FAB and CNDD-FDD forces had seriously weakened FNL in the months
+prior to Gatumba.
+17. The massacre occurred at a time of intensive negotiations over power-sharing
+arrangements for the post-transitional period, the terms of a new constitution, and
+the timing of national elections. On a parallel track, the Burundian Armed Forces
+were also supposed to begin barracking their troops and integrating former rebel
+combatants into their ranks, and to accept the disarmament and demobilization of
+the majority of their soldiers.
+18. The transition in the Democratic Republic of the Congo began on 30 June
+2003 with the participation of all of the signatories of the Global and All-Inclusive
+Agreement, signed in Pretoria in December 2002, but crucial security issues,
+particularly the integration of all former belligerent forces into a new national army,
+the Forces armées de la République démocratique du Congo (FARDC), and the
+dismantlement of foreign armed groups, particularly the Rwandan rebels based in
+the eastern Democratic Republic of the Congo, remained unresolved.
+19. Since 1993, the eastern Democratic Republic of the Congo has been the
+crucible of the conflicts in the Great Lakes region. Massive outflows of refugees
+
+5
+
+S/2004/821
+
+from Burundi and Rwanda in the 1990s further destabilized already fragile intercommunal relations. Congolese speakers of Rwandan languages, such as the
+Banyamulenge of South Kivu, often became the victims of Burundian and Rwandan
+armed groups. Targeted by some Kivu politicians as foreigners with no right to land,
+political office or positions of power, the Banyamulenge largely supported the
+Banyamulenge-led Rassemblement congolais pour la démocratie — Goma (RCDGoma), whose forces regularly committed atrocities against civilian populations in
+the Kivus. The Banyamulenge thus became the principal enemy of the pro-Kinshasa
+community-based armed groups fighting RCD-Goma and the Rwandan occupation
+in the Kivus, known as the Mayi-Mayi.
+20. Despite the signature of the Global and All-Inclusive Agreement and the
+beginning of the transition in the Democratic Republic of the Congo, South Kivu
+has remained the battleground for numerous armed groups. Community-based MayiMayi allied to Kinshasa have been officially incorporated into the new FARDC
+chain of command structure but sometimes appear to act independently. Some of
+them collaborate with a Rwandan armed group, the Forces démocratiques de
+libération du Rwanda (FDLR), often identified as ex-FAR or Interahamwe, even
+though the large majority did not participate in the 1994 Rwanda genocide. In the
+Ruzizi plains, the Mayi-Mayi also interact with the Burundian FNL, who often cross
+the border to obtain supplies and escape from the Burundian army. A Banyamulenge
+armed group, led by Patrick Masunzu, opposing Rwanda and RCD-Goma and allied
+with Kinshasa, also controls a section of the Ruzizi plains and the highlands of
+Minembwe, and has been nominally integrated within FARDC.
+21. The Bukavu crisis in the eastern Democratic Republic of the Congo in May
+and June 2004 was, among other factors, a result of the lack of progress in the
+transition and, in particular, the delays in military reform and integration. It slowly
+built up from February 2004. Tensions between Colonel Jules Mutebutsi, Deputy
+Military Regional Commander for South Kivu, and his Commanders (first Brigadier
+General Prosper Nabyolwa and then, since April 2004, General Mbuza Mabe, both
+representing the ex-Government component) started to rise after Mutebutsi, a
+Munyamulenge with RCD-Goma allegiance, rebelled against his commanding
+officers and retained control over several hundred troops.
+22. The tensions in Bukavu took on a new dimension late in May and early in June
+when Jules Mutebutsi, allied with Laurent Nkunda, another dissident ex-RCD-Goma
+officer, captured Bukavu under the pretext of preventing a genocide against the
+Banyamulenge population. Under international pressure, Nkunda’s troops finally
+withdrew northwards on 6 June, while Mutebutsi’s troops withdrew south towards
+Kamanyola on 8 June. The following morning, FARDC, whose strength had been
+augmented through reinforcements from the western part of the Democratic
+Republic of the Congo, were able to re-enter Bukavu.
+23. All sides, including FARDC troops as they entered Bukavu on 9 June, looted
+and abused civilians and, in some instances, raped women and girls. Banyamulenge
+civilians were one of the prime targets of the violence, prompting them to flee from
+Bukavu and Uvira in fear of FARDC reprisals after the withdrawal of Nkunda and
+Mutebutsi. Those refugees ended up in Gatumba.
+
+6
+
+S/2004/821
+
+IV. The Gatumba camp
+24. The Gatumba transit centre is situated at the western outskirts of Gatumba
+town in Bujumbura Rural Province. It lies between the Democratic Republic of the
+Congo border, just 3.4 km to the west, and the Burundian capital city of Bujumbura,
+20 km to the south-east. The closest town in the Democratic Republic of the Congo
+is Uvira, 6 km to the west. An infantry battalion of FAB, as well as a Gendarmerie
+position, are stationed less than 1 km north-east of the transit camp.
+25. The site had functioned since 1996 as a transit point for refugees from the
+Democratic Republic of the Congo, Burundian refugees returning from that country
+and, at times, Burundian internally displaced populations. It was re-activated in
+October 2002 as a response to influxes of Congolese refugees from the South Kivu
+area. Those refugees were largely relocated to Cishemeye transit camp (Cibitoke
+Province) and replaced by groups of Burundian returnees coming back from the
+Democratic Republic of the Congo. The facility comprised 31 tents, separated into
+two clusters. The Congolese refugees occupied a cluster of 15 green tents, and the
+Burundian returnees a cluster of 16 white tents. A distance of approximately 40 m
+separated the two clusters. The centre was not fenced, in accordance with the
+general policy of UNHCR of allowing refuges as much freedom of movement as
+possible.
+26. The influx of refugees from South Kivu in the eastern Democratic Republic of
+the Congo to Burundi started on 9 June 2004. Refugees crossed into the Burundian
+Provinces of Bujumbura Rural and Cibitoke across the Ruzizi River border. They
+arrived in groups divided according to their ethnic and geographical areas of origin
+and settled in three transit locations, including Gatumba. At that time, the site was
+occupied by groups of Burundian returnees from the Democratic Republic of the
+Congo and some internally displaced families from the neighbouring communes of
+Bujumbura Rural Province.
+27. The Banyamulenge refugees at the Gatumba transit centre were, for the most
+part, from Uvira. A number of sources suggested that camp residents were divided
+between supporters of Jules Mutebutsi, the Banyamulenge colonel close to RCDGoma who led the June attack on Bukavu, and Patrick Masunzu, the Banyamulenge
+leader of a pro-Kinshasa armed group. However, the United Nations team was
+unable to determine the composition or political allegiances, if any, of the camp
+population at the time of the massacre.
+28. At the time of the attack, the refugee population of the Gatumba transit centre
+was estimated at 411 families, comprising 1,767 individuals, of whom 820 were
+residents. The remaining population was scattered in Gatumba commune or
+Bujumbura city. The recent arrivals had close relations with the Banyamulenge
+communities that had long been settled in Bujumbura, and especially the former
+civil servants of Uvira.1 Some 317 Burundian returnees from the Democratic
+Republic of the Congo and the United Republic of Tanzania were also sheltered at
+the transit centre.
+29. On 12 June 2004, the Burundian Ministry of the Interior convened a meeting
+with the United Nations Humanitarian Coordinator, United Nations agencies and the
+__________________
+1 A number of Banyamulenge from South Kivu, and especially from Uvira, had been residing in
+
+Bujumbura for many years, and had been commuting between Bujumbura and Uvira to work.
+
+7
+
+S/2004/821
+
+newly established ONUB to discuss immediate actions to be taken in the light of the
+refugee arrivals from the Democratic Republic of the Congo.2 At the end of the
+meeting, the Government of Burundi agreed on the need to transfer refugee
+populations away from the border in accordance with international principles and
+committed itself to providing UNHCR with the names of the designated locations
+for the organization of the new camps. It was furthermore agreed that the
+Government of Burundi would reinforce civilian and Gendarmerie personnel to
+assist in the management and protection of the sites. The meeting closed with the
+commitment of the Government to designate transfer locations within three days.
+30. While UNHCR pressed for relocation, the refugees themselves expressed a
+strong reluctance to relocate to camps at a safer distance from the border, in the
+expectation that they would be able to return to the Democratic Republic of the
+Congo once the situation stabilized. Several visitors from the Democratic Republic
+of the Congo reportedly also encouraged the refugees to wait for repatriation. These
+included the Governor of South Kivu on 27 June 2004, a member of the Senate on
+26 July, the Minister of Social Affairs and his delegation on 31 August and
+1 September and Vice-President Azarias Ruberwa on 12 and 13 August, who met a
+delegation of refugees at his hotel. The refugees remained reluctant to be relocated
+even after the Gatumba massacre.
+31. In accordance with the agreements, the Gendarmerie increased the number of
+personnel deployed on the Gatumba site from 6 to 10. Nevertheless, the Government
+delayed the designation of alternative sites for several weeks despite repeated
+reminders from UNHCR of the need to expedite transfer and the insistence by
+humanitarian actors that the camp’s proximity to the border posed serious risks to
+the refugees.
+32. As the instability in South Kivu continued, security concerns remained a
+critical issue. From mid-June to the date of the massacre, United Nations and nongovernmental organizations working with the Congolese population regularly
+received reports of armed individuals and/or groups entering Burundi from the
+eastern Democratic Republic of the Congo, the presence of weapons in the transit
+sites, visits of South Kivu local leaders from various factions, irregular cross-border
+movements of people trying to reach Burundi, and people “commuting” between
+Burundi and the Democratic Republic of the Congo.3
+33. Reports from Burundi border authorities concerning armed individuals
+prevented from crossing the border confirmed that the Government was applying
+measures to separate civilians from armed individuals and groups. At the same time,
+however, the arrest of a number of armed individuals in the Karurama transit site in
+Cibitoke late in June, and later in Bujumbura Rural Province, were indications that
+gaps existed in the screening procedures at the border.
+__________________
+2 At the meeting, the Government of Burundi was represented by the Ministers of the Interior,
+
+Public Security, Defence, and Reintegration. The United Nations was represented by the
+Principal Deputy Special Representative of the Secretary-General at ONUB, the Humanitarian
+Coordinator, UNHCR, WFP and the Office for the Coordination of Humanitarian Affairs.
+3 The “commuting” movement between Uvira and Gatumba was confirmed during weekly crossborder missions of staff of the Office for the Coordination of Humanitarian Affairs in the period
+July-August. Interviews with refugees indicated that they were travelling to Uvira to check on
+the status of their houses and property. Office for the Coordination of Humanitarian
+Affairs/Burundi, Mission Reports, July-August 2004.
+
+8
+
+S/2004/821
+
+34. The presence of armed Congolese and Rwandan groups in Cibitoke and
+Bubanza Provinces along the border of the Democratic Republic of the Congo had
+been a constant feature since the beginning of the year.4 Early in July,
+approximately 200 armed FDLR fighters entered Cibitoke Province, an incursion
+into Burundian territory that the Burundian Armed Forces were unable to control for
+several days.5 In addition, despite the relatively improved situation in the northern
+communes of Bujumbura Rural (including the area surrounding Gatumba), FAB and
+the provincial administration confirmed that FNL was still active in the Rukoko
+forest and in the communes of Bubanza Province bordering Bujumbura Rural.
+35. In turn, the Governors of Cibitoke and Bujumbura Rural expressed concern
+regarding the overall security environment in the communes where the refugees
+were staying, as refugees mixed with local people and were not staying at the sites.
+The low occupancy rate of some shelter units in Gatumba, confirmed by UNHCR
+and non-governmental organizations, was an indication of the constant movement of
+the refugees between the site, the surrounding local village, and Bujumbura.
+36. During the weeks before the attack, tracts were distributed by the little-known
+Mouvement congolais des combatants non-violents pour la démocratie (Congolese
+Movement of Non-Violent Combatants for Democracy), calling for the
+Banyamulenge to be attacked. The tracts, written in French and Kiswahili, were
+found at Uvira and the central market in Bujumbura. One was also found in the
+Gatumba transit centre itself. The Banyamulenge reportedly did not take the tracts
+seriously, and did not inform UNHCR or the authorities when the tracts were
+discovered circulating.
+37. Despite all these concerns, neither the Burundian civilian authorities nor the
+Burundian Armed Forces took timely or appropriate actions to ensure the protection
+of the refugees and Burundian civilians at the site. Governmental action was
+characterized by a perception — expressed by some Burundian civilian and military
+authorities — that stability in South Kivu would be restored, allowing for an early
+return of the refugees to the Democratic Republic of the Congo.6
+
+V. The massacre and its aftermath
+38. On 13 August 2004, between 2200 and 2230 hours, the Gatumba transit centre
+was attacked for approximately 90 minutes, resulting in the death of 152 refugees.
+An additional 106 were wounded and eight remain missing.7 Of the dead and
+missing, an overwhelming majority, 147, were Banyamulenge.
+39. Of the 15 tents housing Congolese refugees, 11 were burned, eight completely
+and three partially. Bullet holes were visible in the Congolese refugee tents still
+__________________
+4 Office of the United Nations Security Coordinator Security Cell, weekly reports to the United
+
+Nations Security Management Team, January-July 2004. The presence of armed groups in these
+provinces prompted the Security Management Team to recommend the maintenance of security
+phase IV in Bubanza and Cibitoke Provinces (February 2004).
+5 Meeting with the FAB Chief of Staff, Office for the Coordination of Humanitarian Affairs,
+Burundi, July 2004.
+6 Meetings with the FAB Chief of Staff and Governor of Bujumbura Rural, Office for the
+Coordination of Humanitarian Affairs, Burundi, July 2004.
+7 In the immediate aftermath of the massacre, 147 people died and 111 were injured. Five people
+subsequently died from their injuries.
+
+9
+
+S/2004/821
+
+standing. The attackers did not target any of the 16 tents in the cluster housing
+Burundian returnees.
+40. Most of the dead were women and children. Some 51 bodies were completely
+burned, while the rest bore bullet wounds and burns. Of the injured, most suffered
+bullet wounds, while others were burned. A machete blow to the head injured an 8year-old girl.
+41. A MONUC official reached Gatumba on 14 August at 0700 hours and ONUB
+staff arrived at 0900 hours, several hours after the massacre was carried out, by
+which time the injured had been removed for medical treatment in Bujumbura. The
+site of the massacre was not protected or cordoned off and many surviving camp
+residents, aid workers, military and government officials were moving around the
+centre.
+42. On the night of the attack, only 6 of the 10 gendarmes assigned to monitor
+activities within the transit centre and provide security for the inhabitants were
+reportedly on duty. When the attack began, the six gendarmes were said to have
+fled. They did not carry any means of communication.
+43. Neither the 100 FAB soldiers nor the 30 gendarmes allegedly on duty near the
+centre apparently attempted to leave their premises and defend the camp once the
+killing began, despite the fact that the FAB unit had apparently alerted its General
+Staff headquarters at the outset of the shooting. FAB and the Gendarmerie arrived
+on the scene a few hours after the attack had ended.
+44. The bodies of those killed were buried on 16 August 2004 in a mass grave near
+the camp without prior forensic examination. Many were interred without having
+been identified.
+
+A.
+
+Reactions in the Democratic Republic of the Congo
+45. A communiqué issued by the Presidency of the Democratic Republic of the
+Congo on 14 August 2004 strongly condemned the massacre, characterizing it as “a
+despicable act perpetrated against the Congolese civilian population”. President
+Joseph Kabila asked for the immediate establishment of an international commission
+of inquiry to identify those responsible and ensure that the perpetrators were
+punished.
+46. A separate statement published by RCD-Goma on 14 August denounced what
+it termed a “genocide of Congolese refugees” committed at Gatumba. RCD-Goma
+alleged that two FARDC companies led by one Major Ekofo, the deputy to Colonel
+Nyakabaka, commander of the Ruzizi plains area of operations, had crossed into
+Burundi on the night of 13 August and joined forces with FNL to perpetrate the
+massacre. It further stated that the attack was planned by the FARDC Commander of
+the Tenth Military Region, General Budja Mabe, in order to stop Banyamulenge
+refugees from returning to the Democratic Republic of the Congo, particularly to
+Bukavu and Uvira. The RCD-Goma statement concluded by demanding the opening
+of an international inquiry leading to the prosecution before the International
+Criminal Court of those responsible, the forceful disarmament of all allied
+“genocidal forces”, including the Mayi-Mayi, and the rapid conclusion of military
+
+10
+
+S/2004/821
+
+integration in the Democratic Republic of the Congo to improve security at the
+border.8
+47. On 16 August, as soon as the RCD-Goma delegation had arrived in Goma,
+Laurent Nkunda published a communiqué, stating that he “would not make the same
+mistake twice”, referring to his agreement to withdraw from Bukavu under
+international pressure. He explained that his withdrawal had led to “the Gatumba
+genocide”, that the massacre “confirms there is an extermination plan against the
+Banyamulenge” and that he would continue his fight to remove the Transitional
+Government in Kinshasa.9
+
+B.
+
+Reactions in Burundi
+48. On the day after the massacre, the spokesperson for FNL stated to the press
+that his organization had carried out the attack. The spokesperson initially suggested
+that FNL had only attacked the Gendarmerie and FAB positions near the camp.
+Subsequently, in a press communiqué dated 15 August, the FNL Secretary for
+Foreign Relations stated that FNL had attacked the “military camp” at Gatumba,
+alleging that the refugee camp was the base of the “Banyamulenge military
+command”. The statement suggested that FNL had initially attacked the FAB and
+Gendarmerie posts, and that elements of FAB had fled to the refugee camp where
+armed Banyamulenge came to their defence. Other press statements made by FNL
+sources subsequently insisted that the camp was attacked either because of the
+presence of armed individuals, or because the Banyamulenge provided support to
+FAB. Finally, some three weeks after the attack, an FNL source suggested that FNL
+had not been involved in the attack at all but had publicly assumed responsibility in
+exchange for arms supplied to FNL by the Congolese group behind the killings.
+49. The President of Burundi, Domitien Ndayizeye, visiting the Gatumba camp on
+14 August, strongly condemned the attack and blamed FNL for “trying to justify
+their crime on military grounds”. He stated that Burundi had been attacked by an
+armed group coming from the Democratic Republic of the Congo. He added that
+preliminary elements of the investigation and testimonies from survivors indicated
+that the attackers spoke Congolese native languages, Kirundi, and other languages
+of the region. The President of Burundi committed his Government to doing
+everything possible to bring the perpetrators to justice.10
+50. The FAB spokesman also added at a press conference on 14 August that the
+massacre “was a genocide against the Tutsi in the Great Lakes region because the
+information we have is that FNL, combined with Mayi-Mayi militia, have attacked
+the camp”.11
+
+C.
+
+Reaction of the Government of Rwanda
+51. In a communiqué issued on 14 August, Rwanda accused FDLR of participating
+in the attack together with FNL and Congolese armed groups, and asked the
+
+__________________
+8 RCD communiqué, 14 August 2004.
+9 Press communiqué, Minova, 16 August 2004.
+10 AFP, 14 August 2004.
+11 Reuters, 14 August 2004.
+
+11
+
+S/2004/821
+
+Government of the Democratic Republic of the Congo and the international
+community to forcibly disarm them. The Minister for Foreign Affairs of Rwanda,
+Charles Murigande, added that “if they failed to act, Rwanda would respond itself,
+including, if necessary, by fighting the Hutu rebels inside Congo”.12
+
+D.
+
+Political repercussions in the Democratic Republic of the Congo
+52. The Gatumba massacre, which was perpetrated only two months after the
+Bukavu crisis, sent shock waves through the Democratic Republic of the Congo and
+put the transitional process at serious risk. The massacre happened several hours
+after Azarias Ruberwa, the Munyamulenge Vice-President representing the RCDGoma component of the Transitional Government, had met with refugee
+representatives of the Gatumba transit centre in Bujumbura. The Vice-President was
+on an official visit to Burundi with the aim of encouraging the Banyamulenge
+refugees to return to the Democratic Republic of the Congo.
+53. Mr. Ruberwa expressed outrage over the attack, which was carried out hours
+after his own meeting with Gatumba refugees. In an emotional speech delivered
+during the burial of the victims, he detailed the reasons why he believed the
+massacre was an act of genocide. While calling for an international investigation, he
+restated his claim that the perpetrators were Burundian, Rwandan and Congolese.
+He also promised the survivors that they would return to the Democratic Republic of
+the Congo, by force if necessary. Mr. Ruberwa also negatively evaluated the state of
+the transition in the Democratic Republic of the Congo, asserting that it had broken
+down, that reconciliation had failed and security had not been restored, and that a
+pause was necessary to identify the necessary remedies. He then left for Goma, the
+RCD-Goma stronghold and capital of North Kivu, where he unilaterally declared a
+week of national mourning.
+54. After a week of mounting tension, Mr. Ruberwa announced from Goma on
+23 August that RCD-Goma had suspended its participation in the transitional
+institutions. The suspension was not supported by all RCD-Goma ministers and
+members of parliament, and remained temporary. Under strong national and
+international pressure, RCD-Goma ministers and members of parliament returned to
+Kinshasa by 29 August and agreed to resume participation in the institutions of the
+transition, on the condition that an evaluation of the performance of the Transitional
+Government would be carried out.
+55. The political cleavage created by the massacre, not only within the
+Transitional Government and Parliament but also in public opinion, has made the
+fostering of an inclusive transitional process in the Democratic Republic of the
+Congo more difficult. The Rwandophone faction of RCD-Goma, questioning the
+transition’s legitimacy on the basis of its failure to prevent the massacre, found itself
+isolated from the rest of the party and the country. As a result, Vice-President
+Ruberwa may now have greater difficulty defending the RCD-Goma agenda in the
+institutions of transition. This development could undermine the chances for a
+genuine implementation of the Global and All-Inclusive Agreement. Extremist
+Rwandophone forces who argue that the peace agreements have been violated, and
+
+__________________
+12 BBC News, 15 August 2004.
+
+12
+
+S/2004/821
+
+that a return to armed conflict is their only option, have been able to raise their
+voices, thus posing an additional threat to the transition.
+56. Efforts to achieve true reconciliation, which would help to set the climate for
+free and fair general elections, have also been jeopardized by Gatumba. The
+massacre is the latest in a series of killings apparently targeting the Banyamulenge
+community. As with previous massacres in the area (including of non-Tutsi
+Congolese civilians) they have received no apparent attention from the Congolese
+judiciary. Similarly, no FARDC officials or Nkunda and Mutebutsi combatants have
+been charged for the killing of Banyamulenge and non-Tutsi Congolese civilians
+during the Bukavu crisis.
+
+E.
+
+Political repercussions in Burundi
+57. The Gatumba massacre has had repercussions for the transitional process in
+Burundi, as well as for Burundi’s relations with its neighbours, in particular the
+Democratic Republic of the Congo. Regional Governments meeting in Dar es
+Salaam in August condemned the attack, declared FNL a terrorist organization, and
+requested the African Union and the Security Council to support this view. ONUB
+suspended transition-related discussions with the FNL leadership. In the wake of the
+massacre, the Burundian Armed Forces appear to have taken a more aggressive
+military posture against FNL units in the field. While the motives for the FNL
+declaration of responsibility for the massacre remain unclear, the practical result of
+the claim has been the increased isolation of the group in Burundi and the region.
+58. Since the massacre, Tutsi hardliner groups who have not accepted the powersharing formula agreed upon in Pretoria in June have utilized the attack to insist on
+strengthening the role of Tutsi-dominated parties in post-transition government
+institutions. These demands have blocked the conclusion of a power-sharing
+agreement among all Burundi groups that would pave the way for the adoption of a
+post-transition constitution and elections for a post-transition government.
+59. Similarly, senior leaders in FAB have indicated a resistance to moving forward
+on the integration of former rebel combatants into the army and the barracking of its
+troops as a prelude to the launching of the disarmament, demobilization and
+reintegration process called for in the Arusha Agreement. The final step in the
+transition process, the organization and implementation of elections for a posttransition government, depends upon a secure electoral environment, which in turn
+depends upon the cantonment of rebel combatants and barracking of FAB troops.
+60. In addition, the FAB Chief of Staff, General Germain Niyoyankana, has
+declared that FAB did not exclude the possibility of an offensive in the Democratic
+Republic of the Congo, together with Rwanda, to protect its borders from the attacks
+of an “alliance of negative forces” composed of FNL, FDLR and a section of the
+Congolese army.13
+
+__________________
+13 AFP, 17 August 2004.
+
+13
+
+S/2004/821
+
+VI. ONUB-MONUC investigation and findings
+61. From the outset, the ONUB-MONUC investigation team faced a number of
+difficulties beyond its control that limited its ability to collect and analyse
+information crucial to identifying those responsible. Both missions were informed
+about the massacre only several hours after it had ended: MONUC in the early
+morning and ONUB at 0700 hours on 14 August. The missions were unable to take
+any action during the night. The investigating team was not able to determine
+exactly what occurred at the site from the time when the massacre ended until
+United Nations officials arrived on the scene, beyond the fact that in the hours
+following the attack FAB personnel, assisted by gendarmes, transported the injured
+to hospitals in the capital.
+62. Second, by the time MONUC and ONUB officials arrived, any remaining
+evidence at the site had been contaminated. The Burundian authorities had not
+cordoned off the area to protect evidence and large numbers of survivors, relatives
+of those killed, government authorities and others were walking through the remains
+of the camp. No physical evidence that could lead to the identification of assailants
+was found at the site. The investigating team was not able to discover any casualties
+suffered by the assailants or the Burundian army or Gendarmerie.
+63. Third, the corpses of the victims were buried without any forensic
+investigation.
+64. Fourth, the testimony of survivors varied widely, and was sometimes
+contradictory. Statements made by some witnesses contained inconsistencies, and
+changed during different interviews. While this could be the result of the trauma
+suffered, it may also be attributable to a fear of reprisals or the influence of political
+and ethnic loyalties, given the possible wide-ranging political implications of the
+massacre. Declarations by political and community leaders may also have
+influenced the subsequent statements of witnesses and survivors.
+65. Finally, the Burundian authorities have not, to date, provided the investigation
+team with information that would clarify the reason for the apparent lack of
+response of the military and civilian authorities — for example, the military was
+unable to offer any substantial physical evidence to indicate that its Gatumba post
+was attacked — or provide evidence to support the claims of Burundian
+Government officials that Congolese groups were behind the killings.
+
+A.
+
+Reconstruction of the attack
+66. Witness reports gathered at the site of the massacre suggest that the attack
+commenced at 2200 hours or shortly thereafter on 13 August and lasted for 60 to 90
+minutes.
+67. Survivors of the massacre reported that the first indication of an impending
+attack was the approaching sound of drums and religious chants. Several people
+reported hearing the sound of a whistle and a shouted order before the attack was
+launched.
+68. The attackers were said to be “numerous” and reportedly included armed men,
+women and children. Some were said to be wearing complete or partial military
+uniforms while others were in civilian dress. Estimates given by observers regarding
+
+14
+
+S/2004/821
+
+the number of perpetrators vary significantly. A suspect arrested by FAB who
+alleges that he participated in the attack provided a figure between 90 and 120.
+However, the reliability of this individual’s testimony has been questioned, given
+that he provided the investigation team with varying accounts of the attack in
+different interviews. FAB estimated the total number of assailants at 600. Some
+witnesses claimed that there were 200. The military component of the investigation
+team concluded that the real figure is impossible to establish from witness accounts,
+but estimated from the execution and the duration of the operation that there were
+probably between 100 and 300 assailants.
+69. All of those interviewed, including refugees who escaped and the Burundian
+returnees in the tents across from those attacked, stated that the assailants spoke
+several different languages, including Kirundi, Kinyarwanda, Lingala, Kiswahili and
+Kifulero. The latter three languages are spoken in the Democratic Republic of the
+Congo, from which the survivors and witnesses deduced that the perpetrators were
+of Congolese origin.14 The first two languages, spoken in Burundi, Rwanda and the
+eastern Democratic Republic of the Congo, are closely related, and differences may
+be difficult to establish under the circumstances of an armed attack at night-time.
+70. Witnesses reported that slogans commonly used by FNL were shouted during
+the attack, in Kirundi, the principal language of Burundi. They included the slogans
+“we are soldiers of God”, “we will exterminate all the Tutsis in Central Africa”,
+“kill these dogs, these Tutsis”, “today, you Tutsis, whether you are Rwandese,
+Congolese or Burundese, you will be killed”.
+71. The attackers also reportedly chanted or shouted other slogans such as “down
+with the Banyamulenge” and “we must finish off the Banyamulenge, we don’t want
+them to come back to the Congo”.
+72. On the basis of survivor testimony, lines of fire and expended cartridge
+patterns, the investigating team estimated that the assailants first formed a firing line
+some 70 to 80 m north-west of the cluster of green tents housing the Banyamulenge
+refugees, from which they fired initial rounds on the Congolese refugees’ shelters. It
+appears that they then approached the tents, shooting indiscriminately into each
+structure from the entrance and then moving inside to kill and burn remaining
+survivors. Numerous bullet shells were found at the entrance of each tent, along the
+central entrance aisle inside the tents, and on the surrounding footpaths.
+73. Investigators found numerous bodies of victims lying in and around the tents.
+Some had bullet wounds, and others were burned beyond recognition. The bodies
+were gathered together and counted by the humanitarian workers present at the site.
+74. Eight tents had been completely destroyed by fire; three had been partially
+destroyed. Inflammable material, including cooking oil, had been distributed to the
+refugees a few days earlier, and possibly contributed to the extent of the damage.
+Bullet holes were visible in the sides of tents that were not totally destroyed. The
+five tents that were not burned also showed the marks of bullets. The sides of some
+tents had been torn, apparently by refugees trying to escape.
+__________________
+14 The border between the Democratic Republic of the Congo and Burundi is porous and local
+
+ethnic languages are commonly spoken by those of different ethnicities. In the past, combatants
+assaulting Congolese civilians have sometimes spoken in Kinyarwanda in order to mislead the
+victims into thinking they were Rwandan Interahamwe.
+
+15
+
+S/2004/821
+
+75. The side of the camp housing Burundian returnees was not touched in the
+attack. Banyamulenge who were housed with the Burundians escaped unharmed.
+The Burundian returnees interviewed believed that the attackers deliberately
+targeted the Banyamulenge refugees. They stated that the attackers told the
+returnees to stay calm, remain inside their tents, and promised not to harm them.
+They also reported that the attackers shouted that they should fire on the green
+tents — the tents housing the Banyamulenge.
+76. Following the attack, the assailants withdrew, apparently leaving no trace.
+Some witnesses stated that one group of attackers left the camp in the direction of
+the Democratic Republic of the Congo (to the west), towards Ruzizi (Kiliba), taking
+six refugees with them. Another group of attackers was said to have headed in the
+direction of Lake Tanganyika (just to the south). The testimony of the individual
+who claimed to have taken part in the massacre and was subsequently arrested
+contradicts this view. He stated that the attackers did not take anyone with them, but
+killed three people outside the transit camp, on their way out.
+77. No evidence of the assailants’ entry or retreat was found during a sweep of a
+2-km radius around Gatumba camp, conducted on 22 August by ONUB military.
+Nevertheless, the sweep was not definitive as the border region is very porous,
+largely unguarded, and its natural characteristics permit individuals to easily pass
+unnoticed by authorities on either side. The investigation team visited Kiliba, the
+entry point on the Democratic Republic of the Congo side where RCD-Goma
+claimed the perpetrators had crossed. Military authorities at both the Congolese and
+Burundian border posts at Kiliba denied having seen or heard any movement on the
+night of the massacre. The FARDC Uvira District Commander told the team that his
+investigation into alleged border crossings of some assailants before or after the
+massacre at the Kiliba and Gatumba checkpoints turned up no evidence of crossings
+that night.
+78. There were no reported casualties or injuries among the attackers. Efforts by
+team members to canvass hospitals in the eastern Democratic Republic of the Congo
+to determine whether any individuals with combat-related injuries had been
+admitted after the massacre were rebuffed by hospital officials, although informal
+enquiries at the same hospitals failed to identify any patients potentially linked to
+the massacre.
+
+B.
+
+Response of the Burundi military, Gendarmerie and
+administrative officials
+79. Neither the 100 FAB soldiers nor the 30 gendarmes stationed less than 1 km
+north-east of Gatumba transit centre came to the defence of the camp, despite the
+fact that the FAB company reportedly alerted their General Staff headquarters at the
+beginning of the attack. FAB and Gendarmerie personnel arrived at the scene
+several hours after the attack had finished.
+80. The administrative authorities were also reportedly informed of the attack by
+their Gatumba representative while the massacre was under way. No instructions for
+a response were apparently given, and civilian authorities visited the site of the
+massacre for the first time in the early hours of the morning of 14 August and
+helped international humanitarian agencies to transfer the wounded to Bujumbura.
+
+16
+
+S/2004/821
+
+81. No reinforcements arrived from Bujumbura or other positions to come to the
+aid of the refugees, or to provide assistance to FAB or the Gendarmerie of Gatumba.
+82. According to versions provided by military authorities, one group of attackers
+surrounded the military camp and another the Gendarmerie camp to prevent any
+efforts to rescue the refugees. The attackers, allegedly armed with rifles, grenades
+and even rocket launchers, were said to have been posted at the various entrances to
+the camps and to have prevented the soldiers and gendarmes from intervening.
+83. Four days after the massacre, FAB personnel showed ONUB bullet shells that
+were allegedly found approximately 230 m in front of the FAB barracks in
+Gatumba, in support of their allegation that the FAB and Gendarmerie barracks had
+come under simultaneous fire during the attack on the transit centre. The shells left
+by the attackers close to the Gendarmerie barracks were, according to the Burundian
+authorities, taken away by children in the neighbourhood.
+84. The investigation team was not able to confirm these representations, however.
+The view of the FAB barracks from the alleged location from which the assailants
+were firing is obstructed by a thick row of trees and bushes. The military members
+of the investigation team estimated that, had the assailants wanted to carry out a
+serious “fixing” operation, it would not have been from that location. The team was
+accordingly of the view that the alleged attacks on the FAB company and
+Gendarmerie barracks were implausible from a military standpoint. It also doubted
+that such an attack could have impeded FAB from reacting. There is no evidence
+that any of the 100 FAB soldiers or 30 gendarmes at the barracks actually shot back
+at the attackers. The investigation team was not allowed to enter the two barrack
+compounds to verify any physical damage from the alleged attack.
+85. As concerns the camp security, only 6 of the 10 gendarmes who normally
+guarded the camp were apparently present on the night of 13 August. When
+interviewed, they claimed to have fired the first shots in the direction of the
+attackers and to have fired all the bullets in their possession before running off to
+hide on the other side of the road. They did not carry means of communication. The
+team was not able to verify their version of events.
+
+C.
+
+Allegations of involvement in the attack
+Allegations of FNL participation
+86. The investigation team concluded that the available evidence tends to support
+the claim that FNL was a participant in the attack. The organization quickly claimed
+responsibility; aspects of the method of attack as reported by witnesses, particularly
+the chanting of religious songs, are consistent with FNL practices; and the killings
+occurred in an area where FNL is active.
+87. However, if FNL did indeed participate in the attack, the available evidence
+would tend to indicate that it did not organize and carry out the attack on its own.
+The FNL description of the events leading up to the massacre and its role in the
+operation was confused and changed in important respects over the weeks following
+the killings. The available information about the attack, particularly credible
+accounts of the different languages spoken, suggests the participation of other
+groups.
+
+17
+
+S/2004/821
+
+88. In addition, motives of FNL for attacking the Banyamulenge, a group not
+targeted by the rebel organization in the past, remain obscure. One theory suggests
+that the group’s public declarations of responsibility could have reflected a strategy
+to undermine a peace process that threatened to remove the organization and its
+leaders as political actors while demonstrating a remaining capacity to carry out
+military operations. The United Nations team was unable to verify this hypothesis.
+Allegations of FARDC involvement
+89. Right after the attack, on 14 August, RCD-Goma issued a statement in
+Kinshasa, signed by its Secretary-General and its First Vice-President. It claimed
+that two FARDC companies, led by a Major Ekofo, joined forces with FNL to carry
+out the massacre to stop pro-RCD-Goma refugees from returning to the Democratic
+Republic of the Congo. The Uvira Military District Commander, interviewed by the
+United Nations team about Ekofo’s alleged involvement, denied that he could have
+participated. The evening before the interview, Major Ekofo had been severely
+injured by a gunshot to his lower abdomen by an AK-47 round. The District
+Commander claimed that the rifle of one of his guards had accidentally discharged.
+The United Nations team has investigated to the extent possible, but has not
+received permission to question Ekofo, who is allegedly still recovering from his
+injury in a hospital in Bukavu.
+Allegations of Mayi-Mayi involvement
+90. The investigation team received allegations that various political and military
+groups based in or allied with authorities in the Democratic Republic of the Congo
+or Rwanda were behind the massacre. Some suggested the involvement of MayiMayi fighters, such as the Bafulero group of Colonels Nyakabaka and Kayamba,
+who have fought against RCD-Goma in the past, and hold strong anti-Rwandan
+sentiments. They tend to perceive the RCD-Goma Banyamulenge as a “fifth
+column” pursuing Rwandan interests in the Democratic Republic of the Congo, and
+refuse to accept them as Congolese nationals.
+91. Since Patrick Masunzu’s uprising against RCD-Goma and Rwanda in February
+2002, the Ruzizi Mayi-Mayi groups have established a modus vivendi with the
+former Rwandan Patriotic Army officer and Munyamulenge political leader. They
+fought together to retake Uvira from RCD-Goma in October 2002, after the
+Rwandan Defence Force’s withdrawal from the Democratic Republic of the Congo,
+and more recently in Kamanyola against Mutebutsi’s troops. Since they have no
+professional military training, it is not likely that any of these Mayi-Mayi groups
+had the operational capacity to organize, lead and ultimately carry out a wellorganized joint military operation with FNL, at night, leaving no evidence of its
+entry and exit. The Mayi-Mayi military record in the Ruzizi plains has never been
+that of a well-organized, focused, competent or disciplined military force. The
+possibility of involvement in the massacre of individual, specially selected MayiMayi elements cannot however be discarded.
+92. On 14 August 2004, the Burundian Armed Forces handed a letter to MONUC
+they claimed to have intercepted and which, they claimed, proved a link between
+FNL and the Mayi-Mayi. FAB also distributed copies to ONUB and to the
+international press. The letter, ostensibly sent to FNL by a Mayi-Mayi group called
+Forces armées populaires, details the number of troops allegedly recruited by the
+
+18
+
+S/2004/821
+
+Mayi-Mayi group in Burundi and the Democratic Republic of the Congo and
+mentions a dispatch of ammunition sent by that group to FNL. Upon analysis,
+MONUC reached the conclusion that the letter was a forgery, and in all probability
+was created to incriminate the Mayi-Mayi.15 The letter also mentions a Mouvement
+congolais des combatants non-violents pour la démocratie, which on 29 July 2004
+produced a tract inciting ethnic hatred. The authenticity of the tract has also been
+questioned.
+Allegations of FDLR involvement
+93. FDLR is the largest Rwandan Hutu armed group in the Democratic Republic
+of the Congo. It is composed of units from the ex-ALIR I (Armée pour la libération
+du Rwanda), Rwandan combatants based in the Kivus, some of which are ex-FAR
+and/or Interahamwe, and ALIR II, the Rwandan combatants who fought alongside
+the Congolese Armed Forces during the second Congo war, which started in August
+1998. FDLR was formed in 2001, and represents the armed wing of a group whose
+political leadership lives in exile in Europe.
+94. FDLR opposes the regime of President Paul Kagame in Rwanda and demands
+the organization of an “inter-Rwandan dialogue” with the aim of negotiating a
+power-sharing agreement with the ruling Rwandan Patriotic Front. FDLR organizes
+military operations to destabilize Rwanda from its bases in the Democratic Republic
+of the Congo in order to force such a negotiation. Although their manifesto
+professes adherence to reconciliation and development, FDLR officers’ discourse is
+heavily tainted by an anti-Tutsi interpretation of politics in Rwanda and propagates
+revisionist explanations of the 1994 genocide.
+95. FDLR has remained focused on its objective of regaining power in Rwanda
+and has not attacked Banyamulenge civilians in the recent past. The FDLR of South
+Kivu has coexisted and sometimes allied itself with the Banyamulenge forces of
+Masunzu against the Rwandan army. Its alleged motive for participating in the
+attack on the Gatumba camp would have been to provoke a Rwandan intervention in
+the Democratic Republic of the Congo, thus forcing the Government of the
+Democratic Republic of the Congo to use it as an ally in a new war. However, other
+sources suggested that it would have been unlikely for FDLR to attack a camp
+where some of Masunzu’s sympathizers and their families had sought refuge.
+96. Nevertheless, not all ex-FAR elements answer to the FDLR chain of command.
+A splinter group led by Faustin Nguba, a Rwandan Hutu formerly of FAR and
+described by many in the local population as a warlord and a criminal, has engaged
+in theft, rape, murder, and financially motivated kidnappings. His 70-member group
+is suspected of killing bus passengers on the road between Kamanyola and Uvira
+with FNL in January 2004. The team uncovered no concrete evidence linking Nguba
+to the Gatumba massacre.
+97. A group of Burundian FNL, led by Eugene Bitaryumunyu, had a base in the
+Sange area, close to FDLR and Nguba positions. FNL allegedly used this location as
+__________________
+15 The letter was written by a Colonel Dunia Aochi, who is not a Mayi-Mayi. He is in fact a
+
+civilian Bembe from Rusenga, Fizi territory. The serial numbers of the soldiers quoted in the
+letter do not follow the Congolese format. The Forces armées populaires do not exist; this may
+have been a confusion with the former Forces d’auto-défense populaires of FARDC General
+Dunia. The letter mentioned the “zone de Fizi”; any Congolese would be aware of the fact that
+Fizi is in fact a territory.
+
+19
+
+S/2004/821
+
+a training camp in the past. Bitaryumunyu was arrested by the Burundian authorities
+in June 2004, however, and no information was found to link his group to the
+massacre.
+
+D.
+
+Allegations of the militarization of the transit centre
+98. In the weeks preceding the massacre, humanitarian agencies and nongovernmental organizations reported rumours that pro-Mutebutsi elements in the
+Gatumba transit centre were arming. Prayer sessions held at night outside the centre
+were prohibited by the Burundian authorities, following reports that these were
+meetings of combatants. The alleged militarization of the transit centre was a
+justification advanced by FNL when it later claimed authorship of the massacre.
+Reports from various sources indicate that, two days before the attack, the transit
+centre was visited by a Rwandan military officer and a high-ranking Banyamulenge
+RCD-Goma officer. The aim of the visit reportedly was to recruit combatants to join
+Nkunda’s ranks. The team was also informed separately that between 20 and 37 proMutebutsi men left the camp several days prior to the massacre. UNHCR was aware
+of the reports and found no evidence of weapons in the camp. Similarly, the
+investigation team found no evidence at the post-massacre site of the presence of
+weapons caches and was unable to independently verify the reports of military
+recruiting.
+
+VII. Conclusions
+99. The Security Council requested ONUB and MONUC to investigate the
+Gatumba massacre with the objective of identifying the actors responsible for
+organizing and implementing the killing. After nearly one month of work, the
+investigation team has been unable to establish who organized, carried out and paid
+for the atrocity. It concluded that the available evidence points to FNL as probably
+having participated in the attack, but it was not able to form a clear view of the
+nature and extent of its probable role. Testimonies of the attack, particularly with
+regard to languages spoken, past alliances among armed groups in the region, and
+uncertainty about the capability of FNL to carry out the operation on its own, leave
+open the possibility of significant involvement of other groups or individuals active
+in the region.
+100. The team uncovered very few facts beyond those reflected in the preliminary
+report to the Security Council: the number of victims, the way they died, the claims
+of responsibility by FNL and the wide range of accusations and theories presented
+by political actors in the region after the event. The most important evidence — the
+massacre site itself — was contaminated before investigators arrived some seven
+hours after the killings ended. While there was general agreement on some
+important aspects of the attack from the testimony of survivors — the methodology
+used by the assailants, the chants and songs, the languages spoken — those elements
+do not provide conclusive evidence about the attackers. Testimony from some key
+witnesses was contradictory and thus not always reliable.
+101. The attack was clearly directed against the Banyamulenge, and was therefore,
+apparently, ethnically and politically motivated. As indicated in various parts of this
+report, many of the armed groups operating in the eastern Democratic Republic of
+
+20
+
+S/2004/821
+
+the Congo and Burundi border region harbour resentments against that group and
+others may have political motives for preventing their return to the Democratic
+Republic of the Congo. In addition, the team noted that armed groups operating in
+both the eastern Democratic Republic of the Congo and Burundi involved in past
+killings of civilians have a history of ad hoc collaboration with each other based on
+financial interests and arms trafficking with little concern for political or ideological
+principle. An attack organized as a mercenary operation cannot be ruled out.
+Nonetheless, at the time of writing neither the factual evidence from the attack nor
+analyses of political motives or operational capability provided sufficient support
+for concluding that one or more of these groups probably participated.
+102. While the facts uncovered did not permit the United Nations team to
+conclusively determine the identity of the assailants beyond the likely participation
+of FNL, credible, though not verified, information suggesting the potential
+involvement of one or more actors in the Democratic Republic of the Congo
+warrants a continuation of the investigation.
+103. Whatever the intentions of the actors who masterminded, organized and
+perpetrated the killings, the massacre certainly served the interests of those who
+might wish to derail the fragile peace processes under way in the region. It has been
+yet another serious setback for the transition process in the Democratic Republic of
+the Congo, and continues to be a heavy burden for its further progress. It has sent a
+shock wave through the Burundian transition process at a moment critical to its
+success.
+104. As noted earlier in this report, although military and government officials
+spoke with investigators in the field, the Government of Burundi has not provided to
+the United Nations either an official clarification of the facts surrounding the FAB
+and Gendarmerie responses on the night of the massacre or evidence supporting its
+assertions that armed groups from the Democratic Republic of the Congo
+participated. The Attorney General of Burundi has been unable to meet with ONUB
+to discuss the status of his investigation. Contacts with the Government of Rwanda
+did not produce any concrete evidence to support the claim that elements from the
+Democratic Republic of the Congo were involved in the massacre.
+105. Finally, the investigation team emphasizes that the Burundian authorities failed
+to move the refugee camp to a safer location prior to the attack and failed to
+adequately protect the refugees and come to their aid on the evening of the
+massacre.
+
+VIII. Recommendations
+106. The Gatumba massacre was a crime carried out against civilians of a particular
+ethnic group in a region marked by a pattern of war crimes, crimes against humanity
+and genocide over the past half-century. In order to break the cycle of impunity
+which has also marked these crimes, and the violent ethnic politics to which this
+impunity has given rise, the Security Council should encourage the immediate
+initiation of national and international judicial proceedings to ensure that the authors
+and perpetrators of the killings are identified, prosecuted and brought to justice.
+107. The Security Council should strongly encourage the Government of Burundi to
+carry out a full police and judicial investigation leading to the identification and
+
+21
+
+S/2004/821
+
+prosecution of those responsible. The Government of Burundi should be encouraged
+to seek international technical assistance for the investigation and should be able to
+rely upon the full cooperation of the Government of the Democratic Republic of the
+Congo and the Government of Rwanda.
+108. At the international level, the appropriate body to continue this investigation
+and to prosecute those responsible is the International Criminal Court, and the
+Government of Burundi should be encouraged to immediately invoke the Court’s
+jurisdiction. The ONUB-MONUC investigating team has collected information
+which, although insufficient for drawing conclusions at this stage, could be useful
+for an investigation by the Court.
+109. In order to accord respect to the victims, and in view of the high degree of
+political instability still persisting in the region, Governments and opinion leaders in
+the region should be called upon to exercise restraint in their declarations
+concerning the Gatumba massacre.
+110. Finally, the Government of Burundi should be requested to immediately take
+all measures necessary to protect refugee and internally displaced populations on its
+territory, including moving refugee camps away from the border area and providing
+security adequate to deter attacks against the sites.
+
+22
+
+S/2004/821
+
+Annex I
+Abbreviations
+ALIR
+
+Armée pour la libération du Rwanda
+
+CNDD-FDD
+
+Conseil national pour la Défense de la Démocratie — Forces pour
+la défense de la démocratie
+
+FAB
+
+Forces armées burundaises/Burundian Armed Forces
+
+FAR
+
+Forces armées rwandaises/Rwandan Armed Forces
+
+FARDC
+
+Forces armées de la République démocratique du Congo/Armed
+Forces of the Democratic Republic of the Congo
+
+FDLR
+
+Forces démocratiques de libération du Rwanda
+
+FNL
+
+Forces nationales de libération
+
+MONUC
+
+United Nations Organization Mission in the Democratic Republic
+of the Congo
+
+OHCHR
+
+Office of the United Nations High Commissioner for Human Rights
+
+ONUB
+
+United Nations Operation in Burundi
+
+RCD-Goma
+
+Rassemblement congolais pour la démocratie — Goma
+
+UNHCR
+
+Office of the United Nations High Commissioner for Refugees
+
+WFP
+
+World Food Programme
+
+23
+
+S/2004/821
+
+Annex II
+Plan of the Gatumba transit centre at the time of attack
+A.
+
+Estimated first stage of attack on Gatumba transit centre
+
+N
+
+Latrines
+Attackers’ probable
+firing position
+
+Banyamulenge
+refugee shelters
+
+Burundian
+returnee shelters
+
+40 m
+
+24
+
+S/2004/821
+
+B.
+
+Estimated second stage of attack on Gatumba transit centre
+Latrines
+
+N
+
+Probable Second line of
+attack
+
+Burundian
+returnee shelters
+
+Probable
+First line of
+attack
+
+Banyamulenge
+refugee shelters
+
+25
+
+S/2004/821
+
+C.
+
+Gatumba transit centre after the attack
+
+N
+
+Latrines
+
+Banyamulenge
+refugee shelters
+
+Burundian
+returnee shelters
+
+26
+
+Burnt down
+tents
+
+S/2004/821
+
+27

@@ -1,0 +1,4034 @@
+S/2019/630
+
+United Nations
+
+Security Council
+
+Distr.: General
+24 July 2019
+Original: English
+
+Note by the Secretary-General
+The Secretary-General has the honour to transmit herewith to the Security
+Council the report of the Board of Auditors on the financial statements of the United
+Nations Compensation Commission for the year ended 31 December 2018.
+
+19-11959 (E)
+
+140819
+
+*1911959*
+
+S/2019/630
+
+Report of the Board of Auditors to the Security Council on
+the financial statements of the United Nations Compensation
+Commission for the year ended 31 December 2018
+Contents
+Page
+
+Letters of transmittal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+I.
+
+Report of the Board of Auditors on the financial statements: audit opinion . . . . . . . . . . . . . . . .
+
+5
+
+II.
+
+Long-form report of the Board of Auditors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+
+A.
+
+Mandate, scope and methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+B.
+
+Findings and recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+1.
+
+Follow-up of previous recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+2.
+
+Financial overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9
+
+3.
+
+Preparedness for liquidation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+
+C.
+
+Disclosures by management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+D.
+
+Acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+Annex
+Status of implementation of recommendations up to the period ended 31 December 2017 . .
+
+14
+
+III.
+
+Certification of the financial statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+IV.
+
+Financial report for the year ended 31 December 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+A.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+B.
+
+Overview of the financial statements for the year ended 31 December 2018 . . . . . . . . . .
+
+17
+
+Financial statements for the year ended 31 December 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+I.
+
+Statement of financial position as at 31 December 2018 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+II.
+
+Statement of financial performance for the year ended 31 December 2018 . . . . . . . . . . . .
+
+20
+
+III. Statement of changes in net assets for the year ended 31 December 2018 . . . . . . . . . . . . .
+
+20
+
+IV. Statement of cash flows for the year ended 31 December 2018 . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+Notes to the 2018 financial statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+
+V.
+
+2/50
+
+19-11959
+
+S/2019/630
+
+Letters of transmittal
+Letter dated 28 March 2019 from the Secretary-General to the
+Chair of the Board of Auditors
+In accordance with financial regulation 6.2, I have the honour to submit
+herewith the financial statements of the United Nations Compensation Commission
+for the year ended 31 December 2018, which I hereby approve. The financial
+statements have been completed and certified by the Controller as correct in all
+material respects.
+(Signed) António Guterres
+
+19-11959
+
+3/50
+
+S/2019/630
+
+Letter dated 24 July 2019 from the Chair of the Board of Auditors
+addressed to the Secretary-General
+I have the honour to transmit to you the report of the Board of Auditors on the
+financial statements of the United Nations Compensation Commission for the year
+ended 31 December 2018.
+(Signed) Kay Scheller
+President of the German Federal Court of Auditors
+Chair of the Board of Auditors
+
+4/50
+
+19-11959
+
+S/2019/630
+
+I. Report of the Board of Auditors on the financial statements:
+audit opinion
+Opinion
+We have audited the financial statements of the United Nations Compensation
+Commission, which comprise the statement of financial position (statement I) as at
+31 December 2018 and the statement of financial performance (statement II), the
+statement of changes in net assets/equity (statement III) and the statement of cash
+flows (statement IV) for the year then ended, as well as the notes to the financial
+statements, including a summary of significant accounting policies.
+In our opinion, the accompanying financial statements present fairly, in all
+material respects, the financial position of the United Nations Compensation
+Commission as at 31 December 2018 and its financial performance and cash flows
+for the year then ended, in accordance with the International Public Sector Accounting
+Standards (IPSAS).
+Basis for opinion
+We conducted our audit in accordance with the International Standards on
+Auditing. Our responsibilities under those standards are described in the section
+below entitled “Auditor’s responsibilities for the audit of the financial statements ”.
+We are independent of the United Nations Compensation Commission, in accordance
+with the ethical requirements relevant to our audit of the financial statements, and we
+have fulfilled our other ethical responsibilities in accordance with those requirements.
+We believe that the audit evidence that we have obtained is sufficient and appropriate
+to provide a basis for our opinion.
+Information other than the financial statements and the auditor’s report thereon
+The Secretary-General is responsible for the other information, which comprises
+the financial report for the year ended 31 December 2018, contained in ch apter IV
+below, but does not include the financial statements and our auditor ’s report thereon.
+Our opinion on the financial statements does not cover the other information,
+and we do not express any form of assurance thereon.
+In connection with our audit of the financial statements, our responsibility is to
+read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements or our knowledge obtained in the
+audit or otherwise appears to be materially misstated. If, on the basis of the work that
+we have performed, we conclude that there is a material misstatement in the other
+information, we are required to report that fact. We have nothing to report in this
+regard.
+Responsibilities of management and those charged with governance for the
+financial statements
+The Secretary-General is responsible for the preparation and fair presentation
+of the financial statements in accordance with IPSAS and for such internal contr ol as
+the Secretary-General determines to be necessary to enable the preparation of
+financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, the Secretary-General is responsible for
+assessing the ability of the United Nations Compensation Commission to continue as
+a going concern, disclosing matters related to the going concern and using the going 19-11959
+
+5/50
+
+S/2019/630
+
+concern basis of accounting unless the Secretary-General intends either to liquidate
+the United Nations Compensation Commission or to cease operations, or has no
+realistic alternative but to do so.
+Those charged with governance are responsible for overseeing the financial
+reporting process of the United Nations Compensation Commission.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance as to whether the financial
+statements as a whole are free from material misstatements, whether due to fraud or
+error, and to issue an auditor’s report that includes our opinion. Reasonable assurance
+is a high level of assurance, but is not a guarantee that an audit conducted in accordance
+with the International Standards on Auditing will always detect a material misstatement
+when it exists. Misstatements can arise from fraud or error and are considered material
+if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these financial statements.
+As part of an audit in accordance with the International Standards on Auditing,
+we exercise professional judgment and maintain professional scepticism throughout
+the audit. We also:
+• Identify and assess the risks of material misstatement in the financial statemen ts,
+whether due to fraud or error, design and perform audit procedures responsive
+to those risks, and obtain audit evidence that is sufficient and appropriate to
+provide a basis for our opinion. The risk of not detecting a material misstatement
+resulting from fraud is higher than the risk of not detecting one resulting from
+error, given that fraud may involve collusion, forgery, intentional omission,
+misrepresentation or the overriding of internal control.
+• Obtain an understanding of internal control relevant to the audit in order to
+design audit procedures that are appropriate in the circumstances, but not for the
+purpose of expressing an opinion on the effectiveness of the internal control of
+the United Nations Compensation Commission.
+• Evaluate the appropriateness of accounting policies used and the reasonableness
+of accounting estimates and related disclosures made by the Secretary -General.
+• Draw conclusions as to the appropriateness of the use by the Secretary-General
+of the going-concern basis of accounting and, on the basis of the audit evidence
+obtained, whether a material uncertainty exists in relation to events or
+conditions that may cast significant doubt on the ability of the United Nations
+Compensation Commission to continue as a going concern. If we conclude that
+a material uncertainty exists, we are required to draw attention in our auditor ’s
+report to the related disclosures in the financial statements or, if such disclosures
+are inadequate, to modify our opinion. Our conclusions are based on the audit
+evidence obtained up to the date of our auditor’s report. However, future events
+or conditions may cause the United Nations Compensation Commission to cease
+to continue as a going concern.
+• Evaluate the overall presentation, structure and content of the financial statements,
+including the disclosures, and whether the financial statements represent the
+underlying transactions and events in a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit and significant audit findings,
+including any significant deficiencies in internal control that we identify during our
+audit.
+
+6/50
+
+19-11959
+
+S/2019/630
+
+Report on other legal and regulatory requirements
+Furthermore, in our opinion, the transactions of the United Nations
+Compensation Commission that have come to our notice or that we have tested as
+part of our audit have, in all significant respects, been in accordance with the
+Financial Regulations and Rules of the United Nations and legislative authority.
+In accordance with article VII of the Financial Regulations and Rules of the
+United Nations, we have also issued a long-form report on our audit of the United
+Nations Compensation Commission.
+(Signed) Kay Scheller
+President of the German Federal Court of Auditors
+Chair of the Board of Auditors
+(Signed) Rajiv Mehrishi
+Comptroller and Auditor General of India
+(Lead Auditor)
+(Signed) Jorge Bermúdez
+Comptroller General of the Republic of Chile
+24 July 2019
+
+19-11959
+
+7/50
+
+S/2019/630
+
+II. Long-form report of the Board of Auditors
+Summary
+The Board of Auditors has audited the financial statements of the United Nations
+Compensation Commission for the year ended 31 December 2018, which have been
+prepared under the International Public Sector Accounting Standards (IPSAS). The
+audit was conducted in conformity with the Financial Regulations and Rules of the
+United Nations and the International Standards on Auditing.
+Audit opinion
+In the opinion of the Board, the financial statements present fairly, in all material
+respects, the financial position of the Commission as at 31 December 2018 and its
+financial performance and cash flows for the year then ended, in accordance with IPSAS .
+Overall conclusion
+The Commission’s operating reserve improved from $8.08 million in 2017 to
+$8.34 million in 2018, representing a 3.28 per cent increase. The Commission ’s
+financial position remained sound. The Board found no material misstatements tha t
+would affect its opinion on the financial statements of the Commission. The Board
+notes that, in accordance with decision 276 (2017) of the Governing Council of the
+Commission, deposits into the United Nations Compensation Fund resumed in 2018,
+as did payments of compensation towards the outstanding award in accordance with
+the payment mechanism set out in Governing Council decision 267 (2009).
+Key audit findings
+Preparedness for liquidation
+The Committee on Administrative Matters of the Governing Council decided that
+the budget would be drawn from the Compensation Fund rather than operating reserves.
+The Board noticed that, as of December 2018, the operating reserve had a balance of
+$8.34 million. The Commission has yet to estimate the reserve required for post-closure
+activities and meeting post-closure liabilities. In addition, there were no specific
+operational guidelines or parameters set out for expenditure out of the operating reserve.
+Main recommendation
+In the light of its findings, the Board recommends that the Commission:
+(a) Expedite its preparedness for liquidation. An estimation of the reserve
+required to be maintained for winding-down and post-closure requirements needs
+to be carried out, and there should be a transparent basis for such estimation.
+
+Key facts
+
+8/50
+
+$121.18 million
+
+Total assets in 2018, up from $26.35 million in 2017
+
+$112.83 million
+
+Total liabilities in 2018, up from $18.27 million in 2017
+
+$8.34 million
+
+Net assets in 2018, up from $8.08 million in 2017
+
+$1.15 million
+
+Total expenses in 2018, down from $1.22 million in 2017
+
+19-11959
+
+S/2019/630
+
+A.
+
+Mandate, scope and methodology
+1.
+The Board of Auditors has audited the financial statements of the United Nations
+Compensation Commission and has reviewed its operations for the financial period
+ended 31 December 2018, in accordance with General Assembly resolution 74 (I) of
+1946. The audit was conducted in conformity with the Financial Regulations and
+Rules of the United Nations and the International Standards on Auditing.
+2.
+The audit was conducted primarily to enable the Board to form an opinion as to
+whether the financial statements present fairly the financial position of the
+Commission as at 31 December 2018 and its financial performance and ca sh flows
+for the year then ended, in accordance with the International Public Sector Accounting
+Standards (IPSAS). This included an assessment as to whether the expenses recorded
+in the financial statements had been incurred for the purposes approved by th e
+governing bodies and whether revenue and expenses had been properly classified and
+recorded in accordance with the Financial Regulations and Rules of the United
+Nations. The audit included a general review of financial systems and internal
+controls and a test examination of the accounting records and other supporting
+evidence to the extent that the Board considered necessary to form an opinion on the
+financial statements.
+3.
+The present report covers matters that, in the opinion of the Board, should be
+brought to the attention of the Governing Council of the Commission. The Board ’s
+report was discussed with the management of the Commission, whose views have
+been appropriately reflected.
+
+B.
+
+Findings and recommendations
+
+1.
+
+Follow-up of previous recommendations
+4.
+The Board followed up on the implementation of its previous recommendations
+and verified the status of outstanding recommendations. Of the two outstanding
+recommendations up to the year ended 31 December 2017, the Commission has fully
+implemented one recommendation (50 per cent) and one recommendation (50 per
+cent) is under implementation. The annex to the present report contains details of the
+status of implementation of the Board’s previous recommendations.
+
+2.
+
+Financial overview
+5.
+The Commission is a subsidiary organ of the Security Council and was
+established in accordance with Security Council resolution 687 (1991) to process
+claims and pay compensation for damages arising as a direct result of the invasion
+and occupation of Kuwait by Iraq (2 August 1990–2 March 1991). The United Nations
+Compensation Fund, from which the awarded claims would be paid, was also
+established pursuant to resolution 687 (1991). In a report submitted to the Security
+Council in compliance with resolution 687 (1991) (S/22559), the Secretary-General
+stipulated that the Compensation Fund would be established as a special account of
+the United Nations.
+6.
+In total, the Commission received approximately 2.69 million claims seeking
+approximately $352.50 billion in compensation and approved awards of appr oximately
+$52.40 billion in respect of approximately 1.54 million of those claims (representing
+approximately 15 per cent of the amount claimed). As at 31 December 2018, the
+Commission had paid $48.10 billion.
+7.
+Funds to pay compensation are drawn from the Compensation Fund, in which
+deposits are received from Iraq at a defined percentage of the proceeds generated by
+
+19-11959
+
+9/50
+
+S/2019/630
+
+the export sales of Iraqi petroleum and petroleum products, pursuant to Security
+Council resolutions 1483 (2003) and 1956 (2010). In accordance with Governing
+Council decision 276 (2017), deposits, representing 0.5 per cent of the proceeds of
+the oil export sales of Iraq resumed into the Compensation Fund in 2018, as did
+payments of compensation towards the outstanding award in accordance with the
+payment mechanism set out in Governing Council decision 267 (2009). An amount
+of $4.4 billion in respect of only one claim remains to be paid. In 2018, the
+Commission received deposits of $364.62 million and made three quarterly payments
+totalling $270 million to the remaining claim.
+8.
+Table II.1 depicts the key financial ratios for the Commission. With a ratio of
+total assets to total liabilities of 1.07, the Commission remained in good financial
+health. All cash ratios reflected the strong solvency status of the Commission.
+Table II.1
+Ratio analysis
+Description of ratio
+
+31 December 2018
+
+31 December 2017
+
+1.06
+
+1.69
+
+1.07
+
+1.44
+
+1.06
+
+1.69
+
+1.06
+
+1.69
+
+Current ratio a
+Current assets: current liabilities
+Total assets: total liabilities
+
+b
+
+Assets: liabilities
+Cash ratio c
+Cash + investments: current liabilities
+Quick ratio
+
+d
+
+Cash + investments + accounts receivable: current liabilities
+
+Source: United Nations Compensation Commission financial statements.
+a
+A high ratio indicates an entity’s ability to pay off its short-term liabilities.
+b
+A high ratio is a good indicator of solvency.
+c
+The cash ratio is an indicator of an entity’s liquidity by measuring the amount of cash, cash
+equivalents or invested funds that is there in current assets to cover current liabilities.
+d
+The quick ratio is more conservative than the current ratio because it excludes inventory and
+other current assets, which are more difficult to turn into cash. A higher ratio means a more
+liquid current position.
+
+3.
+
+Preparedness for liquidation
+Estimation of the reserve required to be maintained for winding-down and
+post-closure requirements
+9.
+It had earlier been envisaged that the Commission would fulfil its mandate by
+2015. In anticipation, the Commission had initiated the liquidation process in 2014.
+As a part of that process, the Commission’s secretariat had taken various steps
+regarding a staffing needs assessment, the archiving of records and the disposal of
+assets. With the postponement in deposits of oil receipts in the Compensation Fund
+from the fourth quarter of 2014 to the last quarter of 2017, however, the liquidation
+process was also postponed.
+10. The Governing Council welcomed the proposal put forward by the Governme nt
+of Iraq that would see deposits into the Compensation Fund resume in 2018 and that,
+based on oil price and export projections, would see payment in full of the outstanding
+award by the end of 2021 (S/AC.26/Dec.276 (2017)). In accordance with decision
+276 (2017), the oil deposits have since resumed from 2018. With the payment that
+
+10/50
+
+19-11959
+
+S/2019/630
+
+was made in January 2019, the Commission has paid out $48.10 billion, leaving
+approximately $4.3 billion 1 to be paid to the only residual claimant.
+11. It is expected that payment of the outstanding award will be completed by the
+end of 2021. The Board noted that, considering current oil production and the rising
+trend of oil prices, the payment of compensation could be completed even earlier. The
+Commission therefore needs to be prepared for liquidation. The Board noted that the
+risk of the accelerated payment of outstanding compensation and the termination of
+the Commission’s mandate prior to concluding all liquidation activities was also
+recognized by the Commission’s secretariat in its update on liquidation-related
+activities presented to the Governing Council in November 2018.
+12. The Board noted that, in accordance with the report of the Secretary-General to
+the Security Council, as required under resolution 687 (1991) (S/22559), the expenses
+of the Commission, including those of the Governing Council, the commission ers and
+the secretariat, should in principle be paid from the Compensation Fund. The
+Governing Council, at its 41st meeting, on 23 March 1994, decided to retain an
+adequate operating reserve consisting of an amount sufficient to cover at least one
+year’s operating expenses. The Governing Council had also decided, in 1997, to
+enlarge the reserve sufficiently to provide funding for the remaining three and half
+years of the workplan. An estimation of the reserve required for post -closure activities
+and meeting post-closure liabilities in the current situation, however, was yet to be
+determined. The Board noticed that, in order to ensure sufficient reserves for the
+orderly wind-down of the Commission and cover any post-closure costs, the
+Committee on Administrative Matters decided, in October 2015, that the budget
+would be drawn from the Compensation Fund rather than the operating reserve. The
+budgets for 2016, 2017 and 2018 were therefore drawn from the Compensation Fund
+directly, while the surplus at year-end was added to the operating reserve. From 2016
+to 2018, a surplus, as shown in table II.2, was added to the operating reserve.
+Table II.2
+Surplus added to operating reserve
+Year
+
+Amount (United States dollars)
+
+2016
+
+589 000
+
+2017
+
+244 000
+
+2018
+
+205 000
+
+13. The administrative budget for 2019 was also drawn from the Compensation
+Fund directly. As of December 2018, the operating reserve had a balance of
+$8.34 million.
+14. The Board observed that, while the intent was to maintain a “sufficient level”
+of reserves, neither has the specific level been defined nor has the basis for such
+estimation been stipulated. In addition, there were no specific operational guidelines
+or parameters set out for expenditure out of the operating reserve .
+15. The Commission’s secretariat reported that the Governing Council had not made
+a final determination on the amount to be retained but has made a determination that
+it be maintained for a period of five years following the closure of the Commission
+and that the post-closure reserve be kept under the stewardship of the United Nations
+
+__________________
+1
+
+19-11959
+
+The amount is different from financial statements because the United Nations Compensation
+Commission paid $100 million to the residual claimant on 18 January 2019.
+11/50
+
+S/2019/630
+
+Controller, with any balance remaining after the five years returned to the
+Government of Iraq, together with a final accounting of all expenditure.
+16. The Board is of the view that the reserve required to be maintained be
+appropriately estimated with a transparent basis for such estimation and that action
+be taken for mobilizing such a reserve.
+17. The Commission’s secretariat indicated that a mission was planned to
+Headquarters at the beginning of May 2019 to resume preliminary discussions on the
+matter of liquidation expenditure and any reserve that will be needed for expenditures
+post-closure.
+18. The Board recommends that the Commission expedite its preparedness for
+liquidation. An estimation of the reserve required to be maintained for winding down and post-closure requirements needs to be carried out, and there should be
+a transparent basis for such estimation.
+
+C.
+
+Disclosures by management
+Write-off of cash, receivables and property
+19. The Commission informed the Board that there were no write -offs of losses of
+cash, receivables or property during the year 2018.
+Ex gratia payments
+20. The Commission reported no ex gratia payments for the year ended
+31 December 2018.
+Cases of fraud, presumptive fraud and financial mismanagement
+21. In accordance with the International Standards on Auditing (ISA 240), the Board
+plans its audits of the financial statements so that it has a reasonable expectation of
+identifying material misstatements and irregularities, including those resulting from
+fraud. The audit, however, should not be relied upon to identify all misstatements or
+irregularities. The primary responsibility for preventing and detecting fraud rests with
+management.
+22. During the audit, the Board made enquiries of management regarding its
+oversight responsibility for assessing the risks of material fraud and the processes in
+place for identifying and responding to the risks of fraud, including any specific risks
+of fraud that management has identified or that have been brought to its attention. The
+Board also enquired as to whether management had any knowledge of any actual,
+suspected or alleged fraud.
+23. The Commission reported no cases of confir med fraud or presumptive fraud for
+the year ended 31 December 2018.
+
+12/50
+
+19-11959
+
+S/2019/630
+
+D.
+
+Acknowledgement
+24. The Board wishes to express its appreciation for the cooperation and assistance
+extended to its staff by the Executive Head and other staff at the Commission .
+(Signed) Kay Scheller
+President of the German Federal Court of Auditors
+Chair of the Board of Auditors
+(Signed) Rajiv Mehrishi
+Comptroller and Auditor General of India
+(Lead Auditor)
+(Signed) Jorge Bermúdez
+Comptroller General of the Republic of Chile
+24 July 2019
+
+19-11959
+
+13/50
+
+Status of implementation of recommendations up to the period ended 31 December 2017
+Status after verification
+No.
+
+Audit report
+year
+
+Paragraph
+reference
+
+1
+
+S/2018/567
+
+2
+
+S/2018/567
+
+Recommendations of the Board
+
+Response of the Commission
+
+Board’s assessment
+
+Chap. II,
+para. 12
+
+Disclose the fact of its budget
+not being public in the notes
+to the financial statements
+
+The fact is disclosed in
+para. 7 of the financial
+report
+
+The Commission has
+disclosed the fact of
+its budget not being
+public in the financial
+report and not in the
+notes to the financial
+statements. The
+recommendation is
+considered to be
+under implementation
+
+Chap. II,
+para. 21
+
+Update its workplan for the
+completion strategy and exit
+plan, incorporating
+measurable and achievable
+outputs, including
+rationalization of the use of
+space
+
+The update on
+liquidation-related
+activities was prepared
+and placed before
+Governing Council on
+7 November 2018
+
+The Commission has
+updated its workplan
+and placed it before
+the Governing
+Council. The
+recommendation is
+considered to have
+been implemented
+
+Under Overtaken
+Not
+Implemented implementation by events implemented
+
+X
+
+X
+
+Total
+
+1
+
+1
+
+Percentage
+
+50
+
+50
+
+S/2019/630
+
+14/50
+
+Annex
+
+19-11959
+
+S/2019/630
+
+III. Certification of the financial statements
+Letter dated 20 March 2019 from the Assistant Secretary-General,
+Controller, addressed to the Chair of the Board of Auditors
+The financial statements of the United Nations Compensation Commission for
+the year ended 31 December 2018 have been prepared in accordance with rule 106.1
+of the Financial Regulations and Rules of the United Nations.
+The summary of significant accounting policies applied in the preparation of
+these statements is included as notes to the financial statements. These notes provide
+additional information on and clarifications of the financial activities undertaken by
+the Commission during the period covered by these statements, for which the
+Secretary-General has administrative responsibility.
+I certify that the appended financial statements of the United Nations
+Compensation Commission, numbered I to IV, are correct in all material respects.
+(Signed) Chandramouli Ramanathan
+Assistant Secretary-General
+Controller
+
+19-11959
+
+15/50
+
+S/2019/630
+
+IV. Financial report for the year ended 31 December 2018
+A.
+
+Introduction
+1.
+The Secretary-General has the honour to submit herewith the financial report on
+the accounts of the United Nations Compensation Commission for the year ended
+31 December 2018.
+2.
+The present report is designed to be read in conjunction with the financial
+statements. Attached hereto is an annex that includes supplementary information that
+is required to be reported to the Board of Auditors under the Financial Regulations
+and Rules of the United Nations.
+3.
+The Commission is a subsidiary organ of the Security Council. It was
+established in accordance with Security Council resolutions 687 (1991) and 692
+(1991) to process claims and pay compensation for direct losses and damage suffered
+by individuals, corporations, Governments and international organizations as a direct
+result of the invasion and occupation of Kuwait by Iraq (2 August 1990–2 March
+1991). The Commission is currently composed of the Governing Council and the
+secretariat. The Governing Council is the policymaking organ of the Commission. Its
+composition is the same as that of the 15-member Security Council at any given time.
+The secretariat, headed by the Executive Head, services and provides assistance to
+the Governing Council.
+4.
+Approximately 2.7 million claims, with an asserted value of $352.5 billion, were
+filed with the Commission. The Commission concluded claims processing in 2005,
+and the total compensation awarded was $52.4 billion, for more than 1.5 million
+successful claimants. Funds to pay compensation are drawn from the United Nations
+Compensation Fund, which receives a percentage of the proceeds generated by the
+export sales of Iraqi petroleum and petroleum products. By Security Council
+resolution 1483 (2003), this percentage was reduced from 25 per cent to 5 per cent.
+In its resolution 1956 (2010), the Council reaffirmed the 5 per cent level and further
+decided that 5 per cent of the value of any non-monetary payments of petroleum,
+petroleum products and natural gas made to service providers shall also be deposited
+into the Compensation Fund.
+5.
+With the adoption of its decisions 272 (2014), 273 (2015) and 274 (2016), the
+Governing Council postponed the obligation of Iraq to deposit 5 per cent of oil
+proceeds into the Compensation Fund from October 2014 to 31 December 2017.
+Accordingly, the Commission made no payments towards the remaining claim during
+that period. As at 31 December 2017, the Commission had paid approximately
+$47.8 billion in compensation for distribution to successful claimants in all
+categories, leaving $4.6 billion outstanding.
+6.
+In order to ensure the resolution of the outstanding claim payments, the
+Governing Council adopted decision 275 (2017), in which it called upon the
+Governments of Iraq and Kuwait to present options for its consideration that would
+ensure the final payment of compensation towards the outstanding award by the end
+of 2021. On the basis of the proposal presented, the Governing Council adopted
+decision 276 (2017), which provided for 0.5 per cent of proceeds from export sales
+of petroleum, petroleum products and natural gas and of the value of any
+non-monetary payments of petroleum, petroleum products and natural gas made to
+service providers to be deposited into the Compensation Fund from 1 January 2018
+to 31 December 2018; 1.5 per cent of such proceeds to be deposited from 1 January
+2019 to 31 December 2019; and 3 per cent of such proceeds to be deposited from
+1 January 2020 until such time as the outstanding compensation award has been paid
+in full. In accordance with that decision, deposits into the Compens ation Fund
+
+16/50
+
+19-11959
+
+S/2019/630
+
+resumed in 2018, as did payments of compensation towards the outstanding award in
+accordance with the payment mechanism set out in decision 267 (2009). In 2018, the
+Commission received deposits of $364.62 million and made three quarterly payment s
+totalling $270 million to the remaining claim. As at 31 December 2018, the
+Commission had cumulatively paid approximately $48 billion in compensation for
+distribution to successful claimants in all categories, leaving $4.4 billion outstanding.
+
+B.
+
+Overview of the financial statements for the year ended
+31 December 2018
+7.
+Financial statements I, II, III and IV show the financial results of the
+Commission’s activities. The notes to the financial statements explain the
+Commission’s accounting and financial reporting policies and provide additional
+information on the individual amounts contained in the statements. Given that the
+budget of the Commission is not publicly available, the Commission is not required
+under IPSAS to include statement V, statement of comparison of budget and actual
+amounts.
+Revenue
+8.
+Under IPSAS, revenue is recognized when funds are drawn from the
+Compensation Fund for the administrative costs of the Commission. In 2018, the
+Commission’s budget was funded from the Compensation Fund, in accordance with
+the directives of the Committee on Administrative Matters of the Governing Council,
+and, accordingly, the Commission recognized revenue in 2018.
+Expenses
+9.
+Under IPSAS, expenses are recorded in the financial statements on an accrual
+basis when goods and/or services have been received. The 2018 expenses totalled
+$1.16 million. The main expense category was staff costs of $0.7 million, which
+constituted 60.6 per cent of the total expenses. Other expenses included contractual
+services of $0.03 million (2.9 per cent), other operating expenses of $0.42 million
+(36.3 per cent) and travel costs of less than $0.01 million (0.2 per cent). Total
+expenses incurred in 2017 amounted to $1.22 million, and the decrease in expenses
+in 2018 was due mainly to a reduction in the number of meetings of the Governing
+Council, from three in 2017 to two in 2018.
+Operating result
+10. As a result of the Commission’s budget being funded from the Compensation
+Fund with a recognition of the corresponding revenue and the incurred expenses
+during the year below budget, the statement of financial performance shows a surplus
+for the year.
+Assets
+11. Assets as at 31 December 2018 totalled $121.18 million, compared with a total
+of $26.35 million as at 31 December 2017.
+12. These assets were held as investment and cash and cash equivalents,
+representing 100 per cent of the total assets, all of which wer e held in the main cash
+pool. These relate to the oil revenue received but not yet paid towards the outstanding
+compensation award, as well as funds to cover liabilities associated with employee
+benefits and the operating reserve.
+
+19-11959
+
+17/50
+
+S/2019/630
+
+Liabilities
+13. Liabilities as at 31 December 2018 totalled $112.84 million, compared with the
+balance at 31 December 2017 of $18.27 million. The increase reflects the resumption
+of deposits by the Government of Iraq into the Compensation Fund in 2018.
+14. The largest liability ($106.70 million), representing 94.6 per cent of the total
+liabilities, relates to the accounts payable equivalent of the balance of deposits
+received at year end, to be applied to the payment of compensation awards in 2019.
+15. The other significant liability is the non-current liability for employee benefits
+earned by staff members and retirees amounting to $5.97 million, which relates
+primarily to after-service health insurance, representing 5.3 per cent of total
+liabilities.
+Net assets
+16. The increase of $0.27 million in net assets during the year reflects a surplus for
+the year of $0.21 million and actuarial gains on employee benefits liabilities of
+$0.06 million. The net asset position of $8.35 million reflects the operating reserve
+of the Commission, which is to be maintained at a sufficient level to finance the
+Commission’s administrative expenses until the completion of its mandate.
+Liquidity position
+17. The financial matters of the Commission are driven primarily by the oil receip ts
+from Iraq and the payments of compensation awards. Pursuant to Security Council
+resolution 692 (1991), the administrative expenses of the Commission are to be drawn
+from the Compensation Fund. Accordingly, the Commission has at its disposal the
+amount remaining in the accounts payable for compensation awards of
+$106.70 million. In addition, the Commission has at its disposal the amount
+remaining in the operating reserve of $8.35 million. The liquidity of the operations of
+the Commission is therefore assured.
+
+18/50
+
+19-11959
+
+S/2019/630
+
+V. Financial statements for the year ended 31 December 2018
+United Nations Compensation Commission
+I. Statement of financial position as at 31 December 2018
+(Thousands of United States dollars)
+Note
+
+31 December 2018
+
+31 December 2017
+
+Assets – funds held in trust
+Current assets
+Cash and cash equivalents
+
+4, 5
+
+11 834
+
+2 074
+
+Investments
+
+4, 5
+
+101 485
+
+18 466
+
+Deferred expenditure
+
+4
+
+–
+
+15
+
+113 319
+
+20 555
+
+7 861
+
+5 796
+
+7 861
+
+5 796
+
+121 180
+
+26 351
+
+106 701
+
+12 038
+
+Total current assets
+Investments
+
+4, 5
+
+Total non-current assets
+Total assets
+Liabilities and funds held in trust
+Current liabilities
+Accounts payable: compensation awards
+
+4, 6
+
+Other accounts payable and accrued liabilities
+
+4
+
+–
+
+12
+
+Employee benefits liabilities
+
+7
+
+161
+
+134
+
+106 862
+
+12 184
+
+5 973
+
+6 087
+
+5 973
+
+6 087
+
+112 835
+
+18 271
+
+8 345
+
+8 080
+
+8 345
+
+8 080
+
+8 345
+
+8 080
+
+Total current liabilities
+Non-current liabilities
+Employee benefits liabilities
+
+7
+
+Total non-current liabilities
+Total liabilities
+Net of total assets and total liabilities
+Net assets
+Operating reserve
+Net assets
+
+8
+
+The notes to the financial statements are an integral part of these financial statements.
+
+19-11959
+
+19/50
+
+S/2019/630
+
+United Nations Compensation Commission
+II. Statement of financial performance for the year ended 31 December 2018
+(Thousands of United States dollars)
+Note
+
+31 December 2018
+
+31 December 2017
+
+1 360
+
+1 462
+
+1 360
+
+1 462
+
+Revenue
+Revenue
+
+9
+
+Total revenue
+Expenses
+Employee salaries, allowances and benefits
+
+10
+
+700
+
+681
+
+Contractual services
+
+10
+
+34
+
+46
+
+Travel
+
+10
+
+2
+
+1
+
+Other operating expenses
+
+10
+
+419
+
+490
+
+1 155
+
+1 218
+
+205
+
+244
+
+Total expenses
+Surplus/(deficit) for the year
+
+The notes to the financial statements are an integral part of these financial statements.
+
+United Nations Compensation Commission
+III. Statement of changes in net assets for the year ended 31 December 2018
+(Thousands of United States dollars)
+Note
+
+Operating reserve
+
+Net assets as at 1 January 2017
+
+7 786
+
+Changes in net assets during 2017
+Actuarial gains/(losses) on employee benefits liabilities
+
+7
+
+Surplus for the year
+
+50
+244
+
+Total
+
+294
+
+Net assets as at 31 December 2017
+
+8 080
+
+Changes in net assets during 2018
+Actuarial gains/(losses) on employee benefits liabilities
+
+7
+
+Surplus for the year
+Total
+Net assets as at 31 December 2018
+
+60
+205
+265
+8 345
+
+The notes to the financial statements are an integral part of these financial statements.
+
+20/50
+
+19-11959
+
+S/2019/630
+
+United Nations Compensation Commission
+IV. Statement of cash flows for the year ended 31 December 2018
+(Thousands of United States dollars)
+Cash flows from operating activities
+
+Note
+
+31 December 2018
+
+31 December 2017
+
+205
+
+244
+
+60
+
+50
+
+(Increase)/decrease in receivables from other United Nations entities
+
+–
+
+60
+
+(Increase)/decrease in deferred expenditure
+
+14
+
+(14)
+
+Surplus/(deficit) for the period
+Non-cash movements
+Actuarial gains/(losses) on employee benefits liabilities
+
+7
+
+Changes in assets
+
+Changes in liabilities
+Increase/(decrease) in accounts payable: compensation awards
+
+6
+
+94 663
+
+(1 100)
+
+Increase/(decrease) in other accounts payable and accrued liabilities
+
+4
+
+(12)
+
+(10)
+
+Increase/(decrease) in employee benefits liabilities
+
+7
+
+(87)
+
+(84)
+
+94 843
+
+(854)
+
+(85 083)
+
+(4 577)
+
+(85 083)
+
+(4 577)
+
+–
+
+–
+
+9 760
+
+(5 431)
+
+Cash and cash equivalents — beginning of year
+
+2 074
+
+7 505
+
+Cash and cash equivalents — end of year
+
+11 834
+
+2 074
+
+Net cash flows from/(used in) operating activities
+Cash flows from investing activities
+Net change in the main cash pool investments
+Net cash flows from/(used in) investing activities
+Cash flows from financing activities
+Net cash flows from/(used in) financing activities
+Net increase/(decrease) in cash and cash equivalents
+
+The notes to the financial statements are an integral part of these financial statements.
+
+19-11959
+
+21/50
+
+S/2019/630
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements
+Note 1
+Reporting entity
+United Nations and its activities
+1.
+The United Nations is an international organization founded in 1945 after the
+Second World War. The Charter of the United Nations was signed on 26 June 1945
+and became effective on 24 October 1945. The primary objectives of the United
+Nations are as follows:
+(a)
+
+The maintenance of international peace and security;
+
+(b) The promotion of international economic and social pr ogress and
+development programmes;
+(c)
+
+The universal observance of human rights;
+
+(d)
+
+The administration of international justice and law.
+
+2.
+These objectives are implemented through the major organs of the United
+Nations, as follows:
+(a) The General Assembly, which focuses on a wide range of political,
+economic and social issues, as well as financial and administrative aspects of the
+Organization;
+(b) The Security Council, which is responsible for various aspects of
+peacekeeping and peacebuilding, including efforts to resolve conflicts, restore
+democracy, promote disarmament, provide electoral assistance, facilitate post conflict peacebuilding, engage in humanitarian activities to ensure the survival of
+groups deprived of basic needs and oversee the prosecution of persons responsible
+for serious violations of international humanitarian law;
+(c) The Economic and Social Council, which plays a specific role in economic
+and social development, including a major oversight role in the efforts of other
+organizations of the United Nations system to address international economic, social
+and health problems;
+(d) The International Court of Justice, which has jurisdiction over disputes
+between Member States brought before it for advisory opinions or binding
+resolutions.
+3.
+The United Nations has its headquarters in New York and has major offices in
+Geneva, Vienna and Nairobi. It has peacekeeping and political missions, economic
+commissions, tribunals, training institutes and information and other centres aroun d
+the world.
+Reporting entity
+4.
+The present financial statements relate to the United Nations Compensation
+Commission, which was established in 1991 in accordance with Security Council
+resolutions 687 (1991) and 692 (1991) to process and pay claims for direct loss,
+damage or injury arising from the invasion and occupation of Kuwait by Iraq
+(2 August 1990–2 March 1991) and to administer a compensation fund from which
+to pay successful claims.
+
+22/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+5.
+The Governing Council of the Commission established the Follow-up
+Programme for Environmental Awards in 2005, in consultation with the Government
+of Iraq and the participating Governments of the Islamic Republic of Iran, Jordan,
+Kuwait and Saudi Arabia, to monitor the financial and technical aspects of 26
+environmental remediation and restoration projects being undertaken by the
+participating Governments with funds awarded by the Commission. The mandate
+under the Programme was considered fulfilled in late 2013.
+6.
+The Commission is regarded as an autonomous financial reporting entity that
+neither controls nor is controlled by any other United Nations reporting entity. Owing
+to the uniqueness of the governance and mandate of the Commission, it is not deemed
+to be subject to common control for the purposes of financial reporting under the
+International Public Sector Accounting Standards (IPSAS). The Commission has no
+interests in associates or joint ventures. The present statements therefore relate only
+to the operations of the Commission.
+7.
+The Commission’s headquarters is located at the United Nations Office at
+Geneva.
+Note 2
+Basis of preparation and authorization for issue
+Basis of preparation
+8.
+Pursuant to the Financial Regulations and Rules of the United Nations, the
+financial statements are prepared on an accrual basis in accordance with IPSAS. In
+accordance with the requirements of IPSAS, the financial statements, which present
+fairly the assets, liabilities, revenue and expenses of the Commission and the cash
+flows over the financial year, consist of the following:
+(a)
+
+Statement I: statement of financial position;
+
+(b)
+
+Statement II: statement of financial performance;
+
+(c)
+
+Statement III: statement of changes in net assets;
+
+(d)
+
+Statement IV: statement of cash flows using the indirect method;
+
+(e)
+
+A summary of significant accounting policies and other explanatory notes.
+
+Going concern and wind-down of the Commission
+9.
+The financial statements have been prepared on a going-concern basis, and the
+accounting policies, as summarized in note 3, have been applied consistently in the
+preparation and presentation of the financial statements. The going -concern assertion
+is based on the fact that Iraq continues to remain liable for the payment of outstandi ng
+compensation awards amounting to $4.4 billion under relevant Security Council
+resolutions. Following three successive one-year postponements of the obligation of
+Iraq to deposit 5 per cent of the proceeds from oil export sales into the Compensation
+Fund under Governing Council decisions 272 (2014), 273 (2015) and 274 (2016),
+deposits resumed on 1 January 2018 pursuant to Governing Council decision 276
+(2017). This decision provides for deposits of oil proceeds into the Compensation
+Fund to resume in 2018 at a rate of 0.5 per cent, 1.5 per cent in 2019 and 3 per cent
+in 2020 until the outstanding compensation award has been paid in full. The
+Governing Council, in its decision 276 (2017), also called for the resumption of
+payments of compensation towards the outstanding award in 2018 in accordance with
+the payment mechanism set out in its decision 267 (2009). At its eighty -fifth session,
+on 7 November 2018, the Governing Council noted that current oil price and export
+levels indicated that the payment of the outstanding award would be fulfilled by the
+end of 2021. Until that time, the Commission is to remain in place under its current
+19-11959
+
+23/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+arrangements, as affirmed by the Governing Council at its special session of
+November 2017, unless the Governing Council decides otherwise. Accordingly, the
+mandate of the Commission is considered to be ongoing.
+Measurement basis
+10. The financial statements are prepared using the historical cost convention,
+except for some investments and assets recorded at fair value throu gh surplus or
+deficit. The financial statements are prepared for the year from 1 January to
+31 December.
+Fund accounting
+11. Financial information is maintained on a fund-accounting basis in the
+Commission. A fund is a self-balancing accounting entity established to account for
+the transactions of a specified purpose or objective.
+Functional and presentation currency
+12. The functional currency and the presentation currency of the Commission is the
+United States dollar. The financial statements are expressed in thousands of United
+States dollars, unless otherwise stated.
+13. Transactions in currencies other than the functional currency (foreign
+currencies) are translated into United States dollars at the United Nations operational
+rate of exchange at the date of the transaction. The United Nations operational rates
+of exchange approximate the spot rates prevailing at the dates of the transactions. At
+year-end, monetary assets and liabilities denominated in foreign currencies are
+translated at the United Nations operational rates of exchange. Non-monetary foreign
+currency-denominated items that are measured at fair value are translated at the
+United Nations operational rate of exchange at the date on which the fair value was
+determined. Non-monetary items measured at historical cost in a foreign currency are
+not translated at year-end.
+14. Foreign exchange gains and losses resulting from the settlement of foreign
+currency transactions and from the translation of monetary assets and liabilities
+denominated in foreign currencies at year-end exchange rates are recognized as a
+change in the statement of financial performance on a net basis.
+Materiality and use of judgment and estimation
+15. Materiality is central to the preparation and presentation of th e financial
+statements, and its materiality framework provides a systematic method in guiding
+accounting decisions relating to presentation, disclosure, aggregation, offsetting and
+retrospective versus prospective application of changes in accounting polic ies. In
+general, an item is considered material if its omission or its aggregation would have
+an impact on the conclusions or decisions of the users of the financial statements.
+16. Preparing financial statements in accordance with IPSAS requires the use o f
+estimates, judgments and assumptions in the selection and application of accounting
+policies, and in the reported amounts of some assets, liabilities, revenue and expenses.
+17. Accounting estimates and underlying assumptions are reviewed on an ongoing
+basis and revisions to estimates are recognized in the year in which the estimates are
+revised and in any future year affected. Significant estimates and assumptions that
+may result in material adjustments in future years include the actuarial measurement
+of employee benefits; the selection of useful lives and the depreciation/amortization
+methods for property, plant and equipment/intangible assets; the impairment of assets;
+the classification of financial instruments; the valuation of inventory; inflation an d
+24/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+discount rates used in the calculation of the present value of provisions; and the
+classification of contingent assets/liabilities.
+Future accounting pronouncements
+18. The progress and impact of the following significant future IPSAS Board
+accounting pronouncements on the Commission’s financial statements continue to be
+monitored:
+(a) Heritage assets: the objective of the project is to develop accounting
+requirements for heritage assets;
+(b) Non-exchange expenses: the aim of the project is to develop a standard or
+standards that provide recognition and measurement requirements applicable to
+providers of non-exchange transactions, except for social benefits;
+(c) Revenue: the scope of the project is to develop new standard -level
+requirements and guidance on revenue to amend or supersede that currently located
+in IPSAS 9: Revenue from exchange transactions, IPSAS 11: Construction contracts
+and IPSAS 23: Revenue from non-exchange transactions (taxes and transfers);
+(d) Leases: the objective of the project is to develop revised requirements for
+lease accounting covering both lessees and lessors in order to maintain alignment with
+the underlying International Financial Reporting Standards. The project will result in
+a new IPSAS that will replace IPSAS 13: Leases. Approval of a new IPSAS on leases
+is projected for June 2019;
+(e) Public sector measurement: the objectives of this project include
+(i) issuing amended IPSAS standards with revised requirements for measurement at
+initial recognition, subsequent measurement and measurement -related disclosure;
+(ii) providing more detailed guidance on the implementation of replacement cost and
+cost of fulfilment and the circumstances under which these measurement bases will
+be used; and (iii) addressing transaction costs, including the specific issue of the
+capitalizing or expensing of borrowing costs;
+(f) Infrastructure assets: the objective of the project is to research and identi fy
+issues that preparers have when applying IPSAS 17: Property, plan and equipment to
+infrastructure assets. Informed by this research, the aim is to provide additional
+guidance on accounting for infrastructure assets.
+Recent and future requirements of the International Public Sector
+Accounting Standards
+19. The IPSAS Board issued the following standards: IPSAS 39: Employee benefits
+in 2016 and effective 1 January 2018, IPSAS 40: Public sector combinations in 2017
+and effective 1 January 2019, and IPSAS 41: Financial instruments in August 2018
+and effective 1 January 2022. These standards do not affect the Commission ’s
+financial statements for 2018, given that the Commission’s activities do not come
+under the scope of these standards.
+
+19-11959
+
+Standard
+
+Anticipated impact in the year of adoption
+
+IPSAS 39
+
+IPSAS 39 has no impact on the Commission because the “corridor
+method” of accounting for actuarial gains or losses, which is being
+eliminated, has never been applied since the adoption of IPSAS in
+2014. The Commission does not have any plan assets; therefore,
+there is no impact from the application of the net interest approach
+
+25/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+Standard
+
+Anticipated impact in the year of adoption
+
+prescribed by the standard. IPSAS 39 became effective from
+1 January 2018
+IPSAS 40
+
+There is no impact on the Commission’s financial statements from
+the application of IPSAS 40 for 2017, given that, to date, there have
+been no public sector combinations
+
+IPSAS 41
+
+IPSAS 41 substantially improves the relevance of information for
+financial assets and financial liabilities. It will replace IPSAS 29,
+Financial instruments: recognition and measurement, and improves
+that Standard’s requirements by introducing simplified
+classification and measurement requirements for financial assets, a
+forward-looking impairment model and a flexible hedge accounting
+model. IPSAS 41 will be effective from 1 January 2022. Its impact
+on the financial statements will be assessed prior to that date
+
+Authorization for issue
+20. The present financial statements are certified by the Assistant Secretary General, Controller, and approved by the Secretary-General. In accordance with
+financial regulation 6.2, the Secretary-General transmits these financial statements as
+at 31 December 2018 to the Board of Auditors by 31 March 2019. The report of the
+Board, together with the audited financial statements, is transmitted through the
+secretariat of the Commission to the Governing Council, whose Committee on
+Administrative Matters approves the budget and oversees the financial activities of
+the Commission.
+Note 3
+Significant accounting policies
+Financial assets classification
+21. The classification of financial assets depends primarily on the purpose for which
+the financial assets are acquired. The Commission classifies its financial assets in one
+of the categories shown below at initial recognition and re-evaluates the classification
+at each reporting date.
+Classification
+
+Financial assets
+
+Fair value through surplus or deficit
+
+Investments in cash pools and the United
+Nations Staff Mutual Insurance Society
+against Sickness and Accident
+
+Loans and receivables
+
+Cash and cash equivalents and receivables
+
+22. All financial assets are initially measured at fair value. The Commission initially
+recognizes financial assets classified as loans and receivables on the date on which
+they originated. All other financial assets are recognized initially on the trade date,
+which is the date on which the Commission becomes party to the contractual
+provisions of the instrument.
+23. Financial assets with maturities in excess of 12 months at the reporting date are
+categorized as non-current assets in the financial statements. Assets denominated in
+foreign currencies are translated into United States dollars at the United Nations
+26/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+operational rates of exchange prevailing at the reporting date, with net gains or losses
+recognized in surplus or deficit in the statement of financial performance.
+24. Financial assets at fair value through surplus or deficit are those that either have
+been designated in this category at initial recognition or are held for trading, or are
+acquired principally for the purpose of selling in the short term. These assets are
+measured at fair value at each reporting date, and any gains or losses arising from
+changes in the fair value are recorded as a variation to the investment proceeds, given
+that any gains are neither available nor utilizable by the Commission other than for
+the purposes of the payment of compensation awards (see note 6).
+25. Loans and receivables are non-derivative financial assets with fixed or
+determinable payments that are not quoted in an active ma rket. They are initially
+recorded at fair value plus transaction costs and subsequently reported at amortized
+cost calculated using the effective interest rate method. Interest revenue is recognized
+on a time-proportion basis using the effective interest rate method on the relevant
+financial asset.
+26. Financial assets are assessed at each reporting date to determine whether there
+is objective evidence of impairment. Evidence of impairment includes default or
+delinquency of the counterparty or the permanent reduction in value of the asset.
+Impairment losses are recognized against the statement of financial performance in
+the year in which they arise. Financial assets are derecognized when the rights to
+receive cash flows have expired or have been transferred and the Commission has
+transferred substantially all risks and rewards of the financial asset.
+27. Financial assets and liabilities are offset and the net amount reported in the
+statement of financial position when there is a legally enforceable right to offset the
+recognized amounts and there is an intention to settle on a net basis or realize the
+asset and settle the liability simultaneously.
+Investment in cash pools
+28. The United Nations Treasury invests funds pooled from the Secretariat and other
+participating entities. These pooled funds are combined in two internally managed
+cash pools. Participation in the cash pools implies sharing the risk and returns on
+investments with the other participants. Given that the funds are commingled and
+invested on a pool basis, each participant is exposed to the overall risk of the
+investment portfolio to the extent of the amount of cash invested.
+29. The Commission’s investment in the main cash pool is included as part of cash
+and cash equivalents, short-term investments and long-term investments in the
+statement of financial position, depending on the maturity period of the investments.
+Cash and cash equivalents
+30. Cash and cash equivalents comprise cash at bank and on hand and short -term,
+highly liquid investments with a maturity of three months or less from the date of
+acquisition.
+Receivables
+31. Receivables comprise amounts receivable for goods or services provided to
+other entities, receivables from other United Nations reporting entities and
+receivables from staff. Receivables that are considered material are subject to specific
+review, and an allowance for doubtful receivables is assessed on the basis of
+recoverability and ageing accordingly.
+
+19-11959
+
+27/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Other assets
+32. Other assets include education grant advances and prepayments that are
+recorded as an asset until goods are delivered or services are rendered by the other
+party, at which point the expense is recognized.
+Financial liabilities: classification
+33. Financial liabilities classified as “other financial liabilities” are initially
+recognized at fair value and subsequently measured at amortized cost. They include
+accounts payable, transfer payables, unspent funds held for future refunds and other
+liabilities such as balances payable to other United Nations reporting entities.
+Financial liabilities with a duration of less than 12 months are recognized at their
+nominal value. The Commission re-evaluates the classification of financial liabilities
+at each reporting date and derecognizes financial liabilities when its contractual
+obligations are discharged, waived, cancelled or expired.
+Financial liabilities: accounts payable and accrued liabilities
+34. Accounts payable and accrued liabilities arise from the purchase of goods and
+services that have been received but not paid for as at the reporting date. Payables are
+recognized and subsequently measured at their nominal value, given that they are, in
+general, due within 12 months.
+Financial liabilities: compensation awards
+35. A percentage of the proceeds from Iraqi oil sales is deposited into the
+Compensation Fund pursuant to Security Council resolutions 1483 (2003) and 1956
+(2010) and is used to pay compensation to successful claimants. The United Nations,
+through the Compensation Commission, is considered to be an agent responsible
+solely for the administration of the Fund (see para. 80 below). Accordingly, oil
+proceeds received are used solely for the purpose of payment of compensation awards
+and therefore do not meet revenue recognition criteria. Similarly, main pool
+investment proceeds are applied solely towards successful claims and do not meet
+revenue recognition criteria. Accordingly, the Commission recognizes an accounts
+payable balance for the total amount of oil proceeds deposited and investment
+proceeds, less any revenue drawn from the Compensation Fund for the administrative
+cost of the Commission.
+Operating leases: the Commission as “lessee”
+36. The Commission occupies premises and uses equipment through lease
+agreements. Leases in which all the risks and rewards of ownership are not
+substantially transferred to the Commission are classified as operating leases.
+Payments made under operating leases are charged to the statement of financial
+performance as an expense on a straight-line basis over the period of the lease.
+Employee benefits
+37. Employees comprise staff members, as described under Article 97 of the Charter
+of the United Nations, whose employment and contractual relationship is defined by
+a letter of appointment subject to regulations promulgated by the General Assembly
+pursuant to Article 101, paragraph 1, of the Charter. Employee benefits are classi fied
+as short-term benefits, long-term benefits, post-employment benefits and termination
+benefits.
+
+28/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Short-term employee benefits
+38. Short-term employee benefits are employee benefits (other than termination
+benefits, described in para. 47 below) that are payable within 12 months after the end
+of the year in which the employee renders the related services. Short -term employee
+benefits comprise first-time employee benefits (assignment grants), regular
+daily/weekly/monthly benefits (wages, salaries and allowances), compensated
+absences (paid sick leave and maternity/paternity leave) and other short -term benefits
+(death grant, education grant, reimbursement of taxes and home leave) provided to
+current employees on the basis of services rendered. All such benefits that are accrued
+but not paid are recognized as current liabilities within the statement of financial
+position.
+Post-employment benefits
+39. Post-employment benefits comprise after-service health insurance, end of
+service repatriation benefits and annual leave, which are accounted for as defined
+benefit plans in addition to the United Nations Joint Staff Pension Fund.
+Defined benefit plans
+40. The following benefits are accounted for as defined benefit plans: after -service
+health insurance, repatriation benefits (post-employment benefits) and accumulated
+annual leave that is commuted to cash upon separation from the Organization (other
+long-term benefits). Defined benefit plans are those for which the Commission ’s
+obligation is to provide agreed benefits, and therefore the Commission bears the
+actuarial risks. The liability for defined benefit plans is measured at the present value
+of the defined benefit obligation. Changes in the liability for defined benefit plans,
+excluding actuarial gains and losses, are recognized in the statement of financial
+performance in the year in which they occur. The Organization has chosen to
+recognize changes in the liability for defined-benefit plans from actuarial gains and
+losses directly through the statement of changes in net assets. As at the end of the
+reporting year, the Commission held no plan assets as defined by IPSAS 25:
+Employee benefits.
+41. The defined benefit obligations are calculated by independent actuaries using
+the projected unit credit method. The present value of the defined benefit obligation
+is determined by discounting the estimated future cash outflows using interest rates
+of high-quality corporate bonds with maturity dates approximating those of the
+individual plans.
+42. After-service health insurance. After-service health insurance provides
+worldwide coverage for necessary medical expenses of eligible former staff members
+and their dependants. Upon end of service, staff members and their dependants may
+elect to participate in a defined benefit health insurance plan of the United Nations,
+provided they have met some eligibility requirements, including 10 years of
+participation in a United Nations health plan for those who were recruited after 1 July
+2007 and 5 years for those who were recruited prior to that date. The after-service
+health insurance liability represents the present value of the share of the
+Commission’s medical insurance costs for retirees and the post-retirement benefit
+accrued to date by active staff. A factor in the after-service health insurance valuation
+is considering contributions by all plan participants in determining the Commission ’s
+residual liability. Contributions from retirees are deducted from the gross liability,
+together with a portion of the contributions fro m active staff, to arrive at the
+Organization’s residual liability in accordance with cost-sharing ratios authorized by
+the General Assembly.
+
+19-11959
+
+29/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+43. Repatriation benefits. Upon end of service, staff who meet some eligibility
+requirements, including residency outside their country of nationality at the time of
+separation, are entitled to a repatriation grant, which is based upon length of service,
+and travel and removal expenses. A liability is recognized from when the staff member
+joins the Commission and is measured as the present value of the estimated liability
+for settling these entitlements.
+44. Annual leave. The liabilities for annual leave represent unused accumulated
+leave days that are projected to be settled through a monetary payment to employees
+upon their separation from the Commission. The Commission recognizes as a liability
+the actuarial value of the total accumulated unused leave days of all staff members,
+up to a maximum of 60 days (18 days for temporary staff) as at the date of the
+statement of financial position. The methodology applies a last-in, first-out
+assumption in the determination of the annual leave liabilities, whereby staff members
+gain access to current period leave entitlements before they gain access to
+accumulated annual leave balances relating to prior periods. Effectively, the
+accumulated annual leave benefit is accessed more than 12 months after the end of
+the reporting period in which the benefit arose and, overall, there is an increase in the
+level of accumulated annual leave days, pointing to the commutation of accumulated
+annual leave to a cash settlement at end of service as the true liability of the
+Commission. The accumulated annual leave benefit reflecting the outflow of
+economic resources from the Commission at end of service is therefore classified
+under the category of other long-term benefits, it being noted that the portion of the
+accumulated annual leave benefit that is expected to be settled through monetary
+payment within 12 months after the reporting date is cla ssified as a current liability.
+In line with IPSAS 25: Employee benefits, other long-term benefits must be valued
+similarly to post-employment benefits; therefore, the Commission values its
+accumulated annual leave benefit liability as a defined, post -employment benefit that
+is actuarially valued.
+Pension plan: United Nations Joint Staff Pension Fund
+45. The Commission is a member organization participating in the United Nations
+Joint Staff Pension Fund, which was established by the General Assembly to provide
+retirement, death, disability and related benefits to employees. The Pension Fund is a
+funded, multi-employer defined benefit plan. As specified in article 3 (b) of the
+Regulations of the Pension Fund, membership in the Pension Fund shall be open t o
+the specialized agencies and to any other international, intergovernmental
+organization that participates in the common system of salaries, allowances and other
+conditions of service of the United Nations and the specialized agencies.
+46. The plan exposes participating organizations to actuarial risks associated with
+the current and former employees of other organizations participating in the Pension
+Fund, with the result that there is no consistent and reliable basis for allocating the
+obligation, plan assets and costs to individual organizations participating in the plan.
+The Commission and the Pension Fund, in line with the other participating
+organizations in the Pension Fund, are not in a position to identify the Commission ’s
+proportionate share of the defined benefit obligation, the plan assets and the costs
+associated with the plan with sufficient reliability for accounting purposes. The
+Commission has therefore treated this plan as if it were a defined contribution plan in
+line with the requirements of IPSAS 39. The Commission’s contributions to the plan
+during the financial period are recognized as expenses in the statement of financial
+performance.
+
+30/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Termination benefits
+47. Termination benefits are recognized as an expense when the Commiss ion is
+demonstrably committed, without a realistic possibility of withdrawal, to a plan to
+terminate the employment of a staff member before the normal retirement date.
+Termination benefits to be settled within 12 months are reported at the amount
+expected to be paid. Where termination benefits fall due more than 12 months after
+the reporting date, they are discounted if the impact of discounting is material.
+Other long-term employee benefits
+48. Other long-term employee benefit obligations are benefits, or portions of
+benefits, that are not due to be settled within 12 months after the end of the year in
+which employees provide the related service. Accumulated annual leave is an example
+of long-term employee benefits.
+Provisions
+49. Provisions are liabilities recognized for future expenditure of uncertain amount
+or timing. A provision is recognized if, as a result of a past event, the Commission
+has a present legal or constructive obligation that can be estimated reliably and it is
+probable that an outflow of economic benefits will be required to settle the obligation.
+The provision is measured as the best estimate of the expenditure required to settle
+the present obligation at the reporting date. Where the effect of the time value of
+money is material, the provision is the present value of the amount expected to be
+required to settle the obligation.
+Contingent liabilities
+50. Any possible obligations that arise from past events, and whose existence will
+be confirmed only by the occurrence or non-occurrence of one or more uncertain
+future events not wholly within the control of the Commission, are disclosed as
+contingent liabilities. Contingent liabilities are also disclosed where present
+obligations that arise from past events cannot be recognized because it is not probable
+that an outflow of resources embodying economic benefits or service potential will
+be required to settle the obligations, or the amount of the obligations cannot be
+reliably measured.
+51. An indicative threshold of $10,000 applies in recognizing provisions and/or
+disclosing contingent liabilities in the notes to the financial statements.
+Contingent assets
+52. Contingent assets are possible assets that arise from past events and whose
+existence will be confirmed only by the occurrence or non-occurrence of one or more
+uncertain future events not wholly within the effective control of the Commission.
+Contingent assets are disclosed in the notes when it is more likely than not that
+economic benefits will flow to the Commission.
+Commitments
+53. Commitments are future expenses to be incurred by the Commission on
+contracts entered into by the reporting date and that the Commission has minimal, if
+any, discretion to avoid in the ordinary course of operations. Commitments include
+capital commitments (amount of contracts for capital expenses that are not paid or
+accrued by the reporting date), contracts for the supply of goods and services that will
+be delivered to the Commission in future years, non-cancellable minimum lease
+payments and other non-cancellable commitments.
+19-11959
+
+31/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Investment revenue
+54. Investment revenue includes the Commission’s share of net cash pool revenue
+and other interest revenue. The net cash pool revenue includes any gains and losses
+on the sale of investments, which are calculated as the difference between the sales
+proceeds and book value. Transaction costs that are directly attributable to the
+investment activities are netted against revenue, and the net revenue is distributed
+proportionately to all participants on the basis of their average daily balances. The
+cash pool revenue also includes unrealized market gains and losses on securities,
+which are distributed proportionately to all participants on the basis of year -end
+balances. Investment revenue is considered to be related to the Compensation Fund
+liability and recognized as accounts payable.
+Expenses
+55. Expenses are decreases in economic benefits or service potential during the
+reporting year in the form of outflows or consumption of assets or incurrence of
+liabilities that result in decreases in net assets and are recognized on an accrual basis
+when goods are delivered and services are rendered, regardless of the terms of payment.
+56. Employee salaries include international, national and general temporary staff
+salaries, post adjustments and staff assessments. The allowances and benefits include
+other staff entitlements, such as pension and insurance subsidies and staff assignment,
+repatriation and other allowances. Operating expenses include costs of conferencing,
+office rental costs and other immaterial expenses.
+Note 4
+Financial instruments
+Table 1
+Summary of financial instruments
+(Thousands of United States dollars)
+31 December 2018
+
+31 December 2017
+
+Short-term investments – main cash pool
+
+101 485
+
+18 466
+
+Subtotal short-term investments
+
+101 485
+
+18 466
+
+Long-term investments – main cash pool
+
+7 861
+
+5 796
+
+Subtotal long-term investments
+
+7 861
+
+5 796
+
+109 346
+
+24 262
+
+Cash and cash equivalents – main cash pool
+
+11 834
+
+2 074
+
+Subtotal cash and cash equivalents
+
+11 834
+
+2 074
+
+Total carrying amount of financial assets
+
+121 180
+
+26 336
+
+Of which relates to financial assets held in main cash pool
+
+121 180
+
+26 336
+
+Accounts payable and accrued liabilities – accounts payable
+
+–
+
+12
+
+Subtotal accounts payable and accrued liabilities
+
+–
+
+12
+
+Financial assets
+Fair value through surplus or deficit
+
+Total fair value through surplus or deficit investments
+Cash and cash equivalents
+
+Financial liabilities at amortized cost
+
+32/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+31 December 2018
+
+31 December 2017
+
+Accounts payable – compensation awards (note 6)
+
+106 701
+
+12 038
+
+Total carrying amount of financial liabilities
+
+106 701
+
+12 050
+
+Note 5
+Financial risk management and the main cash pool
+Main cash pool
+57. In addition to directly held cash and cash equivalents and investments, the
+Commission participates in the United Nations Treasury main pool. The main pool
+comprises operational bank account balances in a number of currencies and
+investments in United States dollars.
+58. Pooling the funds has a positive effect on overall investment performance and
+risk, because of economies of scale, and the ability to spread yield curve exposures
+across a range of maturities. The allocation of cash pool assets (cash and cash
+equivalents and short-term and long-term investments) and revenue is based on each
+participating entity’s principal balance.
+59. As at 31 December 2018, the Commission participated in the main pool, which
+held total assets of $7,504.8 million (2017: $8,086.5 million), of which $121.2 million
+was due to the Commission (2017: $26.3 million), and its share of revenue from the
+main pool was $1.3 million (2017: $0.3 million). The summary of financial
+instruments in the main pool is shown in table 2.
+Table 2
+Summary of assets and liabilities of the main pool as at 31 December 2018
+(Thousands of United States dollars)
+31 December 2018
+
+31 December 2017
+
+Short-term investments
+
+6 255 379
+
+5 645 952
+
+Long-term investments
+
+486 813
+
+1 779 739
+
+6 742 192
+
+7 425 691
+
+Cash and cash equivalents
+
+732 926
+
+636 711
+
+Accrued investment income
+
+29 696
+
+24 098
+
+762 622
+
+660 809
+
+7 504 814
+
+8 086 500
+
+121 180
+
+26 336
+
+7 383 634
+
+8 060 164
+
+7 504 814
+
+8 086 500
+
+–
+
+–
+
+Fair value through surplus or deficit
+
+Total fair value through surplus or deficit investments
+Loans and receivables
+
+Total loans and receivables
+Total carrying amount of financial assets
+Cash pool liabilities
+Payable to the Compensation Commission
+Payable to other cash pool participants
+Total liabilities
+Net assets
+
+19-11959
+
+33/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Table 3
+Summary of net revenue and expenses of the main pool for the year ended
+31 December 2018
+(Thousands of United States dollars)
+
+Investment revenue
+Unrealized gains/(losses)
+Investment revenue from main pool
+Foreign exchange gains/(losses)
+Bank fees
+Operating expenses from main pool
+Net revenue and expenses from main pool
+
+31 December 2018
+
+31 December 2017
+
+152 805
+
+104 576
+
+3 852
+
+874
+
+156 657
+
+105 450
+
+854
+
+7 824
+
+(805)
+
+(853)
+
+49
+
+6 971
+
+156 706
+
+112 421
+
+Financial risk management
+60. The United Nations Treasury is responsible for investment and risk management
+for the main pool, including conducting investment activities in accordance with the
+United Nations Investment Management Guidelines.
+61. The objective of investment management is to preserve capital and ensure
+sufficient liquidity to meet operating cash requirements while attaining a competitive
+market rate of return on each investment pool. Investment quality, safety and liquidity
+are emphasized over the market-rate-of-return component of the objectives.
+62. An investment committee periodically evaluates investment performance and
+assesses compliance with the Guidelines and makes recommendations for updates
+thereto.
+Financial risk management: credit risk
+63. The Guidelines require ongoing monitoring of issuer and counterparty credit
+ratings. Permissible main pool investments may include, but are not restricted to, bank
+deposits, commercial papers, supranational securities, government agency securities
+and government securities with maturities of five years or less. The main pool does
+not invest in derivative instruments such as asset-backed and mortgage-backed
+securities or equity products.
+64. The Guidelines require that investments not be made in issuers whose credit
+ratings are below specifications and provide for maximum concentrations with given
+issuers. These requirements were met at the time the investments we re made.
+65. The credit ratings used for the main pool are those determined by major credit rating agencies. S&P Global Ratings, Moody’s and Fitch are used to rate bonds and
+discounted instruments, and the Fitch viability rating is used to rate bank term
+deposits. The year-end credit ratings are shown in table 4.
+
+34/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Table 4
+Investments of the cash pool by credit ratings as at 31 December 2018
+(Percentage)
+Main pool
+
+Ratings as at 31 December 2018
+
+Ratings as at 31 December 2017
+
+Bonds (long-term ratings)
+AAA
+
+AA+/AA/AA-
+
+A+
+
+NR
+
+AAA
+
+AA+/AA/AA-
+
+A+
+
+NR
+
+S&P Global
+Ratings
+
+15.4
+
+79.0
+
+5.6
+
+–
+
+30.5
+
+65.5
+
+4.0
+
+–
+
+Fitch
+
+55.1
+
+39.3
+
+–
+
+5.6
+
+61.3
+
+30.6
+
+–
+
+8.1
+
+Aaa
+
+Aa1/Aa2/Aa3
+
+A1
+
+Aaa
+
+Aa1/Aa2/Aa3
+
+Moody’s
+
+49.7
+
+50.0
+
+0.3
+
+55.3
+
+44.7
+
+Commercial papers (short-term ratings)
+A-1+
+
+A-1+/A-1
+
+S&P Global
+Ratings
+
+100.0
+
+100.0
+
+F1+
+
+F1
+
+Fitch
+
+100.0
+
+100.0
+
+P-1
+
+P-1
+
+100.0
+
+100.0
+
+Moody’s
+
+Reverse repurchase agreement (short-term ratings)
+
+S&P Global
+Ratings
+Fitch
+Moody’s
+
+A-1+
+
+A-1+
+
+100.0
+
+100.0
+
+F1+
+
+F1+
+
+100.0
+
+100.0
+
+P-1
+
+P-1
+
+100.0
+
+100.0
+
+Term deposits (Fitch viability ratings)
+
+Fitch
+
+aaa
+
+aa/aa-
+
+a+/a/a-
+
+aaa
+
+aa/aa-
+
+a+/a/a-
+
+–
+
+53.5
+
+46.5
+
+–
+
+44.2
+
+55.8
+
+Abbreviation: NR, not rated.
+
+66. The United Nations Treasury actively monitors credit ratings and, because the
+Organization has invested only in securities with high credit ratings, management
+does not expect any counterparty to fail to meet its obligations, except for impaired
+investments.
+Financial risk management: liquidity risk
+67. The main pool is exposed to liquidity risk associated with the requirement of
+participants to make withdrawals on short notice. It maintains sufficient cash and
+marketable securities to meet participants’ commitments as and when they fall due.
+The major portion of cash and cash equivalents and investments are available within
+a day’s notice to support operational requirements. The main pool liquidity risk is
+therefore considered to be low.
+
+19-11959
+
+35/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Financial risk management: interest rate risk
+68. The main pool comprises the Organization’s main exposure to interest rate risk
+with fixed-rate cash and cash equivalents and investments being interest-bearing
+financial instruments. As at the reporting date, the main pool had invested primarily
+in securities with shorter terms to maturity, with the maximum being less than three
+years (2017: four years). The average duration of the main pool was 0.33 years (2017:
+0.61 years), which is considered to be an indicator of low risk.
+Main cash pool interest rate risk sensitivity analysis
+69. This analysis shows how the fair value of the main pool as at the re porting date
+would increase or decrease should the overall yield curve shift in response to changes
+in interest rates. Given that the investments are accounted for at fair value through
+surplus or deficit, the change in fair value represents the increase o r decrease of the
+surplus or deficit and net assets. The impact of a shift up or down of up to 200 basis
+points in the yield curve is shown in table 5 (100 basis points equals 1 per cent). The
+basis point shifts are illustrative.
+Table 5
+Main pool interest rate risk sensitivity analysis as at 31 December 2018
+(Millions of United States dollars)
+Shift in yield curve (basis points)
+
+-200
+
+-150
+
+-100
+
+-50
+
+0
+
++50
+
++100
+
++150
+
++200
+
+48.46
+
+36.34
+
+24.23
+
+12.11
+
+–
+
+(14.89)
+
+(24.22)
+
+(36.33)
+
+(48.44)
+
+Increase/(decrease) in fair value
+Main pool total
+
+Main pool interest rate risk sensitivity analysis as at 31 December 2017
+(Millions of United States dollars)
+Shift in yield curve (basis points)
+
+-200
+
+-150
+
+-100
+
+-50
+
+0
+
++50
+
++100
+
++150
+
++200
+
+95.47
+
+71.60
+
+47.73
+
+23.86
+
+–
+
+(23.86)
+
+(47.72)
+
+(71.57)
+
+(95.42)
+
+Increase/(decrease) in fair value
+Main pool total
+
+Other market price risk
+70. The main pool is not exposed to significant other price risks because it does not
+sell short, borrow securities or purchase securities on margin, which limits the
+potential loss of capital.
+Accounting classifications and fair value
+71. All investments are reported at fair value through surplus and deficit. Cash and
+cash equivalents carried at nominal value are deemed to be an approximation of fair
+value.
+Fair value hierarchy
+72. Table 6 presents financial instruments carried at fair value, by fair value
+hierarchy levels. The levels are defined as follows:
+(a)
+
+36/50
+
+Level 1: quoted prices (unadjusted) in active markets for identical assets
+or liabilities;
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+(b)
+
+Level 2: inputs other than quoted prices included within Level 1 that are
+observable for the asset or liability, either directly (i.e., as prices) or
+indirectly (i.e., derived from prices);
+
+(c)
+
+Level 3: inputs for the assets or liabilities that are not based on observable
+market data (i.e., unobservable inputs).
+
+73. The fair value of financial instruments traded in active markets is based on
+quoted market prices at the reporting date and is determined by the independent
+custodian on the basis of valuation of securities sourced from third parties. A market
+is regarded as active if quoted prices are readily and regularly available from an
+exchange, dealer, broker, industry group, pricing service or regulatory agency, and
+those prices represent actual and regularly occurring market transactions on an arm ’slength basis. The quoted market price used for financial assets held in the main pool
+is the current bid price.
+74. The fair value of financial instruments that are not traded on an active market is
+determined by using valuation techniques that maximize the use of observable market
+data. If all significant inputs required to determine the fair value of an instrument are
+observable, the instrument is included in level 2.
+75. The fair value hierarchy in table 6 presents the main pool assets that are
+measured at fair value at the reporting date. There were no level 3 financial assets nor
+any liabilities carried at fair value or any significant transfers of financial assets
+between fair value hierarchy classifications.
+Table 6
+Fair value hierarchy for investments as at 31 December: main pool
+(Thousands of United States dollars)
+31 December 2018
+Level 1
+
+31 December 2017
+
+Level 2
+
+Total
+
+Level 1
+
+Level 2
+
+Total
+
+Financial assets at fair value through surplus or deficit
+Bonds — corporate
+
+205 566
+
+–
+
+205 566
+
+355 262
+
+–
+
+355 262
+
+Bonds — non-United States agencies
+
+791 922
+
+–
+
+791 922
+
+1 190 050
+
+–
+
+1 190 050
+
+–
+
+–
+
+–
+
+124 892
+
+–
+
+124 892
+
+Bonds — supranationals
+
+174 592
+
+–
+
+174 592
+
+173 275
+
+–
+
+173 275
+
+Bonds — United States treasuries
+
+610 746
+
+–
+
+610 746
+
+610 267
+
+–
+
+610 267
+
+Main pool — commercial papers
+
+219 366
+
+–
+
+219 366
+
+671 945
+
+–
+
+671 945
+
+–
+
+4 740 000
+
+4 740 000
+
+–
+
+4 300 000
+
+4 300 000
+
+2 002 192
+
+4 740 000
+
+6 742 192
+
+3 125 691
+
+4 300 000
+
+7 425 691
+
+Bonds — non-United States sovereigns
+
+Main pool — term deposits
+Total main pool
+
+Note 6
+Accounts payable: compensation awards
+Background
+76. Funds to pay successful awards are drawn from the Compensation Fund, which
+receives a percentage of the proceeds generated by the export sales of Iraqi petroleum
+and petroleum products. This percentage has changed over the years and, under the
+terms of Security Council resolution 1483 (2003), was set at 5 per cent. Security
+Council resolution 1956 (2010) also provided for 5 per cent of the value of any
+non-monetary payments of petroleum, petroleum products and natural gas made to
+service providers to be deposited into the Compensation Fund. These requirements
+19-11959
+
+37/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+are binding on the Government of Iraq, unless the Government and the Governing
+Council of the Commission decide otherwise.
+77. In exercising its authority over the arrangements for ensuring that payments are
+made to the Compensation Fund, the Governing Council continues to monitor the
+deposit of revenue into the Compensation Fund.
+78. In response to a request from Iraq and owing to the extraordinarily difficult
+security circumstances facing the country in late 2014, the Governing Council
+adopted three decisions, 272 (2014), 273 (2015) and 274 (2016), in which it
+effectively postponed, from 2015 through 2017, the obligation of Iraq to deposit 5 per
+cent of oil proceeds and 5 per cent of the value of any non-monetary payments to
+service providers into the Compensation Fund. Under decision 274 (2016), deposits
+into the Compensation Fund were to resume on 1 January 2018.
+Decisions 275 (2017) and 276 (2017)
+79. In order to ensure the resolution of the $4.6 billion in outstanding compensation
+that remained to be paid, the Governing Council adopted decision 275 (2017), in
+which it called upon the Governments of Iraq and Kuwait to present options for the
+Governing Council’s consideration that would ensure the final payment of
+compensation towards the outstanding award by the end of 2021. At its special
+session, held on 21 November 2017, the Governing Council adopted decision 276
+(2017), which provides for 0.5 per cent of proceeds from the export sales of
+petroleum, petroleum products and natural gas and of the value of any non -monetary
+payments of petroleum, petroleum products and natural gas made to service providers
+to be deposited into the Compensation Fund from 1 January 2018 to 31 December
+2018. This amount increases progressively to 1.5 per cent from 1 January 2019 to
+31 December 2019 and to 3 per cent from 1 January 2020, until such time as the
+outstanding compensation award has been paid in full.
+Accounting for the oil proceeds
+80. Under IPSAS, other than any agreed proportion retained to fund the
+administration of the Commission, oil revenue received is not reflected as income on
+the Commission’s financial statements but as a liability. The obligation to pay the
+outstanding award rests with the Government of Iraq, not with the United Nations.
+The United Nations, through the Commission, is therefore considered to be acting as
+an “agent”, responsible solely for the administration of the Compensation Fund. Oil
+proceeds received from Iraq and deposited into the Fund are therefore recorded as
+cash (asset), with a corresponding recognition of accounts payable (liability), in
+favour of the outstanding claim.
+81. As provided for in decision 276 (2017), deposits of 0.5 per cent of the proceeds
+resumed as at 1 January 2018. During 2018, the Government of Iraq made deposits in
+the amount of $364.62 million to the Compensation Fund.
+82. Table 7 shows the movements in 2018. Investment proceeds accrued are an
+increase in the liability but are not available for disbursement until the associated cash
+is received.
+
+38/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Table 7
+Accounts payable: compensation awards
+(Thousands of United States dollars)
+Movement in the accounts payable: Compensation Fund
+
+Liability at 31 December 2017
+
+12 038
+
+Unrealized loss on investment reversal
+
+86
+
+Subtotal: gross liability as at 1 January 2018
+
+12 124
+
+Deposits from the Government of Iraq
+
+364 620
+
+Claim payments
+
+(270 000)
+
+2018 administrative budget
+
+(1 360)
+
+Gross investment proceeds
+
+1 683
+
+Subtotal: gross liability as at 31 December 2018
+
+107 067
+
+Unrealized loss on investment
+
+(366)
+
+Total liability at 31 December 2018
+
+106 701
+
+Accounting for claim payments
+83. Pursuant to Governing Council decision 267 (2009), payments are made on a
+quarterly basis utilizing all available funds in the Compensation Fund, rounding down
+to the nearest $10 million. Under IPSAS, claim payments made from the Commis sion
+are reflected as a direct reduction in the liability recorded to offset the cash deposits,
+rather than as an expenditure. In accordance with this decision and Governing Council
+decision 276 (2017), there were three payments for compensation awards in 2018,
+each $90 million, for a total of $270 million.
+Compensation awards approved but not yet paid as at year-end
+84. As at 31 December 2018, compensation awards approved by the Governing
+Council but not yet paid, pending receipt of deposits from the proceeds of oil export
+sales further to Security Council resolutions 1483 (2003) and 1956 (2010), stood at
+approximately $4,359 million (2017: $4,629 million).
+Note 7
+Employee benefits liabilities
+Table 8
+Employee benefits liabilities
+(Thousands of United States dollars)
+
+After-service health insurance
+
+Non-current
+
+Total as at
+31 December 2018
+
+124
+
+5 707
+
+5 831
+
+Annual leave
+
+1
+
+27
+
+28
+
+Repatriation benefits
+
+26
+
+53
+
+79
+
+151
+
+5 787
+
+5 938
+
+Termination benefits
+
+–
+
+186
+
+186
+
+Other employee benefits
+
+10
+
+–
+
+10
+
+161
+
+5 973
+
+6 134
+
+Subtotal defined benefit liabilities
+
+Total employee benefits liabilities
+
+19-11959
+
+Current
+
+39/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Current
+
+Non-current
+
+Total as at
+31 December 2017
+
+111
+
+5 797
+
+5 908
+
+Annual leave
+
+1
+
+28
+
+29
+
+Repatriation benefits
+
+14
+
+76
+
+90
+
+126
+
+5 901
+
+6 027
+
+Termination benefits
+
+–
+
+186
+
+186
+
+Other employee benefits
+
+8
+
+–
+
+8
+
+134
+
+6 087
+
+6 221
+
+After-service health insurance
+
+Subtotal defined benefit liabilities
+
+Total employee benefits liabilities
+
+85. Other employee benefits consist of accruals for home leave allowance and the
+settlement of employee taxes.
+86. The liabilities arising from end-of-service/post-employment benefits are
+determined by independent actuaries and are established in accordance with the Staff
+Regulations and Rules of the United Nations. Actuarial valuation is usually
+undertaken every two years, with the most recent full valuation conducted as at
+31 December 2017.
+87. The total employee benefits liability decreased by $0.09 million in 2018 owing
+in large part to the changes in financial assumptions used in the recent actuarial
+valuation, reflecting the update of the yield curves as at 31 December 2018. It resulted
+in an actuarial gain of $0.06 million, with the remaining $0.03 million constituted by
+service costs, interest on obligation and other employee benefits, offset by benefits
+paid.
+Actuarial valuation: assumptions
+88. The Commission reviews and selects assumptions and methods used by the
+actuaries in the year-end valuation to determine the expense and contribution
+requirements for the employee benefits. The principal actuarial assumptions used to
+determine the employee benefit obligations at year-end are set out in table 9.
+Table 9
+Actuarial assumptions used to determine employee benefits obligations
+(Percentage)
+After-service
+health insurance
+
+Repatriation
+benefits
+
+Annual leave
+
+Discount rates: 31 December 2017 valuation
+
+0.64
+
+2.64
+
+3.62
+
+Discount rates: 31 December 2018 valuation
+
+0.84
+
+3.41
+
+4.32
+
+Inflation: 31 December 2017 valuation
+
+4.00–5.70
+
+2.20
+
+–
+
+Inflation: 31 December 2018 valuation
+
+3.89–5.57
+
+2.20
+
+–
+
+Actuarial assumptions
+
+89. For the 2018 actuarial valuations, the yield curves used in the calculation of the
+discount rates in respect of the United States dollar, the euro and the Swiss franc are
+those developed by Aon Hewitt and detailed in the actuarial report. This is consistent
+with the decision of the Task Force on Accounting Standards established by the High level Committee on Management of the United Nations System Chief Executives
+Board for Coordination, taken in the context of the harmonization of actuarial
+assumptions throughout the United Nations system and the recommendation of the
+Advisory Committee on Administrative and Budgetary Questions ( A/71/815,
+para. 26) endorsed by the General Assembly in section IV of its resolution 71/272 B.
+40/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+The discount rates reflected in the 2018 after-service liability valuations were based
+on a weighted blend of per-currency discount rates, themselves calculated on the basis
+of United States dollar, euro and Swiss franc cash flows.
+90. As at 31 December 2018, the salary increase assumptions for the Professional
+staff category were 8.5 per cent (2017: 8.5 per cent) for the age of 23, grading down
+to 4.0 per cent (2017: 4.0 per cent) for the age of 70. The assumptions for the General
+Service staff category were 6.8 per cent (2017: 6.8 per cent) for the age of 19, grading
+down to 4.0 per cent (2017: 4.0 per cent) for the age of 65.
+91. The per capita claim costs for the after-service health insurance plans are
+updated to reflect recent claims and enrolment experience. The health -care cost trend
+rate assumption reflects the current short-term expectations of the after-service health
+insurance plan cost increases and the economic environment. Medical cost trend rate
+assumptions that were used for the valuation as at 31 December 2018 were updated
+to include escalation rates for future years. As at 31 December 2018, these escalation
+rates were a health-care yearly escalation rate of 3.89 per cent (2017: 4.00 per cent)
+for Swiss medical plans; a health-care escalation rate of 3.91 per cent (2017: 4.00 per
+cent) for eurozone medical plans and a health-care escalation rate of 5.57 per cent
+(2017: 5.70 per cent) for all other medical plans, except 5.38 per cent (2017: 5.50 per
+cent) for the United States Medicare plan and 4.73 per cent (2017: 4.80 per cent) for
+the United States dental plan, grading down to 3.05 per cent over 9 years for Swiss
+medical plans, to 3.65 per cent over 4 years for eurozone medical plans, and to 3.85
+per cent over 14 years for all other medical plans.
+92. With regard to the valuation of repatriation benefits as at 31 December 2018,
+inflation in travel costs was assumed to be 2.20 per cent (2017: 2.20 per cent), on the
+basis of the projected United States inflation rate over the coming 20 years. The
+assumption for 2017 was over 10 years.
+93. Annual leave balances were assumed to increase at the following annual rates
+during the staff members’ projected years of service: 1 to 3 years – 9.1 per cent; 4 to
+8 years – 1.0 per cent; 9 years and over –— 0.1 per cent. The attribution method
+continues to be used for annual leave actuarial valuation.
+94. For defined-benefit plans, assumptions regarding future mortality are based on
+published statistics and mortality tables. Salary increases, retirement, withdrawal and
+mortality assumptions are consistent with those used by the United Nations Joint Staff
+Pension Fund in making its actuarial valuation.
+Movement in employee benefits liabilities accounted for as defined benefit plans
+Table 10
+Movement in employee benefits liabilities accounted for as defined benefit plans
+(Thousands of United States dollars)
+
+Net defined benefit liability as at 1 January
+
+2017
+
+6 027
+
+6 091
+
+Current service cost
+
+58
+
+85
+
+Interest cost
+
+40
+
+45
+
+98
+
+130
+
+Benefits paid
+
+(127)
+
+(144)
+
+Actuarial (gains)/losses recognized directly in the
+statement of changes in net assets
+
+(60)
+
+(50)
+
+5 938
+
+6 027
+
+Total net costs recognized in the statement of
+financial performance
+
+Net defined benefit liability as at 31 December
+
+19-11959
+
+2018
+
+41/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+95. The total amount of current service and interest costs recognized in the
+statement of financial performance was $0.10 million.
+Discount rate sensitivity analysis
+96. The changes in discount rates are driven by the discount curve, which is
+calculated on the basis of corporate bonds. The bonds markets varied over the
+reporting year, and volatility affects the discount rate assumption. Should the discount
+rate assumption vary by 1 per cent, its impact on the obligation s would be as shown
+in table 11.
+Table 11
+Discount rate sensitivity to end-of-year employee benefits liabilities
+(Thousands of United States dollars)
+After-service
+health insurance
+
+Repatriation
+benefits
+
+Annual leave
+
+(270)
+
+(3)
+
+(3)
+
+(5)
+
+(3)
+
+(10)
+
+290
+
+3
+
+4
+
+5
+
+3
+
+14
+
+(274)
+
+(3)
+
+(3)
+
+(5)
+
+(4)
+
+(10)
+
+294
+
+3
+
+4
+
+5
+
+3
+
+14
+
+For the year ended 31 December 2018
+Increase of discount rate by 1 per cent
+As a percentage of end-of-year liability
+Decrease of discount rate by 1 per cent
+As a percentage of end-of-year liability
+For the year ended 31 December 2017
+Increase of discount rate by 1 per cent
+As a percentage of end-of-year liability
+Decrease of discount rate by 1 per cent
+As a percentage of end-of-year liability
+
+Medical costs sensitivity analysis
+97. The principal assumption in the valuation of the after-service health insurance
+is the rate at which medical costs are expected to increase in the future. The sensitivity
+analysis looks at the change in liability resulting from changes in medical cost rates
+while holding other assumptions constant; the key assumption held constant is the
+discount rate. Should the medical cost trend assumption vary by 1 per cent, the impact
+on the measurement of the defined benefit obligations would be as shown in table 12.
+Table 12
+Effect of a 1 per cent movement in assumed medical cost trend rates
+(Thousands of United States dollars)
+Increase
+
+Decrease
+
+1 276
+
+(990)
+
+24
+
+(17)
+
+1 293
+
+(1 003)
+
+24
+
+(17)
+
+1 per cent movement in the assumed medical costs trend rates:
+31 December 2018
+Effect on the defined benefit obligation
+Effect on the aggregate of the current service cost and interest cost
+1 per cent movement in the assumed medical costs trend rates:
+31 December 2017
+Effect on the defined benefit obligation
+Effect on the aggregate of the current service cost and interest cost
+
+42/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Other defined-benefits plan information
+98. Benefits paid for 2018 are estimates of what would have been paid to separating
+staff and/or retirees during the year on the basis of the pattern of rights acquisition
+under each scheme: after-service health insurance, repatriation and commutation of
+accrued annual leave. The estimated defined-benefits payments (net of participants’
+contributions in these schemes) are shown in table 13 and historical information on
+liabilities for after-service health insurance, repatriation benefits and annual leave are
+shown in table 14.
+Table 13
+Estimated defined benefits payments, net of participants’ contributions
+(Thousands of United States dollars)
+After-service health insurance
+
+Repatriation benefits
+
+Annual leave
+
+Total
+
+2018
+
+112
+
+14
+
+1
+
+127
+
+2017
+
+105
+
+34
+
+5
+
+144
+
+Historical information
+Table 14
+Liabilities for after-service health insurance, repatriation benefits and
+annual leave, 2013–2018
+(Thousands of United States dollars)
+
+Present value of the
+defined benefit obligations
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+6 461
+
+8 298
+
+6 422
+
+6 091
+
+6 027
+
+5 938
+
+United Nations Joint Staff Pension Fund
+99. It is stated in the Regulations of the United Nations Joint Staff Pension Fund
+that the Pension Board shall have an actuarial valuation made of the Pension Fund at
+least once every three years by the consulting actuary. The practice of the Pension
+Board has been to carry out an actuarial valuation every two years using the open
+group aggregate method. The primary purpose of the actuarial valuation is to
+determine whether the current and estimated future assets of the Pension Fund will
+be sufficient to meet its liabilities.
+100. The Commission’s financial obligation to the Pension Fund consists of its
+mandated contribution, at the rate established by the General Assembly (currently at
+7.9 per cent for participants and 15.8 per cent for member organizations), together
+with any share of any actuarial deficiency payments under article 26 of the
+Regulations of the Pension Fund. Such deficiency payments are payable only if and
+when the Assembly has invoked the provision of article 26, following a determination
+that there is a requirement for deficiency payments based on an assessment of the
+actuarial sufficiency of the Pension Fund as of the valuation date. Each member
+organization shall contribute to this deficiency an a mount proportionate to the total
+contributions that each paid during the three years preceding the valuation date.
+101. During 2017, the Pension Fund identified that there were anomalies in the
+census data utilized in the actuarial valuation performed as a t 31 December 2015.
+Accordingly, as an exception to the normal biennial cycle, a roll forward of the
+participation data as at 31 December 2013 to 31 December 2016 was used by the
+Pension Fund for its 2016 financial statements.
+
+19-11959
+
+43/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+102. The actuarial valuation as at 31 December 2017 resulted in a funded ratio of
+actuarial assets to actuarial liabilities, assuming no future pension adjustments, of
+139.2 per cent (150.1 per cent in the 2016 roll forward). The funded ratio was 102.7
+per cent (101.4 per cent in the 2016 roll forward), when the current system of pension
+adjustments was taken into account.
+103. After assessing the actuarial sufficiency of the Fund, the consulting actuary
+concluded that there was no requirement, as at 31 December 2017, for def iciency
+payments under article 26 of the Regulations of the Pension Fund, given that the
+actuarial value of assets exceeded the actuarial value of all accrued liabilities under
+the plan. In addition, the market value of assets also exceeded the actuarial v alue of
+all accrued liabilities as at the valuation date. At the time of the preparation of this
+report, the General Assembly had not invoked the provision of article 26.
+104. Should article 26 be invoked owing to an actuarial deficiency, either during the
+ongoing operation or due to the termination of the Pension Fund pension plan,
+deficiency payments required from each member organization would be based on the
+proportion of that member organization’s contributions to the total contributions paid
+to the Pension Fund during the three years (2015, 2016 and 2017) amounted to
+$6,931.39 million.
+105. During 2018, contributions paid by the Commission to the Pension Fund
+amounted to $0.086 million (2017: $0.085 million). Expected contributions due in
+2019 are approximately $0.09 million.
+106. Membership in the Pension Fund may be terminated by a decision of the General
+Assembly, upon the affirmative recommendation of the Pension Board. A
+proportionate share of the total assets of the Pension Fund at the date of ter mination
+shall be paid to the former member organization for the exclusive benefit of its staff
+who were participants in the Pension Fund at that date, pursuant to an arrangement
+mutually agreed between the organization and the Pension Fund. The amount is
+determined by the Pension Board on the basis of an actuarial valuation of the assets
+and liabilities of the Pension Fund on the date of termination; no part of the assets
+that are in excess of the liabilities are included in the amount.
+107. The Board of Auditors carries out an annual audit of the Pension Fund and
+reports to the Pension Board and to the General Assembly on the audit annually. The
+Pension Fund publishes quarterly reports on its investments, which can be viewed on
+the Pension Fund’s website at www.unjspf.org.
+Impact of General Assembly resolutions on staff benefits
+108. On 23 December 2015, the General Assembly adopted resolution 70/244, in
+which it approved some changes to the conditions of service and entitlements for all
+staff serving in the organizations of the United Nations common system, as
+recommended by the International Civil Service Commission. Some of the changes
+affect the calculation of other long-term and end-of-service employee benefits
+liabilities. In addition, a revised education grant scheme has been implemented that
+affects the computation of this short-term benefit. The impact of these changes is
+explained below.
+
+44/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Change
+
+Details
+
+Increase in mandatory age of
+separation
+
+The mandatory age of retirement for staff who joined the United
+Nations on or after 1 January 2014 is 65. For those who joined
+before 1 January 2014, the mandatory age of separation was
+raised from 60 or 62 to 65 years with effect from 1 January 2018.
+This change is expected to have an impact on future calculations
+of employee benefits liabilities
+
+Unified salary structure
+
+A unified salary scales for internationally recruited staff
+(Professional and Field Service) went into effect on 1 January
+2017. Previously, the salary scales had been based on single or
+dependency rates. Those rates affected staff assessment and post
+adjustment amounts. The unified salary scale resulted in the
+elimination of single and dependency rates, and the dependency
+rate was replaced by an allowance for staff members who have
+recognized dependents in accordance with Staff Regulations and
+Rules of the United Nations. A revised staff assessment scale and
+pensionable remuneration scale were implemented, along with the
+unified salary structure. The change in salary scale did not result
+in reduced payments for staff members. Nevertheless, it is
+expected to affect the future valuation of the repatriation benefit
+and commuted annual leave
+
+Repatriation benefit
+
+Staff members are eligible to receive a repatriation grant upon
+separation, provided they have been in service for at least 1 year
+in a duty station outside their country of nationality. The General
+Assembly has since revised eligibility for the repatriation grant
+from 1 to 5 years for prospective employees, while current
+employees retain the 1-year eligibility. This change in eligibility
+criteria was already implemented effective 1 January 2017 and is
+expected to affect future calculations of employee bene fits
+liabilities
+
+Education grant
+
+With effect from the school year in progress on 1 January 2018,
+the computation of the education grant given to eligible staff
+members utilizes a global sliding scale that is set in a single
+currency (United States dollar), with the same maximum amount
+of the grant for all countries. In addition, this revised education
+grant scheme also changes boarding assistance and education
+grant travel provided by the Commission. The impact can be seen
+at the end of the 2017–2018 school year and at the time of
+settlements.
+
+109. The impact of these changes, other than the education grant, has been fully
+reflected in the actuarial valuation conducted in 2018.
+Termination benefits
+110. Some staff members are entitled to a termination indemnity should the
+Commission terminate their appointments. The Commission’s accrued liability for
+these costs at year-end was $0.19 million (2017: $0.19 million).
+
+19-11959
+
+45/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Note 8
+Net assets
+111. Net assets and reserves represent the residual interest in the assets of the
+Commission after deducting all its liabilities. The financial statements reflect the
+aggregation of two funds: the Compensation Fund and the Follow-up Programme for
+Environmental Awards.
+Operating reserve
+112. An operating reserve was established by the Governing Council to finance the
+Commission’s administrative expenses, and this reserve is set aside within the
+Compensation Fund. As at 31 December 2018, the balance of the operating reserve is
+$8.33 million (2017: $8.06 million).
+113. A separate operating reserve exists for the Follow-up Programme for
+Environmental Awards that represents a small amount of residual interest earned on
+the funds in the Follow-up Programme. This small reserve ($0.02 million) will be
+retained until closing for the orderly wind-down of the Commission and to cover any
+post-closure costs associated with the Programme.
+Note 9
+Revenue
+Amount charged for administration of claims
+114. Under IPSAS, revenue is recognized when funds are drawn from the
+Compensation Fund for the administrative costs of the Commission. At its 36th
+meeting, held in October 2017, the Committee on Administrative Matters of the
+Governing Council directed that, as with two previous budgets, the administrative
+budget for 2018 be drawn from the Compensation Fund, rather than from the
+operating reserve, in order to ensure that the reserve continues to remain at a sufficient
+level for the orderly wind-down of the Commission and to cover any post-closure
+costs.
+115. For the Follow-up Programme for Environmental Awards, revenue consists of
+interest and investment income on the balance of cash in the Programme fund.
+116. As a result of the budget being deducted from the Compensation Fund, statement
+II, statement of financial performance, shows a surplus for the year, which is
+incorporated into the operating reserve in statement I, statement of financial position.
+Note 10
+Expenses
+Table 15
+Expenses for the year
+(Thousands of United States dollars)
+31 December 2018
+
+31 December 2017
+
+Salaries and wages
+
+542
+
+531
+
+Pension and insurance benefits
+
+165
+
+196
+
+Other benefits
+
+(7)
+
+(46)
+
+700
+
+681
+
+Total employee salaries, allowances and benefits
+
+46/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+31 December 2018
+
+31 December 2017
+
+34
+
+46
+
+34
+
+46
+
+2
+
+1
+
+Total travel
+
+2
+
+1
+
+Contracted services
+
+283
+
+401
+
+Rent – offices and premises
+
+75
+
+74
+
+Other/miscellaneous operating expenses
+
+61
+
+15
+
+Total other operating expenses
+
+419
+
+490
+
+1 155
+
+1 218
+
+Consultants and contractors
+Total contractual services
+Travel
+
+Total
+
+117. Salaries and wages include international, General Service and temporary staff
+salaries, post adjustments and staff assessments. Other benefits include the
+repatriation grant, leave benefits and termination costs.
+118. Contractual services expenses include non-employee compensation, allowances
+and travel.
+119. Travel expenses include all staff and non-staff travel that is not considered to be
+an employee or contractual allowance or benefit.
+120. Other operating expenses are comprised primarily of conferencing, information
+technology and administrative services of the United Nations Office at Geneva; the
+costs associated with the audit by the Board; the rental charge for the Commission ’s
+office space at the United Nations Office at Geneva, which includes maintenance,
+utilities and security services costs; and foreign exchange losses.
+Note 11
+Segment reporting
+121. A segment is a distinguishable activity or group of activities for which financial
+information is reported separately in order to evaluate an entity’s past performance in
+achieving its objectives and for making decisions about the future allocation of
+resources. Segment reporting information is provided on the basis of two segments.
+122. The Compensation Fund segment contains the Compensation Fund and related
+activities of the Commission’s secretariat, which include the payment of
+compensation awards, addressing issues concerning the level of the contribution and
+arrangements of Iraq for ensuring that payments continue to be deposited into the
+Compensation Fund, servicing of the Governing Council, financial and general
+administrative activities of the secretariat and audit matters. In addition, as the
+Commission nears the conclusion of its mandate, the secretariat focuses additional
+efforts on liquidation-related activities to ensure the orderly wind-down of the
+Commission.
+123. With the mandate of the Follow-up Programme for Environmental Awards
+having been declared fulfilled by the Governing Council in late 2013, the Programme
+segment focuses on winding-down activities, audit matters and possible post-closure
+issues as they pertain to the Programme.
+124. The segment statements of financial position and financial performance are
+given in tables 16 and 17.
+
+19-11959
+
+47/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Table 16
+Segment statements of financial position as at 31 December 2018
+(Thousands of United States dollars)
+
+Compensation
+Fund
+
+Follow-up
+Programme for
+Environmental
+Awards
+
+Total
+
+Cash and cash equivalents
+
+11 833
+
+1
+
+11 834
+
+Investments
+
+101 470
+
+15
+
+101 485
+
+113 303
+
+16
+
+113 319
+
+7 860
+
+1
+
+7 861
+
+7 860
+
+1
+
+7 861
+
+121 163
+
+17
+
+121 180
+
+106 701
+
+–
+
+106 701
+
+161
+
+–
+
+161
+
+106 862
+
+–
+
+106 862
+
+5 973
+
+–
+
+5 973
+
+5 973
+
+–
+
+5 973
+
+112 835
+
+–
+
+112 835
+
+8 328
+
+17
+
+8 345
+
+Operating reserve
+
+8 328
+
+17
+
+8 345
+
+Net assets
+
+8 328
+
+17
+
+8 345
+
+Assets
+Current assets
+
+Total current assets
+Investments
+Total non-current assets
+Total assets
+Liabilities
+Current liabilities
+Accounts payable: compensation awards/
+environmental awards
+Employee benefits
+Total current liabilities
+Non-current liabilities
+Employee benefits
+Total non-current liabilities
+Total liabilities
+Net of total assets and total liabilities
+Net assets
+
+Table 17
+Segment statements of financial performance for the year ended
+31 December 2018
+(Thousands of United States dollars)
+
+Compensation
+Fund
+
+Follow-up
+Programme for
+Environmental
+Awards
+
+Total
+
+1 360
+
+–
+
+1 360
+
+1 360
+
+–
+
+1 360
+
+700
+
+–
+
+700
+
+Revenue
+Revenue
+Total revenue
+Expenses
+Employee salaries, allowances and benefits
+48/50
+
+19-11959
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+
+Compensation
+Fund
+
+Follow-up
+Programme for
+Environmental
+Awards
+
+Total
+
+Contractual services
+
+34
+
+–
+
+34
+
+Travel
+
+2
+
+–
+
+2
+
+Other operating expenses
+
+419
+
+–
+
+419
+
+Total expenses
+
+1 155
+
+–
+
+1 155
+
+205
+
+–
+
+205
+
+Surplus for the year
+
+Note 12
+Related parties
+Key management personnel
+125. Key management personnel are those with the ability to exercise significant
+influence over financial and operating decisions. The head of the Commission ’s
+secretariat, the Executive Head, serves as the representative of the Secretary -General
+and has the authority and responsibility for planning, directing and controlling
+activities.
+126. The aggregate remuneration paid to key management personnel includes net
+salaries, post adjustment, such entitlements as allowances, grants and subsidies, and
+employer pension and health insurance contributions. Key management personnel are
+ordinary members of the United Nations Joint Staff Pension Fund and qualify for
+post-employment benefits at the same level as other employees. These benefits,
+payable on separation, cannot be reliably quantified because they depend on the years
+of service and the actual separation date.
+127. The Commission had one staff member in the key management personnel
+category, with a total remuneration of $0.25 million over the financial year; such
+payments are in accordance with the Staff Regulations and Rules of the Unit ed
+Nations, the published salary scales of the United Nations and other publicly available
+documents. As at the reporting date, there were no advances or loans issued to key
+management personnel other than those commonly available to all staff members.
+During the year, the Commission paid no remuneration or other benefits, such as
+consulting or service fees, to close family members of key management personnel.
+Related party disclosures
+128. Except where otherwise stated in the present statements, all tr ansactions made
+with third parties, including United Nations organizations, occur within a normal
+supplier or client/recipient relationship or at arm’s-length terms and conditions.
+Transactions with the United Nations entities comprise those shown in table 18.
+Table 18
+Transactions with third parties
+(Thousands of United States dollars)
+Note
+
+31 December 2018
+
+31 December 2017
+
+128
+
+128
+
+Conference services
+
+97
+
+197
+
+Charges in relation to health insurance
+
+100
+
+99
+
+United Nations Office at Geneva
+Information technology and administrative services
+
+19-11959
+
+49/50
+
+United Nations Compensation Commission
+Notes to the 2018 financial statements (continued)
+
+S/2019/630
+Note
+
+Rental
+Total United Nations Office at Geneva
+Office of Internal Oversight Services
+Total United Nations Offices at Geneva and
+Headquarters
+
+13
+
+31 December 2018
+
+31 December 2017
+
+73
+
+73
+
+398
+
+497
+
+–
+
+10
+
+398
+
+507
+
+Note 13
+Operating leases and commitments
+129. The Commission has entered into an operating lease arrangement with the
+United Nations Office at Geneva for the use of offices in Villa la Pelouse as its
+premises. The total lease payments recognized in expenditure for the year were
+$0.07 million (2017: $0.07 million). The arrangement has a six-month early
+termination clause and the future minimum lease payments for this six -month period
+are $0.04 million (2017: $0.04 million).
+130. As at the reporting date, there were contractual commitments for goods and
+services contracted but not delivered for an amount of less than $0.01 million (2017:
+no commitments).
+Note 14
+Contingent liabilities and contingent assets
+131. In the normal course of operations, the Commission may be subject to claims
+that can be categorized as corporate and commercial, administrative law and other.
+As at the reporting date, the Commission had neither contingent liabilities nor assets.
+Note 15
+Events after the reporting date
+132. There have been no material events, favourable or unfavourable, that occurred
+between the date of the financial statements and the date on which the financial
+statements were authorized for issue that would have had a material impact on these
+statements.
+
+50/50
+
+19-11959

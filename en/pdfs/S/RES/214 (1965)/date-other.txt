@@ -1,0 +1,3 @@
+1965-09-27
+rule: any
+raw: 27 September 1965

@@ -1,0 +1,3 @@
+1982-01-14
+rule: any
+raw: 14 January 1982

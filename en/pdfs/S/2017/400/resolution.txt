@@ -1,0 +1,3144 @@
+S/2017/400
+
+United Nations
+
+Security Council
+
+Distr.: General
+5 May 2017
+Original: English
+
+Letter dated 4 May 2017 from the Secretary-General addressed to
+the President of the Security Council
+I have the honour to transmit to you herewith a communication, dated 2 May
+2017, which I received from the Director General of the Organization for the
+Prohibition of Chemical Weapons (OPCW) (see annex). The letter transmits the
+report of the OPCW fact-finding mission in the Syrian Arab Republic regarding the
+incident of 16 September 2016, as reported in the note verbale of the Syrian Arab
+Republic, number 113, dated 29 November 2016.
+I should be grateful if you would bring the present letter and its ann ex to the
+attention of the members of the Security Council.
+(Signed) António Guterres
+
+17-07534 (E)
+
+120517
+
+*1707534*
+
+S/2017/400
+
+Annex
+[Original: Arabic, Chinese, English,
+French, Russian and Spanish]
+I have the honour to transmit to you my report entitled “Report of the OPCW
+Fact-Finding Mission in Syria regarding the incident of 16 September 2016, as
+reported in the note verbale of the Syrian Arab Republic, number 113, dated
+29 November 2016” (see enclosure).
+(Signed) Ahmet Üzümcü
+
+2/53
+
+17-07534
+
+S/2017/400
+
+Enclosure
+[Original: Arabic, Chinese, English, French, Russian and Spanish]
+
+NOTE BY THE TECHNICAL SECRETARIAT
+REPORT OF THE OPCW FACT-FINDING MISSION IN SYRIA
+REGARDING THE INCIDENT OF 16 SEPTEMBER 2016 AS
+REPORTED IN THE NOTE VERBALE OF THE SYRIAN ARAB
+REPUBLIC NUMBER 113 DATED 29 NOVEMBER 2016
+
+17-07534
+
+3/53
+
+S/2017/400
+
+TABLE OF CONTENTS
+1.
+
+EXECUTIVE SUMMARY ........................................................................................................... 5
+
+2.
+
+FACT-FINDING MISSION BACKGROUND INFORMATION............................................. 7
+
+3.
+
+INITIAL DEPLOYMENT ............................................................................................................ 7
+
+4.
+
+SECOND DEPLOYMENT ........................................................................................................... 8
+
+5.
+
+DATA ANALYSIS ......................................................................................................................... 8
+
+6.
+
+CONCLUSIONS .......................................................................................................................... 24
+
+7.
+
+FACT-FINDING MISSION MANDATED AIMS .................................................................... 25
+
+8.
+
+OPERATIONAL INSTRUCTIONS .......................................................................................... 25
+
+9.
+
+SIGNATURE ................................................................................................................................ 26
+
+TABLE OF ANNEXES (ENGLISH ONLY)
+
+ANNEX 1:
+
+LIST OF CORRESPONDENCE WITH THE NATIONAL AUTHORITY OF THE
+SYRIAN ARAB REPUBLIC ...................................................................................... 27
+
+ANNEX 2:
+
+LIST
+OF
+INFORMATION
+RECEIVED/HANDED
+OVER
+DURING
+DEPLOYMENTS FROM/TO THE AUTHORITES OF THE SYRIAN ARAB
+REPUBLIC.................................................................................................................... 28
+
+ANNEX 3:
+
+LIST OF CORRESPONDENCE WITH THE NATIONAL AUTHORITY OF THE
+RUSSIAN FEDERATION ............................................................................................ 29
+
+ANNEX 4:
+
+DOCUMENTATION RECEIVED VIA EMAIL FROM RUSSIAN FEDERATION
+PERMANENT REPRESENTATION TO OPCW ON 02 MAR 2017 ......................... 30
+
+ANNEX 5:
+
+LIST OF ITEMS RELATED TO THE TECHNICAL WEAPON EXPLOITATION
+AND LEFT IN SSRC BARZI ....................................................................................... 31
+
+ANNEX 6:
+
+LIST OF SAMPLES TRASPORTED FOR OFF-SITE ANALYSIS ........................... 32
+
+ANNEX 7:
+
+LIST OF SAMPLES LEFT IN JOINT CUSTODY IN SSRC IN BARZI ................... 33
+
+ANNEX 8:
+
+SELECT SAMPLE PHOTOGRAPHS ......................................................................... 34
+
+ANNEX 9:
+
+TECHNICAL WEAPONS EXPLOITATION REPORT ............................................. 39
+
+ANNEX 10: REPORT ON THE ANALYSIS OF FFM SAMPLES RETURNED BY TEAM
+BRAVO ......................................................................................................................... 44
+ANNEX 11: REPORT ON THE ANALYSIS OF FFM SAMPLES RELATED TO THE
+UM-HOUSH INCIDENT RETURNED BY TEAM BRAVO ..................................... 46
+ANNEX 12: MAPPING OF INCIDENT LOCATION ..................................................................... 51
+ANNEX 13: ANNEX 13:LIST OF MATERIAL GATHERED DURING THE INTERVIEW
+PROCESS...................................................................................................................... 53
+
+4/53
+
+17-07534
+
+S/2017/400
+
+1.
+
+EXECUTIVE SUMMARY
+
+1.1
+
+At its Forty-Eighth Meeting, the OPCW Executive Council (hereinafter “the Council”)
+adopted a decision entitled “Reports of the OPCW Fact-Finding Mission in Syria” (EC-M48/DEC.1, dated 4 February, 2015) in which, inter alia, it requested the Director-General to
+provide information on the progress of the Fact-Finding Mission (hereinafter “FFM”) and
+specific plans, schedules, and their implementation to the Council at its next regular session.
+In response to that request, the Technical Secretariat (hereinafter “the Secretariat”) submitted a
+Note to address the future activities of the FFM (S/1255/2015*, dated 10 March, 2015 and
+Add.1, dated 13 March 2015).
+
+1.2
+
+The Secretariat received Notes Verbales 109, dated 17 November 2016 and 113, dated
+29 November 2016, from the Syrian Arab Republic, requesting actions by the FFM. Note
+Verbale 109 contained correspondence 259, dated 16 November 2016, which referred to a
+number of incidents reported to have occurred on the territory of the Syrian Arab Republic.
+Note Verbale 113 contained correspondence 9551, dated 29 November 2016, which referred
+to an incident in Um-Housh on 16 September 2016.
+
+1.3
+
+Correspondence 9551 further reported that in accordance with Paragraph 6 of Article X of the
+Chemical Weapons Convention (hereinafter “the Convention”), the Syrian Arab Republic had
+requested the Russian Federation to provide assistance in order to collect and transfer evidence
+in connection with the incident in Um-Housh on 16 September 2016. Furthermore, it proposed
+that the Secretariat organise the handover of the samples and material evidence in Damascus
+in the presence of official representatives of the Russian military.
+
+1.4
+
+These Notes Verbales form the basis of the deployment of the FFM from 11 to 19 December
+2016 in regard to a number of incidents. However, this report only details the incident reported
+to have occurred in Um-Housh on 16 September 2016.
+
+1.5
+
+Following the receipt of the aforementioned Notes Verbales, the Director-General dispatched
+a team to collect the evidence pertinent to a number of alleged chemical incidents. The FFM
+deployed on two occasions—11 to 19 December 2016 and 6 to 12 January 2017—in order to
+gather facts and retrieve samples connected to the reported incidents. The team was composed
+of OPCW inspectors and interpreters. During these deployments, the FFM conducted
+interviews, collected testimonies, and reviewed documents and other information provided by
+the authorities of the Syrian Arab Republic. Furthermore, the FFM was able to visit the Syrian
+Scientific Studies and Research Centre (hereinafter “SSRC”) in Barzi to conduct physical
+examinations of items related to the reported incidents and was able to secure and recover
+samples for analysis at OPCW and Designated Laboratories.
+
+1.6
+
+The prevailing narrative provided by the testimonies of the two casualties who were
+interviewed by the FFM and the information provided by the authorities of the Syrian Arab
+Republic and the Russian Federation described the events in Um-Housh during the period 15
+and 16 September 2016. The narrative describes the use a number of projectiles, where two
+female casualties appeared to have been exposed to a toxic chemical substance. However, it
+appears that there was a considerable amount of time before access could be gained to
+interview any witnesses or other individuals connected to this incident or for any physical
+examination of the site that could be conducted by either of the abovementioned parties.
+
+17-07534
+
+5/53
+
+S/2017/400
+
+1.7
+
+While the incident is reported to have occurred on 16 September 2016, the Russian
+Federation’s Chemical, Biological, Radiological, and Nuclear Defence (“CBRN”) Team was
+not able to visit the site or interview any witnesses until 16 November 2016, nor was it able to
+visit the house where the two casualties involved in the incident lived. The Technical
+Committee of the Authorities of the Syrian Arab Republic was not able to visit the site until
+3 December 2016. While both the Russian Federation’s CBRN Team and the Technical
+Committee of the Authorities of the Syrian Arab Republic have reported that a mortar was
+recovered from the site of the incident, the whereabouts of any potential weapon that may
+have caused injuries to the two casualties has not been established. Due to the prevailing
+security situation, the FFM was not able to visit the site.
+
+1.8
+
+However based on the interviews carried out, the documents reviewed, and the results of blood
+sample analyses, the FFM can confirm that the two female casualties reported to have been
+involved in the incident in Um-Housh, Aleppo of 16 September 2016 were exposed to sulfur
+mustard.
+
+1.9
+
+Furthermore, the FFM conducted a thorough technical weapon exploitation on a 217-mm
+calibre mortar that included a non-destructive evaluation and sampling of the contents at the
+SSRC in Barzi. Supported by the results of laboratory analysis, the FFM has determined that
+this mortar, which was handed over by the experts of the Russian Federation’s CBRN Team to
+the authorities of the Syrian Arab Republic and reported to be connected to the described
+incident in Um-Housh on 16 September 2016, is a munition containing sulfur mustard.
+
+6/53
+
+17-07534
+
+S/2017/400
+
+2.
+
+FACT-FINDING MISSION BACKGROUND INFORMATION
+
+2.1
+
+The Secretariat received Notes Verbale 109, dated 17 November 2016, and Note Verbale 113,
+dated 29 November 2016 from the Syrian Arab Republic requesting actions by the FFM. Note
+Verbale 109 contained correspondence 259, dated 16 November 2016, which referred to a
+number of incidents reported to have occurred on the territory of the Syrian Arab Republic.
+Note Verbale 113 contained correspondence 9551, dated 29 November 2016 which referred to
+an incident in Um-Housh on 16 September 2016.
+
+2.2
+
+These Notes Verbales form the basis of the initial deployment of the FFM from 11 to
+19 December 2016. However, this report only details the incident listed in Note Verbale 113,
+dated 29 November 2016 and containing correspondence 9551.
+
+3.
+
+INITIAL DEPLOYMENT
+
+3.1
+
+The initial deployment comprised the Mission Team Leader, eight team members, and two
+qualified interpreters who conducted activities from 11 to 19 December 2016. The team met
+with the authorities of the Syrian Arab Republic to discuss the details of the deployment, and
+gathered information associated with the incident provided by the authorities of the Syrian
+Arab Republic. This included incident reports, medical records of casualties, names of the
+individuals affected, and treating hospital staff.
+
+3.2
+
+Additionally, the team was provided access to the SSRC in Barzi to inspect the unexploded
+munition, munition fragments, and environmental samples that were collected by the
+authorities of the Syrian Arab Republic and by the Russian Federation’s CBRN team.
+
+3.3
+
+The composition of the team deployed from 11 to 19 December 2016 was as follows:
+Team composition for initial deployment of the Fact-Finding Mission
+No.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Function
+Mission Team Leader
+Deputy Team Leader
+Confidentiality Officer
+Evidence Officer
+Logistics Officer
+Health & Safety Officer
+NDE Specialist
+NDE Specialist
+Interpreter
+Interpreter
+
+Speciality
+Inspection Team Leader
+Chemical Weapons Munitions Specialist
+Analytical Chemist Inspector
+Analytical Chemist Inspector
+Chemical Weapons Munitions Specialist
+Health & Safety Specialist Inspector
+Chemical Weapons Munitions Specialist
+Chemical Weapons Munitions Specialist
+N/A
+N/A
+
+3.4
+
+Over the course of the deployment, the team conducted two joint interviews with both of the
+casualties involved in the incident. Furthermore, the FFM was able to conduct technical
+exploitation of the unexploded munition and munition fragments and take and secure splits of
+environmental samples for further analysis by the OPCW at Designated Laboratories.
+
+3.5
+
+A full list of collected documents and samples can be found in Annex 2, Annex 5, and
+Annex 6.
+
+17-07534
+
+7/53
+
+S/2017/400
+
+4.
+
+SECOND DEPLOYMENT
+
+4.1
+
+The second deployment comprised the Mission Team Leader, the Confidentiality Officer, and
+one interpreter. The team deployed from 7 to 12 January 2017.
+Team composition of the second deployment of the Fact-Finding Mission
+No.
+1.
+2.
+3.
+
+Function
+Mission Team Leader
+Deputy Team Leader
+Interpreter
+
+Speciality
+Inspection Team Leader
+Analytical Chemist Inspector
+N/A
+
+4.2
+
+Upon arrival, the team met with the authorities of the Syrian Arab Republic to discuss the
+mission plan for movements to the SSRC in Barzi to repackage and take custody of the
+previously secured samples. The FFM was provided with additional documentation related to
+the incident in Um-Housh on 16 September 2016. A full list of collected documents can be
+found in Annex 2.
+
+5.
+
+DATA ANALYSIS
+The Data Analysis Methodology Employed by the Fact-Finding Mission
+
+5.1
+
+The FFM inspectors conducted an analysis of the alleged incident, with a focus on identifying
+aspects related to the use of chemicals as a weapon. The analysis methodology used by the
+team to evaluate interviews and documents provided by the authorities of the Syrian Arab
+Republic is described in this report in paragraphs 5.10 to 5.13 under “Interview methodology
+and analysis”, and paragraph 5.16 under “Analysis of information provided by the National
+Authority of the Syrian Arab Republic to the Fact-Finding Mission in the form of documents
+and services”.
+
+5.2
+
+The analysis of general information provided to the FFM in the form of records, services, and
+testimonies collected by the team was carried out by FFM team personnel upon returning from
+the second deployment. The analysis of the medical information provided to the FFM and
+testimonies collected by the team was carried out by the medical personnel within the FFM.
+The data analysis and methodology for interviews employed by the FFM was consistent with
+OPCW standard operating procedures.
+
+5.3
+
+A technical exploitation was performed on the unexploded munition and fragments in SSRC in
+Barzi by the FFM. This technical exploitation included physical examination, X-ray imagery,
+chemical detection, sampling, and tagging of the items.
+
+5.4
+
+Environmental samples recovered by the Russian Federation’s CBRN team from the location
+of the incident were handed over to a Technical Committee of the Authorities of the Syrian
+Arab Republic, which had been dispatched to Aleppo. The Technical Committee also
+conducted its own sampling activities in connection with the reported incident. The samples
+from both the Russian Federation’s CBRN team and the Technical Committee were further
+transported to the SSRC in Barzi where the FFM team was allowed access to all of the
+samples.
+
+8/53
+
+17-07534
+
+S/2017/400
+
+5.5
+
+The FFM was able to take and secure splits from samples provided by the Russian
+Federation’s CBRN team and the Technical Committee for further analysis by the OPCW. All
+splits and joint samples were secured under OPCW seal whilst awaiting arrangements for
+transportation back to the OPCW Laboratory. The remainder of the original samples were left
+in the custody of the SSRC in Barzi.
+
+5.6
+
+During the second deployment, the split samples were transported and accompanied to the
+OPCW Laboratory by OPCW staff. Samples were analysed by the OPCW Laboratory and
+splits of neat agent samples were retrieved from the unexploded munition and analysed by two
+OPCW Designated Laboratories.
+
+5.7
+
+Blood samples were collected by local medical staff from the two casualties, whom the FFM
+interviewed in connection with the incident; the collection was witnessed by FFM team
+members. These samples were secured under OPCW seal and later transported to the OPCW
+Laboratory by FFM team members. The biomedical samples were analysed by two OPCW
+Designated Laboratories.
+
+5.8
+
+After the FFM returned from its second deployment, a video conference was conducted on
+17 February 2017 with the Russian Federation’s CBRN team in an effort to clarify technical
+points regarding their involvement and subsequent activities in connection with the reported
+incident.
+
+5.9
+
+All of the analyses specified in paragraphs 5.2 to 5.8 were performed in accordance with the
+FFM’s mandate.
+Interview methodology and analysis
+
+5.10
+
+The interview analysis methodology employed by the FFM allowed individual accounts to be
+collated into a prevailing narrative, where factual content could be extracted and reported
+according to the mandate. The various steps of this methodology are described in the
+paragraphs below.
+
+5.11
+
+First, the audio and video records of each interview conducted by the team were translated and
+transcribed into English by qualified interpreters in order to facilitate their thorough analysis.
+
+5.12
+
+Then, the verbal content of each interview (the video, audio, and transcripts thereof) was
+carefully reviewed by at least two FFM inspectors. A timeline-based analysis table was
+produced in order to organise the individual responses. This allowed each respondent’s
+description of locations, sights, sounds, smells, and actions to be categorised according to
+relevant variables. During the interview review process, the FFM inspectors matched the
+interviewees’ responses with their respective variables in the analysis table. The result for each
+interview was a unique description of an evolving, sequential event, from the perspective of
+both interviewees. Once all relevant narratives had been individually assembled, they were
+compared against one another to identify commonalities and discrepancies.
+
+5.13
+
+Commonalities formed the basis of the prevailing narrative, and discrepancies were analysed
+in order to determine their significance. Given that the interviewees were themselves
+casualties and that there were significant ongoing combat operations in the area, the FFM
+
+17-07534
+
+9/53
+
+S/2017/400
+
+anticipated reasonable discrepancies in the events recalled from the casualties. In cases where
+discrepancies were minor or of little consequence to establishing a prevailing narrative (i.e.,
+the recollection of general timings and distances), they were disregarded. If reconciliation with
+the prevailing narrative was not possible, the discrepant narrative could be considered limited
+in value and therefore difficult to objectively address the FFM’s mandate aims.
+Analysis of the reported incident in Um-Housh on 16 September 2016
+5.14
+
+10/53
+
+The prevailing narrative established by interviews with two female casualties in relation to the
+aforementioned incident is as follows:
+(a)
+
+On “15 September 2016”, or “a few days post Eid” as stated by the interviewees, a
+projectile landed on the house of a woman living in the village of Um-Housh. The
+woman described the sound of gas leaking and smoke coming out of a projectile, which
+appeared to be black metal, and approximately 40-cm long and shaped like a “rocket”.
+There was ongoing fighting and the woman could not indicate the direction from which
+the projectile originated. The woman picked up the projectile and “placed it in the
+rubbish pile” in an effort to begin cleaning up her home from the debris and substance
+left from the munition. The whereabouts of the described projectile could not be
+determined.
+
+(b)
+
+The woman provided a description of the inside of the house, stating that the walls
+looked like they had been “painted black with an engine oil type substance, with black
+spots all over and there was a very bad smell.” She asked her neighbour to help her
+clean up the “mess”. Both women used water, brushes, and cleaning detergent to clean;
+the black colour on the walls changed to a dark yellow colour after cleaning. The
+substance “did not come off easily, it was sticky and you had to apply force to wipe the
+black stuff from the walls”.
+
+(c)
+
+Approximately two hours after finishing cleaning the house, the homeowner started to
+feel dizzy and described that her voice and face “were different”. She vomited that
+night and reported losing her vision for five days. Even though the neighbour who had
+helped clean took a shower and washed the clothing that she was wearing, she
+experienced similar symptoms during the same time-frame.
+
+(d)
+
+On 16 September 2016, both casualties self-reported to the Tell Refaat Hospital, where
+they received basic treatment and were discharged on the same day. Upon discharge
+from Tell Refaat Hospital, they then self-reported to Afrine Hospital for further
+assessment of their injuries. They were then admitted to Afrine Hospital where they
+remained for five days with a reported altered state of consciousness.
+
+(e)
+
+After five days in Afrine Hospital, both patients reported that their vision began to
+improve; however, symptoms associated with vision impairment lasted for
+approximately another 20 days. Both casualties’ hands and arms were wrapped in
+bandages, which were covering blisters containing a yellowish-coloured liquid.
+Initially, the blisters “did not cause a significant amount of pain”, but by the second
+day the pain was described by both casualties as “burning sensation on the hands,
+forearms, elbows, and feet” and “burning in the eyes”. The leg of one of the patients
+17-07534
+
+S/2017/400
+
+was swollen due to deep vein thrombosis (DVT) in the calf and she was unable to walk
+for ten days.
+(f)
+
+Over the course of their treatment, both casualties visited or were admitted to a number
+of treatment facilities including: Tell Refaat Hospital, Afrine Hospital, and Kefrnaya
+Poly-clinic. The casualties were eventually transferred to Hospital 601 in Damascus for
+further treatment—this is also where both casualties were interviewed by the FFM.
+
+Analysis of information provided by the National Authority of the Syrian Arab Republic to the
+Fact-Finding Mission in the form of documents and services
+5.15
+
+During the first deployment (11 to 19 December 2016) the FFM received a briefing pack from
+authorities of the Syrian Arab Republic including:
+(a)
+
+A report of the incident in Um-Housh, which included Google Earth images showing
+the location of the reported incident;
+
+(b)
+
+A hospital report from Afrine Hospital;
+
+(c)
+
+Medical records for the two casualties from Hospital 601;
+
+(d)
+
+An analysis report regarding some samples taken by the Technical Committee; and
+
+(e)
+
+Three videos of interviews with two villagers and the Director of Afrine Hospital.
+
+5.16
+
+The report describes that the incident occurred on 15 September 2016 where several “locally
+made mortar shells of several calibres landed” on the village of Um-Housh, “15 km north of
+Aleppo City”, with some failing to function as designed.
+
+5.17
+
+The Syrian Arab Republic requested the assistance of the Russian Federation “in order to
+validate the information” related to the incident.
+
+5.18
+
+“When the security situation improved”, a Technical Committee of the Authorities of the
+Syrian Arab Republic, consisting of five individuals, was able to visit Um-Housh on 3
+December 2016. The Committee interviewed doctors and patients connected to the incident,
+and was able to collect various samples from the alleged location of the incident (soil, wipe
+samples from munition fragments, and clothing samples from the casualties).
+
+5.19
+
+During its deployment, the FFM was shown the videos, which included an interview with a
+villager who indicated where another projectile had landed outside the wall of a dwelling
+inside the village of Um-Housh. The remnants of this projectile were, at the time of the film,
+still located just outside the wall of the dwelling. The Technical Committee collected and
+transported the remnants of this projectile to the SSRC in Barzi.
+Review of the medical records and the assessment of patient injuries
+
+5.20
+
+17-07534
+
+Following the review of medical records and witness testimonies regarding both casualties, it
+appears that both casualties experienced similar symptoms and treatment. Both casualties
+remained together during the entirety of the incident and treatment, as was the case when they
+11/53
+
+S/2017/400
+
+were interviewed by the FFM. The only significant difference in symptomology between the
+two casualties was the presentation of a DVT by one of the casualties. As indicated in the
+medical notes and records, it is assessed that this is likely due to lack of movement by the
+casualty at some point.
+5.21
+
+Early photos of the casualties’ injuries show blisters on the arms, which are typical of sulfur
+mustard injuries.
+
+Picture 1. Provided by authorities of the Syrian Arab Republic.
+5.22
+
+Photos taken by the FFM of the patients several months after the reported incident in Hospital
+601 show both typical and atypical signs of exposure to sulfur mustard.
+
+12/53
+
+17-07534
+
+S/2017/400
+
+Picture 2. Photo of a hand of a female casualty taken by the FFM.
+
+Picture 3. Photo of the upper arm of a female casualty taken by the FFM.
+
+17-07534
+
+13/53
+
+S/2017/400
+
+Picture 4. Photo of the upper arm of a female casualty taken by the FFM.
+
+Picture 5. Photo of the feet of a female casualty taken by the FFM.
+14/53
+
+17-07534
+
+S/2017/400
+
+5.23
+
+The photos of the feet, arms, and hands show vivid signs of discolouration patterns and injury.
+Hyper and hypo discolouration is generally only seen several months post incident, not within
+three to four months as is the case in these photographs. One possible explanation provided by
+medical staff at Hospital 601 is that this could be undiagnosed vitiligo.
+
+5.24
+
+Some of the scarring and epithelial proliferation (hypertrophic and keloid scars) may be the
+result of inadequate access to medical care, post injury. Some of these scars do appear similar
+to thermal burns; however, it is possibly due to inadequate treatment.
+
+5.25
+
+The casualties described losing vision with gradual restoration of sight and a burning sensation
+in the eyes, which is typical for sulfur mustard exposure; however, there was no indication of
+blepharitis, which is a common condition.
+
+5.26
+
+Both patients complained of some shortness of breath and tightness in the chest.
+
+5.27
+
+Overall, the history, presentation of the casualties, and subsequent treatment appears to be
+consistent with exposure to sulfur mustard.
+Video recording of the Director of Afrine Hospital
+
+5.28
+
+In a recorded interview with the Technical Committee of the Authorities of the Syrian Arab
+Republic, referring to the two casualties described above, the Medical Director of Afrine
+Hospital stated that both casualties had blisters on their faces, as well as the hands, feet and
+body and that they were in pain. His description is consistent with what was obtained from the
+casualties during interviews.
+
+5.29
+
+The Medical Director indicated that the Afrine Hospital Laboratory found evidence of
+“mustard gas” in blood and plasma samples taken from the patients. In response to this
+information, a team was tasked to collect soil and other samples from the patients’ house.
+These environmental samples were transported to the SSRC in Barzi. However, the blood and
+plasma samples that were taken during the course of the patient’s treatment appear to have
+been discarded.
+Weapon recovery by the Russian Federation’s CBRN Team
+
+5.30
+
+17-07534
+
+One unexploded projectile (mortar) is reported to have been recovered from
+Um-Housh by the Russian Federation’s CBRN Team on 16 November 2016. The projectile
+was then handed over to authorities of the Syrian Arab Republic, who transported it to the
+SSRC in Barzi for storage.
+
+15/53
+
+S/2017/400
+
+Picture 6. Photo of the tail boom of the reported unexploded projectile prior to extraction
+from the ground (provided by the authorities of the Syrian Arab Republic).
+
+Picture 7. Removal of the reported unexploded projectile. A visual assessment indicates that
+this is the projectile that was recovered by the Russian Federation’s CBRN team and handed
+over to the authorities of the Syrian Arab Republic.
+
+16/53
+
+17-07534
+
+S/2017/400
+
+Picture 8. Sampling operations being conducted by the Russian Federation’s CBRN team on
+the item that appears in Picture 7.
+FFM technical weapon exploitation
+5.31
+
+On 16 December 2016, the FFM team was able to conduct a thorough technical weapon
+exploitation and was able to collect samples at SSRC in Barzi from the projectile that was
+handed over by the Russian Federation’s CBRN team to the authorities of the Syrian Arab
+Republic.
+
+5.32
+
+During the preliminary check of the projectile, an LCD 3.3 indicated the presence of mustard.
+
+5.33
+
+X-ray images taken by the FFM indicated a visible liquid line in the tail boom section of the
+projectile. It is estimated that there was approximately 1 L of liquid contained within the
+projectile.
+
+5.34
+
+Based on the results of the technical weapon exploitation, the FFM’s initial assessment is that
+the projectile is a 217-mm calibre mortar with a liquid sulfur mustard fill.
+
+17-07534
+
+17/53
+
+S/2017/400
+
+Picture 9. Photograph of the mortar with dimensions and description.
+
+Picture 10. X-Ray image of the mortar indicating the liquid level and internal burster
+dimensions.
+18/53
+
+17-07534
+
+S/2017/400
+
+5.35
+
+During the technical exploitation, a physical examination was conducted on a munition
+fragment collected by the Technical Committee; the fragment appears to be similar in structure
+to the unexploded mortar. It is assessed that this is the fragment found in the video described
+in paragraph 5.19. There was no indication that a chemical warfare agent was present.
+
+Picture 11. Fragment of the mortar described in paragraphs 5.19 and 5.35.
+5.36
+
+17-07534
+
+At the end of the technical exploitation, the unexploded mortar and the munition fragment
+were tagged and repackaged. A short discussion ensued where the FFM Team Leader
+informed the authorities of the Syrian Arab Republic that the items were to be kept in storage
+whilst it was determined whether the items would be subject to systematic verification in
+accordance with Part IV (A), paragraphs 41 to 43 of the Verification Annex to the Convention.
+
+19/53
+
+S/2017/400
+
+Picture 12. Fragment of the mortar with the tag applied by the FFM.
+
+Picture 13. 217-mm calibre mortar with the tag applied by the FFM.
+20/53
+
+17-07534
+
+S/2017/400
+
+5.37
+
+The full Technical Weapons Exploitation Report can be found in Annex 9.
+Environmental sampling and analysis
+
+5.38
+
+A number of samples that were secured by the FFM were reported to have been recovered
+from Um-Housh by the Russian Federation’s CBRN Team on 16 November 2016. These
+samples were subsequently handed over to the authorities of the Syrian Arab Republic and
+were stored in the SSRC in Barzi in a secured fume hood.
+
+5.39
+
+The Technical Committee of the Authorities of the Syrian Arab Republic informed the FFM
+that they had also visited the location of the incident in order to conduct sampling activities.
+Samples taken by the Technical Committee were then transported to the SSRC in Barzi for
+further analysis.
+
+5.40
+
+The FFM team was given access to all samples in the custody of the authorities of the Syrian
+Arab Republic on 16 December 2016. The FFM team was provided the opportunity to conduct
+technical weapon exploitation and sample recovery activities on-site, where they were able to
+take splits of samples for further analysis by the OPCW.
+
+5.41
+
+Upon completion of sampling activities by the FFM, all splits, joint samples, and original
+samples were secured under OPCW seal. The authorities of the Syrian Arab Republic were
+informed that the splits would be collected at a later date for transport to the OPCW
+Laboratory.
+
+5.42
+
+On 10 January 2017, the split samples were recovered and packed by the FFM team for
+movement, first by road to Beirut, and subsequently by air and road to the OPCW laboratory.
+
+5.43
+
+Upon the arrival of the samples at the OPCW Laboratory, the samples were handed over to the
+Head of the Laboratory; the handover was witnessed by the FFM Team Leader and
+representatives of the authorities of the Syrian Arab Republic. All transfers of samples were
+documented and verified according to standard OPCW procedures.
+
+5.44
+
+The samples were analysed by the OPCW Laboratory. Additionally, neat agent samples were
+analysed by two OPCW Designated Laboratories. The laboratory reports from the Designated
+Laboratories indicated the presence of sulfur mustard in the neat agent samples. The OPCW
+Laboratory conducted a full screening of samples where sulfur mustard, its by-products, and
+degradation products were identified.
+
+5.45
+
+The OPCW Laboratory report indicated the presence and the relative quantities of disulfide
+and trisulfide mustard analogs. The presence of a number of chlorinated species indicates that
+an excess of sulfur monochloride (S2Cl2) was used. It is assessed that this sulfur mustard was
+most likely produced using the Levinstein process. The full laboratory report can be found in
+Annex 11.
+Biomedical sampling and analysis
+
+5.46
+
+17-07534
+
+During the interview of both casualties, it was agreed that blood samples would be collected
+for analysis by OPCW Designated Laboratories. The blood samples were collected by the
+
+21/53
+
+S/2017/400
+
+medical staff of Hospital 601, and that process was witnessed by two FFM team members.
+Both casualties agreed to and signed the bio-medical consent forms prior to the collection.
+5.47
+
+All collected samples were immediately handed over to the FFM team members and
+transported for further processing, storage, and transport. On 18 December 2016, the blood
+samples were packed according to the requirements for bio-medical sample transportation and
+were hand-carried back to the OPCW Laboratories accompanied by two assigned FFM team
+members.
+
+5.48
+
+On 19 December 2016, the samples were handed over to the OPCW Laboratory in the
+presence of the Head of the Laboratory and the FFM Team Leader. All transfers of samples
+were documented and verified according to standard OPCW procedures.
+
+5.49
+
+The biomedical samples were sent to two OPCW Designated Laboratories for further analysis.
+The laboratory reports indicated the presence of biomarkers of sulfur mustard exposure. The
+full bio-medical laboratory report can be found in Annex 10.
+Analysis of information provided by the Russian Federation to the authorities of the Syrian
+Arab Republic, which was subsequently handed over to the Fact-Finding Mission in the form
+of documents and services
+
+5.50
+
+Note Verbale 113 contained correspondence 9551, dated 29 November 2016, which referred to
+the incident in Um-Housh on 16 September 2016. In accordance with Paragraph 6 of Article X
+of the Convention, the authorities of the Syrian Arab Republic requested the Russian
+Federation to provide assistance in order to collect and transfer evidence in connection with
+this incident.
+
+5.51
+
+During the initial deployment of the FFM from 11 to 19 December 2016, the authorities of the
+Syrian Arab Republic handed over a written report describing the activities carried out by the
+Russian Federation’s CBRN team. This report contained:
+(a)
+
+A CD showing the sampling conducted in the village of Um-Housh;
+
+(b)
+
+A CD showing the hand-over of samples by the Russian experts to the authorities of the
+Syrian Arab Republic;
+
+(c)
+
+Russian laboratory test results;
+
+(d)
+
+A report from Afrine Hospital; and
+
+(e)
+
+Images of the two casualties.
+
+5.52
+
+This report, written by the authorities of the Syrian Arab Republic, states that on 16 of
+November 2016, the Russian Federation’s CBRN team visited the location of the incident in
+Um-Housh and conducted sampling activities in connection with the targeted home and an
+“unexploded locally manufactured mortar”. During a preliminary screening with a portable
+infrared spectrometer, the presence of “Yperite” (sulfur mustard) was indicated. The Russian
+Federation’s CBRN team was able to visit Afrine Hospital, where it met with treating medical
+staff and was able to interview the two casualties.
+
+22/53
+
+17-07534
+
+S/2017/400
+
+5.53
+
+The Russian experts sent the samples they had collected from the location of the incident for
+analysis at an accredited laboratory in the Russian Federation. The results from this laboratory
+confirmed the presence of “mustard gas”.
+
+5.54
+
+A full list of documents provided to the authorities of the Syrian Arab Republic by the Russian
+Federation can be found in Annex 2.
+Video conference conducted with the Russian Federation CBRN team on 17 February 2017
+
+5.55
+
+Following an exchange of emails between the FFM Team Leader and representatives of the
+Russian Federation in early February 2017, a video conference was arranged in order to clarify
+and confirm the activities of the Russian Federation CBRN team in connection with the
+incident.
+
+5.56
+
+The video conference took place on 17 February 2017 between the FFM team and members of
+the Russian Federation’s CBRN team. During the course of the video conference, it was
+established that the Russian Federation’s CBRN team was dispatched to Um-Housh on 16
+November 2016. The narrative established during the course of the video conference is as
+follows:
+
+17-07534
+
+(a)
+
+The CBRN team was able to recover the unexploded mortar and retrieve samples from
+it and the surrounding area. However, due to the prevailing security situation at the
+time, the CBRN team could not visit the house where two female casualties were
+reported to have obtained their injuries. Nevertheless, they were able to interview one of
+the casualties in a location nearby.
+
+(b)
+
+According to the Russian Federation’s CBRN Team Leader, the casualty reported that
+the village of Um-Housh was exposed to an attack with the use of chemical munitions,
+and that one of the munitions hit the building where she lived. After the attack, “there
+was a strong smell of garlic” in the house and “the walls and the floor were covered
+with a yellowish oily residue”. After doing housework, she and her female friend felt
+bad and were taken to Afrine Hospital.
+
+(c)
+
+The Russian Federation’s CBRN team was able to visit Afrine Hospital on
+20 November 2016. During the course of that visit, they received medical records and
+written testimonies from personnel who treated the casualties.
+
+(d)
+
+The Russian Federation’s CBRN Team Leader described how the samples were packed
+in hermetic containers and then sealed. The samples were stored in a special sealed
+room at the Reconciliation Centre in Aleppo. Four sets of samples were prepared, of
+which one set was sent to the Russian Federation for off-site analysis; the remainder
+appear to have been handed over to representatives of the authorities of the Syrian Arab
+Republic.
+
+(e)
+
+The Russian Federation’s CBRN Team Leader stated that he had prepared a written
+report for his commander. During the course of the video conference, the FFM Team
+Leader requested access to the Russian Federation’s CBRN team report and the full
+analysis report from the Russian Federation laboratory. This request was subsequently
+23/53
+
+S/2017/400
+
+transmitted to the authorities of the Russian Federation via Note Verbale
+NV/INS/208648/17, dated 23 February 2017. (At the time of the drafting of this report,
+the FFM has yet to receive the CBRN Team report).
+Review of the laboratory report submitted to the FFM on 30 March 2017.
+5.57
+
+On 30 March 2017, the FFM was provided with a document entitled ‘Data of sand and liquid
+samples analysis updated into OPCW Proficiency Testing format’. This report provided
+information related to the incident in Um-Housh. Two samples were analysed; a sand sample
+collected from what is described as the blast area in Um-Housh, and black liquid collected
+from a munition reported to have been found in Um-Housh. The samples were analysed using
+gas chromatography with mass spectrometry (in electron ionisation mode) and gas
+chromatography with tandem mass spectrometry (in chemical ionisation mode). The analysis
+of both samples indicated the presence of sulfur mustard.
+
+5.58
+
+A full list of documents provided by the Russian Federation can be found in Annex 3 and
+Annex 4.
+
+6.
+
+CONCLUSIONS
+
+6.1
+
+The prevailing narrative provided by the testimonies of two casualties who were interviewed
+by the FFM and the information provided by the authorities of the Syrian Arab Republic and
+the Russian Federation described the events in Um-Housh on 15 and 16 September 2016. The
+narrative describes the use of a number of projectiles, via which two female casualties
+appeared to have been exposed to a toxic chemical substance.
+
+6.2
+
+While the incident is reported to have occurred on 16 September 2016, the Russian
+Federation’s CBRN Team was not able to visit the site or interview witnesses until
+16 November 2016, nor was it able to visit the house where the two casualties lived. The
+Technical Committee of the Authorities of the Syrian Arab Republic was not able to visit the
+site until 3 December 2016. While both the Russian Federation’s CBRN Team and the
+Technical Committee of the Authorities of the Syrian Arab Republic have reported that a
+mortar was recovered from the site of the incident, the whereabouts of any potential weapon
+that may have caused injuries to the two casualties has not been established. Further, due to the
+prevailing security situation, the FFM was not able to visit the site.
+
+6.3
+
+However, based on the interviews carried out, the documents reviewed, and the results of
+blood sample analyses, the FFM can confirm that the two female casualties reported to have
+been involved in the incident in Um-Housh, Aleppo of 16 September 2016 were exposed to
+sulfur mustard.
+
+6.4
+
+Furthermore, the FFM conducted a thorough technical weapon exploitation on a 217-mm
+calibre mortar that included a non-destructive evaluation and sampling of the contents at the
+SSRC in Barzi. Supported by the results of laboratory analysis, the FFM has determined that
+this mortar—which was handed over by the experts of the Russian Federation’s CBRN Team
+to the authorities of the Syrian Arab Republic and reported to be connected to the described
+incident in Um-Housh on 16 September 2016—is a munition containing sulfur mustard.
+
+24/53
+
+17-07534
+
+S/2017/400
+
+7.
+
+FACT-FINDING MISSION MANDATED AIMS
+
+7.1
+
+To gather facts regarding the incident of alleged use of toxic chemicals as a weapon, as
+detailed in correspondence 259, dated 16 November 2016 and correspondence 9551, dated
+29 November 2016 received from the Syrian Arab Republic, while remaining mindful that the
+mandate of the FFM does not envision the attribution of responsibility for the alleged use;
+
+7.2
+
+To examine, and if deemed necessary by the FFM team, collect samples that have been handed
+to the Government of the Syrian Arab Republic by the experts of the CBRN units of the
+Russian Armed Forces, which were reported to have been removed from the area of the 1070
+housing district in the south-west of Aleppo city, and from the area of Maa’rata near the
+village of Um-Housh in a suburb of Aleppo;
+
+7.3
+
+To examine, and if deemed necessary by the FFM team, take the debris of the mortars that
+were handed over to the Government of the Syrian Arab Republic by the experts of the CBRN
+units of the Russian Armed Forces;
+
+7.4
+
+To examine, and if deemed necessary by the FFM team, collect samples from the one
+unexploded mortar that was handed over to the Government of the Syrian Arab Republic by
+the experts of the CBRN units of the Russian Armed Forces; and
+
+7.5
+
+Report to the Director-General upon conclusion of FFM activities.
+
+8.
+
+OPERATIONAL INSTRUCTIONS
+
+8.1
+
+In order to meet the requirements of paragraph 7.1 above, the FFM team should perform, inter
+alia, the following activities:
+
+8.2
+
+Review and analyse all available information pertaining to the reported incident of the alleged
+use of toxic chemicals a weapon;
+
+8.3
+
+Collect testimonies from persons alleged to have been affected by the use of toxic chemicals
+as a weapon, including those who underwent treatment, eyewitnesses of the alleged use of
+toxic chemicals, treating medical personnel, and other persons who had treated or come into
+contact with persons who may have been affected by the alleged use of toxic chemicals, as
+detailed in correspondence 259, dated 16 November 2016 and correspondence 9551, dated 29
+November 2016;
+
+8.4
+
+Examine and if possible, collect copies of hospital records, including patient registers,
+treatment records, and any other relevant records as deemed necessary;
+
+8.5
+
+Examine and if possible, collect copies of any other documentation and records deemed
+necessary; and
+
+8.6
+
+Take photographs and examine and, if possible, collect copies of video and telephone records.
+
+8.7
+
+In order to meet the requirements of paragraph 7.2 above, the FFM team should perform, inter
+alia, the following activities:
+
+17-07534
+
+25/53
+
+S/2017/400
+
+8.8
+
+As the samples were not collected directly on-site by the FFM, the team shall record the
+handover of such samples and ensure that they are treated in accordance with the established
+procedures, including the chain of custody provisions on, as applicable;
+
+8.9
+
+As necessary, conduct an examination of samples using approved OPCW methods and
+equipment in order to make a preliminary identification of the chemical agent, and provide the
+Government of the Syrian Arab Republic with a duplicate or portion of each sample;
+
+8.10
+
+In order to meet the requirements of paragraph 7.2 above, the FFM team should perform, inter
+alia, the following activities;
+
+8.11
+
+As necessary, conduct the non-destructive evaluation of munitions alleged to have been used
+during incidents under investigation using approved OPCW methods in order to determine the
+internal configuration of the items prior to sampling activities;
+
+8.12
+
+If feasible, collect samples of the fill material to confirm the presence or absence of chemical
+agent fill in the munitions alleged to have been used during incidents under investigation, and
+provide the Government of the Syrian Arab Republic with a duplicate or portion of each
+sample;
+
+8.13
+
+Examine available evidence on the origin of the munitions, including historical evidence as
+available, and obtain additional information to support a determination of the origin of the
+items. This may include the identification of recognisable labels, markings, design features of
+the munitions, and review of on-site non-destructive evaluation measurements;
+
+8.14
+
+Should the munitions in question be confirmed as chemical weapons, discuss the modalities
+for their storage in the Syrian Arab Republic, rather than transporting the munitions to OPCW
+laboratory in the Netherlands; and
+
+8.15
+
+Collect information in order to determine whether a systematic verification in accordance with
+Part IV (A), paragraph 41 to 43 of the Verification Annex to the Convention is required.
+
+9.
+
+SIGNATURE
+This Fact-Finding Mission report was submitted in April 2017 in English.
+
+[Signed]
+Steven Wallis
+Mission Leader
+
+26/53
+
+17-07534
+
+S/2017/400
+
+Annex 1
+LIST OF CORRESPONDENCE WITH THE NATIONAL AUTHORITY OF THE
+SYRIAN ARAB REPUBLIC
+Name
+SAR NV 113
+Letter to SAR,
+L/ODG/207468/16
+NV/ODG/206055/16
+
+NV/INS/OPB/208241/17
+
+17-07534
+
+DCN
+
+Date
+
+#0182081 29/11/2016
+NA
+
+Remarks
+Information regarding chemical
+weapons
+
+07/12/2016 Main body deployment
+
+Request to provide further information
+#6568/024 19/09/2016 regarding the alleged incident on
+16/09/16
+Request to provide further information
+NA
+02/02/2017 regarding the alleged incidents
+including Um-Housh
+
+27/53
+
+S/2017/400
+
+Annex 2
+LIST OF INFORMATION RECEIVED/HANDED OVER DURING DEPLOYMENTS
+FROM/TO THE AUTHORITES OF THE SYRIAN ARAB REPUBLIC
+First Deployment
+No.
+
+DCM
+
+Description
+
+Date Received/Handed Over
+
+1.
+
+6666/027
+
+List of samples held at SSRC in Barzi (Arabic)
+
+15/12/2016
+
+Received
+
+2.
+
+6666/029
+
+SD card containing sampling photos
+
+16/12/2016
+
+Handed over
+
+3.
+
+6666/030
+
+List of samples secured in SSRC in Barzi
+
+17/12/2016
+
+Handed over
+
+4.
+
+6666/031
+
+List of seals on the WA
+
+17/12/2016
+
+Handed over
+
+5.
+
+6666/032
+
+17/12/2016
+
+Handed over
+
+6.
+
+6666/034
+
+SD card with photos of Bio-medical samples
+Report on the incident in Um-Housh – Russian
+Federation information provided by SAR NA
+Document regarding used of HD by AOG in Um-Housh
+
+17/12/2016
+
+Received
+
+List of seals applied on the blood samples
+
+17/12/2016
+
+Handed over
+
+7.
+8.
+
+6666/035
+6666/040
+
+No.
+1.
+
+DCM
+6666/045
+
+Second Deployment
+Description
+
+17/12/2016
+
+Date Received/Handed Over
+
+SD card containing the copies of samples recovery photos
+
+10/01/2017
+
+Handed over
+Handed over
+Handed over
+
+2.
+
+6666/041
+
+List of seals on samples for off-site analysis
+
+10/01/2017
+
+3.
+
+6666/042
+
+List of seals on joint custody samples
+
+10/01/2017
+
+6666/050
+
+Post-deployment period
+Package of information regarding the incident in
+Um-Housh
+
+1.
+
+28/53
+
+Received
+
+20/01/2017
+
+Received
+
+17-07534
+
+S/2017/400
+
+Annex 3
+LIST OF CORRESPONDENCE WITH THE NATIONAL AUTHORITY OF THE
+RUSSIAN FEDERATION
+Name
+
+DCN
+
+Date
+
+NV/ODG/207153/16
+
+NA
+
+18/11/2016
+
+NV/INS/208648/17
+
+NA
+
+23/01/2017
+
+Email communication
+
+NA
+
+14/02/2017
+
+NV/INS/208825/17
+
+6666/061
+
+07/03/2017
+
+Data Laboratory Analysis
+
+6666/070
+
+30/03/2017
+
+17-07534
+
+Info
+The modality of taking custody of the samples –
+Um-Housh
+Request to provide the report on the samples and
+analysis related to the Um-Housh incident
+Notification for the date of the video conference
+with RF CBRN experts Um-Housh
+Request to provide more information about alleged
+incidents including Um-Housh
+Data of sand and liquid samples analysis updated
+into OPCW Proficiency Testing format
+
+29/53
+
+S/2017/400
+
+Annex 4
+DOCUMENTATION RECEIVED VIA EMAIL FROM RUSSIAN FEDERATION
+PERMANENT REPRESENTATION TO OPCW ON 02 MAR 2017
+Serial
+1.
+2.
+3.
+4.
+
+30/53
+
+Item
+Expert Conclusion
+Links to media-news
+List of MOD Servicemen
+Map co-ordinates – A3 format
+
+Remarks
+Copy received during initial FFM deployment
+
+See Annex 12.
+
+17-07534
+
+S/2017/400
+
+Annex 5
+LIST OF ITEMS RELATED TO THE TECHNICAL WEAPON EXPLOITATION
+AND LEFT IN SSRC BARZI
+No
+1.
+2.
+3.
+
+17-07534
+
+Tag Number
+28679
+28552
+0106378
+
+Description
+Munition Fragment
+Mortar, 217-mm calibre
+Drum – containing the mortar and the munition fragments
+
+31/53
+
+S/2017/400
+
+Annex 6
+LIST OF SAMPLES TRASPORTED FOR OFF-SITE ANALYSIS
+
+32/53
+
+No.
+
+New Sample Code
+
+Description
+
+1.
+
+01NAS
+
+Neat Agent - RF
+
+2.
+
+02NAS
+
+Neat Agent - RF
+
+3.
+
+03SLB
+
+Soil blank - RF
+
+4.
+
+04SLS
+
+Soil sample - RF
+
+5.
+
+05NAS
+
+Neat Agent - RF
+
+6.
+
+06SLB
+
+Soil blank - RF
+
+7.
+
+07SLS
+
+Soil sample - RF
+
+8.
+
+08SLS
+
+Soil sample - RF
+
+9.
+
+09SDS
+
+Soil blank - RF
+
+17.
+
+17WPS
+
+Internal Swab from projectile shrapnel- SAR
+Um-Housh
+
+18.
+
+18SLS
+
+Soil sample - SAR Um-Housh
+
+19.
+
+19WPS
+
+Swab from external wall of the house - SAR
+Um-Housh
+
+20.
+
+20SLS
+
+21.
+
+21WPS
+
+22.
+
+22SDS
+
+23.
+
+23WPB
+
+24.
+
+24SDB
+
+25.
+
+30NAS
+
+26.
+
+30NAB
+
+Soil sample - SAR Um-Housh
+Swab from projectile shrapnel
+Um-Housh
+Clothing from female casualty
+Um-Housh
+DCM solution used by SAR for wipes, swab and
+liquid samples
+DCM blank for 14SDS 15 WPS and 21 WPS
+Neat agent from mortar diluted in DCM
+DCM blank for 30NAS
+
+Incident
+place
+
+RF samples
+Um-Housh
+
+SAR
+Um-Housh
+
+OPCW
+Blank
+RF
+Um-Housh
+OPCW
+Blank
+
+17-07534
+
+S/2017/400
+
+Annex 7
+LIST OF SAMPLES LEFT IN JOINT CUSTODY IN SSRC IN BARZI
+No. New Sample Code
+
+17-07534
+
+Description
+
+1.
+2.
+3.
+
+01NAS
+02NAS
+03SLB
+
+Neat Agent - RF
+Neat Agent - RF
+Soil blank - RF
+
+4.
+
+04SLS
+
+Soil sample - RF
+
+5.
+
+05NAS
+
+Neat Agent - RF
+
+6.
+
+06SLB
+
+Soil blank - RF
+
+7.
+
+07SLS
+
+Soil sample - RF
+
+8.
+
+08SLS
+
+Soil sample - RF
+
+9.
+
+09SDS
+
+Soil blank - RF
+
+10.
+
+30NAS
+
+Neat agent from mortar diluted in DCM
+
+Incident
+place
+
+RF samples
+Um-Housh
+
+33/53
+
+S/2017/400
+
+Annex 8
+SELECT SAMPLE PHOTOGRAPHS
+Samples received during first deployment
+
+34/53
+
+17-07534
+
+S/2017/400
+
+17-07534
+
+35/53
+
+S/2017/400
+
+Post-packaging for storage
+
+36/53
+
+17-07534
+
+S/2017/400
+
+Samples repackaged for transportation during the second deployment
+
+17-07534
+
+37/53
+
+S/2017/400
+
+Samples and items in joint custody in SSRC in Barzi
+
+38/53
+
+17-07534
+
+S/2017/400
+
+Annex 9
+TECHNICAL WEAPONS EXPLOITATION REPORT
+Location: Barzi, Syria (SSRC – Institute 6000)
+Date: 16.12.2016
+Time: 12:35
+Nomenclature/Munition ID: suspected CW Mortar
+Country of Origin/Found: Recovered from Um-Housh, Syria (NNE Aleppo area)
+Team Chain of Command:
+1.
+
+FFM Team Leader
+
+2.
+
+Technical Weapons Exploitation Team Leader
+Personnel Make-Up of the Team:
+
+1.
+
+Munitions Assessment/NDE Lead
+
+2.
+
+Munitions Assessment/NDE
+
+3.
+
+Analytical Chemist, Sampling
+
+4.
+
+Health and Safety Specialist, Safety and Decontamination
+
+Equipment:
+1. Measuring Tools:
+
+2.
+
+3.
+
+4.
+
+17-07534
+
+a.
+
+Tape Measure
+
+b.
+
+Steel Callipers (inside & outside)
+
+c.
+
+Scale
+
+Assessment Equipment:
+a.
+
+RTR-4N (with XRS-3 & XRS-4 X-ray Sources)
+
+b.
+
+Quantum UPE
+
+c.
+
+LCD 3.3
+
+d.
+
+Calid Paper
+
+Photography Equipment:
+a.
+
+Digital Camera (2)
+
+b.
+
+Tripod
+
+Leak, Seal, and Packaging Equipment:
+a.
+
+Plaster-of-Paris
+
+b.
+
+Large Plastic Bags
+39/53
+
+S/2017/400
+
+5.
+
+6.
+
+c.
+
+Duct Tape
+
+d.
+
+Rags
+
+Decontamination:
+a.
+
+Shuffle Pit Tray
+
+b.
+
+Buckets
+
+c.
+
+BX-24
+
+d.
+
+Fast Act
+
+Other Equipment:
+a.
+
+Sand Bags
+
+b.
+
+Table
+
+c.
+
+Tarpaulin (drop cloth)
+
+d.
+
+Leather Gloves
+
+e.
+
+Various Tools
+
+Technical Data Checklist
+1.
+
+2.
+
+Complete Round
+a.
+
+Model: Unknown
+
+b.
+
+Type: Mortar
+
+c.
+
+Calibre: 217 mm
+
+d.
+
+Condition: Fired but failed to function as designed
+
+e.
+
+Overall Length (with fuse): No fuse present
+
+f.
+
+Overall Weight: 24 kgs*
+
+g.
+
+Fuse Model: No fuse present
+
+h.
+
+Fuse Type: N/A
+
+Projectile Model:
+a.
+
+Overall Length (without fuse): 750 mm
+
+b.
+
+Adapter Length (visible): No adapter present
+
+c.
+
+Adapter Length (overall): N/A
+
+* Mortar still contained approximately 1 litre of suspected HD
+40/53
+
+17-07534
+
+S/2017/400
+
+d.
+
+Ogive (Nose Cone) Length: 60 mm
+
+e.
+
+Bourrelet Length: 100 mm
+
+f.
+
+Number of Gas Checks: 3 (22 mm between gas check bands)
+
+g.
+
+Body Length: 420 mm
+
+h.
+
+Stabiliser Boom Length (visible):
+i.
+
+Total length with hex plug: 316 mm
+
+ii.
+
+Beginning of fins to body: 150 mm
+
+i.
+
+Stabiliser Boom Length (overall): 330 mm
+
+j.
+
+Hex Plug Diameter (Flat to Flat): 40 mm
+
+k.
+
+Hex Plug Flats: 25 mm (width) x 10 mm (height)
+
+l.
+
+Fin Length (along stabiliser boom): 160 mm
+i.
+
+Fin Length with Step: 95 mm
+
+ii.
+
+Fin Step: 10 mm
+
+iii.
+
+Angled Section of Fin Length: 90 mm
+
+iv.
+
+Fin Diameter: 3 mm
+
+m. Number of Fins: 8
+n.
+
+Diameter at Fuse Well:
+i.
+
+OD: 48 mm
+
+ii.
+
+ID: 40 mm
+
+o.
+
+Fuse Well Thickness: 4 mm
+
+p.
+
+Fuse Well Protrusion: 13 mm
+
+q.
+
+Adapter Diameter (maximum): N/A
+
+r.
+
+Adapter Thread Diameter: N/A
+
+s.
+
+Gas Check Width: 5 mm
+
+t.
+
+Body Diameter (maximum OD): 217 mm
+
+u.
+
+Body Diameter (minimum OD): 112 mm
+
+v.
+
+Wall Thickness: 6 – 8.3 mm
+
+w. Stabiliser Boom Diameter (OD): 92 mm
+
+17-07534
+
+x.
+
+Stabiliser Boom Diameter (ID): Not accessible (hex plug)
+
+y.
+
+Stabiliser Boom Thread Diameter: N/A
+41/53
+
+S/2017/400
+
+z.
+
+Number of Gas Ports: No gas ports present
+
+aa. Main Filler Cavity Depth: Same as entire projectile length minus the
+internal hex plug depth
+bb. Ignition Cartridge Cavity Depth: No ignition cartridge present
+cc. Number of Fuse Well Threads: 7
+dd. Number of Adapter Threads: N/A
+ee. Number of Stabiliser Boom Threads: N/A
+ff. Adapter Weight: N/A
+gg. Booster Charge Weight: No booster charge present
+hh. Main Filler Weight: Mortar contained approximately 1 litre of suspected
+Mustard (HD)
+ii.
+
+Adapter Material: N/A
+
+jj.
+
+Booster Charge Material: N/A
+
+kk. Projectile Material: Steel
+ll.
+
+Main Filler Material: suspected Mustard (HD)
+
+mm. Stabiliser Boom Material: Steel
+nn. Fin Material: Steel
+3.
+
+Ignition Cartridge
+No Ignition charge present
+
+4.
+
+Propellant Charge
+No propellant charge present
+
+5.
+
+42/53
+
+Painting and Markings
+a.
+
+Adapter Markings: N/A
+
+b.
+
+Projectile Colour; Markings:
+i.
+
+Unpainted
+
+ii.
+
+No visible markings
+
+iii.
+
+Entire mortar exhibited signs of corrosion
+
+iv.
+
+Mortar body coated with thin rubberised material
+
+v.
+
+Welds visible at front and aft section of mortar body
+
+17-07534
+
+S/2017/400
+
+c.
+
+6.
+
+17-07534
+
+Fin Colour; Markings:
+i.
+
+Unpainted
+
+ii.
+
+No visible markings
+
+d.
+
+Ignition Cartridge Colour; Markings: No ignition cartridge present
+
+e.
+
+Primer Colour; Markings: No primer present
+
+Additional Information
+a.
+
+Nose Cone: The nose cone was heavily dented from impact. In addition, the
+thickness of the nose cone was much thinner than the rest of the mortar
+body.
+
+b.
+
+Burster: X-ray analysis displayed the presence of an internal burster. Based
+on the RTR-4N software measurement tool, the measurements of the burster
+are as follows:
+i.
+
+Diameter: ≈ 46 mm
+
+ii.
+
+Length: ≈ 215 mm
+
+43/53
+
+S/2017/400
+
+Annex 10
+REPORT ON THE ANALYSIS OF FFM SAMPLES RETURNED BY TEAM BRAVO
+9 March 2017
+Hugh Gregg, Head, OPCW Laboratory
+Executive Summary
+Biomedical samples returned by FFM team Bravo have been analysed by OPCW Designated
+Laboratories. Both laboratories have submitted their complete reports.
+The following table summarises the findings.
+FFM
+Sample
+ID
+P1
+P2
+
+Anticoagulant
+
+Patient
+
+Sample ID
+
+EDTA
+EDTA
+
+A
+B
+
+P027
+P028
+
+Remarks
+Evidence of sulfur mustard
+intoxication
+
+Narrative
+The FFM team Bravo collected 2 blood samples from victims of an alleged chemical attack,
+and these samples were returned to the OPCW Laboratory on Monday 19 December 2016.
+The Director-General chose two OPCW Designated Laboratories for the analysis of the
+biomedical samples.
+The OPCW Laboratory prepared two control samples for the biomedical samples – one positive
+(human plasma spiked with sulfur mustard, designated as P030) and one negative (human
+plasma, designated as P029). All of the samples were shipped to the selected Designated
+Laboratories on Wednesday 18 January 2017. The Designated Laboratory analytical reports
+were received on 2 and 7 February 2017.
+All transfers of samples and materials were documented, and the chain of custody of all
+samples was maintained.
+The OPCW Designated Laboratories were tasked as follows:
+Scope of Analysis
+Please analyse these plasma samples for indicators of sulfur mustard exposure.
+Results
+The two laboratories analysing the biomedical samples both found adducts of sulfur mustard in
+samples P027, P028 and also the positive control sample P030, and found no adduct in the
+negative control, P029.
+[2-[(2-Hydroxyethyl)thio]-ethyl]-Cys-Pro-Phe ([S-HETE]- Cys-Pro-Phe) is one of the expected
+protein adducts after intoxication with sulfur mustard. Likewise, the bis(2-hydroxyethyl)sulfide
+may be released from the mustard adducted protein.
+The following table lists the detailed findings of each analysis.
+44/53
+
+17-07534
+
+S/2017/400
+
+Sample
+ID
+
+Remarks
+
+Chemical name & structure
+
+Lab #2
+
+Lab #3
+
+Positive
+
+Positive
+
+Positive
+
+Positive
+
+Positive
+
+Positive
+
+Bis(2-hydroxyethyl)sulfide
+HO
+OH
+S
+
+Positive
+
+Positive
+
+No human plasma biomarker of sulfur
+mustard exposure was detected
+
+Negative
+
+Negative
+
+Positive
+
+Positive
+
+Positive
+
+Positive
+
+[S-HETE]-Cys-Pro-Phe
+HO
+S
+
+S
+
+NH2
+N
+
+P027
+
+Authentic
+sample
+
+O
+O
+
+NH
+
+O
+OH
+
+Bis(2-hydroxyethyl)sulfide
+HO
+OH
+S
+[S-HETE]-Cys-Pro-Phe
+HO
+S
+
+S
+
+NH2
+N
+
+P028
+
+Authentic
+sample
+
+O
+O
+
+NH
+
+O
+OH
+
+P029
+
+Negative
+control
+sample
+
+[S-HETE]-Cys-Pro-Phe
+HO
+S
+
+P030
+
+Positive
+control
+sample
+
+S
+
+NH2
+N
+O
+O
+
+NH
+
+O
+OH
+
+Bis(2-hydroxyethyl)sulfide
+HO
+OH
+S
+
+The presence of listed biomarkers indicates exposure to sulfur mustard.
+
+17-07534
+
+45/53
+
+S/2017/400
+
+Annex 11
+REPORT ON THE ANALYSIS OF FFM SAMPLES RELATED TO THE UM-HOUSH
+INCIDENT RETURNED BY TEAM BRAVO
+10 March 2017
+Hugh Gregg, Head, OPCW Laboratory
+Executive Summary
+The environmental samples returned by FFM team Bravo have been analysed by the OPCW
+Laboratory. Additionally, the neat agent samples were also analysed by two OPCW Designated
+Laboratories.
+The following table summarises the findings.
+Incident
+place
+
+No.
+
+1.
+2.
+3.
+4.
+RF
+samples
+5.
+Um-Housh 6.
+7.
+8.
+9.
+
+Sample
+Code
+01NAS
+02NAS
+03SLB
+04SLS
+05NAS
+06SLB
+07SLS
+08SLS
+09SDS
+
+17.
+
+17WPS
+
+18.
+
+18SLS
+
+19.
+SAR
+Um-Housh 20.
+
+19WPS
+
+21.
+
+21WPS
+
+22.
+
+22SDS
+
+23.
+
+23WPB
+
+24.
+
+24SDB
+
+RF
+Um-Housh 25.
+
+30NAS
+
+OPCW
+Blank
+
+OPCW
+Blank
+
+46/53
+
+26.
+
+20SLS
+
+30NAB
+
+Description
+Neat Agent
+Neat Agent
+Soil blank
+Soil sample
+Neat Agent
+Soil blank
+Soil sample
+Soil sample
+Soil blank
+Internal Swab from
+projectile shrapnel
+Soil sample
+Swab from external
+wall of the house
+Soil sample
+Swab from projectile
+shrapnel
+Clothing from female
+casualty
+DCM solution used
+by SAR for wipes,
+swab
+and
+liquid
+samples
+DCM
+blank
+for
+14SDS 15 WPS and
+21 WPS
+Neat
+agent
+from
+mortar diluted in
+DCM
+DCM
+blank
+for
+30NAS
+
+Results
+Mustard & related materials
+No findings
+Mustard & related materials
+No findings
+Mustard & related materials
+No findings
+TNT, sulfur
+Mustard by-products
+Mustard & related materials
+Elemental sulfur
+Mustard by-products
+No findings
+No findings
+Mustard & related materials
+No findings
+
+17-07534
+
+S/2017/400
+
+Narrative
+The FFM team returned 26 environmental samples in connection with a number of incidents to
+the OPCW Laboratory on Friday 13 January 2017.
+The Director-General chose two OPCW Designated Laboratories for the analysis of the 3 neat
+agent samples. All 26 environmental samples were analysed at the OPCW Laboratory.
+The neat agent samples were shipped to the selected Designated Laboratories on Wednesday
+18 January 2017. The Designated Laboratory reports were received on 2 and 6 February 2017.
+All transfers of samples and materials were documented, and the chain of custody of all
+samples was maintained.
+The OPCW Designated Laboratories were tasked as follows:
+Scope of Analysis
+Please analyse these samples and report the major scheduled chemical. Additionally, analyse the
+samples by GC/MS at high concentration (dilution of 1:1000); no report on this analysis is
+required. 1
+The OPCW Laboratory analysed 26 samples following our standard practices. All GC/MS data
+was analysed using AMDIS and OPCW and commercial databases.
+Results
+The two laboratories analysing the 3 neat agent samples identified the material as sulfur
+mustard. No control samples were sent with the neat agent samples.
+The OPCW Laboratory has analysed 26 environmental samples, and the results for 19 samples
+related to Um-Housh incident support the above identifications. Detailed information on
+compounds found in the organic fraction of the samples is presented in annex 1. Note in the
+annex that samples with no relevant chemicals identified are not listed.
+The presence and relative quantities of the disulfide and trisulfide mustard analogs indicates
+this mustard was most likely produced using the Levinstein process. The presence of a number
+of chlorinated species indicates that an excess of sulfur monochloride (S 2Cl2) was used.
+
+1
+
+The laboratories were further asked to send their raw data on this analysis to the OPCW Laboratory.
+
+17-07534
+
+47/53
+
+S/2017/400
+
+Structures of relevant compounds found in the samples related to Um-Housh incident (see
+following table)
+Name
+
+Comment
+
+Structure
+O
+
+Not
+scheduled
+
+1,4-Oxathiane
+S
+
+Cl
+
+2-Chloroethyl vinyl sulfide
+
+S
+
+Not
+scheduled
+Not
+scheduled
+
+CH2
+
+HO
+
+2-Hydroxyethyl vinyl sulfide
+
+S
+CH2
+
+Not
+scheduled
+
+S
+
+1,4-Dithiane
+S
+
+Not
+scheduled
+
+S
+
+1,2,3-Trithiolane
+
+S
+
+S
+Not
+scheduled
+
+H2C
+S
+
+Ethane, 1,2-bis(vinylthio)-
+
+S
+CH2
+
+Bis(2-chloroethyl)sulfide
+
+Cl
+
+Cl
+
+HO
+
+Bis(2-hydroxyethyl)sulfide
+Propane, 1-chloro-3((2-chloroethyl)thio)-
+
+1.A.04
+
+S
+
+2.B.13
+
+OH
+S
+Cl
+
+Cl
+
+S
+
+S
+
+Cl
+
+Cl
+
+Thiophene, tetrachloroCl
+
+Cl
+
+Not
+scheduled
+
+Cl
+
+1,1,2-Trichloro-2[(2-chloroethyl)thio]ethene
+
+Not
+scheduled
+Not
+scheduled
+
+Cl
+
+Cl
+S
+Cl
+
+Not
+scheduled
+
+S
+
+1,2,5-Trithiepane
+
+S
+S
+
+Bis(2-chloroethyl)disulfide
+
+Cl
+
+Ethanol, 2-[(2-chloroethyl)dithio]-
+
+Cl
+
+48/53
+
+S
+S
+
+S
+Cl
+S
+OH
+
+Not
+scheduled
+Not
+scheduled
+
+17-07534
+
+S/2017/400
+
+Name
+
+Comment
+
+Structure
+
+Not
+scheduled
+
+H2C
+S
+
+1-(2-Hydroxyethylthio)-2(vinylthio)ethane
+
+S
+
+OH
+
+Not
+scheduled
+
+O
+
+Bis(2-chloroethyl)sulfoxide
+
+S
+Cl
+
+Cl
+
+Not
+scheduled
+
+S
+S
+
+Hexathiane
+
+S
+
+S
+
+S
+S
+Cl
+
+Cl
+
+Disulfane, 1-(1,2,2-trichloroethenyl)2-(2-chloroethyl)-
+
+Not
+scheduled
+
+Cl
+
+S
+S
+
+Cl
+
+Not
+scheduled
+
+Cl
+S
+
+Bis(2-chloroethyl)trisulfide
+
+S
+
+S
+
+Cl
+
+Not
+scheduled
+
+Cl
+Cl
+
+Hexachlorosulfide2
+
+Cl
+
+Cl
+
+S
+Cl
+
+1,2-Bis(2-chloroethylthio)ethane
+
+Cl
+
+S
+
+Cl
+
+Cl
+
+1.A.04
+
+S
+
+Not
+scheduled
+
+CH3
+NO 2
+
+O 2N
+
+Trinitrotoluene
+NO 2
+
+Cl
+Cl
+
+Hexachlorodisulfide1
+
+Cl
+
+Cl
+
+S
+
+Not
+scheduled
+
+S
+Cl
+
+Cl
+
+Not
+scheduled
+
+S
+S
+
+Sulfur
+
+S
+
+S
+
+S
+S
+Cl
+S
+
+Bis[(2-chloroethyltyio)ethyl] sulfide
+
+Not
+scheduled
+
+S
+S
+Cl
+
+2
+
+The structure of these two compounds is theoretical, they are not i n any mass spec database
+
+17-07534
+
+49/53
+
+Name
+01NAS 02NAS 04SLS 05NAS 07SLS 08SLS 17WPS 18SLS 19WPS 20SLS 21WPS 22SDS 30NAS
+1,4-Oxathiane
+0.03% 0.03% 0.01% 0.03% 0.03%
+2-Chloroethyl vinyl sulfide
+0.06% 0.05% 0.30% 0.05% 0.12% 0.07%
+0.01%
+0.03%
+2-Hydroxyethyl vinyl sulfide
+1.26%
+1.67% 1.18%
+0.07%
+1,4-Dithiane
+0.60% 0.55% 0.12% 0.53% 0.30% 0.10%
+0.01% 0.03% 0.01%
+1,2,3-Trithiolane
+0.12% 0.13% 0.09% 0.13% 0.22% 0.10%
+0.08% 0.09% 0.07%
+Ethane, 1,2-bis(vinylthio)0.09%
+0.10% 0.06%
+Bis(2-chloroethyl)sulfide
+36.50% 19.70% 0.23% 35.20% 0.43% 0.17%
+0.05% 0.10%
+4.04%
+Bis(2-hydroxyethyl)sulfide
+1.53%
+4.32% 5.34%
+0.24%
+Propane, 1-chloro-3-((2-chloroethyl)thio)0.01% 0.01%
+0.01%
+Thiophene, tetrachloro0.19% 0.19% 0.15% 0.18% 0.09% 0.12%
+0.00%
+1,1,2-Trichloro-2-[(23.50% 3.49% 3.80% 3.65% 4.91% 5.07%
+0.05% 0.38%
+0.02% 0.20%
+chloroethyl)thio]ethene
+1,2,5-Trithiepane
+0.18% 0.19% 0.11% 0.21% 0.31% 0.06%
+0.03% 0.02% 0.04%
+Bis(2-chloroethyl)disulfide
+1.74% 1.74% 3.64% 1.81% 4.90% 4.47%
+0.12% 0.12% 2.08%
+0.01% 0.03%
+Ethanol, 2-[(2-chloroethyl)dithio]0.09%
+0.15% 0.07%
+1-(2-Hydroxyethylthio)-2-(vinylthio)ethane
+0.18%
+0.31% 0.26%
+Bis(2-chloroethyl)sulfoxide
+0.04%
+0.14% 0.09%
+0.15%
+Hexathiane
+0.02% 0.03% 1.90% 0.03% 2.58% 1.89% 0.44% 0.05% 1.36% 2.94% 0.11%
+Disulfane, 1-(1,2,2-trichloroethenyl)-20.06% 0.05%
+0.06%
+0.04%
+(2-chloroethyl)Bis(2-chloroethyl)trisulfide
+0.90% 0.97% 3.73% 1.07% 4.42% 4.02%
+0.77% 0.50% 5.35%
+Hexachlorosulfide
+0.61% 0.74% 2.01% 0.80% 2.25% 2.20%
+0.06% 0.69%
+0.01%
+1,2-Bis(2-chloroethylthio)ethane
+3.77% 4.20% 0.13% 4.33% 0.19%
+0.15%
+Trinitrotoluene
+0.42% 0.46% 0.67% 0.50% 0.74% 0.79% 0.05%
+Hexachlorodisulfide
+1.99% 2.15%
+2.33%
+Sulfur
+0.21% 0.30% 1.12% 0.25% 4.09% 3.35% 1.93% 0.33% 22.50% 1.06% 2.22%
+Bis[(2-chloroethyltyio)ethyl] sulfide
+0.05% 0.05% 0.39% 0.05% 0.13% 0.15%
+
+17-07534
+
+3
+
+Percentages listed are relative amounts as given by AMDIS.
+
+S/2017/400
+
+50/53
+
+Summary of OPCW Laboratory results for Um-Housh samples 3
+
+S/2017/400
+
+Annex 12
+MAPPING OF INCIDENT LOCATION
+
+Map 1. Incident site.
+
+17-07534
+
+51/53
+
+S/2017/400
+
+Map 2. Incident site as provided by the Russian Federation.
+
+52/53
+
+17-07534
+
+S/2017/400
+
+Annex 13
+LIST OF MATERIAL GATHERED DURING THE INTERVIEW PROCESS
+
+ERN
+
+DCN
+
+1.
+
+201612131005301
+
+10053
+
+10053
+
+1 x MSD Audio
+recording
+
+17/12/2016
+14:40
+
+2.
+
+201612131005302
+
+10053
+
+10053
+
+1 x MSD Audio
+recording
+
+3.
+
+201612131005303
+
+10053
+
+10053
+
+1 x SD photos
+
+4.
+
+201612131005304
+
+10053
+
+10053
+
+1 x SD photos
+
+17/12/2016
+14:40
+17/12/2016
+14:40
+17/12/2016
+14:40
+
+Entry
+
+17-07534
+
+Evidence
+Description
+
+Evidence Collected/Received
+When
+(Date and
+Where
+Time)
+
+Interviewee
+Name / Code
+
+Damascus
+Damascus
+Damascus
+Damascus
+
+53/53

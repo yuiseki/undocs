@@ -1,0 +1,3 @@
+1998-06-26
+rule: meeting
+raw: 26 June 1998

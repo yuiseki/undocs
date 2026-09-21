@@ -1,0 +1,645 @@
+A/RES/73/218
+
+United Nations
+
+General Assembly
+
+Distr.: General
+8 January 2019
+
+Seventy-third session
+Agenda item 17
+
+Resolution adopted by the General Assembly
+on 20 December 2018
+[on the report of the Second Committee (A/73/535)]
+
+73/218.
+
+Information and communications technologies
+for sustainable development
+The General Assembly,
+Recalling its resolutions 56/183 of 21 December 2001, 57/238 of 20 December
+2002, 57/270 B of 23 June 2003, 59/220 of 22 December 2004, 60/252 of 27 March
+2006, 62/182 of 19 December 2007, 63/202 of 19 December 2008, 64/187 of
+21 December 2009, 65/141 of 20 December 2010, 66/184 of 22 December 2011,
+67/195 of 21 December 2012, 68/198 of 20 December 2013, 69/204 of 19 December
+2014, 70/184 of 22 December 2015, 71/212 of 21 December 2016 and 72/200 of
+20 December 2017,
+Recalling also Economic and Social Council resolutions 2006/46 of 28 July
+2006, 2008/3 of 18 July 2008, 2009/7 of 24 July 2009, 2010/2 of 19 July 2010,
+2011/16 of 26 July 2011, 2012/5 of 24 July 2012, 2013/9 of 22 July 2013, 2014/27 of
+16 July 2014, 2015/26 of 22 July 2015, 2016/22 of 27 July 2016 and 2018/28 of
+24 July 2018, and taking note of Council resolution 2017/21 of 6 July 2017 on the
+assessment of the progress made in the implementation of and follow -up to the
+outcomes of the World Summit on the Information Society,
+Reaffirming its resolution 70/1 of 25 September 2015, entitled “Transforming
+our world: the 2030 Agenda for Sustainable Development”, in which it adopted a
+comprehensive, far-reaching and people-centred set of universal and transformative
+Sustainable Development Goals and targets, its commitment to working tirelessl y for
+the full implementation of the Agenda by 2030, its recognition that eradicating
+poverty in all its forms and dimensions, including extreme poverty, is the greatest
+global challenge and an indispensable requirement for sustainable development, its
+commitment to achieving sustainable development in its three dimensions —
+economic, social and environmental — in a balanced and integrated manner, and to
+building upon the achievements of the Millennium Development Goals and seeking
+to address their unfinished business,
+
+18-22537 (E)
+
+100119
+
+*1822537*
+
+A/RES/73/218
+
+Information and communications technologies for sustainable development
+
+Recalling its resolution 70/299 of 29 July 2016 on the follow-up and review of
+the 2030 Agenda for Sustainable Development at the global level,
+Reaffirming its resolution 69/313 of 27 July 2015 on the Addis Ababa Action
+Agenda of the Third International Conference on Financing for Development, which
+is an integral part of the 2030 Agenda for Sustainable Development, supports and
+complements it, helps to contextualize its means of implementation targets with
+concrete policies and actions, and reaffirms the strong political commitment to
+address the challenge of financing and creating an enabling environment at all levels
+for sustainable development in the spirit of global partnership and solidarity,
+Reaffirming also the New Urban Agenda, adopted at the United Nations
+Conference on Housing and Sustainable Urban Development ( Habitat III), held in
+Quito, Ecuador, from 17 to 20 October 2016, 1
+Recognizing the role of the Commission on Science and Technology for
+Development as the United Nations focal point for science, technology and
+innovation for development and as a forum in the examination of science and
+technology questions and the role of science and technology as enablers for the
+achievement of the 2030 Agenda for Sustainable Development, the advancement of
+understanding of science and technology policies, particularly in respect of
+developing countries, and the formulation of recommendations and gu idelines on
+science and technology matters for development within the United Nations system,
+Recognizing also the Commission on Science and Technology for Development
+as the United Nations focal point in the system-wide follow-up to the outcomes of the
+World Summit on the Information Society,
+Recognizing further the role of the Technology Facilitation Mechanism, which
+includes the multi-stakeholder forum on science, technology and innovation for the
+Sustainable Development Goals, the inter-agency task team on science, technology
+and innovation for the Sustainable Development Goals and the online platform, as a
+tool to facilitate multi-stakeholder collaboration and partnerships among Member
+States, civil society, the private sector, the scientific community, United Nations
+system entities and other stakeholders in order to support the implementation of the
+Sustainable Development Goals,
+Recalling the Declaration of Principles and the Plan of Action adopted by the
+World Summit on the Information Society at its first phase, held in Geneva from
+10 to 12 December 2003, 2 and endorsed by the General Assembly, 3 and the Tunis
+Commitment and the Tunis Agenda for the Information Society adopted by the
+Summit at its second phase, held in Tunis from 16 to 1 8 November 2005, 4 and
+endorsed by the Assembly, 5
+Noting the references to information and communications technologies
+contained in the 2030 Agenda for Sustainable Development and the Addis Ababa
+Action Agenda, and reiterating calls for close alignment between the Worl d Summit
+on the Information Society process and the 2030 Agenda, as well as other relevant
+intergovernmental outcomes,
+Recalling the outcome document of the high-level meeting of the General
+Assembly on the overall review of the implementation of the outc omes of the World
+__________________
+
+Resolution 71/256, annex.
+See A/C.2/59/3, annex.
+3
+See resolution 59/220.
+4
+See A/60/687.
+5
+See resolution 60/252.
+1
+2
+
+2/11
+
+18-22537
+
+Information and communications technologies for sustainable development
+
+A/RES/73/218
+
+Summit on the Information Society, 6 held in New York on 15 and 16 December 2015,
+in which it took stock of the progress made in the implementation of the outcomes of
+the World Summit, addressed potential information and communications tec hnology
+gaps and identified areas for continued focus,
+Reaffirming its common desire and commitment to the World Summit on the
+Information Society vision as laid out in the Geneva Declaration of Principles,
+Recognizing that information and communications technologies present new
+opportunities and challenges and that there is a pressing need to address the major
+impediments that developing countries face in accessing new technologies, stressing
+the need to address prevailing challenges to bridge the digita l divides, both between
+and within countries and between women and men, and between girls and boys, and
+to harness information and communications technologies for development, and
+recalling the need to emphasize quality of access to bridge digital and knowledge
+divides, using a multidimensional approach that includes speed, stability,
+affordability, language, training, capacity-building, local content and accessibility for
+persons with disabilities,
+Taking note of the report of the Secretary-General on the progress made in the
+implementation of and follow-up to the outcomes of the World Summit on the
+Information Society at the regional and international levels, 7
+Noting the call for the continuation of annual reports on the implementation of
+the outcomes of the World Summit on the Information Society, through the
+Commission on Science and Technology for Development, to the Economic and
+Social Council, and reaffirming the role of the Commission, as set forth in Co uncil
+resolution 2006/46, in assisting the Council as the focal point in the system-wide
+follow-up, in particular the review and assessment of progress made in implementing
+the outcomes of the World Summit,
+Noting also the holding of the twenty-first session of the Commission on
+Science and Technology for Development in Geneva from 14 to 1 8 May 2018, and
+looking forward to the twenty-second session, which will have as priority themes
+“The impact of rapid technological change on sustainable development” and “The
+role of science, technology and innovation in building resilient communities,
+including through the contribution of citizen science ”, thus providing a platform for
+all stakeholders to share experiences and pursue partnerships for capacity-building,
+Welcoming the launch by the Secretary-General of the High-level Panel on
+Digital Cooperation, which will present its recommendations for effective and
+inclusive systems of digital cooperation among all relevant actors in the digital space,
+in 2019,
+Noting the holding of the World Summit on the Information Society Forum,
+jointly organized annually by the International Telecommunication Union, the United
+Nations Conference on Trade and Development, the United Nations Educational,
+Scientific and Cultural Organization and the United Nations Development
+Programme,
+Taking note of the report of the Broadband Commission for Sustainable
+Development entitled The State of Broadband 2018: Broadband Catalysing
+Sustainable Development, which provides an evaluation of the progress made towards
+achieving the Broadband Commission’s advocacy targets for broadband and the state
+of broadband development worldwide, noting the need to bridge digital divides, and
+taking note of the report of the special session of the Commission, entitled “Working
+__________________
+6
+7
+
+18-22537
+
+Resolution 70/125.
+A/73/66-E/2018/10.
+3/11
+
+A/RES/73/218
+
+Information and communications technologies for sustainable development
+
+together to connect the next 1.5 billion by 2020”, in which the Commission noted that
+less than half the world’s population is currently connected to the Internet and fewer
+than 1 in 10 people in the least developed countries are connected,
+Recognizing the fact that information and communications technologies are
+critical enablers of economic development and investment, with consequential
+benefits for employment and social welfare, by lowering barriers to economic
+participation, and that the increasing pervasiveness of information and
+communications technologies within society has had profound impacts on the ways
+in which Governments deliver services, businesses relate to consumers and citi zens
+participate in public and private life,
+Stressing, however, that recent progress notwithstanding, important and
+growing digital divides remain between and within developed and developing
+countries in terms of the availability, affordability and use o f information and
+communications technologies and access to broadband, stressing also the urgent need
+to close digital divides, including with regard to such issues as the affordability of the
+Internet, and to ensure that the benefits of information and co mmunications
+technologies, including new technologies, are available to all, in this regard
+reaffirming its commitment to significantly increase access to information and
+communications technologies and strive to provide universal and affordable access to
+the Internet in the least developed countries by 2020, and noting the many efforts to
+help bridge digital divides and expand access, including the Connect 2020 Agenda
+for Global Telecommunication/Information and Communications Technologies
+Development,
+Taking note of the Working Group on the Digital Gender Divide of the
+Broadband Commission for Sustainable Development and the recommendations for
+action in bridging the gender digital divide contained in its progress report, namely,
+understanding the context of the divide through sex-disaggregated data, integrating a
+gender perspective into strategies, policies, plans and budgets, addressing barriers,
+including access, affordability, safety, digital skills and relevance, and collaboration
+and sharing good practices, and taking note further of the report of the Working Group
+on Education of the Broadband Commission entitled “Digital skills for life and work”,
+which highlights the emergence of a new global skills gap in which gender, class,
+geography and age can have a significant impact on whether a person is able to
+harness new technologies and presents strategies for ensuring that all groups of people
+can develop those skills,
+Recognizing that realizing gender equality and the empowerment of women and
+girls will make a crucial contribution to progress across all of the Sustainable
+Development Goals, and emphasizing the need to target science, technology and
+innovation strategies to address the empowerment of women and girls and to reduce
+inequalities, including the gender digital divide,
+Noting with great concern the fact that a gender digital divide persists in
+women’s access to and use of information and communications technologies,
+including in education, employment and other areas of economic and social
+development, and in this regard welcoming the many initiatives that focus on access,
+skills and leadership to promote the equal participation of women and girls in the
+digital age such as the International Girls in ICT Day of the International
+Telecommunication Union and the Global Partnership for Gender Equality in the
+Digital Age, known as the Equals Partnership,
+Recognizing the need to focus on capacity development policies and sustainable
+support to further enhance the impact of activities and initiative s at the national and
+local levels aimed at providing advice, services and support, with a view to building
+an inclusive, people-centred and development-oriented information society,
+4/11
+
+18-22537
+
+Information and communications technologies for sustainable development
+
+A/RES/73/218
+
+Noting that a range of topics continues to emerge on issues related to t he access
+to, use and applications of information and communications technologies and their
+effects on economic, social and environmental dimensions of sustainable
+development,
+Reaffirming that the same rights that people have offline must also be protect ed
+online, and emphasizing that progress towards the vision of the World Summit on the
+Information Society should be considered not only as a function of economic
+development and the spreading of information and communications technologies but
+also as a function of progress with respect to the realization of human rights and
+fundamental freedoms,
+Reaffirming also that Internet governance, including the process towards
+enhanced cooperation and the convening of the Internet Governance Forum, should
+continue to follow the provisions set forth in the outcomes of the summits held in
+Geneva and Tunis,
+Welcoming the efforts undertaken by the host countries in organizing the
+meetings of the Internet Governance Forum, held in Athens in 2006, in Rio de Janeiro,
+Brazil, in 2007, in Hyderabad, India, in 2008, in Sharm el-Sheikh, Egypt, in 2009, in
+Vilnius in 2010, in Nairobi in 2011, in Baku in 2012, in Bali, Indonesia, in 2013, in
+Istanbul, Turkey, in 2014, in João Pessoa, Brazil, in 2015, in Guadalajara, Mexico, in
+2016, in Geneva in 2017 and in Paris in 2018, and looking forward to the meeting of
+the Internet Governance Forum to be held in Berlin in 2019,
+Welcoming also the establishment of the Working Group on Enhanced
+Cooperation, based on the proposal by the Chair of the Commission on Science and
+Technology for Development regarding the structure and composition of the Working
+Group, as requested by the General Assembly in its resolution 70/125 of 16 December
+2015 and endorsed by the Economic and Social Council in its resolution 2017/21,
+Noting that information and communications technologies can help accelerate
+progress towards the Sustainable Development Goals, and noting also that, inter alia,
+the International Telecommunication Union has an important role in supporting
+Member States in the implementation of the Sustainable Development Goals,
+Noting also the convening of the World Telecommunication Development
+Conference by the International Telecommunication Union in Buenos Aires, from 9 to
+20 October 2017, under the theme of “Information and communications technology
+for Sustainable Development Goals”,
+Noting further that technological change includes new and powerful tools for
+development, and mindful of its impacts, opportunities and challenges, and that
+Governments, the private sector, international organizations, civil society and the
+technical and academic communities should take into account the social, economic,
+ethical, cultural and technical issues related to rapid technological advancements in
+order to deepen their understanding of how to harness their potential to support the
+achievement of the 2030 Agenda for Sustainable Development,
+Reaffirming the value and principles of multi-stakeholder cooperation and
+engagement that have characterized the World Summit on the Information Society
+process since its inception, and recognizing that the effective participation,
+partnership and cooperation of Governments, the private sector, civil society,
+international organizations, the technical and academic co mmunities and all other
+relevant stakeholders, within their respective roles and responsibilities, especially
+with balanced representation from developing countries, have been and continue to
+be vital in developing the information society,
+
+18-22537
+
+5/11
+
+A/RES/73/218
+
+Information and communications technologies for sustainable development
+
+Conscious of the challenges faced by States in preventing and combating the
+use of information and communications technologies for criminal purposes, including
+by terrorists, and emphasizing the need to continue international cooperation in this
+regard and to reinforce technical assistance and capacity-building activities, at their
+request, for the prevention, prosecution and punishment of such use in accordance
+with national and international law,
+Reiterating the pledge that no one will be left behind, reaffirming the
+recognition that the dignity of the human person is fundamental and the wish to see
+the Goals and targets met for all nations and peoples and for all segments of society,
+and recommitting to endeavour to reach the furthest behind first,
+Recommitting to ensuring that no country or person is left behind and to focusing
+our effort where the challenges are greatest, including by ensuring the inclusion and
+participation of those who are furthest behind,
+1.
+Recognizes that information and communications technologies have the
+potential to provide new solutions to development challenges, particularly in the
+context of globalization, and can foster sustained, inclusive and equitable economic
+growth and sustainable development, competitiveness, access to information and
+knowledge, trade and development, poverty eradication and social inclusion that will
+help to expedite the integration of all countries, especially developing countries, in
+particular the least developed countries, into the global economy;
+2.
+Welcomes the remarkable evolution and diffusion of information and
+communications technologies, underpinned by the contributions of both the public
+and private sectors, which have seen penetration into almost all corners of the globe,
+created new opportunities for social interactions, enabled new business models and
+contributed to economic growth and development in all other sectors, while noting
+the unique and emerging challenges related to their evolution and diffusion;
+3.
+Recognizes the potential of information and communications technologies
+to achieve the 2030 Agenda for Sustainable Development 8 and other internationally
+agreed development goals, noting that they can accelerate progress across all 17
+Sustainable Development Goals, accordingly urges all Governme nts, the private
+sector, civil society, international organizations, the technical and academic
+communities and all other relevant stakeholders to integrate information and
+communications technologies into their approaches to implementing the Goals, and
+requests United Nations system entities facilitating the World Summit on the
+Information Society action lines to review their reporting and workplans to support
+the implementation of the 2030 Agenda;
+4.
+Reaffirms its commitment to bridging digital and knowledge divides,
+recognizes that its approach must be multidimensional and include an evolving
+understanding of what constitutes access, emphasizing the quality of that access, and
+acknowledges that speed, stability, affordability, language, local content and
+accessibility for persons with disabilities are now core elements of quality and that
+high-speed broadband is already an essential enabler of sustainable development;
+5.
+Stresses the important role played by the private sector, civil society and
+technical communities in information and communications technologies;
+6.
+Encourages strengthened and continuing cooperation between and among
+stakeholders from both developed and developing countries, within their respective
+roles and responsibilities, to ensure the effective implementation of the outcomes of
+the Geneva 2 and Tunis 4 phases of the World Summit on the Information Society,
+through, inter alia, the promotion of national, regional and international
+__________________
+8
+
+6/11
+
+Resolution 70/1.
+18-22537
+
+Information and communications technologies for sustainable development
+
+A/RES/73/218
+
+multi-stakeholder partnerships, including public-private partnerships, and the
+promotion of national and regional multi-stakeholder thematic platforms in a joint
+effort and dialogue with developing countries, including the least developed
+countries, development partners and actors in the information and communications
+technologies sector;
+7.
+Notes the progress that has been made by United Nations system entities
+in cooperation with national Governments, regional commissions and other
+stakeholders, including non-governmental organizations and the private sector, in
+the implementation of the action lines contained in the outcome documents of the
+World Summit on the Information Society, and encourages the use of those action
+lines for the implementation of the 2030 Agenda for Sustainable Development;
+8.
+Also notes that the digital economy is an important and growing part of
+the global economy and that connectivity is correlated with increases in gross
+domestic product, and recognizes the critical importance of expanding the
+participation of all countries, in particular developing countries, in the digi tal
+economy;
+9.
+Urges a continued focus on maximizing development gains from
+e-commerce, through initiatives such as eTrade for All, launched at the fourteenth
+session of the United Nations Conference on Trade and Development, held in
+Nairobi from 17 to 22 July 2016, which provides a new approach to trade
+development through electronic exchanges by allowing developing countries to
+more easily navigate the supply of technical assistance for building capacity in e commerce readiness and by enabling donors to have a clear picture of the
+programmes that they could fund;
+10. Recognizes in this regard that the United Nations Conference on Trade
+and Development has initiated and implemented rapid e -trade readiness assessments
+of least developed countries in cooperation with other donors and organizations in
+order to raise awareness of opportunities and challenges related to leveraging e commerce in the least developed countries;
+11. Welcomes the holding of the second session of the Intergovernmental
+Group of Experts on e-Commerce and the Digital Economy, its policy
+recommendations and its decision to recommend to the Trade and Development
+Board of the United Nations Conference on Trade and Development the
+establishment of a working group on measuring e -commerce and the digital
+economy; 9
+12. Also welcomes the holding of e-Commerce Week from 16 to 20 April
+2018, with the theme of “Development dimensions of digital platforms”, and of the
+first Africa e-Commerce Week, in Nairobi, from 10 to 14 December 2018;
+13. Further welcomes the work of the Information for All Programme of the
+United Nations Educational, Scientific and Cultural Organization, which aims to
+assist Member States in formulating policies to bridge digital divides and ensure
+equitable knowledge societies, and also welcomes the holding of Global Media and
+Information Literacy Week from 24 to 31 October 2018;
+14. Recognizes that, despite recent progress and significant gains, there is
+still uneven growth in access to and use of information and communicati ons
+technologies, and expresses concern over the substantial continued digital and
+broadband divides between and within developed and developing countries,
+including the fact that there are 97 mobile broadband subscriptions per 100 people
+in developed countries, compared with 48 in developing countries and less than 22
+__________________
+9
+
+18-22537
+
+See TD/B/EDE/1/3, chap. I, para. 12.
+7/11
+
+A/RES/73/218
+
+Information and communications technologies for sustainable development
+
+in the least developed countries, and that the cost of access is higher in developing
+countries in relation to average household income, resulting in a lack of affordable
+access to information and communications technologies;
+15. Encourages research and development, and the development of viable
+strategies that could result in further competitiveness, investment and rapid
+reductions in the cost of information and communications technologies, and urges
+all relevant stakeholders to address the growing digital divides among and within
+countries through, inter alia, strengthened enabling policy environments at all
+levels, legal and regulatory frameworks conducive to increased investment and
+innovation, public-private partnerships, universal access strategies and
+international cooperation to improve affordability, education, capacity -building,
+multilingualism, cultural preservation, investment and technology transfer on
+mutually agreed terms;
+16. Recognizes that a gender digital divide persists and that the proportion
+of women using the Internet is 12 per cent lower than that of men worldwide and
+33 per cent lower in the least developed countries, notes with concern that, while
+the gender digital divide has narrowed in many regions since 2013, it has widened
+overall, in particular in the least developed countries and in Africa, in this regard
+calls upon all stakeholders to ensure the full participation of women in the
+information society and women’s access to information and communications
+technologies for development, including new technologies, in this respect reiterates
+its request for relevant United Nations system entities, including the United Nations
+Entity for Gender Equality and the Empowerme nt of Women (UN-Women), to
+support the implementation and monitoring of the action lines contained in the
+outcome documents of the World Summit on the Information Society by enhancing
+the emphasis on gender, and reaffirms the commitment to ensure women ’s full
+participation in decision-making processes related to information and
+communications technologies;
+17. Notes the implementation of the outcomes of the World Summit on the
+Information Society at the regional level, facilitated by the regional commissio ns,
+as observed in the report of the Secretary-General on the progress made in the
+implementation of and follow-up to the outcomes of the World Summit at the
+regional and international levels; 7
+18. Encourages the United Nations funds and programmes and the
+specialized agencies, within their respective mandates and strategic plans, to
+contribute to the implementation of the outcomes of the World Summit on the
+Information Society, and emphasizes the importance o f allocating adequate
+resources in this regard;
+19. Acknowledges the extension of the mandate of the Internet Governance
+Forum through 2025, as set out in the outcome document of the high -level meeting
+of the General Assembly on the overall review of the implementation of the
+outcomes of the World Summit on the Information Society; 6
+20. Recognizes the importance of the Internet Governance Forum and its
+mandate as a forum for multi-stakeholder dialogue on various matters, as reflected
+in paragraph 72 of the Tunis Agenda for the Information Society, 4 including
+discussion of public policy issues related to key elements of Internet governance,
+and requests the Secretary-General to continue to submit, as part of his annual
+reporting on the progress made in the implementation of and follow -up to the
+outcomes of the World Summit on the Information Society at the regional and
+international levels, information on the progress made in the implementation of the
+recommendations contained in the report of the Working Group on Improvements
+
+8/11
+
+18-22537
+
+Information and communications technologies for sustainable development
+
+A/RES/73/218
+
+to the Internet Governance Forum, 10 in particular those on enhancing the
+participation of developing countries;
+21. Stresses the need for the enhanced participation of Governments and
+stakeholders from all developing countries, in particular the least developed
+countries, in all meetings of the Internet Governance Forum, and in this regard invites
+Member States, as well as other relevant stakeholders, to support the participation of
+Governments and all other stakeholders from developing countries in the Forum
+itself, as well as in the preparatory meetings;
+22. Notes the work of the Working Group on Enhanced Cooperation,
+established by the Chair of the Commission on Science and Technology for
+Development as requested by the General Assembly in its resolution 70/125, to
+develop recommendations on how to further implement enhanced cooperation as
+envisioned in the Tunis Agenda, and also notes that the Working Group ensured the
+full involvement of Governments and other relevant stakeholders, in particular from
+developing countries, taking into account all their diverse views and expertise;
+23. Also notes that the Working Group held five meetings between September
+2016 and January 2018 at which it discussed inputs from Member States and other
+stakeholders, as stipulated by the General Assembly in its resolution 70/125;
+24. Takes note of the report of the Chair of the Working Group, 11 which
+includes references to the full texts of all proposals and contributions, and expresses
+its gratitude to the Chair and all participants who submitted inputs and contributed to
+the work of the Working Group;
+25. Welcomes the good progress made by the Working Group in many areas
+and the fact that consensus seemed to emerge on some issues, while significant
+divergence of views in a number of other issues persisted, and in that regard regrets
+that the Working Group could not find agreement on recommendations on how to
+further implement enhanced cooperation as envisioned in the Tunis Agenda;
+26. Calls for continued dialogue and work on the implementation of enhanced
+cooperation as envisaged in the Tunis Agenda;
+27. Recognizes that a lack of access to affordable and reliable technologies
+and services remains a critical challenge in many developing countries, in particular
+African countries, the least developed countries, landlocked developing countries,
+small island developing States, middle-income countries, countries in situations of
+conflict, post-conflict countries and countries affected by natural disasters, and that
+all efforts should be deployed to reduce the price of information and communications
+technologies and broadband access, bearing in mind that deliberate interventio ns,
+including through research and development and technology transfer on mutually
+agreed terms, may be necessary to spur the development of lower-cost connectivity
+options;
+28. Also recognizes that information and communications technologies
+present new opportunities and challenges and that there is a pressing need to address
+the major impediments that developing countries face in engaging with and accessing
+new technologies, such as an appropriate enabling environment, sufficient resources,
+infrastructure, education, capacity, investment and connectivity, as well as issues
+related to technology ownership, setting standards and technology flows, and in this
+regard urges all stakeholders to ensure adequate means of implementation, including
+
+__________________
+10
+11
+
+18-22537
+
+A/67/65-E/2012/48 and A/67/65/Corr.1-E/2012/48/Corr.1.
+See E/CN.16/2018/CRP.3.
+9/11
+
+A/RES/73/218
+
+Information and communications technologies for sustainable development
+
+strengthened capacity-building of developing countries, particularly the least
+developed countries, towards a digitally empowered society and knowledge economy;
+29. Further recognizes the need to harness the potential of information and
+communications technologies as critical enablers of sustainable development and to
+overcome digital divides, and stresses that capacity-building for the productive use
+of such technologies should be given due consideration in the implementation of the
+2030 Agenda for Sustainable Development and the Addis Ababa Action Agenda of
+the Third International Conference on Financing for Development; 12
+30. Notes that, while a solid foundation for capacity-building in information
+and communications technologies has been laid in many areas with regard to building
+the information society, there is still a need for continuing efforts to address the
+ongoing challenges, especially for developing countries and the least developed
+countries, and draws attention to the positive impact of broadened capacity
+development that involves institutions, organizations and entities dealing with
+information and communications technologies and Internet governance issues;
+31. Recognizes the importance of assisting developing countries, in particular
+the least developed countries, to address the challenges and opportunities in relation
+to the use of the Internet and e-commerce to develop their international trade
+capacities, among other things;
+32. Also recognizes the importance of the free flow of information and
+knowledge, as the amount of information distributed worldwide grows and the role
+of communication becomes all the more important, and acknowledges that the
+mainstreaming of information and communications technologies in school curricula,
+open access to data, the fostering of competition, the creation of transparent,
+predictable, independent and non-discriminatory regulatory and legal systems,
+proportionate taxation and licensing fees, access to finance, the facilitation of public private partnerships, multi-stakeholder cooperation, national and regional broadband
+strategies, efficient allocation of the radio frequency spectrum, infrastructure -sharing
+models, community-based approaches and public access facilities have in many
+countries facilitated significant gains in connectivity and sustainable development;
+33. Calls upon all stakeholders to keep the goal of bridging digital divides, in
+their different forms, an area of priority concern, to put into effect sound strategies
+that contribute to the development of e-government and to continue to focus on
+pro-poor information and communications technology policies and applications,
+including access to broadband at the grass-roots level, with a view to narrowing the
+digital divides among and within countries and, in turn, building information and
+knowledge societies;
+34. Notes the commitments made in the Addis Ababa Action Agenda, and
+recognizes that official development assistance and other concessional financial flows
+for information and communications technologies can make significant contributions
+to development outcomes, in particular where they can reduce the risk of public and
+private investment, and increase the use of information and communications
+technologies to strengthen good governance and tax collection;
+35. Recognizes the critical importance of private sector investment in
+information and communications technology infrastructure, content and services,
+encourages Governments to create legal and regulatory frameworks conducive to
+increased investment and innovation, and also recognizes the importance of public private partnerships, universal access strategies and other approaches to that end;
+__________________
+12
+
+10/11
+
+Resolution 69/313, annex.
+18-22537
+
+Information and communications technologies for sustainable development
+
+A/RES/73/218
+
+36. Welcomes the holding of the third annual Economic and Social Council
+forum on financing for development, takes note of its intergovernmentally agreed
+conclusions and recommendations, looks forward to further advancement in the
+follow-up process, and welcomes the work of the Inter-Agency Task Force on
+Financing for Development, the progress made in operationalizing the three
+components of the Technology Facilitation Mechanism and the holding of the third
+annual multi-stakeholder forum on science, technology and innovation for the
+Sustainable Development Goals;
+37. Calls upon the relevant organizations of the United Nations system, within
+their respective mandates and resources, to ensure that no one is left behind and no
+country is left behind in the implementation of the present resolution;
+38. Requests the Secretary-General to submit to the General Assembly at its
+seventy-fourth session, through the Commission on Science and Technology for
+Development and the Economic and Social Council, a report on the status of the
+implementation of and follow-up to the present resolution, taking into account the
+2030 Agenda for Sustainable Development, the Addis Ababa Action Agenda, the
+review process of the World Summit on the Information Society, the summary by the
+Co-Chairs of the multi-stakeholder forum on science, technology and innovation for
+the Sustainable Development Goals 13 and other relevant processes, as part of his
+annual report on the progress made in the implementation of and follow -up to the
+outcomes of the World Summit on the Information Society at the regional and
+international levels;
+39. Decides to include in the provisional agenda of its seventy-fourth session
+the item entitled “Information and communications technologies for sustainable
+development”, unless otherwise agreed.
+62nd plenary meeting
+20 December 2018
+
+__________________
+13
+
+18-22537
+
+E/HLPF/2017/4.
+11/11

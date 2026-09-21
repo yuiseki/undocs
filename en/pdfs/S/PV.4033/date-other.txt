@@ -1,0 +1,3 @@
+1999-08-11
+rule: any
+raw: 11 August 1999

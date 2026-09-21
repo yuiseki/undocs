@@ -1,0 +1,3 @@
+1995-01-11
+rule: distr
+raw: 11 January 1995

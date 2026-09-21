@@ -1,0 +1,3 @@
+1947-11-47
+rule: any
+raw: 47 November 1947

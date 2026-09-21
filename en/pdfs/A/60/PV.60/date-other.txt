@@ -1,0 +1,3 @@
+2005-12-01
+rule: any
+raw: 1 December 2005

@@ -1,0 +1,3 @@
+2003-09-17
+rule: distr
+raw: 17 September 2003

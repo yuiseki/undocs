@@ -1,0 +1,3 @@
+1997-05-28
+rule: distr
+raw: 28 May 1997

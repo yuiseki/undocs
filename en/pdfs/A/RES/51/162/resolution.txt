@@ -1,0 +1,633 @@
+A
+
+UNITED
+NATIONS
+
+General Assembly
+Distr.
+GENERAL
+A/RES/51/162
+30 January 1997
+
+Fifty-first session
+Agenda item 148
+RESOLUTION ADOPTED BY THE GENERAL ASSEMBLY
+[on the report of the Sixth Committee (A/51/628)]
+51/162.
+
+Model Law on Electronic Commerce adopted by
+the United Nations Commission on
+International Trade Law
+
+The General Assembly,
+Recalling its resolution 2205 (XXI) of 17 December 1966, by which it
+created the United Nations Commission on International Trade Law, with a
+mandate to further the progressive harmonization and unification of the law of
+international trade and in that respect to bear in mind the interests of all
+peoples, in particular those of developing countries, in the extensive
+development of international trade,
+Noting that an increasing number of transactions in international trade
+are carried out by means of electronic data interchange and other means of
+communication, commonly referred to as "electronic commerce", which involve
+the use of alternatives to paper-based methods of communication and storage of
+information,
+Recalling the recommendation on the legal value of computer records
+adopted by the Commission at its eighteenth session, in 1985,1 and paragraph 5
+(b) of General Assembly resolution 40/71 of 11 December 1985, in which the
+Assembly called upon Governments and international organizations to take
+action, where appropriate, in conformity with the recommendation of the
+Commission,1 so as to ensure legal security in the context of the widest
+possible use of automated data processing in international trade,
+Convinced that the establishment of a model law facilitating the use of
+electronic commerce that is acceptable to States with different legal, social
+and economic systems could contribute significantly to the development of
+harmonious international economic relations,
+
+1
+
+See Official Records of the General Assembly, Fortieth Session,
+Supplement No. 17 (A/40/17), chap. VI, sect. B.
+97-76357
+
+/...
+
+A/RES/51/162
+Page 2
+
+Noting that the Model Law on Electronic Commerce was adopted by the
+Commission at its twenty-ninth session after consideration of the observations
+of Governments and interested organizations,
+Believing that the adoption of the Model Law on Electronic Commerce by
+the Commission will assist all States significantly in enhancing their
+legislation governing the use of alternatives to paper-based methods of
+communication and storage of information and in formulating such legislation
+where none currently exists,
+1.
+Expresses its appreciation to the United Nations Commission on
+International Trade Law for completing and adopting the Model Law on
+Electronic Commerce contained in the annex to the present resolution and for
+preparing the Guide to Enactment of the Model Law;
+2.
+Recommends that all States give favourable consideration to the
+Model Law when they enact or revise their laws, in view of the need for
+uniformity of the law applicable to alternatives to paper-based methods of
+communication and storage of information;
+3.
+Recommends also that all efforts be made to ensure that the Model
+Law, together with the Guide, become generally known and available.
+85th plenary meeting
+16 December 1996
+
+/...
+
+A/RES/51/162
+Page 3
+
+ANNEX
+Model Law on Electronic Commerce of the United Nations
+Commission on International Trade Law
+PART ONE.
+
+ELECTRONIC COMMERCE IN GENERAL
+
+CHAPTER I.
+
+GENERAL PROVISIONS
+Article 1
+
+Sphere of application2
+This Law3 applies to any kind of information in the form of a data
+message used in the context4 of commercial5 activities.
+Article 2
+Definitions
+For the purposes of this Law:
+(a)
+"Data message" means information generated, sent, received or
+stored by electronic, optical or similar means including, but not limited to,
+electronic data interchange (EDI), electronic mail, telegram, telex or
+telecopy;
+(b)
+"Electronic data interchange (EDI)" means the electronic transfer
+from computer to computer of information using an agreed standard to structure
+the information;
+
+2
+
+The Commission suggests the following text for States that might wish
+to limit the applicability of this Law to international data messages:
+"This Law applies to a data message as defined in paragraph 1 of
+article 2 where the data message relates to international commerce."
+3
+This Law does not override any rule of law intended for the protection
+of consumers.
+4
+The Commission suggests the following text for States that might wish
+to extend the applicability of this Law:
+
+"This Law applies to any kind of information in the form of a data
+message, except in the following situations: [...]."
+5
+
+The term "commercial" should be given a wide interpretation so as to
+cover matters arising from all relationships of a commercial nature, whether
+contractual or not. Relationships of a commercial nature include, but are not
+limited to, the following transactions: any trade transaction for the supply
+or exchange of goods or services; distribution agreement; commercial
+representation or agency; factoring; leasing; construction of works;
+consulting; engineering; licensing; investment; financing; banking; insurance;
+exploitation agreement or concession; joint venture and other forms of
+industrial or business cooperation; carriage of goods or passengers by air,
+sea, rail or road.
+/...
+
+A/RES/51/162
+Page 4
+
+(c)
+"Originator" of a data message means a person by whom, or on whose
+behalf, the data message purports to have been sent or generated prior to
+storage, if any, but it does not include a person acting as an intermediary
+with respect to that data message;
+(d)
+"Addressee" of a data message means a person who is intended by
+the originator to receive the data message, but does not include a person
+acting as an intermediary with respect to that data message;
+(e)
+"Intermediary", with respect to a particular data message, means a
+person who, on behalf of another person, sends, receives or stores that data
+message or provides other services with respect to that data message;
+(f)
+"Information system" means a system for generating, sending,
+receiving, storing or otherwise processing data messages.
+Article 3
+Interpretation
+1.
+In the interpretation of this Law, regard is to be had to its
+international origin and to the need to promote uniformity in its application
+and the observance of good faith.
+2.
+Questions concerning matters governed by this Law that are not expressly
+settled in it are to be settled in conformity with the general principles on
+which this Law is based.
+Article 4
+Variation by agreement
+1.
+As between parties involved in generating, sending, receiving, storing
+or otherwise processing data messages, and except as otherwise provided, the
+provisions of chapter III may be varied by agreement.
+2.
+Paragraph 1 does not affect any right that may exist to modify by
+agreement any rule of law referred to in chapter II.
+CHAPTER II.
+
+APPLICATION OF LEGAL REQUIREMENTS TO DATA MESSAGES
+Article 5
+Legal recognition of data messages
+
+Information shall not be denied legal effect, validity or enforceability
+solely on the grounds that it is in the form of a data message.
+Article 6
+Writing
+1.
+Where the law requires information to be in writing, that requirement is
+met by a data message if the information contained therein is accessible so as
+to be usable for subsequent reference.
+
+/...
+
+A/RES/51/162
+Page 5
+
+2.
+Paragraph 1 applies whether the requirement therein is in the form of an
+obligation or whether the law simply provides consequences for the information
+not being in writing.
+3.
+
+The provisions of this article do not apply to the following:
+
+[...].
+
+Article 7
+Signature
+1.
+Where the law requires a signature of a person, that requirement is met
+in relation to a data message if:
+(a)
+A method is used to identify that person and to indicate that
+person's approval of the information contained in the data message; and
+(b)
+That method is as reliable as was appropriate for the purpose for
+which the data message was generated or communicated, in the light of all the
+circumstances, including any relevant agreement.
+2.
+Paragraph 1 applies whether the requirement therein is in the form of an
+obligation or whether the law simply provides consequences for the absence of
+a signature.
+3.
+
+The provisions of this article do not apply to the following:
+
+[...].
+
+Article 8
+Original
+1.
+Where the law requires information to be presented or retained in its
+original form, that requirement is met by a data message if:
+(a)
+There exists a reliable assurance as to the integrity of the
+information from the time when it was first generated in its final form, as a
+data message or otherwise; and
+(b)
+Where it is required that information be presented, that
+information is capable of being displayed to the person to whom it is to be
+presented.
+2.
+Paragraph 1 applies whether the requirement therein is in the form of an
+obligation or whether the law simply provides consequences for the information
+not being presented or retained in its original form.
+3.
+
+For the purposes of subparagraph (a) of paragraph 1:
+
+(a)
+The criteria for assessing integrity shall be whether the
+information has remained complete and unaltered, apart from the addition of
+any endorsement and any change which arises in the normal course of
+communication, storage and display; and
+(b)
+The standard of reliability required shall be assessed in the
+light of the purpose for which the information was generated and in the light
+of all the relevant circumstances.
+4.
+
+The provisions of this article do not apply to the following:
+
+[...].
+
+/...
+
+A/RES/51/162
+Page 6
+
+Article 9
+Admissibility and evidential weight of data messages
+1.
+In any legal proceedings, nothing in the application of the rules of
+evidence shall apply so as to deny the admissibility of a data message in
+evidence:
+(a)
+
+On the sole ground that it is a data message; or
+
+(b)
+If it is the best evidence that the person adducing it could
+reasonably be expected to obtain, on the grounds that it is not in its
+original form.
+2.
+Information in the form of a data message shall be given due evidential
+weight. In assessing the evidential weight of a data message, regard shall be
+had to the reliability of the manner in which the data message was generated,
+stored or communicated, to the reliability of the manner in which the
+integrity of the information was maintained, to the manner in which its
+originator was identified, and to any other relevant factor.
+Article 10
+Retention of data messages
+1.
+Where the law requires that certain documents, records or information be
+retained, that requirement is met by retaining data messages, provided that
+the following conditions are satisfied:
+(a)
+The information contained therein is accessible so as to be usable
+for subsequent reference; and
+(b)
+The data message is retained in the format in which it was
+generated, sent or received, or in a format which can be demonstrated to
+represent accurately the information generated, sent or received; and
+(c)
+Such information, if any, is retained as enables the
+identification of the origin and destination of a data message and the date
+and time when it was sent or received.
+2.
+An obligation to retain documents, records or information in accordance
+with paragraph 1 does not extend to any information the sole purpose of which
+is to enable the message to be sent or received.
+3.
+A person may satisfy the requirement referred to in paragraph 1 by using
+the services of any other person, provided that the conditions set forth in
+subparagraphs (a), (b) and (c) of paragraph 1 are met.
+CHAPTER III.
+
+COMMUNICATION OF DATA MESSAGES
+Article 11
+
+Formation and validity of contracts
+1.
+In the context of contract formation, unless otherwise agreed by the
+parties, an offer and the acceptance of an offer may be expressed by means of
+data messages. Where a data message is used in the formation of a contract,
+that contract shall not be denied validity or enforceability on the sole
+ground that a data message was used for that purpose.
+
+/...
+
+A/RES/51/162
+Page 7
+
+2.
+
+The provisions of this article do not apply to the following:
+
+[...].
+
+Article 12
+Recognition by parties of data messages
+1.
+As between the originator and the addressee of a data message, a
+declaration of will or other statement shall not be denied legal effect,
+validity or enforceability solely on the grounds that it is in the form of a
+data message.
+2.
+
+The provisions of this article do not apply to the following:
+
+[...].
+
+Article 13
+Attribution of data messages
+1.
+A data message is that of the originator if it was sent by the
+originator itself.
+2.
+As between the originator and the addressee, a data message is deemed to
+be that of the originator if it was sent:
+(a)
+By a person who had the authority to act on behalf of the
+originator in respect of that data message; or
+(b)
+By an information system programmed by or on behalf of the
+originator to operate automatically.
+3.
+As between the originator and the addressee, an addressee is entitled to
+regard a data message as being that of the originator, and to act on that
+assumption, if:
+(a)
+In order to ascertain whether the data message was that of the
+originator, the addressee properly applied a procedure previously agreed to by
+the originator for that purpose; or
+(b)
+The data message as received by the addressee resulted from the
+actions of a person whose relationship with the originator or with any agent
+of the originator enabled that person to gain access to a method used by the
+originator to identify data messages as its own.
+4.
+
+Paragraph 3 does not apply:
+
+(a)
+As of the time when the addressee has both received notice from
+the originator that the data message is not that of the originator and has had
+reasonable time to act accordingly; or
+(b)
+In a case within paragraph 3 (b), at any time when the addressee
+knew or should have known, had it exercised reasonable care or used any agreed
+procedure, that the data message was not that of the originator.
+5.
+Where a data message is that of the originator or is deemed to be that
+of the originator, or the addressee is entitled to act on that assumption,
+then, as between the originator and the addressee, the addressee is entitled
+to regard the data message as received as being what the originator intended
+to send, and to act on that assumption. The addressee is not so entitled when
+it knew or should have known, had it exercised reasonable care or used any
+
+/...
+
+A/RES/51/162
+Page 8
+
+agreed procedure, that the transmission resulted in any error in the data
+message as received.
+6.
+The addressee is entitled to regard each data message received as a
+separate data message and to act on that assumption, except to the extent that
+it duplicates another data message and the addressee knew or should have
+known, had it exercised reasonable care or used any agreed procedure, that the
+data message was a duplicate.
+Article 14
+Acknowledgement of receipt
+1.
+Paragraphs 2 to 4 of this article apply where, on or before sending a
+data message, or by means of that data message, the originator has requested
+or has agreed with the addressee that receipt of the data message be
+acknowledged.
+2.
+Where the originator has not agreed with the addressee that the
+acknowledgement be given in a particular form or by a particular method, an
+acknowledgement may be given by:
+(a)
+
+Any communication by the addressee, automated or otherwise; or
+
+(b)
+
+Any conduct of the addressee,
+
+sufficient to indicate to the originator that the data message has been
+received.
+3.
+Where the originator has stated that the data message is conditional on
+receipt of the acknowledgement, the data message is treated as though it has
+never been sent, until the acknowledgement is received.
+4.
+Where the originator has not stated that the data message is conditional
+on receipt of the acknowledgement, and the acknowledgement has not been
+received by the originator within the time specified or agreed or, if no time
+has been specified or agreed, within a reasonable time the originator:
+(a)
+May give notice to the addressee stating that no acknowledgement
+has been received and specifying a reasonable time by which the
+acknowledgement must be received; and
+(b)
+If the acknowledgement is not received within the time specified
+in subparagraph (a), may, upon notice to the addressee, treat the data message
+as though it had never been sent, or exercise any other rights it may have.
+5.
+Where the originator receives the addressee's acknowledgement of
+receipt, it is presumed that the related data message was received by the
+addressee. That presumption does not imply that the data message corresponds
+to the message received.
+6.
+Where the received acknowledgement states that the related data message
+met technical requirements, either agreed upon or set forth in applicable
+standards, it is presumed that those requirements have been met.
+7.
+Except insofar as it relates to the sending or receipt of the data
+message, this article is not intended to deal with the legal consequences that
+may flow either from that data message or from the acknowledgement of its
+receipt.
+
+/...
+
+A/RES/51/162
+Page 9
+
+Article 15
+Time and place of dispatch and receipt of data message
+1.
+Unless otherwise agreed between the originator and the addressee, the
+dispatch of a data message occurs when it enters an information system outside
+the control of the originator or of the person who sent the data message on
+behalf of the originator.
+2.
+Unless otherwise agreed between the originator and the addressee, the
+time of receipt of a data message is determined as follows:
+(a)
+If the addressee has designated an information system for the
+purpose of receiving data messages, receipt occurs:
+(i)
+
+At the time when the data message enters the designated information
+system; or
+
+(ii)
+
+If the data message is sent to an information system of the
+addressee that is not the designated information system, at the time
+when the data message is retrieved by the addressee;
+
+(b) If the addressee has not designated an information system, receipt
+occurs when the data message enters an information system of the addressee.
+3.
+Paragraph 2 applies notwithstanding the fact that the place where the
+information system is located may be different from the place where the data
+message is deemed to be received under paragraph 4.
+4.
+Unless otherwise agreed between the originator and the addressee, a data
+message is deemed to be dispatched at the place where the originator has its
+place of business, and is deemed to be received at the place where the
+addressee has its place of business. For the purposes of this paragraph:
+(a) If the originator or the addressee has more than one place of
+business, the place of business is that which has the closest relationship to
+the underlying transaction or, where there is no underlying transaction, the
+principal place of business;
+(b) If the originator or the addressee does not have a place of
+business, reference is to be made to its habitual residence.
+5.
+
+The provisions of this article do not apply to the following:
+
+PART TWO.
+
+[...].
+
+ELECTRONIC COMMERCE IN SPECIFIC AREAS
+CHAPTER I.
+
+CARRIAGE OF GOODS
+
+Article 16
+Actions related to contracts of carriage of goods
+Without derogating from the provisions of part one of this Law, this
+chapter applies to any action in connection with, or in pursuance of, a
+contract of carriage of goods, including but not limited to:
+(a)
+
+(i)
+
+Furnishing the marks, number, quantity or weight of goods;
+
+(ii)
+
+Stating or declaring the nature or value of goods;
+/...
+
+A/RES/51/162
+Page 10
+
+(b)
+
+(c)
+
+(iii)
+
+Issuing a receipt for goods;
+
+(iv)
+
+Confirming that goods have been loaded;
+
+(i)
+
+Notifying a person of terms and conditions of the contract;
+
+(ii)
+
+Giving instructions to a carrier;
+
+(i)
+
+Claiming delivery of goods;
+
+(ii)
+
+Authorizing release of goods;
+
+(iii)
+
+Giving notice of loss of, or damage to, goods;
+
+(d)
+Giving any other notice or statement in connection with the
+performance of the contract;
+(e)
+Undertaking to deliver goods to a named person or a person
+authorized to claim delivery;
+(f)
+Granting, acquiring, renouncing, surrendering, transferring or
+negotiating rights in goods;
+(g)
+contract.
+
+Acquiring or transferring rights and obligations under the
+
+Article 17
+Transport documents
+1. Subject to paragraph 3, where the law requires that any action referred to
+in article 16 be carried out in writing or by using a paper document, that
+requirement is met if the action is carried out by using one or more data
+messages.
+2. Paragraph 1 applies whether the requirement therein is in the form of an
+obligation or whether the law simply provides consequences for failing either
+to carry out the action in writing or to use a paper document.
+3. If a right is to be granted to, or an obligation is to be acquired by, one
+person and no other person, and if the law requires that, in order to effect
+this, the right or obligation must be conveyed to that person by the transfer,
+or use of, a paper document, that requirement is met if the right or
+obligation is conveyed by using one or more data messages, provided that a
+reliable method is used to render such data message or messages unique.
+4. For the purposes of paragraph 3, the standard of reliability required
+shall be assessed in the light of the purpose for which the right or
+obligation was conveyed and in the light of all the circumstances, including
+any relevant agreement.
+5. Where one or more data messages are used to effect any action in
+subparagraphs (f) and (g) of article 16, no paper document used to effect any
+such action is valid unless the use of data messages has been terminated and
+replaced by the use of paper documents. A paper document issued in these
+circumstances shall contain a statement of such termination. The replacement
+of data messages by paper documents shall not affect the rights or obligations
+of the parties involved.
+
+/...
+
+A/RES/51/162
+Page 11
+
+6. If a rule of law is compulsorily applicable to a contract of carriage of
+goods which is in, or is evidenced by, a paper document, that rule shall not
+be inapplicable to such a contract of carriage of goods that is evidenced by
+one or more data messages by reason of the fact that the contract is evidenced
+by such data message or messages instead of by a paper document.
+7. The provisions of this article do not apply to the following:
+
+[...].

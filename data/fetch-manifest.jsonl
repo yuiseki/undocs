@@ -1020,7 +1020,6 @@
 {"symbol": "S/RES/941(1994)", "lang": "en", "status": "saved", "path": null, "bytes": 10521, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/2277(2016)", "lang": "en", "status": "saved", "path": null, "bytes": 379247, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/713(1991)", "lang": "en", "status": "saved", "path": null, "bytes": 144192, "note": "fetched by the earlier scraper, registered retrospectively"}
-{"symbol": "S/RES/367", "lang": "en", "status": "saved", "path": null, "bytes": 1252, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/320(1972)", "lang": "en", "status": "saved", "path": null, "bytes": 74819, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/2340(2017)", "lang": "en", "status": "saved", "path": null, "bytes": 276285, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/2689(2023)", "lang": "en", "status": "saved", "path": null, "bytes": 199000, "note": "fetched by the earlier scraper, registered retrospectively"}
@@ -3183,7 +3182,6 @@
 {"symbol": "S/RES/2103(2013)", "lang": "en", "status": "saved", "path": null, "bytes": 47452, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/1657(2006)", "lang": "en", "status": "saved", "path": null, "bytes": 24207, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/1755(2007)", "lang": "en", "status": "saved", "path": null, "bytes": 32867, "note": "fetched by the earlier scraper, registered retrospectively"}
-{"symbol": "S/RES/370", "lang": "en", "status": "saved", "path": null, "bytes": 1252, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/1767(2007)", "lang": "en", "status": "saved", "path": null, "bytes": 32743, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/562(1985)", "lang": "en", "status": "saved", "path": null, "bytes": 81860, "note": "fetched by the earlier scraper, registered retrospectively"}
 {"symbol": "S/RES/1039(1996)", "lang": "en", "status": "saved", "path": null, "bytes": 9389, "note": "fetched by the earlier scraper, registered retrospectively"}
@@ -47574,4 +47572,7 @@
 {"symbol": "S/1995/438", "lang": "en", "status": "saved", "path": "/doc/undoc/gen/n95/161/30/pdf/n9516130.pdf", "bytes": 2682}
 {"symbol": "S/PRST/1995/29", "lang": "en", "status": "saved", "path": "/doc/undoc/gen/n95/159/76/pdf/n9515976.pdf", "bytes": 2804}
 {"symbol": "S/25849", "lang": "en", "status": "saved", "path": "/doc/undoc/gen/n93/309/06/pdf/n9330906.pdf", "bytes": 3570}
+{"symbol": "A/RES/61/232", "lang": "en", "status": "error", "detail": "NotAPdf: 41136 bytes, not a PDF"}
+{"symbol": "S/RES/370", "lang": "en", "status": "missing"}
+{"symbol": "S/RES/367", "lang": "en", "status": "missing"}
 {"symbol": "A/RES/61/232", "lang": "en", "status": "error", "detail": "NotAPdf: 41136 bytes, not a PDF"}

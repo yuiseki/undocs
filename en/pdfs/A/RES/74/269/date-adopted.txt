@@ -1,0 +1,3 @@
+2020-03-31
+rule: resolution_adopted
+raw: 31 March 2020

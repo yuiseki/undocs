@@ -1,0 +1,3 @@
+1950-08-22
+rule: any
+raw: 22 August 1950

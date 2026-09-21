@@ -1,0 +1,3 @@
+1995-01-06
+rule: any
+raw: 6 January 1995

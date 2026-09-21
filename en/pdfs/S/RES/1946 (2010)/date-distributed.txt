@@ -1,0 +1,3 @@
+2010-10-15
+rule: distr
+raw: 15 October 2010

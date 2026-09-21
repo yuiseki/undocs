@@ -1,0 +1,3 @@
+1999-12-17
+rule: meeting
+raw: 17 December 1999

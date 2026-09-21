@@ -1,0 +1,384 @@
+United Nations
+
+A/RES/56/80
+
+General Assembly
+
+Distr.: General
+24 January 2002
+
+Fifty-sixth session
+Agenda item 161
+
+Resolution adopted by the General Assembly
+[on the report of the Sixth Committee (A/56/588 and Corr.1)]
+
+56/80.
+
+Model Law on Electronic Signatures of the United
+Nations Commission on International Trade Law
+
+The General Assembly,
+Recalling its resolution 2205 (XXI) of 17 December 1966, by which it
+established the United Nations Commission on International Trade Law, with a
+mandate to further the progressive harmonization and unification of the law of
+international trade and in that respect to bear in mind the interests of all peoples,
+particularly those of developing countries, in the extensive development of
+international trade,
+Noting that an increasing number of transactions in international trade are
+carried out by means of communication commonly referred to as electronic
+commerce, which involves the use of alternatives to paper-based forms of
+communication, storage and authentication of information,
+Recalling the recommendation on the legal value of computer records adopted
+by the Commission at its eighteenth session, in 1985, and paragraph 5 (b) of General
+Assembly resolution 40/71 of 11 December 1985, in which the Assembly called
+upon Governments and international organizations to take action, where appropriate,
+in conformity with the recommendation of the Commission, 1 so as to ensure legal
+security in the context of the widest possible use of automated data processing in
+international trade,
+Recalling also that the Model Law on Electronic Commerce was adopted by
+the Commission at its twenty-ninth session, in 1996, 2 and complemented by an
+additional article, 5 bis, adopted by the Commission at its thirty-first session, in
+1998, 3 and recalling paragraph 2 of General Assembly resolution 51/162 of
+16 December 1996, in which the Assembly recommended that all States should give
+favourable consideration to the Model Law when enacting or revising their laws, in
+view of the need for uniformity of the law applicable to alternatives to paper-based
+methods of communication and storage of information,
+_______________
+1
+See Official Records of the General Assembly, Fortieth Session, Supplement No. 17 (A/40/17), chap. VI,
+sect. B.
+2
+Ibid., Fifty-first Session, Supplement No. 17 (A/51/17), chap. III, sect. F, para. 209.
+3
+Ibid., Fifty-third Session, Supplement No. 17 (A/53/17), chap. III, sect. B.
+
+01 49026
+
+A/RES/56/80
+
+Convinced that the Model Law on Electronic Commerce is of significant
+assistance to States in enabling or facilitating the use of electronic commerce, as
+demonstrated by the enactment of the Model Law in a number of countries and its
+universal recognition as an essential reference in the field of electronic commerce
+legislation,
+Mindful of the great utility of new technologies used for personal identification
+in electronic commerce and commonly referred to as electronic signatures,
+Desiring to build on the fundamental principles underlying article 7 of the
+Model Law on Electronic Commerce 4 with respect to the fulfilment of the signature
+function in an electronic environment, with a view to promoting reliance on
+electronic signatures for producing legal effect where such electronic signatures are
+functionally equivalent to handwritten signatures,
+Convinced that legal certainty in electronic commerce will be enhanced by the
+harmonization of certain rules on the legal recognition of electronic signatures on a
+technologically neutral basis and by the establishment of a method to assess in a
+technologically neutral manner the practical reliability and the commercial
+adequacy of electronic signature techniques,
+Believing that the Model Law on Electronic Signatures will constitute a useful
+addition to the Model Law on Electronic Commerce and significantly assist States in
+enhancing their legislation governing the use of modern authentication techniques
+and in formulating such legislation where none currently exists,
+Being of the opinion that the establishment of model legislation to facilitate the
+use of electronic signatures in a manner acceptable to States with different legal,
+social and economic systems could contribute to the development of harmonious
+international economic relations,
+1.
+Expresses its appreciation to the United Nations Commission on
+International Trade Law for completing and adopting the Model Law on Electronic
+Signatures contained in the annex to the present resolution, and for preparing the
+Guide to Enactment of the Model Law;
+2.
+Recommends that all States give favourable consideration to the Model
+Law on Electronic Signatures, together with the Model Law on Electronic
+Commerce adopted in 1996 and complemented in 1998, when they enact or revise
+their laws, in view of the need for uniformity of the law applicable to alternatives to
+paper-based forms of communication, storage and authentication of information;
+3.
+Recommends also that all efforts be made to ensure that the Model Law
+on Electronic Commerce and the Model Law on Electronic Signatures, together with
+their respective Guides to Enactment, become generally known and available.
+85th plenary meeting
+12 December 2001
+
+_______________
+4
+
+2
+
+Resolution 51/162, annex.
+
+A/RES/56/80
+
+Annex
+Model Law on Electronic Signatures of the United Nations Commission on
+International Trade Law
+Article 1
+Sphere of application
+This Law applies where electronic signatures are used in the context 5 of
+commercial 6 activities. It does not override any rule of law intended for the
+protection of consumers.
+Article 2
+Definitions
+For the purposes of this Law:
+(a) “Electronic signature” means data in electronic form in, affixed to or
+logically associated with, a data message, which may be used to identify the
+signatory in relation to the data message and to indicate the signatory’s approval of
+the information contained in the data message;
+(b) “Certificate” means a data message or other record confirming the link
+between a signatory and signature creation data;
+(c) “Data message” means information generated, sent, received or stored by
+electronic, optical or similar means including, but not limited to, electronic data
+interchange (EDI), electronic mail, telegram, telex or telecopy;
+(d) “Signatory” means a person that holds signature creation data and acts
+either on its own behalf or on behalf of the person it represents;
+(e) “Certification service provider” means a person that issues certificates
+and may provide other services related to electronic signatures;
+(f) “Relying party” means a person that may act on the basis of a certificate
+or an electronic signature.
+Article 3
+Equal treatment of signature technologies
+Nothing in this Law, except article 5, shall be applied so as to exclude, restrict
+or deprive of legal effect any method of creating an electronic signature that
+satisfies the requirements referred to in article 6, paragraph 1, or otherwise meets
+the requirements of applicable law.
+
+_______________
+5
+
+The Commission suggests the following text for States that might wish to extend the applicability of this
+Law:
+“This Law applies where electronic signatures are used, except in the following
+situations: [...].”
+6
+The term “commercial” should be given a wide interpretation so as to cover matters arising
+from all relationships of a commercial nature, whether contractual or not. Relationships of a commercial
+nature include, but are not limited to, the following transactions: any trade transaction for the supply or
+exchange of goods or services; distribution agreement; commercial representation or agency; factoring;
+leasing; construction of works; consulting; engineering; licensing; investment; financing; banking;
+insurance; exploitation agreement or concession; joint venture and other forms of industrial or business
+cooperation; carriage of goods or passengers by air, sea, rail or road.
+
+3
+
+A/RES/56/80
+
+Article 4
+Interpretation
+1.
+In the interpretation of this Law, regard is to be had to its international
+origin and to the need to promote uniformity in its application and the observance of
+good faith.
+2.
+Questions concerning matters governed by this Law which are not
+expressly settled in it are to be settled in conformity with the general principles on
+which this Law is based.
+Article 5
+Variation by agreement
+The provisions of this Law may be derogated from or their effect may be
+varied by agreement, unless that agreement would not be valid or effective under
+applicable law.
+Article 6
+Compliance with a requirement for a signature
+1.
+Where the law requires a signature of a person, that requirement is met in
+relation to a data message if an electronic signature is used that is as reliable as was
+appropriate for the purpose for which the data message was generated or
+communicated, in the light of all the circumstances, including any relevant
+agreement.
+2.
+Paragraph 1 applies whether the requirement referred to therein is in the
+form of an obligation or whether the law simply provides consequences for the
+absence of a signature.
+3.
+An electronic signature is considered to be reliable for the purpose of
+satisfying the requirement referred to in paragraph 1 if:
+(a) The signature creation data are, within the context in which they are
+used, linked to the signatory and to no other person;
+(b) The signature creation data were, at the time of signing, under the control
+of the signatory and of no other person;
+(c) Any alteration to the electronic signature, made after the time of signing,
+is detectable; and
+(d) Where a purpose of the legal requirement for a signature is to provide
+assurance as to the integrity of the information to which it relates, any alteration
+made to that information after the time of signing is detectable.
+4.
+
+Paragraph 3 does not limit the ability of any person:
+
+(a) To establish in any other way, for the purpose of satisfying the
+requirement referred to in paragraph 1, the reliability of an electronic signature; or
+
+4
+
+(b)
+
+To adduce evidence of the non-reliability of an electronic signature.
+
+5.
+
+The provisions of this article do not apply to the following: [...].
+
+A/RES/56/80
+
+Article 7
+Satisfaction of article 6
+1.
+[Any person, organ or authority, whether public or private, specified by
+the enacting State as competent] may determine which electronic signatures satisfy
+the provisions of article 6 of this Law.
+2.
+Any determination made under paragraph 1 shall be consistent with
+recognized international standards.
+3.
+Nothing in this article affects the operation of the rules of private
+international law.
+Article 8
+Conduct of the signatory
+1.
+Where signature creation data can be used to create a signature that has
+legal effect, each signatory shall:
+(a) Exercise reasonable care to avoid unauthorized use of its signature
+creation data;
+(b) Without undue delay, utilize means made available by the certification
+service provider pursuant to article 9 of this Law, or otherwise use reasonable
+efforts, to notify any person that may reasonably be expected by the signatory to
+rely on or to provide services in support of the electronic signature if:
+(i) The signatory knows that the signature creation data have been
+compromised; or
+(ii) The circumstances known to the signatory give rise to a substantial risk
+that the signature creation data may have been compromised;
+(c) Where a certificate is used to support the electronic signature, exercise
+reasonable care to ensure the accuracy and completeness of all material
+representations made by the signatory that are relevant to the certificate throughout
+its life cycle or that are to be included in the certificate.
+2.
+A signatory shall bear the legal consequences of its failure to satisfy the
+requirements of paragraph 1.
+Article 9
+Conduct of the certification service provider
+1.
+Where a certification service provider provides services to support an
+electronic signature that may be used for legal effect as a signature, that certification
+service provider shall:
+(a) Act in accordance with representations made by it with respect to its
+policies and practices;
+(b) Exercise reasonable care to ensure the accuracy and completeness of all
+material representations made by it that are relevant to the certificate throughout its
+life cycle or that are included in the certificate;
+(c) Provide reasonably accessible means that enable a relying party to
+ascertain from the certificate:
+(i)
+
+The identity of the certification service provider;
+
+5
+
+A/RES/56/80
+
+(ii) That the signatory that is identified in the certificate had control of the
+signature creation data at the time when the certificate was issued;
+(iii) That signature creation data were valid at or before the time when the
+certificate was issued;
+(d) Provide reasonably accessible means that enable a relying party to
+ascertain, where relevant, from the certificate or otherwise:
+(i)
+
+The method used to identify the signatory;
+
+(ii) Any limitation on the purpose or value for which the signature creation
+data or the certificate may be used;
+(iii) That the signature creation data are valid and have not been
+compromised;
+(iv) Any limitation on the scope or extent of liability stipulated by the
+certification service provider;
+(v) Whether means exist for the signatory to give notice pursuant to article 8,
+paragraph 1 (b), of this Law;
+(vi) Whether a timely revocation service is offered;
+(e) Where services under subparagraph (d) (v) are offered, provide a means
+for a signatory to give notice pursuant to article 8, paragraph 1 (b), of this Law and,
+where services under subparagraph (d) (vi) are offered, ensure the availability of a
+timely revocation service;
+(f) Utilize trustworthy systems, procedures and human resources in
+performing its services.
+2.
+A certification service provider shall bear the legal consequences of its
+failure to satisfy the requirements of paragraph 1.
+Article 10
+Trustworthiness
+For the purposes of article 9, paragraph 1 (f), of this Law in determining
+whether, or to what extent, any systems, procedures and human resources utilized by
+a certification service provider are trustworthy, regard may be had to the following
+factors:
+(a)
+
+Financial and human resources, including existence of assets;
+
+(b)
+
+Quality of hardware and software systems;
+
+(c) Procedures for processing of certificates and applications for certificates
+and retention of records;
+(d) Availability of information to signatories identified in certificates and to
+potential relying parties;
+(e)
+
+Regularity and extent of audit by an independent body;
+
+(f) The existence of a declaration by the State, an accreditation body or the
+certification service provider regarding compliance with or existence of the
+foregoing; or
+(g)
+
+6
+
+Any other relevant factor.
+
+A/RES/56/80
+
+Article 11
+Conduct of the relying party
+A relying party shall bear the legal consequences of its failure:
+(a) To take reasonable steps to verify the reliability of an electronic
+signature; or
+(b) Where an electronic signature is supported by a certificate, to take
+reasonable steps:
+(i)
+
+To verify the validity, suspension or revocation of the certificate; and
+
+(ii)
+
+To observe any limitation with respect to the certificate.
+
+Article 12
+Recognition of foreign certificates and electronic signatures
+1.
+In determining whether, or to what extent, a certificate or an electronic
+signature is legally effective, no regard shall be had:
+(a) To the geographic location where the certificate is issued or the
+electronic signature created or used; or
+(b) To the geographic location of the place of business of the issuer or
+signatory.
+2.
+A certificate issued outside [the enacting State] shall have the same legal
+effect in [the enacting State] as a certificate issued in [the enacting State] if it offers
+a substantially equivalent level of reliability.
+3.
+An electronic signature created or used outside [the enacting State] shall
+have the same legal effect in [the enacting State] as an electronic signature created
+or used in [the enacting State] if it offers a substantially equivalent level of
+reliability.
+4.
+In determining whether a certificate or an electronic signature offers a
+substantially equivalent level of reliability for the purposes of paragraph 2 or 3,
+regard shall be had to recognized international standards and to any other relevant
+factors.
+5.
+Where, notwithstanding paragraphs 2, 3 and 4, parties agree, as between
+themselves, to the use of certain types of electronic signatures or certificates, that
+agreement shall be recognized as sufficient for the purposes of cross-border
+recognition, unless that agreement would not be valid or effective under applicable
+law.
+
+7

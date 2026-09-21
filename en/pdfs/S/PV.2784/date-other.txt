@@ -1,0 +1,3 @@
+1988-01-18
+rule: any
+raw: 18 January 1988

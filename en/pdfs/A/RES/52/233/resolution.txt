@@ -1,0 +1,77 @@
+A
+
+UNITED
+NATIONS
+
+General Assembly
+Distr.
+GENERAL
+A/RES/52/233
+2 July 1998
+
+Fifty-second session
+Agenda item 95 (c)
+RESOLUTION ADOPTED BY THE GENERAL ASSEMBLY
+[without reference to a Main Committee (A/52/L.75/Rev.1)]
+52/233. Global implications of the year 2000 date conversion problem of
+computers
+The General Assembly,
+Recognizing that the effective operation of Governments, companies and other organizations is
+threatened by the year 2000 date conversion problem of computers, or “millennium bug”,
+Underlining the need for effective action to address the problem to be taken well in advance of the
+inflexible date of 31 December 1999, beyond which important systems might cease to function,
+Recognizing the potentially serious impact that the year 2000 problem could have in all countries
+whose economies are increasingly interdependent,
+Emphasizing that the year 2000 problem could affect both computer systems and much electronic
+control equipment containing embedded chips and internal clocks, with wide-ranging effects on such
+important areas as power supplies, telecommunications, financial systems, transport, public health, building
+and factory systems, food supplies, emergency services, the organization of social welfare and utilities,
+Emphasizing also that coordinated efforts by Governments and private, public and international
+organizations are required to address the year 2000 problem,
+Appreciating the establishment of a trust fund by the World Bank to assist in the efforts to resolve
+the year 2000 problem and the voluntary contributions made to it by the member States,
+
+98-77305
+
+/...
+
+A/RES/52/233
+Page 2
+
+Appreciating also the efforts of the Ad Hoc Open-ended Working Group on Informatics of the
+Economic and Social Council in raising the level of awareness of the year 2000 problem,
+1.
+Requests all Member States to attach a high priority to raising the level of awareness, both
+by ensuring that the private sector is fully engaged in addressing the year 2000 problem and by tackling
+the problem in those systems within their own control, and to consider, inter alia, the appointment of a
+nationwide coordinator for this purpose;
+2.
+Appeals to all Member States to forge global cooperation to ensure a timely and effective
+response to the year 2000 challenge;
+3.
+Calls upon Governments, public and private sector organizations and civil society to share
+locally, regionally and globally their experiences in addressing the year 2000 problem;
+4.
+Requests the Secretary-General to take steps to ensure that all parts of the United Nations
+system take measures to ensure that their computers and equipment with embedded microprocessors are
+year 2000 compliant well before the target date by drawing up a plan of action for the United Nations
+system;
+5.
+Calls upon the Economic and Social Council to prepare at its substantive session of 1998
+guidelines on which Member States will be able to draw in addressing the diverse aspects of the year 2000
+problem;
+6.
+Requests the Secretary-General to ensure that the United Nations system closely monitors
+actual and potential sources of funding to support the efforts of the developing countries and countries
+with economies in transition to address the year 2000 problem, and to facilitate the dissemination of
+relevant information on those funding possibilities to the Member States;
+7.
+Also requests the Secretary-General to report to the General Assembly at its fifty-third
+session on the steps taken within the United Nations system and with Member States to resolve this
+problem;
+8.
+Decides to include in the provisional agenda of its fifty-third session an item entitled
+“Global implications of the year 2000 date conversion problem of computers” and to complete its action
+under that agenda item before the deadline of 31 December 1999.
+88th plenary meeting
+26 June 1998

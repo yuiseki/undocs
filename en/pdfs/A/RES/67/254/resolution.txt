@@ -1,0 +1,704 @@
+United Nations
+
+A/RES/67/254
+
+General Assembly
+
+Distr.: General
+7 June 2013
+
+Sixty-seventh session
+Agenda item 130
+
+Resolution adopted by the General Assembly on 12 April 2013
+[on the report of the Fifth Committee (A/67/677/Add.1)]
+
+67/254. Special subjects relating to the programme budget
+for the biennium 2012–2013
+The General Assembly,
+I
+Information and communications technology: report of the Board of Auditors
+on the handling of information and communications technology affairs
+in the United Nations Secretariat
+Recalling section II of its resolution 60/283 of 7 July 2006, its resolutions
+62/250 of 20 June 2008, 63/262 of 24 December 2008, 63/269 of 7 April 2009,
+64/243 of 24 December 2009, section II of its resolution 65/259 of 24 December
+2010 and its resolution 66/246 of 24 December 2011,
+Having considered the report of the Board of Auditors on the handling of
+information and communications technology affairs in the Secretariat 1 and the
+report of the Secretary-General on the implementation of the recommendations of
+the Board contained in its report, 2 as well as the related report of the Advisory
+Committee on Administrative and Budgetary Questions, 3
+Having also considered the report of the Joint Inspection Unit on information
+and communications technology governance in United Nations system organizations, 4
+as well as the note by the Secretary-General transmitting his comments and those of
+the United Nations System Chief Executives Board for Coordination thereon, 5
+Stressing the need to harness the potential of information and communications
+technology to support the work of the United Nations in the areas of peace and
+security, development, human rights and international law,
+_______________
+1
+
+A/67/651.
+A/67/651/Add.1.
+3
+A/67/770.
+4
+A/67/119.
+5
+A/67/119/Add.1.
+2
+
+12-49384
+
+*1249384*
+
+Please recycle
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+1.
+Takes note of the report of the Board of Auditors on the handling of
+information and communications technology affairs in the Secretariat1 and the
+report of the Secretary-General on the implementation of the recommendations of
+the Board contained in its report;2
+2.
+Endorses the conclusions and recommendations contained in the report
+of the Advisory Committee on Administrative and Budgetary Questions;3
+3.
+Approves the conclusions and recommendations of the Board contained
+in its report;
+4.
+Recalls paragraph 28 of the report of the Advisory Committee,
+commends the Board for the continued high quality of its work, and welcomes the
+recommendations issued by the Board to address the root causes and systemic
+weaknesses hindering progress in the implementation of major business
+transformation projects and management reform in the Organization;
+Also recalls paragraph 27 of the report of the Advisory Committee, and
+5.
+requests the Secretary-General to implement the recommendations of the Board as a
+matter of priority;
+Underlines the importance of information and communications
+6.
+technology in meeting the growing demands of the Organization as it becomes
+increasingly reliant on its information and communications technology infrastructure;
+Also underlines the importance of information and communications
+7.
+technology in strengthening oversight and accountability and in increasing the
+availability of accurate and timely information to support decision-making;
+Acknowledges that the lack of effective governance and leadership in the
+8.
+area of information and communications technology has resulted in a high level of
+duplication and fragmentation of the information and communications technology
+functions in the Secretariat;
+Recalls paragraph 69 of the report of the Advisory Committee, and
+9.
+stresses the need for improved oversight for the more timely detection of serious
+issues in the implementation of major projects and initiatives such as information
+and communications technology;
+10. Notes that the post of Chief Information Technology Officer has been
+vacant since 2012, and requests the Secretary-General to accelerate the filling of the
+position without further delay in order to ensure the effective direction, planning
+and management of information and communications technology activities;
+11. Recalls paragraphs 42, 70 and 71 of the report of the Advisory
+Committee and its suggestion of a sequential approach to the formulation of a new
+information and communications technology strategy, and requests the SecretaryGeneral to submit to the General Assembly at its sixty-eighth session a progress
+report on the measures taken to address the priorities identified by the Board in its
+report, in particular with regard to the implementation of the Umoja enterprise
+resource planning project and information technology security;
+12. Requests the Secretary-General to propose a revised information and
+communications technology strategy, including lessons learned, by no later than the
+sixty-ninth session of the General Assembly, bearing in mind that the purpose of
+information and communications technology is to support the work of the
+Organization;
+
+2/12
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+A/RES/67/254
+
+13. Stresses that the revised information and communications technology
+strategy should be based on a thorough analysis of the business environment and its
+requirements and be aligned with the service delivery model of the Organization,
+including ongoing and upcoming business transformation initiatives;
+14. Requests the Secretary-General to include, in the revised information and
+communications technology strategy, a comprehensive performance management
+framework based on well-defined concepts and effective mechanisms and tools for
+monitoring, evaluating and measuring the results and impact of the activities
+implemented; the lessons learned from the problems encountered in the
+implementation of the current information and communications technology strategy;
+and a detailed, workable implementation plan, as well as a fully justified costbenefit analysis;
+15. Regrets the recent insufficient collaboration among the Umoja project
+team, the Office of Information and Communications Technology and other
+information and communications technology units of the United Nations Secretariat;
+16. Requests the Secretary-General to identify and put into place the
+measures required to ensure the successful implementation of all of the phases of
+Umoja and to ensure that the Office of Information and Communications
+Technology and other relevant departments, offices and units are able to support the
+enterprise resource planning system autonomously in the post-implementation phase
+in order to increase productivity and cost-effectiveness in service delivery;
+17. Also requests the Secretary-General to proceed with the implementation
+of his action plan to strengthen information security as a matter of priority, to ensure
+the adoption, without further delay, of the information security policy directive and
+associated policy documents in a manner that assures accountability at all levels of
+the Organization and to take prompt remedial action to address any hindrances that
+may arise to the effective implementation of the action plan or the promulgation and
+enforcement of information security policies throughout the Secretariat;
+18. Invites the Secretary-General to provide, in the context of the proposed
+programme budget for the biennium 2014–2015, an update on the status of
+implementation of the actions taken to address information security issues,
+including measures taken to guard against any threats of cyber attack;
+19. Recalls paragraphs 53 and 55 of the report of the Advisory Committee,
+and requests the Secretary-General to conduct a comprehensive review of the
+existing software applications and to plan for the necessary migration and
+decommissioning of systems to enable a smooth transition to Umoja;
+II
+Organizational resilience management system:
+emergency management framework
+Recalling section II of its resolution 64/260 of 29 March 2010 and section I of
+its resolution 66/247 of 24 December 2011, as well as its decision 67/552 of
+24 December 2012,
+
+3/12
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+Having considered the report of the Secretary-General on the organizational
+resilience management system, including the emergency management framework, 6
+and the related report of the Advisory Committee, 7
+Having also considered the report of the Joint Inspection Unit on business
+continuity in the United Nations system, 8 as well as the note by the SecretaryGeneral transmitting his comments and those of the United Nations System Chief
+Executives Board for Coordination thereon, 9
+1.
+
+Takes note of the report of the Secretary-General;6
+
+2.
+Endorses the conclusions and recommendations contained in the report
+of the Advisory Committee,7 subject to the provisions of the present resolution;
+3.
+Approves the organizational resilience management system approach as
+the emergency management framework;
+4.
+Recalls paragraph 23 of the report of the Advisory Committee, and, while
+noting that the Secretary-General is not requesting additional financial resources for
+the implementation of the organizational resilience management system, requests
+him to provide a detailed accounting of the full cost of the initiative in the context
+of the next progress report;
+Emphasizes the importance of the organizational resilience management
+5.
+system in managing operational risks to the United Nations under an all-hazards
+approach;
+Requests the Secretary-General to submit to the General Assembly, at the
+6.
+first part of its resumed sixty-eighth session, a progress report on the implementation
+of the organizational resilience management system, including information on the
+steps taken to expand the system to include the specialized agencies, funds and
+programmes;
+Also requests the Secretary-General, in the context of the report
+7.
+mentioned in paragraph 6 above, to present comprehensive information on the work
+of the after-action review on storm Sandy, including the action taken to address the
+shortcomings identified;
+Further requests the Secretary-General to ensure that all relevant rules,
+8.
+regulations and resolutions are adhered to in the implementation of all aspects of the
+organizational resilience management system;
+III
+Feasibility study on the United Nations Headquarters
+accommodation needs 2014–2034
+Recalling its resolution 60/282 of 30 June 2006 and section A of its decision
+66/556 B of 9 April 2012,
+Having considered the reports of the Secretary-General on the feasibility study
+on the United Nations Headquarters accommodation needs 2014–2034 10 and on the
+_______________
+6
+
+A/67/266.
+A/67/608.
+8
+A/67/83.
+9
+A/67/83/Add.1.
+10
+A/66/349.
+7
+
+4/12
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+A/RES/67/254
+
+expanded feasibility study on the United Nations Headquarters accommodation
+needs 2014–2034, 11 as well as the related reports of the Advisory Committee, 12, 13
+1.
+
+Takes note of the reports of the Secretary-General;10,11
+
+2.
+Endorses the conclusions and recommendations contained in the reports
+of the Advisory Committee,12,13 subject to the provisions of the present resolution;
+3.
+Stresses the important role of the host countries in their support for
+United Nations Headquarters and offices away from Headquarters;
+4.
+Underlines the historical and architectural significance of the United
+Nations complex in New York and of the original design of the Board of Design
+Consultants, without prejudice to the prerogative of the General Assembly to
+consider all options with regard to the long-term accommodation of United Nations
+Headquarters;
+Notes that the information provided by the Secretary-General in the
+5.
+expanded study on United Nations Headquarters accommodation needs 2014–2034
+is not precise and comprehensive enough to facilitate decision-making by the
+General Assembly and does not give equal treatment to all options considered;
+Recalls paragraphs 52 and 53 of the report of the Advisory Committee,13
+6.
+and requests the Secretary-General to submit to the General Assembly, as early as
+possible in the sixty-eighth session, a new report on United Nations Headquarters
+long-term accommodation needs with comprehensive information on all viable
+options, including additional options not adequately considered or developed in the
+report of the Secretary-General, ensuring that all options are treated equally, while
+seeking the most favourable terms for the Organization in all cases;
+Stresses that the new report mentioned in paragraph 6 above shall also
+7.
+cover factors including, but not limited to, total population requirements with and
+without the staff of the participating funds and programmes and the financial
+consequences of the cost-sharing arrangements with them, the impact of the
+implementation of flexible work arrangements on the capacity of the buildings at the
+Headquarters compound, the sequencing of United Nations construction projects,
+the findings from the ongoing review of flexible workspace arrangements and
+strategies in the Secretariat, the potential impact on the architectural integrity of the
+United Nations compound, an analysis of the preferable ratio of owned versus
+leased space for the Organization and possible developments in the planning for the
+future of the Organization;
+Recalls paragraph 48 of the report of the Advisory Committee,13 and
+8.
+emphasizes that the term “comprehensive information” in paragraph 6 above means
+information including, but not limited to, short- and long-term financing alternatives
+for each option, the direct and indirect costs of each option, the net present value of
+each option, along with the residual value of new construction where relevant, and
+the legal and other risks associated with each option;
+Notes the initiative of the Secretariat to commission a report on the
+9.
+application of flexible workspace strategies and working arrangements in the
+
+_______________
+11
+
+A/67/720.
+A/66/7/Add.3.
+13
+A/67/788.
+12
+
+5/12
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+Organization, and looks forward to receiving the report of the Secretary-General at
+the main part of its sixty-eighth session;
+10. Decides that the pursuit of negotiations by the Secretary-General with the
+intention of keeping option 3 viable shall in no way represent a commitment by the
+Organization and shall be without prejudice to any decision by the General
+Assembly, nor shall it entail legal or financial liability for the United Nations;
+11. Requests the Secretary-General to provide to the General Assembly on a
+regular basis information on the progress of the efforts referred to in the paragraphs
+above;
+12. Recalls paragraph 51 of the report of the Advisory Committee13 as well
+as section VII, paragraph 4, of resolution 66/247, and reiterates its request to the
+Secretary-General to ensure that major capital expenditure projects are not
+implemented simultaneously in order to prevent the need to finance them at the
+same time;
+13. Also recalls paragraph 59 of the report of the Advisory Committee13 and
+section V, paragraph 29, of resolution 67/246 of 24 December 2012, and reiterates its
+request to the Secretary-General for comprehensive information and options, as well
+as financial implications, on the renovation of the South Annex Building and the
+Dag Hammarskjöld Library Building, in the context of the eleventh annual report on
+the capital master plan, ensuring that the commemorative value of the Dag
+Hammarskjöld Library is respected;
+14. Requests the Secretary-General to ensure effective oversight and audit
+coverage in all phases of the project, including the ongoing feasibility study;
+IV
+Revised estimates relating to section 34 of the programme budget
+for the biennium 2012–2013 for remediation work
+in the aftermath of storm Sandy
+Having considered the report of the Secretary-General on revised estimates
+relating to section 34 of the programme budget for the biennium 2012–2013 for
+remediation work in the aftermath of storm Sandy 14 and the related report of the
+Advisory Committee, 15
+1.
+
+Takes note of the report of the Secretary-General;14
+
+2.
+Endorses the conclusions and recommendations contained in the report
+of the Advisory Committee,15 subject to the provisions of the present resolution;
+3.
+Acknowledges the efforts made by the Secretariat during and in the
+aftermath of storm Sandy, with a view to quickly restoring normal working
+conditions for the staff and resuming the critical business of the Organization;
+Recognizes the difficulties in communication faced by Member States
+4.
+and staff during and in the aftermath of storm Sandy, and in that regard requests the
+Secretary-General to present to the General Assembly, at the first part of its resumed
+sixty-eighth session, comprehensive information on the work of the after-action
+review of storm Sandy, including the actions taken to address the shortcomings
+_______________
+14
+15
+
+6/12
+
+A/67/748.
+A/67/789.
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+A/RES/67/254
+
+identified, in order to reduce the vulnerability of United Nations Headquarters to
+future flooding events and other emergencies;
+5.
+Affirms, as illustrated by the aftermath of storm Sandy, the importance of
+accountability and oversight in the effective functioning of the emergency
+management framework, particularly in the areas of governance, communication,
+physical infrastructure and business continuity;
+Welcomes the delineation of responsibilities among the various heads of
+6.
+departments and senior managers for the implementation of prevention, mitigation
+and recovery measures;
+Notes that without the timely implementation of the Secretary-General’s
+7.
+proposed remediation measures, the Organization runs the risk of significant,
+uninsurable financial exposure;
+Authorizes the Secretary-General to enter into commitments in the
+8.
+biennium 2012–2013 of up to 6,063,400 United States dollars under section 34,
+Construction, alteration, improvement and major maintenance, of the programme
+budget, for mitigation work, encourages all efforts to minimize costs within this
+section, in the most efficient manner, and requests the Secretary-General to report
+thereon in the context of the second performance report on the programme budget
+for the biennium 2012–2013;
+Recalls paragraph 8 of the report of the Advisory Committee, and
+9.
+requests the Secretary-General to implement the remediation and mitigation work at
+United Nations Headquarters in an immediate manner in order to avoid delays in the
+implementation of the capital master plan and enable its completion within the
+approved schedule;
+10. Authorizes the Secretary-General to enter into commitments in the
+biennium 2012–2013 of up to 131,421,300 dollars to enable remediation work, and
+requests him to report thereon in the context of the second performance report on
+the programme budget for the biennium 2012–2013, to be submitted at the main part
+of the sixty-eighth session of the General Assembly;
+11. Notes that the cost of the remediation work is expected to be reimbursed
+under the terms of the insurance policies held by the United Nations up to an
+estimated amount of 137,851,400 dollars;
+12. Also notes the intention of the Secretary-General to submit the vast
+majority of the insurance claims relating to storm Sandy by 31 December 2013, and
+in that regard requests him to ensure the timely submission of all insurance claims
+in order to expedite reimbursement and to report on the status of reimbursement and
+the insurance claims process in the context of the second performance report on the
+programme budget for the biennium 2012–2013;
+13. Further notes that the total estimated amount of non-recoverable
+damages may amount to a maximum of 11,069,900 dollars, and requests the
+Secretary-General, subject to the outcome of the insurance recovery efforts and the
+Secretariat’s prioritization of equipment and other content whose replacement is
+essential, to make efforts to minimize expenditure by seeking efficiencies during the
+course of the remediation work and to report on those efforts in the context of the
+second performance report on the programme budget for the biennium 2012–2013;
+14. Recalls paragraph 14 of the report of the Advisory Committee and
+authorizes the Secretary-General to use the Working Capital Fund as a cash flow
+bridging mechanism to cover payments pending the receipt of insurance settlements,
+7/12
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+and requests the Secretary-General to closely monitor the cash position of the
+Organization so as to ensure that other operations are not put at risk and to report
+thereon to the General Assembly on a regular basis within existing mechanisms;
+15. Decides to establish a multi-year special account for insurance recovery
+and expenditure relating to the damage in the aftermath of storm Sandy until
+31 December 2015, with the possibility of extension beyond that date depending on
+the status of the insurance claims process;
+16. Recalls section X, paragraph 9, of its resolution 67/246, and requests the
+Secretary-General to include information on the cash balance of the special account
+in the forthcoming monthly informational update on the cash position of the
+Organization;
+17. Requests the Secretary-General to closely monitor the insurance market,
+including all means of risk mitigation, with a view to securing adequate coverage at
+a reasonable cost for all United Nations installations exposed to natural hazards and
+emergencies and to report thereon at the first part of its resumed sixty-eighth
+session;
+V
+Safety and security management system for the United Nations
+Recalling section XIV of resolution 65/259, resolution 66/246, section A of
+decision 66/556 B and decision 67/552,
+Having considered the report of the Secretary-General on the conclusions of
+the High-level Working Group on Programme Criticality, 16 his comprehensive report
+on the United Nations Department of Safety and Security 17 and his report on the use
+of private security, 18 as well as the related reports of the Advisory Committee, 19, 20
+1.
+
+Takes note of the reports of the Secretary-General;16,17,18
+
+2.
+Endorses the conclusions and recommendations contained in the reports
+of the Advisory Committee,19,20 subject to the provisions of the present resolution;
+Safety and security
+3.
+Reaffirms the importance of ensuring the safety and security of United
+Nations staff, operations and premises;
+4.
+Welcomes the progress made in strengthening the security management
+system for the coordination of security arrangements for the Organization;
+5.
+Stresses the importance of ensuring full accountability for compliance with
+safety and security policies and guidelines and of monitoring managerial performance
+throughout the United Nations system, and in that regard requests the SecretaryGeneral to continue to report thereon in the context of his relevant reports;
+
+_______________
+16
+
+A/66/680.
+A/67/526.
+18
+A/67/539.
+19
+A/66/720.
+20
+A/67/624.
+17
+
+8/12
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+A/RES/67/254
+
+6.
+Requests the Secretary-General to continue to strengthen his cooperation
+with host Governments in order to ensure the safety and security of United Nations
+personnel, premises and assets;
+Encourages the Secretary-General to continue efforts to ensure the
+7.
+mainstreaming of safety and security in the implementation of mandated programmes
+and activities of the United Nations system;
+Recalls paragraph 9 of the report of the Advisory Committee,20 and
+8.
+requests the Secretary-General to provide information in that regard in the context
+of the proposed programme budget for the biennium 2016–2017;
+Reiterates the principle that the United Nations Secretariat, organizations,
+9.
+funds and programmes share a common responsibility for the safety and security of
+their staff and that funding for safety and security, based on cost-sharing
+arrangements, should be clear, predictable and secure, and in that regard invites the
+Secretary-General, in his capacity as Chair of the United Nations System Chief
+Executives Board for Coordination, to keep under review cost-sharing arrangements
+with all participating entities;
+Use of private security
+10. Notes that the United Nations finds it necessary, as an exceptional
+measure, to use armed security services from private security companies to secure
+the premises and personnel of the Organization;
+11. Stresses that such services should be used as a last resort to enable
+United Nations activities in high-risk environments only when a United Nations
+security risk assessment concludes that other alternatives, including protection by
+the host country, support from the Member States concerned or internal United
+Nations system resources are inadequate;
+12. Also stresses the importance of ensuring that all measures necessary are
+taken to avoid legal and reputational risks for the Organization in using armed
+security services of private security companies;
+13. Acknowledges the efforts of the Secretary-General to develop a policy to
+guide the use of armed security services from private security companies, and
+requests him to consider disseminating information on that policy as widely as
+possible, in all six official languages of the United Nations, taking into account
+relevant security considerations, to ensure the proper enforcement of the policy, and
+to continue to report to the General Assembly on the use of armed security services
+from private security companies;
+14. Recalls section XIV, paragraph 7, of its resolution 65/259, and in that
+context encourages the Secretary-General to continue to use armed security services
+from private security companies as an exceptional measure and a last resort;
+15. Requests the Secretary-General to continue to take all appropriate
+measures to ensure that, when using security and protection services from private
+security companies, the selected companies operate in accordance with the national
+legislation of the host country and the Charter of the United Nations and fully abide
+by the relevant principles and rules of international human rights law, international
+humanitarian law and international criminal law;
+16. Recalls paragraph 25 of the report of the Advisory Committee,20 and
+acknowledges that the policy implications of the use of private security companies by
+the United Nations may raise substantive and legal issues that may be of interest to
+9/12
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+other Committees of the General Assembly, in addition to the Fifth Committee, and
+in that regard requests the Secretary-General, in consultation with the relevant
+substantive bodies, to present a proposal for ensuring that such substantive and legal
+issues are duly addressed by the relevant expert or intergovernmental bodies, as
+appropriate, in the relevant reports to the Assembly;
+17. Requests the Secretary-General to provide clarification on the operational
+criteria for when the use of armed security services from private security companies
+could be appropriate for United Nations operations at Headquarters and field
+locations and to report thereon in the relevant reports to the General Assembly;
+Programme criticality
+18. Recalls paragraph 14 of the report of the Advisory Committee,19 and
+requests the Secretary-General, in his capacity as Chair of the United Nations
+System Chief Executives Board for Coordination, to submit for consideration and
+approval at the sixty-ninth session of the General Assembly, a report containing the
+final conclusions of the High-level Working Group on Programme Criticality;
+19. Acknowledges the programme criticality framework as an instrument to
+assist managers in the field to take time-sensitive decisions to prioritize programme
+activities in specific locations in response to changes in local security conditions;
+20. Recalls paragraph 7 of the report of the Advisory Committee,19 and
+emphasizes that the programme criticality framework shall not affect
+intergovernmental oversight and accountability to the legislative bodies;
+21. Also recalls paragraph 13 of the report of the Advisory Committee,19 and
+requests the Secretary-General to ensure coherence and consistency between the
+proposed programme criticality framework and other related initiatives of the
+Secretary-General and to report thereon in the relevant reports;
+VI
+Standards of accommodation for air travel
+Recalling its resolution 42/214 of 21 December 1987, section IV, paragraph 14,
+of its resolution 53/214 of 18 December 1998, section IV of its resolution 60/255 of
+8 May 2006, section XV of its resolution 62/238 of 22 December 2007, section II of
+its resolution 63/268 of 7 April 2009 and section IV of its resolution 65/268 of 4 April
+2011, as well as its decisions 57/589 of 18 June 2003 and 66/556 B,
+Having considered the reports of the Secretary-General on proposals for a
+more effective and efficient utilization of resources for air travel 21 and on standards
+of accommodation for air travel 22 and the report of the Office of Internal Oversight
+Services on the comprehensive audit of all air travel activities and related practices, 23
+as well as the related reports of the Advisory Committee, 24, 25
+1.
+
+Takes note of the reports of the Secretary-General;21,22
+
+_______________
+21
+
+A/66/676.
+A/67/356.
+23
+A/67/695.
+24
+A/66/739.
+25
+A/67/636.
+22
+
+10/12
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+A/RES/67/254
+
+2.
+Endorses the conclusions and recommendations contained in the reports
+of the Advisory Committee,24,25 subject to the provisions of the present resolution;
+3.
+Welcomes the report of the Office of Internal Oversight Services,23 and
+encourages the Secretary-General to implement all the recommendations contained
+therein and to report thereon to the General Assembly at its sixty-ninth session;
+Looks forward to the successful roll-out of Umoja in air travel business
+4.
+administration of the United Nations, and requests the Secretary-General to submit
+to the General Assembly, at the session immediately following the roll-out, a
+comprehensive report on the effects of implementation of Umoja in travel
+administration, including updated information, trends and analysis in all areas
+relating to air travel in the United Nations;
+Notes that the Secretary-General has not provided the information
+5.
+requested by the General Assembly in section IV, paragraph 13, of its resolution
+65/268, and stresses the importance of the provision of accurate, complete and
+comprehensible data as the basis for sound management and effective oversight of
+all costs relating to air travel;
+Requests the Secretary-General to report to the General Assembly at the
+6.
+beginning of the main part of its sixty-eighth session on the projected total
+expenditure on air travel under the regular budget, by budget section, including
+payments under lump-sum schemes, for the biennium 2012–2013, with
+corresponding data for the bienniums 2010–2011 and 2008–2009;
+Recalls paragraph 2 (e) of the annex to resolution 65/268, and requests
+7.
+the Secretary-General to continue to monitor industry best practices in the area of
+frequent flyer miles and to report to the General Assembly on any new trend that
+could be utilized to make use of frequent flyer miles to improve the administration
+of travel;
+Recognizes the efforts by the Secretary-General in initiating the 16-day
+8.
+advanced booking of tickets, requests him to make every effort to reduce shortnotice travel and to ensure that trips are booked as much in advance of the travel
+date as possible, and also requests him to ensure that all managers in charge of air
+travel administration, including those in the peacekeeping missions, are informed of
+and comply with such provision;
+Requests the Secretary-General to keep the option of full online booking
+9.
+under review in the context of the implementation of Umoja and to report thereon to
+the General Assembly;
+10. Recalls recommendation 17 contained in the report of the Office of
+Internal Oversight Services,23 and requests the Secretary-General to strictly abide by
+the rules and procedures governing the procurement process in the United Nations
+system;
+11. Recognizes recent efforts by the Secretary-General to use alternative
+methods of procurement, which resulted in a reduction in costs in 2012, and
+requests him to further explore other possible options for the procurement of air
+travel services, taking into account the experiences of other organizations;
+12. Requests the Secretary-General to maintain the use of preferred carrier
+arrangements offering competitive rates;
+13. Decides that, for official travellers below the level of Assistant SecretaryGeneral, the standard of accommodation for air travel will be business class if a
+11/12
+
+A/RES/67/254
+
+Special subjects relating to the programme budget for the biennium 2012–2013
+
+single-leg journey is 9 hours or more and will be business class for a multi-leg
+journey if the combined travel time of the journey is 11 hours or more, including a
+maximum of 2 hours of connection time, provided that the journey to the next
+destination resumes within 12 hours;
+14. Requests the Secretary-General to modify his administrative instructions
+on standards of accommodation for air travel so that the duration of a journey shall
+be determined based on the most economical route available, provided that the total
+additional time of the whole journey does not exceed the most direct route by four
+hours;
+15. Decides that the Secretary-General shall, as an interim measure pending
+the outcome of the review to be concluded in 2015, revise the provision for
+determining the travel-related lump-sum payment to 70 per cent of the least
+restrictive economy class fare, and requests the Secretary-General to include, in his
+report on the standards of accommodation of air travel to be submitted to the
+General Assembly at its sixty-ninth session, an analysis of the impact of the
+implementation of this provision and to make further proposals on modifying the
+lump-sum scheme;
+16. Notes the increasing frequency and costs of exceptions to the standards
+of accommodation for air travel, and requests the Secretary-General to take action to
+limit the use of exceptions, to conduct an analysis of the trends in the use of
+exceptions and to present proposals for enhancing controls in this area no later than
+the sixty-ninth session of the General Assembly;
+17. Requests the Secretary-General to review the use of exceptions for the
+category of prominent persons and to report thereon in the context of the report
+requested in paragraph 16 above;
+18. Recalls paragraph 27 of the report of the Advisory Committee,24 and in
+that regard requests the Secretary-General to clarify any proposals to encourage other
+modes of transportation;
+19.
+
+Also recalls section IV, paragraph 4, of its resolution 65/268;
+
+20. Decides that the changes set out in the present resolution shall not affect
+the current standards of accommodation for air travel and daily subsistence
+allowance of members of organs and/or subsidiary organs, committees, councils and
+commissions of the United Nations.
+73rd plenary meeting
+12 April 2013
+
+12/12

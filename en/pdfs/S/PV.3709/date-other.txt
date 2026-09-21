@@ -1,0 +1,3 @@
+1996-11-06
+rule: any
+raw: 6 November 1996

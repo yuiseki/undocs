@@ -1,0 +1,3 @@
+1998-11-16
+rule: distr
+raw: 16 November 1998

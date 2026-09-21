@@ -1,0 +1,3 @@
+1946-09-10
+rule: any
+raw: 10 September 1946

@@ -1,0 +1,3 @@
+2002-08-14
+rule: any
+raw: 14 August 2002

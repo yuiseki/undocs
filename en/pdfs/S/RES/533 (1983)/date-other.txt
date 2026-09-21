@@ -1,0 +1,3 @@
+1982-10-04
+rule: any
+raw: 4 October 1982

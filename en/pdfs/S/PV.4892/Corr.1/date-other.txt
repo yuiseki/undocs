@@ -1,0 +1,3 @@
+2004-01-12
+rule: any
+raw: 12 January 2004
