@@ -19,3 +19,9 @@ __pycache__/
 */pdfs/**/*.pdf
 
 data/fetch.lock
+
+# The collected table is a rebuild of the text beside each PDF, not a source.
+# build_jsonl.py reproduces it in about thirty seconds, and at 1.2 GB for
+# English alone it would double the repository for nothing. It is the published
+# form and lives on the Hub.
+data/resolutions.jsonl
